@@ -1,6 +1,6 @@
 import re
 
-from IndexSortInAscending import new_index_sort_in_ascending
+from generalHelperFunctions import index_sort_in_ascending
 
 # from textLength import text_length_checker
 
@@ -30,16 +30,17 @@ def format_date(input_date, text):
     match = re.search(regex, input_date, re.IGNORECASE)
     # print(f"the extracted date String is: {match}")
     if not match:
-        start_index = new_index_sort_in_ascending(courts, text)
+        start_index = index_sort_in_ascending(courts, text)
         # end_index = text.find("LEX")
-        end_index = re.search(r"LEX\s.*\d+\b", text)
+        end_date_regexes = [r"LEX\s.*\d+\b"]
+        end_index = index_sort_in_ascending(end_date_regexes, text)
         if end_index == None:
             end_index = -1
         extracted_date = text[
-            getattr(start_index["pickedIndex"], "end", lambda: -1)()
+            start_index["end"]
             # start_index["pickedIndex"].end()
             # + text_length_checker(re.search(start_index["regexPicked"], text).group())
-            or 4 : getattr(end_index, "start", lambda: -1)()
+            or 4 : end_index["pickedIndex"]
         ]
         if extracted_date:
             input_date = extracted_date

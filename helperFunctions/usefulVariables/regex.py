@@ -1,7 +1,8 @@
+Lex_citation_regex = r"LEX\s?.*\d\w?"
 courtsTypes = [
-    r"SUPREME COURT",
-    # r"IN THE SUPREME COURT OF NIGERIA",
+    r"SUPREME COURT OF NIGERIA",
     r"FEDERAL SUPREME COURT",
+    r"SUPREME COURT",
     r"COURT OF APPEAL",
     # r"Court of Appeal",
     r"FEDERAL HIGH COURT",
@@ -20,4 +21,25 @@ courtsTypes = [
     r"PRIVY COUNCIL",
     r"WACA",
     r"CHANCERY",
+]
+
+courts = [
+    "SUPREME COURT",
+    "FEDERAL SUPREME COURT",
+    "COURT OF APPEAL",
+    "Court of Appeal",
+    "FEDERAL HIGH COURT",
+    "HIGH COURT",
+    "COURT OF APPEAL, CIVIL DIVISION",
+    "QUEEN'S BENCH",
+    "QUEEN'S BENCH DIVISION",
+    "APPEAL COURT DIVISION",
+    "KING'S BENCH DIVISION",
+    "KINGS COUNCIL",
+    "APPEAL COURT",
+    "HOUSE OF LORDS",
+    "DIVISIONAL COURT",
+    "PRIVY COUNCIL",
+    "WACA",
+    "CHANCERY",
 ]

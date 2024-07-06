@@ -7,7 +7,7 @@ def create_key_and_value(key, data_array, metadata):
             metadata[f"{key}_{index}"] = value
 
 
-def new_index_sort_in_ascending(regexes, text, first_index=0):
+def index_sort_in_ascending(regexes, text, first_index=0):
     # List to hold all matching indexes
     indexes_array = []
     regex_array = []

@@ -3,6 +3,12 @@ import re
 from datetime import datetime
 
 from convertToASCII import to_ascii
+from ExtractorFunctions import (
+    court_extraction,
+    parties_extractor,
+    suit_number_extraction,
+    year_of_judgement,
+)
 from formatDate import formatDate
 from generalHelperFunctions import create_key_and_value
 
@@ -44,87 +50,15 @@ async def MetadataProcessor(doc_path, text):
     )
 
     # PARTIES EXTRACTION
-    PstartIndex = re.search(r"(?:BETWEEN)(?::)?", to_ascii(text))
-
-    regexes = [
-        r"BEFORE THEIR LORDSHIP",
-        r"ORIGINATING COURT",
-        r"ORIGINATING",
-        r"REPRESENTATION",
-        r"REPRESENTATIVE",
-        r"\bISSUE.+ OF ACTION\b",
-        r"Solicitor",
-    ]
-
-    resolvedPIndex = -1
-    if PstartIndex:
-        resolvedPIndex = NewindexSortInAscending(regexes, text, PstartIndex.start())
-    else:
-        indexes = [
-            r"IN THE ",
-            r"COURT OF APPEAL",
-            r"SUPREME COURT",
-            r"PRIVY COUNCIL",
-            r"HOUSE OF LORDS",
-            r"HOUSE OF L\w+DS?",
-            r"REPRESENTATION",
-        ]
-        resolvedPIndex = NewindexSortInAscending(indexes, text, PstartIndex.start())
-
-    if PstartIndex:
-        PtextFromIndex = text[PstartIndex.start() + 7 : resolvedPIndex.pickedIndex]
-        partiesRegex = r"\b[A-Z][A-Z .-]+\b"
-        partiesMatch = re.findall(partiesRegex, PtextFromIndex)
-        ex = [item.strip() for item in partiesMatch]
-
-        if PstartIndex == -1:
-            regex = r"\b[A-Z]+.{3,}[A-Z]\b"
-            partiesMatch = re.findall(regex, PtextFromIndex)
-            create_key_and_value("parties_0", [partiesMatch[0]], metadata)
-            create_key_and_value("parties_1", [partiesMatch[1]], metadata)
-        else:
-            app = ex[: ex.index("AND")]
-            res = ex[ex.index("AND") + 1 :]
-            create_key_and_value("parties_0", app, metadata)
-            create_key_and_value("parties_1", res, metadata)
-
+    parties_extractor(text, metadata)
     # Extract COURT
-    LexCitationRegex = r"LEX\s?.*\d\w?"
-    courtsIndexes = [LexCitationRegex, r"(OTHER )?CITATIONS?"]
-    CourtEndIndex = NewindexSortInAscending(courtsIndexes, text)
-    extractedCourt = text[: CourtEndIndex.pickedIndex]
-    PickedCourt = []
-
-    for regex in RegexVariable.courtsTypes:
-        court = re.search(regex, extractedCourt)
-        if court:
-            PickedCourt = court.group()
-            break
-    metadata["court"] = (
-        PickedCourt
-        if PickedCourt
-        else next((court for court in courts if court in text), "")
-    )
+    court_extraction(text, metadata)
 
     # Extract DATE and YEAR
-    datesRegex = r"\b\d+(TH|ST|ND|RD)?.+(JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER).+\d{4}\b"
-    datesMatches = re.search(datesRegex, text)
-    dateString = datesMatches.group() if datesMatches else ""
-    completeDate = formatDate(dateString, text)
-    year = completeDate.split("-")[2] if "-" in completeDate else "No Year"
-    metadata["date"] = completeDate
-    metadata["year"] = year
+    year_of_judgement(text, metadata)
 
     # SUIT NUMBER EXTRACTION
-    regexesForSuitNoStop = [LexCitationRegex, r"(OTHER )?CITATIONS?", r"BEFORE"]
-    SuitNoEndIndex = NewindexSortInAscending(regexesForSuitNoStop, text)
-    extractedSuitNoText = text[: SuitNoEndIndex.pickedIndex]
-    suitNumberRegex = (
-        r"(M\/|CA|SC|S.C|HD\/|LD\/|(\(\d+\)))[.\/\w\s-]+\d\w?\b|^\[\d+\].+"
-    )
-    suitNumberMatch = re.search(suitNumberRegex, extractedSuitNoText)
-    metadata["suit_number"] = suitNumberMatch.group() if suitNumberMatch else ""
-
+    suit_number_extraction(text, metadata)
     # Extract Citation
     citationMatch = re.search(LexCitationRegex, text)
     metadata["lex_citation"] = citationMatch.group() if citationMatch else ""
