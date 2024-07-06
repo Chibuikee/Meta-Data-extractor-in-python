@@ -1,0 +1,23 @@
+courtsTypes = [
+    r"SUPREME COURT",
+    # r"IN THE SUPREME COURT OF NIGERIA",
+    r"FEDERAL SUPREME COURT",
+    r"COURT OF APPEAL",
+    # r"Court of Appeal",
+    r"FEDERAL HIGH COURT",
+    r"HIGH COURT",
+    r"QUEEN'S BENCH",
+    r"QUE.+ BENCH DIVISION",
+    r"APPEAL COURT DIVISION",
+    r"KING'S BENCH DIVISION",
+    r"KINGS COUNCIL",
+    r"APPEAL COURT",
+    r"\bPROBATE.+ DIVISION\b",
+    # r"HOUSE OF LORDS",
+    # used because of potential spelling errors
+    r"HOUSE OF L\w+DS?",
+    r"DIVISIONAL COURT",
+    r"PRIVY COUNCIL",
+    r"WACA",
+    r"CHANCERY",
+]
