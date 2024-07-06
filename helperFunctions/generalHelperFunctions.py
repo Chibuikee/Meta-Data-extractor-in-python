@@ -18,7 +18,7 @@ def new_index_sort_in_ascending(regexes, text, first_index=0):
         if match:
             index = match.start()
             indexes_array.append(index)
-            regex_array.append((index, regex))
+            regex_array.append((index, regex, match.end()))
 
     # Sort the list of indexes in ascending order
     sorted_indexes = sorted(indexes_array)
@@ -31,21 +31,23 @@ def new_index_sort_in_ascending(regexes, text, first_index=0):
         )
 
     regex_picked = None
+    end_Index = None
     for item in regex_array:
         if item[0] == picked_index:
             regex_picked = item[1]
+            end_Index = item[2]
             break
 
     # Return the picked index or -1 if no valid index is found
     if picked_index is not None:
         return {
             "pickedIndex": picked_index,
-            "start": picked_index.start(),
-            "end": picked_index.end(),
+            # "start": picked_index.start(),
+            "end": end_Index,
             "regexPicked": regex_picked,
         }
     else:
-        return {"pickedIndex": -1, "regexPicked": None}
+        return {"pickedIndex": -1, "end": None, "regexPicked": None}
 
 
 # import re

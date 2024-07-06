@@ -23,7 +23,7 @@ def parties_extractor(text, metadata={}):
     resolvedPIndex = -1
     if PstartIndex:
         resolvedPIndex = new_index_sort_in_ascending(regexes, text, PstartIndex.start())
-        print(f"first: {resolvedPIndex}")
+        # print(f"first: {resolvedPIndex}")
     else:
         indexes = [
             r"IN THE ",
@@ -35,9 +35,10 @@ def parties_extractor(text, metadata={}):
             r"REPRESENTATION",
         ]
         resolvedPIndex = new_index_sort_in_ascending(indexes, text, PstartIndex.start())
-
+    print(f"text now in: {resolvedPIndex}")
     if PstartIndex:
-        PtextFromIndex = text[PstartIndex.start() + 7 : resolvedPIndex.pickedIndex]
+        PtextFromIndex = text[PstartIndex.end : resolvedPIndex.start]
+        print(f"text now in: {PtextFromIndex}")
         partiesRegex = r"\b[A-Z][A-Z .-]+\b"
         partiesMatch = re.findall(partiesRegex, PtextFromIndex)
         ex = [item.strip() for item in partiesMatch]
