@@ -7,12 +7,14 @@ from .generalHelperFunctions import (
     index_sort_in_ascending,
     to_ascii,
 )
+from .logger import loggerToFile
 from .usefulVariables.regex import Lex_citation_regex, courts, courtsTypes
 
 
 def parties_extractor(text, metadata={}):
     try:
-        PstartIndex = re.search(r"(?:BETWEEN)(?::)?", to_ascii(text))
+        PstartIndex = re.search(r"(?:BETWEEN)(?::)?", text)
+        # PstartIndex = re.search(r"(?:BETWEEN)(?::)?", to_ascii(text))
         # print(f"first: {PstartIndex}")
         regexes = [
             r"BEFORE THEIR LORDSHIP",
@@ -46,7 +48,8 @@ def parties_extractor(text, metadata={}):
         PtextFromIndex = text[
             getattr(PstartIndex, "end", lambda: 0)() : resolvedPIndex["pickedIndex"]
         ]
-        # print(f"text now in: {PtextFromIndex}")
+        # loggerToFile(PtextFromIndex)
+        # print(f"text now in : {PtextFromIndex}")
         partiesRegex = r"\b[A-Z][A-Z .-]+\b"
         partiesMatch = re.findall(partiesRegex, PtextFromIndex)
         # print(f"text now in: {partiesMatch}")
@@ -55,9 +58,14 @@ def parties_extractor(text, metadata={}):
         if PstartIndex is None:
             regex = r"\b[A-Z]+.{3,}[A-Z]\b"
             partiesMatch = re.findall(regex, PtextFromIndex)
-            # print(f"where the start index not found:{partiesMatch}")
-            create_key_and_value("parties_0", [partiesMatch[0]], metadata)
-            create_key_and_value("parties_1", [partiesMatch[1]], metadata)
+            parties_array = partiesMatch[0].split()
+
+            filtered_parties = [
+                i for i in parties_array if i not in ["V", "V.", "v", "v."]
+            ]
+            print(f"Parties filtered:{filtered_parties}")
+            create_key_and_value("parties_0", [filtered_parties[0]], metadata)
+            create_key_and_value("parties_1", [filtered_parties[1]], metadata)
         else:
             app = ex[: ex.index("AND")]
             res = ex[ex.index("AND") + 1 :]
