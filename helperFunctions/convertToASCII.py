@@ -1,6 +1,9 @@
 # import re
 import unicodedata
 
+# some charcters differ hence the need
+# to correct them before searching them hence creating this function
+
 
 def to_ascii(text):
 

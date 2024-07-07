@@ -5,6 +5,7 @@ import win32com.client
 
 # from helperFunctions.metadataExtractor import MetadataProcessor
 from helperFunctions.docxTypeExtractor import doc_files_extractor
+from helperFunctions.metadataExtractor import MetadataProcessor
 
 # from helperFunctions.docTypeExtractor import docFilesExtractor
 # from helperFunctions.logSaver import logSaver
@@ -41,13 +42,13 @@ async def process_documents(input_dir, output_dir):
 
             if file.endswith(".docx") or file.endswith(".doc"):
                 try:
-                    print(f"this is it{doc_path}")
+                    print(f"Script running for: {file}")
 
-                    file_text = await doc_files_extractor(doc_path, file)
-                    # metadata = await MetadataProcessor(doc_path, file_text)
-                    # save_metadata_as_json(metadata, output_dir)
-                    print("i am waiting", len(file_text.split("\n")))
-                    print(f"Metadata extracted and saved for: {file}")
+                    file_text = await doc_files_extractor(doc_path, file, word)
+                    metadata = await MetadataProcessor(doc_path, file_text)
+                    save_metadata_as_json(metadata, output_dir)
+                    # print("i am waiting", len(file_text.split("\n")))
+                    # print(f"Metadata extracted and saved for: {file}")
                 except Exception as err:
                     print(f"Error processing {file}: {err}")
 
@@ -55,6 +56,9 @@ async def process_documents(input_dir, output_dir):
                 print(f"File type NOT FOUND FOR {file}")
     except Exception as err:
         print(f"Check Error at main.py try block {err}")
+
+    finally:
+        word.Quit()
 
 
 # Input and output paths

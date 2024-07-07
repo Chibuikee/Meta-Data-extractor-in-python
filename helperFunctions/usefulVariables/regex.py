@@ -26,6 +26,7 @@ courtsTypes = [
 courts = [
     "SUPREME COURT",
     "FEDERAL SUPREME COURT",
+    "HOUSE OF LORDS",
     "COURT OF APPEAL",
     "Court of Appeal",
     "FEDERAL HIGH COURT",
@@ -37,9 +38,18 @@ courts = [
     "KING'S BENCH DIVISION",
     "KINGS COUNCIL",
     "APPEAL COURT",
-    "HOUSE OF LORDS",
     "DIVISIONAL COURT",
     "PRIVY COUNCIL",
     "WACA",
     "CHANCERY",
+]
+
+
+apex_courts = [
+    "SUPREME COURT OF NIGERIA",
+    "SUPREME COURT",
+    "FEDERAL SUPREME COURT",
+    "HOUSE OF LORDS",
+    "PRIVY COUNCIL",
+    "WACA",
 ]

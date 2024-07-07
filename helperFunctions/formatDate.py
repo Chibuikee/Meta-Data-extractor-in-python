@@ -1,6 +1,6 @@
 import re
 
-from generalHelperFunctions import index_sort_in_ascending
+from .generalHelperFunctions import index_sort_in_ascending
 
 # from textLength import text_length_checker
 

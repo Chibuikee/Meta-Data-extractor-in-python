@@ -1,17 +1,23 @@
 import re
 
-from extractMetaDataFromNestedTuples import extract_regex_match
+from .extractMetaDataFromNestedTuples import extract_regex_match
 
 
 def filtered_and_refined_words(
-    sliced_text, array_of_words_to_remove, regex_for_words_first_deleted, regex_applied
+    sliced_text,
+    array_of_words_to_remove,
+    regex_applied,
+    regex_for_words_first_deleted=None,
+    # delete_words=False,
 ):
     # Apply the first regex
     # replacing unwanted words with "" resulted in 'PATRICK A DEVLIN    .\nG ST CLAIR PILCHER KC'
     # so replace with ","
-    result = re.sub(
-        regex_for_words_first_deleted, ",", sliced_text, flags=re.IGNORECASE
-    )
+    result = sliced_text
+    if regex_for_words_first_deleted:
+        result = re.sub(
+            regex_for_words_first_deleted, ",", sliced_text, flags=re.IGNORECASE
+        )
     # print(f"words to removed{result}")
     # Convert words to remove to lowercase
     r_word = [item.lower() for item in array_of_words_to_remove]

@@ -18,7 +18,8 @@ async def quick_metadata_processor(json_data, doc_path, text):
     # print(f"hey{newtext}")
     # Extract Citation
     # The character U+2013 "–" could be confused with the ASCII character U+002d "-", which is more common in source code
-    citation_regex = r"LEX\s.*?-.*?\d+\b"
+    citation_regex = r"LEX\s.*?(-|–).*?\d+\b"
+    # citation_regex = r"LEX\s.*?-.*?\d+\b"
     # text = """MORGAN
     # V
     # SMALLY
