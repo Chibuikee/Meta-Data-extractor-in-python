@@ -26,7 +26,10 @@ def extract_doc(file_path, word):
         content = doc.Content.text
         # print(f"check out windows: {Content}")
         doc.Close(False)
-        return content
+        # this contains old formating, which causes bugs such as
+        # absence of \n and presence of \r etc
+        return content.replace("\r\n", "\n").replace("\r", "\n")
+        # return content
     except Exception as err:
         print(f"Error processing {file_path}: {err}")
         return None

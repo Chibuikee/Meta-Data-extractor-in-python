@@ -12,11 +12,12 @@ def filtered_and_refined_words(
 ):
     # Apply the first regex
     # replacing unwanted words with "" resulted in 'PATRICK A DEVLIN    .\nG ST CLAIR PILCHER KC'
-    # so replace with ","
+    # using "," result extra comma like in 'MUHAMMADU LAWAL UWAIS, CJN , '
+    # so replace with "."
     result = sliced_text
     if regex_for_words_first_deleted:
         result = re.sub(
-            regex_for_words_first_deleted, ",", sliced_text, flags=re.IGNORECASE
+            regex_for_words_first_deleted, ".", sliced_text, flags=re.IGNORECASE
         )
     # print(f"words to removed{result}")
     # Convert words to remove to lowercase
@@ -34,22 +35,22 @@ def filtered_and_refined_words(
 
 
 #  USAGE OF THE ABOVE FUNCTION
-text = """
-Solicitor for appellant: A. L. BRYDEN.
-Solicitors for respondent: ASHURST, MORRIS, CRISP & CO.
-ROBERT ASKE KC and PATRICK A DEVLIN (for A A MOCATTA on war service) for the Appellants.
-G ST CLAIR PILCHER KC and H G ROBERTSON (for CHARLES STEVENSON on war service) for the Respondents.
-Solicitor for appellant: A. L. BRYDEN. Solicitors for respondent: ASHURST, MORRIS, CRISP & CO. ROBERT ASKE KC and PATRICK A DEVLIN (for A A MOCATTA on war service) for the Appellants. G ST CLAIR PILCHER KC and H G ROBERTSON (for CHARLES STEVENSON on war service) for the Respondents. Solicitors:  HOLMAN FENWICK & WILLAN  -for the Appellants  PARKER GARRETT & CO - for the Respondents C St J NICHOLSON Esq - Barrister   PICKFORD, WARRINGTON, and SCRUTTON L.JJ.
-The claimant appeared in person.
-JEREMY CAREY (instructed by TAYLOR WALTON, LUTON) for the defendant.
-IAN DENHAM Barrister
-"""
-ArrayOfwordsToRemove = ["Esq", "Counsel"]
+# text = """
+# Solicitor for appellant: A. L. BRYDEN.
+# Solicitors for respondent: ASHURST, MORRIS, CRISP & CO.
+# ROBERT ASKE KC and PATRICK A DEVLIN (for A A MOCATTA on war service) for the Appellants.
+# G ST CLAIR PILCHER KC and H G ROBERTSON (for CHARLES STEVENSON on war service) for the Respondents.
+# Solicitor for appellant: A. L. BRYDEN. Solicitors for respondent: ASHURST, MORRIS, CRISP & CO. ROBERT ASKE KC and PATRICK A DEVLIN (for A A MOCATTA on war service) for the Appellants. G ST CLAIR PILCHER KC and H G ROBERTSON (for CHARLES STEVENSON on war service) for the Respondents. Solicitors:  HOLMAN FENWICK & WILLAN  -for the Appellants  PARKER GARRETT & CO - for the Respondents C St J NICHOLSON Esq - Barrister   PICKFORD, WARRINGTON, and SCRUTTON L.JJ.
+# The claimant appeared in person.
+# JEREMY CAREY (instructed by TAYLOR WALTON, LUTON) for the defendant.
+# IAN DENHAM Barrister
+# """
+# ArrayOfwordsToRemove = ["Esq", "Counsel"]
 
-#  this is to remove certain words from the extracted text before matching it
-regexForWordsFirstDeleted = r"\([^()]*\)|solicitors?|Barrister?|respondents?|\bfor\b|\bthe\b|Appellants?|\bwith\b|Representations?"
+# #  this is to remove certain words from the extracted text before matching it
+# regexForWordsFirstDeleted = r"\([^()]*\)|solicitors?|Barrister?|respondents?|\bfor\b|\bthe\b|Appellants?|\bwith\b|Representations?"
 
-regexApplied = r"\b[A-Z\s]*&[\sA-Z]+\b|\b([A-Z]\.\s?){0,4}([A-Z][a-z\s-]+)*([A-Z][a-z]+)(, (Esq|SAN|S.A.N))?\b|(\b[A-Z][A-Z.\s]+ [A-Z-.]+\b)|\b[A-Z]{4,}"
+# regexApplied = r"\b[A-Z\s]*&[\sA-Z]+\b|\b([A-Z]\.\s?){0,4}([A-Z][a-z\s-]+)*([A-Z][a-z]+)(, (Esq|SAN|S.A.N))?\b|(\b[A-Z][A-Z.\s]+ [A-Z-.]+\b)|\b[A-Z]{4,}"
 
 # print(
 #     filtered_and_refined_words(

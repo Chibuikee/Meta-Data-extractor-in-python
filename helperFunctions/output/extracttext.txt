@@ -1,1 +1,24 @@
-MORGAN V SMALLY
+ 
+BANKING AND FINANCE - BANKER-CUSTOMER RELATIONS:- Privity of contract - Current account which ownership status has evolved from individual, to partnership and then to incorporated company - Where certificate of incorporation not deposited with bank - Implication for privity of contract over the account 
+BANKING AND FINANCE - BANKER-CUSTOMER RELATIONS: Privity of contract - Whether exists between sole signatory of account of incorporated company and bank - Where customer failed to deposit certificate of incorporation with the bank - Whether ground to deny signatory competence to institute the action in the name of the company 
+BANKING AND FINANCE LAW:- BANKER-CUSTOMER RELATIONS - Where based on a current account - Nature of relationship - Whether in contract or trust - Privity of contract - Privity of contract as to a bank account held by an agent - Whether extends to disclosed principal of agent 
+BANKING AND FINANCE LAW:- Contract arising out of a bank account or banking transaction - Consideration for same - Whether can be satisfied by proof of charges which the bank was bound to charge at the end of the transaction
+COMMERCIAL LAW - AGENCY:- Banker-customer relations - Disclosed agent of an account holder - Nature of agency created - Implications for existence of privity of contract between bank and disclosed principal
+COMPANY LAW - INCORPORATION:- Rights arising therefrom - Competence to bring an action - Whether must in all cases be proved - Registered business name - Proper way of bringing an action related thereto
+COMPANY LAW - PRE-INCORPORATION CONTRACTS: Rule that a limited liability company is entitled to the benefit of all the pre incorporation contracts entered into by its human agents before it was incorporated - Bank account held by a pre-incorporation agent of an incorporated entity for its benefit - Right of action of incorporated entity over same 
+COMPANY LAW (DISSENTING JUDGMENT):- Juristic personality - Proof of - Necessity of in maintaining a suit by or against an asserted juristic personality - Failure thereto - Implication for competency of suit and jurisdiction of court 
+TORT AND PERSONAL INJURY:- When relationship between bank and customer can create a trust in favour of customer - When right of action for damages for breach of trust would arise against a bank 
+
+PRACTICE AND PROCEDURE ISSUES
+ACTION:- Misnormer - Meaning and nature of - Where the proper party is not before the court - Nature of misnormer that can vitiate proceedings - How cured - Whether an application can be made to correct same - Evidence that both parties are ad idem as to the identity of the party suing- Effect - Duty of court thereto 
+ACTION:- Competence to bring an action - Party bringing an action as a duly incorporated limited liability company - Whether needs to prove status through evidence of certificate of incorporation - Failure to do so - Whether can be cured by admission of the opposing party 
+ACTION:- Right of action - Whether only maintainable by a legal or juristic person - Onus for proving status of a juristic person derived from incorporation - On whom lies - Whether a sine qua non for competency of the action - How proved - Whether only by the production of its certificate of incorporation - Whether an admission suffices 
+APPEAL:- Issue for determination - formulation of in a brief - Need for same to arise and be founded on a ground or grounds of appeal filed - Whether parties to an appeal will not be allowed to argue any issue not covered by the grounds of appeal - Effect 
+APPEAL: Issues for determination - Splitting of ground of appeal into more than one issue for determination - Validity - Whether a ground or more grounds of appeal may be related to an issue and argued together but a ground of appeal may not be framed into several issues and canvassed separately
+APPEAL:- Omnibus ground of appeal - Where relates to examination or review of quantum of damages - Validity 
+APPEAL:- Ground of appeal - Ground relating to quantum of damages - Whether quantum of damages can only be questioned by a ground of law and not of fact
+EVIDENCE: Evidence that was not pleaded - How treated by court 
+EVIDENCE: Presumptions - Presumption of law that the record of proceedings in a case is deemed to be correct - Duty of appellate court where there has been no application to rectify any inaccuracy in it 
+JURISDICTION: Action initiated by a juristic person whose incorporation was unproven by evidence of the incorporation certificate - Whether invalidates competence of the court to entertain the action 
+WORDS AND PHRASES: "Misnomer" - Meaning of 
+

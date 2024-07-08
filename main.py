@@ -25,6 +25,7 @@ def save_metadata_as_json(metadata, output_dir):
 
     with open(output_filename, "w", encoding="utf-8") as file:
         json.dump(json_data, file, ensure_ascii=False, indent=4)
+    print(f"Meta data saved for {metadata["doc_id"]}")
 
 
 # Function to process documents in a directory
@@ -42,7 +43,7 @@ async def process_documents(input_dir, output_dir):
 
             if file.endswith(".docx") or file.endswith(".doc"):
                 try:
-                    print(f"Script running for: {file}")
+                    # print(f"Script running for: {file}")
 
                     file_text = await doc_files_extractor(doc_path, file, word)
                     metadata = await MetadataProcessor(doc_path, file_text)

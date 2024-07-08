@@ -1,4 +1,12 @@
 import re
+import unicodedata
+
+
+def flatten_a_2D_list(list):
+    flat_list = []
+    for row in list:
+        flat_list.extend(row)
+    return flat_list
 
 
 def create_key_and_value(key, data_array, metadata):
@@ -47,11 +55,7 @@ def index_sort_in_ascending(regexes, text, first_index=0):
             "regexPicked": regex_picked,
         }
     else:
-        return {"pickedIndex": -1, "end": None, "regexPicked": None}
-
-
-# import re
-import unicodedata
+        return {"pickedIndex": None, "end": None, "regexPicked": None}
 
 
 def to_ascii(text):
@@ -59,6 +63,7 @@ def to_ascii(text):
     # Additional replacements for common characters
     replacements = {
         "–": "-",  # en dash
+        # "–": "-",  # en dash
         "—": "-",  # em dash
         '"': '"',  # curly double quote left
         '"': '"',  # curly double quote right
@@ -69,6 +74,8 @@ def to_ascii(text):
         "©": "(c)",  # copyright sign
         "®": "(R)",  # registered trademark sign
         "™": "(TM)",  # trademark sign
+        "“": '"',
+        "”": '"',
     }
 
     # First, replace known characters

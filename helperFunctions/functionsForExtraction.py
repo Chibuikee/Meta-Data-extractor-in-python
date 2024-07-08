@@ -58,12 +58,17 @@ def parties_extractor(text, metadata={}):
         if PstartIndex is None:
             regex = r"\b[A-Z]+.{3,}[A-Z]\b"
             partiesMatch = re.findall(regex, PtextFromIndex)
-            parties_array = partiesMatch[0].split()
-
+            # print(f"parties: {partiesMatch}")
+            # used split because when \r or
+            # other old word formating is present it returns
+            # a single string  ['ACB PLC \rV. \rEMOSTRADE LTD']
+            # e.g ['MORGAN \rV \rSMALLY']
+            # parties_array = partiesMatch[0].split()
+            # I stopped using split because the text is now well formatted
             filtered_parties = [
-                i for i in parties_array if i not in ["V", "V.", "v", "v."]
+                i for i in partiesMatch if i not in ["V", "V.", "v", "v."]
             ]
-            print(f"Parties filtered:{filtered_parties}")
+            # print(f"Parties filtered:{filtered_parties}")
             create_key_and_value("parties_0", [filtered_parties[0]], metadata)
             create_key_and_value("parties_1", [filtered_parties[1]], metadata)
         else:
@@ -190,12 +195,17 @@ def other_citations_extraction(text, metadata={}):
         otherCittextFromIndex = text[
             otherCitstartIndex : resolvedOtherCitStop["pickedIndex"]
         ]
-        citeRegex = r"(?<=\n)\n*(.+)"
+        # print("text from citation:", otherCittextFromIndex)
+        citeRegex = r"\n*(.+)"
+        # stopped using this because it didn't match if it's only one citation
+        # citeRegex = r"(?<=\n+)\n*(.+)"
         # don't use this it results in
         # this error "look-behind requires fixed-width pattern"
         # citeRegex = r"(?<=\n+)(.+)"
         listOfCitations = re.findall(citeRegex, otherCittextFromIndex)
-        create_key_and_value("other_citations", listOfCitations, metadata)
+        cleaned_up_list = [i.strip() for i in listOfCitations if i is not None]
+        # print("list of other citations", cleaned_up_list)
+        create_key_and_value("other_citations", cleaned_up_list, metadata)
 
     except Exception as Err:
         print(f"Other citations extraction failed: {Err}")
@@ -205,8 +215,15 @@ def other_citations_extraction(text, metadata={}):
 
 def legal_representation_extraction(text, metadata={}):
     try:
-        startRegexRep = [r"REPRESENTATIONS?", r"REPRESENTATIVE", r"Solicitor"]
+        # dropped solicitor because the word solicitor can appear
+        # any where not necessarily at the begining
+        startRegexRep = [r"REPRESENTATIONS?", r"REPRESENTATIVE"]
+        # startRegexRep = [r"REPRESENTATIONS?", r"REPRESENTATIVE", r"Solicitor"]
         resolvedRepstart = index_sort_in_ascending(startRegexRep, text)
+        # print(f"resolved start: {resolvedRepstart}")
+        if not resolvedRepstart["pickedIndex"]:
+            metadata["representation"] = "Representation Not Found"
+            return
         regexreStopRep = [
             r"PRACTICE AND PROCEDURE ISSUES",
             r"\bISSUE.+ OF ACTIONS?\b",
@@ -221,6 +238,7 @@ def legal_representation_extraction(text, metadata={}):
         resolvedRepstop = index_sort_in_ascending(
             regexreStopRep, text, resolvedRepstart["pickedIndex"]
         )
+        # print("hey", resolvedRepstop)
         reptextFromIndex = "Representation Not Found"
         if resolvedRepstop["pickedIndex"]:
             reptextFromIndex = re.sub(
@@ -315,7 +333,10 @@ def judges_extraction(text, metadata={}):
             r"(\b[A-Z].+(SC|CA|S.C|C.A|N|J|LC)\b|\b(LORD|[A-Z]+).+[A-Z]{4,}\b)"
         )
         words_to_remove = ["cutText"]
-        allJudges = filtered_and_refined_words(cutText, words_to_remove, judgesRegex)
+        allJudges = filtered_and_refined_words(
+            cutText, words_to_remove, judgesRegex, r"\([^()]*\)"
+        )
+        # print(f"Judges: {allJudges}")
         # matches = re.findall(judgesRegex, cutText)
         # allJudges = [item.strip().split("\n")[0] for item in matches]
         create_key_and_value("judge", allJudges, metadata)
@@ -342,8 +363,14 @@ def areas_of_law_extraction(text, metadata={}):
         textFromIndex = text[
             arearesolvedIndex["end"] : arearesolvedIndexStop["pickedIndex"]
         ]
+        # loggerToFile(to_ascii(textFromIndex))
         arearegex = r"(?<=\n)\n*[A-Z ]+(?=.+(?:-|:))"
+
+        # allMatches = filtered_and_refined_words(
+        #     textFromIndex, ["Just skip this"], arearegex
+        # )
         allMatches = re.findall(arearegex, textFromIndex)
+        # print(f"areas of law found: {allMatches}")
         cleanAreasofLaw = [item.strip() for item in allMatches]
         UniqueAreasofLaw = list(set(cleanAreasofLaw))
         create_key_and_value("area_of_law", UniqueAreasofLaw, metadata)
