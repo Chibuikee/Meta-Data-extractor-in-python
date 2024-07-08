@@ -3,6 +3,9 @@ import re
 
 import win32com.client
 
+# this is for testing and debugging
+
+
 #  Get the current working directory
 cwd = os.getcwd()
 print("Current working directory:", cwd)
