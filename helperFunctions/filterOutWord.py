@@ -21,12 +21,12 @@ def filtered_and_refined_words(
         )
     # print(f"words to removed{result}")
     # Convert words to remove to lowercase
-    r_word = [item.lower() for item in array_of_words_to_remove]
+    r_words = [item.lower() for item in array_of_words_to_remove]
 
     # Define the removeItem function
     def remove_item(word):
         # print(f"word to convert{word not in r_word}")
-        return word.lower() not in r_word
+        return word.lower() not in r_words
 
     # Apply the second regex and filter the results
     matched_words = extract_regex_match(regex_applied, result)
