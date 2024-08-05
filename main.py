@@ -67,6 +67,7 @@ input_directory = "path/Processed_for_entity_extraction_Russell"
 output_directory = "path/to"
 import asyncio
 
+# print(f"{os.path.abspath(__file__)}")
 asyncio.run(process_documents(input_directory, output_directory))
 # start new python project
 #  python -m venv .venv

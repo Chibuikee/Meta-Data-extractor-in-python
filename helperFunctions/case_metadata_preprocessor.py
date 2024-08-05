@@ -157,7 +157,7 @@ def process_json(input_file, output_folder):
                 new_case_data[key] = process_value(value)
 
         new_case_data["case_title"] = new_case_title
-        new_case_data["lex_doc_id"] = str(uuid.uuid4())
+        new_case_data["doc_id"] = str(uuid.uuid4())
 
         output_file = os.path.join(output_folder, f"{new_case_title}.json")
         with open(output_file, "w", encoding="utf-8") as f:
@@ -166,9 +166,12 @@ def process_json(input_file, output_folder):
 
 
 def main():
-    input_folder = r"C:\Users\Russell\Desktop\Second\in_TEST"
-    output_folder = r"C:\Users\Russell\Desktop\Second\out_TEST"
-
+    # FOR CHIBUIKE
+    input_folder = r"C:\chibs\Desktop\chibscodes\python\path\Processed_for_entity_extraction_Russell"
+    output_folder = r"C:\chibs\Desktop\chibscodes\python\path\ready_to_injest\Processed_for_entity_extraction_Russell"
+    # FOR RUSSLE
+    # input_folder = r"C:\Users\Russell\Desktop\Second\in_TEST"
+    # output_folder = r"C:\Users\Russell\Desktop\Second\out_TEST"
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
