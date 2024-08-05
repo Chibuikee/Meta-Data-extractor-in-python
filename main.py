@@ -63,30 +63,12 @@ async def process_documents(input_dir, output_dir):
 
 
 # Input and output paths
-input_directory = "path/case"
+input_directory = "path/Processed_for_entity_extraction_Russell"
 output_directory = "path/to"
 import asyncio
 
 asyncio.run(process_documents(input_directory, output_directory))
-# run to start a virtual environment
-# .\.venv\Scripts\activate
 # start new python project
 #  python -m venv .venv
-# create a django project
-# pip install django
-# pip install djangorestframework
-# pip install django-cors-headers
-# django-admin startproject chibs .
-# python manage.py startapp EmployeeApp
-# pip install python-dotenv
-# start python "py", quit python "quit()"
-
-# run server for the api
-# python manage.py runserver
-
-
-# database management
-# pip install psycopg2-binary
-# python manage.py makemigrations
-# python manage.py migrate
-# python manage.py createsuperuser
+# run to start a virtual environment
+# .\.venv\Scripts\activate

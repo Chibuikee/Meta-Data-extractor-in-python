@@ -5,7 +5,7 @@ setup(
     version="1.0.1",
     packages=find_packages(),
     install_requires=[
-        "textract",
-        "docx",
+        "pywin32",
+        "python-docx",
     ],
 )

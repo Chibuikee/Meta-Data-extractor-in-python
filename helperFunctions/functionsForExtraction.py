@@ -265,7 +265,9 @@ def legal_representation_extraction(text, metadata={}):
             ArrayOfReps[0], ArrayOfwordsToRemove, reparearegex
         )
         repRes = (
-            filtered_and_refined_words(ArrayOfReps[1], reparearegex, reparearegex)
+            filtered_and_refined_words(
+                ArrayOfReps[1], ArrayOfwordsToRemove, reparearegex
+            )
             if len(ArrayOfReps) > 1
             else []
         )
