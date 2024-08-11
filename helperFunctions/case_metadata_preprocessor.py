@@ -34,7 +34,8 @@ def improved_title_case(s):
 
 
 def capitalize_after_dash(s):
-    return re.sub(r"-([a-z])", lambda m: "-" + m.group(1).upper(), s)
+    return re.sub(r"-([a-z]| [a-z])", lambda m: "-" + m.group(1).upper(), s)
+    # return re.sub(r"-([a-z])", lambda m: "-" + m.group(1).upper(), s)
 
 
 def capitalize_abbreviations(s):
@@ -167,8 +168,10 @@ def process_json(input_file, output_folder):
 
 def main():
     # FOR CHIBUIKE
-    input_folder = r"C:\chibs\Desktop\chibscodes\python\path\Processed_for_entity_extraction_Russell"
-    output_folder = r"C:\chibs\Desktop\chibscodes\python\path\ready_to_injest\Processed_for_entity_extraction_Russell"
+    input_folder = r"C:\chibs\Desktop\chibscodes\python\path\A - DELIVERED"
+    output_folder = (
+        r"C:\chibs\Desktop\chibscodes\python\path\ready_to_injest\A - DELIVERED"
+    )
     # FOR RUSSLE
     # input_folder = r"C:\Users\Russell\Desktop\Second\in_TEST"
     # output_folder = r"C:\Users\Russell\Desktop\Second\out_TEST"
@@ -183,3 +186,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# print(f"String supplied hmm: {capitalize_after_dash("MARY UKAEGO PETER-odILI, JSC")}")
+# python case_metadata_preprocessor.py
