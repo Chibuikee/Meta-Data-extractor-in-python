@@ -1,0 +1,54 @@
+{
+  "case_title": "In Re King, Decd.robinson v. Gray",
+  "court": "Court of Appeal",
+  "date": "19-invalid-1962",
+  "year": "1962",
+  "suit_number": "(1963)-2W.L.R.629",
+  "lex_citation": "LEX(1963)-2W.L.R.629",
+  "other_citations": [
+    "3PLR/1963/73(CA-E)",
+    "[1963]2W.L.R.629",
+    "[1953K.NO.196.]"
+  ],
+  "area_of_law": [
+    "Insurance and Reinsurance Law",
+    "Real Estate and Property Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "Diplock L JJ",
+    "Concurred with the Lead Judgment",
+    "Lord Denning MR, (read the Lead Judgment",
+    "Upjohn LJ",
+    "Dissented"
+  ],
+  "representation_appellant": [
+    "H. E. Francis Q.c",
+    "S. L. Newcombe",
+    "London County Council",
+    "R. W. Goff Q.c",
+    "A. A. Baden Fuller",
+    "A. J. Balcombe",
+    "I. D. Iwi",
+    "Edward Ernest Tagg",
+    "J. G. Barr",
+    "C. A. Maddin"
+  ],
+  "representation_respondent": [
+    "Co",
+    "Edward",
+    "F. Iwi",
+    "M. M. H"
+  ],
+  "originating_court": "The Lands Tribunal (buckley J., Presiding)",
+  "doc_id": "32f126ae-0c89-462a-a1ea-8f9af74a312e",
+  "doctype": "Case",
+  "parties": [
+    "Robinson",
+    "Gray"
+  ]
+}

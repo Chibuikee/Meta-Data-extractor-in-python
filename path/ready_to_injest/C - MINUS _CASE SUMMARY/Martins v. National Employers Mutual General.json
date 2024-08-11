@@ -1,0 +1,36 @@
+{
+  "case_title": "Martins v. National Employers Mutual General",
+  "court": "High Court",
+  "date": "10-3-1969",
+  "year": "1969",
+  "suit_number": "(1969)-LD/337/68",
+  "lex_citation": "LEX(1969)-LD/337/68",
+  "other_citations": "3PLR/1960/66(HC)",
+  "area_of_law": [
+    "Insurance and Reassurrance",
+    "Tort and Personal Injury",
+    "Commercial Transactions",
+    "Transportation and Law",
+    "Healthcare and Law",
+    "Alternative Dispute Resolution",
+    "Children and Women Law",
+    "Evidence",
+    "Interpretation of Statute"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Lambo J",
+  "representation": [
+    "Abiola Oshodi",
+    "Gerald Impey"
+  ],
+  "doc_id": "b51d23d6-151b-4526-ad7f-1f78f075edfb",
+  "doctype": "Case",
+  "parties": [
+    "Martins",
+    "National Employers Mutual General Insurance Association Ltd"
+  ]
+}

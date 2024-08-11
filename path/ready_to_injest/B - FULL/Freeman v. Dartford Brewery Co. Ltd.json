@@ -1,0 +1,43 @@
+{
+  "case_title": "Freeman v. Dartford Brewery Co. Ltd",
+  "court": "King's Bench Division",
+  "date": "29-3-1938",
+  "year": "1938",
+  "suit_number": "(1938)-3ALLE.R.120",
+  "lex_citation": "LEX(1938)-3ALLE.R.120",
+  "other_citations": [
+    "2PLR/1914/4(KB.D)",
+    "[1938]3ALLE.R.120"
+  ],
+  "area_of_law": [
+    "Alternative Dispute Resolution",
+    "Real Estate and Property",
+    "Practice and Procedure Issues",
+    "Court"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Du Parcq J",
+  "representation": [
+    "R C Vaughan",
+    "R M Wilson",
+    "Sprinz & Sons",
+    "Winch & Winch",
+    "C St",
+    "Nicholson",
+    "Esq - Barrister"
+  ],
+  "originating_court": [
+    "",
+    "Application Transferred From the Croydon County Court to the High Court for the Purpose of Obtaining an Authoritative Decision Under the Landlord and Tenant Act 1927, S 21."
+  ],
+  "doc_id": "4e4967a1-e46f-47da-b7a9-ffe443a58a8d",
+  "doctype": "Case",
+  "parties": [
+    "Freeman",
+    "Dartford Brewery Co Ltd"
+  ]
+}

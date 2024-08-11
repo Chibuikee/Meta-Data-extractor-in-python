@@ -1,0 +1,31 @@
+{
+  "case_title": "Urquhart Lindsay and Co. v. Eastern Bank Ltd",
+  "court": "King's Bench Division",
+  "date": "24-invalid-1921",
+  "year": "1921",
+  "suit_number": "(1921)-1K.B.318",
+  "lex_citation": "LEX(1921)-1K.B.318",
+  "other_citations": "(1922)1K.B.318",
+  "area_of_law": [
+    "Banking and Financing Law",
+    "Commercial and Business Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Rowlatt J",
+  "representation_appellant": "Neilson K.c",
+  "representation_respondent": [
+    "C. P. Blackwell",
+    "Plaintiffs",
+    "Stuart Bevan K.c"
+  ],
+  "doc_id": "d97e4688-f380-4a34-8de5-35d0623478f7",
+  "doctype": "Case",
+  "parties": [
+    "Urquhart Lindsay and Co.",
+    "Eastern Bank Ltd."
+  ]
+}

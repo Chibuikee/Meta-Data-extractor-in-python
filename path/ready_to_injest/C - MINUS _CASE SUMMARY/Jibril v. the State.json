@@ -1,0 +1,42 @@
+{
+  "case_title": "Jibril v. the State",
+  "court": "Supreme Court",
+  "date": "28-3-1968",
+  "year": "1968",
+  "suit_number": "SC392/1967",
+  "lex_citation": "LEX(1968)-SC392/1967",
+  "other_citations": [
+    "3PLR/1968/50(SC)",
+    "REPRESENTATION",
+    "COLE-FORTHEAPPELLANT",
+    "BELGORE,D.D.P.P.(NORTH),-FORTHERESPONDENT",
+    "CONNECTEDAREASOFPRACTICE",
+    "CRIMINALLAW,WOMENANDCHILDREN"
+  ],
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Healthcare and Law",
+    "Evidence",
+    "Interpretation of Statutes"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "representation_appellant": [
+    "Cole",
+    "Belgore",
+    "Connected Areas of Practice Criminal Law",
+    "Women"
+  ],
+  "representation_respondent": "Children",
+  "doc_id": "2a2f3e5c-99c0-441a-8e85-bcf77d7503b6",
+  "doctype": "Case",
+  "parties": [
+    "Ibril",
+    "The State"
+  ]
+}

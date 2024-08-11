@@ -1,0 +1,31 @@
+{
+  "case_title": "A.C.B. Ltd v. Kotun",
+  "court": "High Court",
+  "date": "1-12-1969",
+  "year": "1969",
+  "suit_number": "(1969)-LD/119/68",
+  "lex_citation": "LEX(1969)-LD/119/68",
+  "area_of_law": [
+    "Banking and Finance",
+    "Children and Women Law",
+    "Commercial Law",
+    "Interpretation of Statutes"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Kassim J",
+  "representation_appellant": "Debo Ak",
+  "representation_respondent": [
+    "Plaintiffs",
+    "Y.A.O. Ak"
+  ],
+  "doc_id": "beaa2f54-0ace-4e62-8480-40e0c00843c4",
+  "doctype": "Case",
+  "parties": [
+    "N Continental Bank Ltd",
+    "Bintu Kotun"
+  ]
+}

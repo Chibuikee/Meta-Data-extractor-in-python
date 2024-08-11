@@ -1,0 +1,50 @@
+{
+  "case_title": "The State v. Ali Ahmed",
+  "court": "Supreme Court",
+  "date": "24-1-2020",
+  "year": "2020",
+  "suit_number": "SC.511/2016",
+  "lex_citation": "LEX(2020)-SC.511/2016",
+  "other_citations": [
+    "3PLR/2020/44(SC)",
+    "(2020)LPELR-49497(SC)"
+  ],
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Environmental and Natural Resources Law",
+    "Evidence",
+    "Words and Phrases"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Olukayode Ariwoola JSC",
+    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Amina Adamu Augie JSC",
+    "Paul Adamu Galumje JSC",
+    "Uwani Musa Abba Aji JSC"
+  ],
+  "representation_appellant": [
+    "Omar Musa",
+    "Esq. Him",
+    "Munir Yakubu"
+  ],
+  "representation_respondent": [
+    "Akin Adewale",
+    "Esq. Him Mercy Omanijo"
+  ],
+  "originating_court": [
+    "Court of Appeal [abuja Division]",
+    "High Court of Niger State"
+  ],
+  "doc_id": "b089b11b-222d-4f00-bcfa-8b321cd0f011",
+  "doctype": "Case",
+  "parties": [
+    "The State",
+    "Ali Ahmed"
+  ]
+}

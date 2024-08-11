@@ -1,0 +1,36 @@
+{
+  "case_title": "George v. Inspector General of Police",
+  "court": "Supreme Court",
+  "date": "10-10-1958",
+  "year": "1958",
+  "suit_number": "S.C.91/1958",
+  "lex_citation": "LEX(1958)-F.S.C.91/1958",
+  "other_citations": "3PLR/1958/19(FSC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Education Law",
+    "Children and Women Law",
+    "Appeal"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sir Adetokunbo Ademola F CJ",
+    "Lionel Brett FJ",
+    "Louis Nwachukwu Mbanefo, Ag FJ"
+  ],
+  "originating_court": [
+    "High Court of the Eastern Region (betuel, Ag. J. Presiding)",
+    "Chief Magistrate Court, Port Harcourt"
+  ],
+  "doc_id": "bfac7c14-6285-4ee3-9c29-ada35222c9e5",
+  "doctype": "Case",
+  "parties": [
+    "D.D. Tom George",
+    "Inspector-general of Police"
+  ]
+}

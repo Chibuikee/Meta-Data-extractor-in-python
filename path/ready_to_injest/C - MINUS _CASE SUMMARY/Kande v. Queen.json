@@ -1,0 +1,37 @@
+{
+  "case_title": "Kande v. Queen",
+  "court": "Supreme Court",
+  "date": "5-6-1961",
+  "year": "1961",
+  "suit_number": "S.C.125/1961",
+  "lex_citation": "LEX(1961)-F.S.C.125/1961",
+  "other_citations": "3PLR/1961/67(FSC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Customary Law",
+    "Healthcare and Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sir Adetokunbo Ademola CJ",
+    "Edgar Ignatius Godfrey Unsworth FJ",
+    "John Idowu Conrad Taylor FJ"
+  ],
+  "representation": [
+    "J. A. Cole",
+    "B. A. Adedipe",
+    "Deputy"
+  ],
+  "doc_id": "23abe1ba-1151-49ca-9ccc-a7c0ad17fb85",
+  "doctype": "Case",
+  "parties": [
+    "Kome Kande",
+    "The Queen"
+  ]
+}

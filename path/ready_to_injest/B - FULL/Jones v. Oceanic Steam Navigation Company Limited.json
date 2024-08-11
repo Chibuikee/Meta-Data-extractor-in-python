@@ -1,0 +1,35 @@
+{
+  "case_title": "Jones v. Oceanic Steam Navigation Company Limited",
+  "court": "King's Bench Division",
+  "date": "19-7-1924",
+  "year": "1924",
+  "suit_number": "(1923)-2KB.730",
+  "lex_citation": "LEX(1923)-2KB.730",
+  "other_citations": [
+    "2PLR/1924/2(KB.D)",
+    "[1924]2K.B.730",
+    "[1923.J.327.]"
+  ],
+  "area_of_law": [
+    "Commercial and Business Law",
+    "International Law",
+    "Shipping and Maritime"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Lord Hewart CJ",
+  "representation_appellant": "A. S. Comyns Carr K.c",
+  "representation_respondent": [
+    "Ignatius Kelly",
+    "Merriman K.c"
+  ],
+  "doc_id": "bd19ae3e-d20b-4b52-976e-af8069a64f00",
+  "doctype": "Case",
+  "parties": [
+    "Oceanic Steam Navigation Company Limited",
+    "King's Bench Division"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_title": "Bourhill v. Young",
+  "court": "House of Lords",
+  "date": "5-8-1942",
+  "year": "1942",
+  "suit_number": "(1942)-H.LNO.3",
+  "lex_citation": "LEX(1942)-H.LNO.3",
+  "other_citations": [
+    "3PLR/1942/1(HL)",
+    "[1943]A.C.92;",
+    "[1942]2ALLE.R.396"
+  ],
+  "area_of_law": [
+    "Tort and Personal Injury",
+    "Transport and Logistics Law",
+    "Healthcare and Law",
+    "Children and Women Law",
+    "M",
+    "T",
+    "O",
+    "A"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "Lord Thankerton",
+    "Lord Russell of Killowen",
+    "Lord Macmillan",
+    "Lord Wright",
+    "Lord Porter"
+  ],
+  "representation": [
+    "Blades",
+    "Guthrie",
+    "Duffes",
+    "G. S. Reid"
+  ],
+  "doc_id": "f2f36431-088c-4a9e-b571-3b00c6bb1de8",
+  "doctype": "Case",
+  "parties": [
+    "MRS Euphemia Hay or Bourhill",
+    "James Young",
+    "John Young",
+    "MRS Euphemia Hay or Bourhill",
+    "James Young",
+    "John Young",
+    "S Executor-dative"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_title": "Yonge v. Toynbee",
+  "court": "Court of Appeal",
+  "date": "12-5-1909",
+  "year": "1909",
+  "suit_number": "(1)8",
+  "lex_citation": "",
+  "other_citations": "3PLR/1909/2(CA-E)",
+  "area_of_law": [
+    "Ethics",
+    "Healthcare",
+    "S"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "Swinfen Eady J",
+    "Vaughan Williams and Buckley L JJ"
+  ],
+  "representation_appellant": [
+    "Retainer to Conduct Defence to an Action - Lunacy of Client - Determination",
+    "Authority - Steps in Action Taken by in Ignorance of Determination of Authority - Implied Warranty of Existence of Authority - Liability of Personally to Pay Plaintiff",
+    "Costs - Practice - Appeal",
+    "Matter",
+    "Judicature Act",
+    "Healthcare",
+    "Medicine"
+  ],
+  "representation_respondent": [
+    "Lunacy or Unsoundness of Mind - Effect on Existing Contract Made by Sufferer - Re",
+    "Representation A. Scott",
+    "Montague Shearman",
+    "Wood",
+    "Bigg & Nash",
+    "J. H. Yonge",
+    "Worcester",
+    "Wontner",
+    "&",
+    "Sons",
+    "Case Summary Originating Facts"
+  ],
+  "doc_id": "8d974b73-c502-4487-a88c-c49d367df044",
+  "doctype": "Case",
+  "parties": [
+    "Yonge",
+    "Toynbee"
+  ]
+}

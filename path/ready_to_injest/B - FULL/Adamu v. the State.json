@@ -1,0 +1,50 @@
+{
+  "case_title": "Adamu v. the State",
+  "court": "Supreme Court",
+  "date": "7-invalid-2017",
+  "year": "2017",
+  "suit_number": "SC.404/2015",
+  "lex_citation": "LEX(2017)-SC.404/2015",
+  "other_citations": "3PLR/2017/18(SC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Constitutional Law",
+    "Action",
+    "Appeal",
+    "Court",
+    "Evidence",
+    "Pleadings",
+    "Interpretation of Statute"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Walter Samuel Nkanu Onnoghen CJN",
+    "Musa Dattijo Muhammad JSC",
+    "Kudirat MOlatokunbo Kekere-Ekun JSC",
+    "Ejembi Eko JSC",
+    "Sidi Dauda Bage JSC"
+  ],
+  "representation_appellant": [
+    "Charles Ihua-maduenyi",
+    "A.A. Ibrahim",
+    "M.A. Ebute",
+    "A. Apeh",
+    "B.E. Sheyin"
+  ],
+  "representation_respondent": "O. Ademola",
+  "originating_court": [
+    "Court of Appeal, Abuja Judicial Division (judgment of the Court Delivered on 8 May 2015).",
+    "High Court of Niger State (chief Judge, Jibrin N. Ndajiwo, Presiding)"
+  ],
+  "doc_id": "27c41e26-368e-47cb-afd2-581a2b4a8a41",
+  "doctype": "Case",
+  "parties": [
+    "Garba Adamu",
+    "The State"
+  ]
+}

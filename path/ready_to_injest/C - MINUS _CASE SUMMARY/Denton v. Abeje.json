@@ -1,0 +1,34 @@
+{
+  "case_title": "Denton v. Abeje",
+  "court": "High Court",
+  "date": "45-invalid-1970",
+  "year": "1970",
+  "suit_number": "(1970)-LD/450/1970",
+  "lex_citation": "LEX(1970)-LD/450/1970",
+  "other_citations": "3PLR/1972/46(HC)",
+  "area_of_law": [
+    "Tort and Personal Injury",
+    "Insurance and Re",
+    "Healthcare Law",
+    "Ethics",
+    "Transportation and Logistics Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Odesanya J",
+  "representation": [
+    "Adewole",
+    "Olaogun",
+    "Second"
+  ],
+  "doc_id": "d25d9749-0807-42bd-8483-6c991ed62560",
+  "doctype": "Case",
+  "parties": [
+    "Akin Denton",
+    "Muibatu Abeje",
+    "Anor"
+  ]
+}

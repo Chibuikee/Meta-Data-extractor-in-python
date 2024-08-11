@@ -1,0 +1,35 @@
+{
+  "case_title": "Udo v. the State",
+  "court": "Supreme Court",
+  "date": "1-12-1976",
+  "year": "1976",
+  "suit_number": "SC173/1976",
+  "lex_citation": "LEX(1976)-SC173/1976",
+  "other_citations": [
+    "2PLR/1976/109(SC)",
+    "(1976)12SC63"
+  ],
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Agriculture and Food Law",
+    "Children and Women La",
+    "Evidence"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "representation": [
+    "O. O. Jibowu . E. B. James",
+    "Principal State Counsel",
+    "Cross River State"
+  ],
+  "doc_id": "db32d31f-ed56-423f-85a0-fd8809516ce4",
+  "doctype": "Case",
+  "parties": [
+    "Ohn Udo",
+    "The State"
+  ]
+}

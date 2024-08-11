@@ -1,0 +1,31 @@
+{
+  "case_title": "William Echem v. the Queen",
+  "court": "Waca",
+  "date": "8-8-1952",
+  "year": "1952",
+  "suit_number": "(1952)14W.A.C.A.158",
+  "lex_citation": "LEX(1952)-14W.A.C.A.158",
+  "other_citations": "2PLR/1952/19(WACA)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Healthcare and Law",
+    "Military and Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "De Comarmond, Ag CJ",
+  "representation": [
+    "M. A. Odesanya",
+    "Crown Counsel",
+    "Crown"
+  ],
+  "doc_id": "e84711eb-a816-4c89-8a2d-23002d4554b5",
+  "doctype": "Case",
+  "parties": [
+    "M Echem",
+    "The Queen"
+  ]
+}

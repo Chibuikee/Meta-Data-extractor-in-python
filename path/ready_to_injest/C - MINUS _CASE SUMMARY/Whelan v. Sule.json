@@ -1,0 +1,42 @@
+{
+  "case_title": "Whelan v. Sule",
+  "court": "Supreme Court",
+  "date": "8-10-1965",
+  "year": "1965",
+  "suit_number": "SC194/1965",
+  "lex_citation": "LEX(1965)-FSC194/1965",
+  "other_citations": "2PLR/1965/70(SC)",
+  "area_of_law": [
+    "Commercial Law",
+    "Children and Women Law",
+    "Debtor and Creditor Law",
+    "Education and Law",
+    "Religion and Law",
+    "Tort and Personal Injury Law",
+    "Transportation and Law",
+    "Court"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Lionel Brett JSC",
+    "Dahunsi Olugbeni Coker JSC",
+    "Chukwunwike Idigbe JSC"
+  ],
+  "representation": [
+    "MR",
+    "G. Impey",
+    "MR",
+    "C. D. Orike"
+  ],
+  "doc_id": "8d3ab7d4-5f4c-492f-a0f8-409e0a046533",
+  "doctype": "Case",
+  "parties": [
+    "Kathleen Whelan",
+    "Mallam Usman Hamed Sule"
+  ]
+}

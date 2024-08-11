@@ -1,0 +1,49 @@
+{
+  "case_title": "Nepa v. Alli",
+  "court": "Supreme Court",
+  "date": "2-10-1992",
+  "year": "1992",
+  "suit_number": "SC.12/1990",
+  "lex_citation": "LEX(1992)-SC.12/1990",
+  "other_citations": [
+    "3PLR/1992/69(SC)",
+    "(1992)NWLR(PT.259)279"
+  ],
+  "area_of_law": [
+    "Tort and Personal Injuries Law",
+    "Energy Law",
+    "Administrative Law and Government",
+    "Education and Law",
+    "Appeal",
+    "Court",
+    "Evidence",
+    "Judgment and Orders",
+    "Pleadings"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Saidu Kawu JSC",
+    "Philip Nnaemeka-Agu JSC",
+    "Emmaanuel Obioma Ogwuegbu JSC",
+    "Shehu Usman Mohammed JSC"
+  ],
+  "representation": [
+    "MR",
+    "G. N. Uwechue",
+    "MR",
+    "Oluwole Aina"
+  ],
+  "doc_id": "94ef3ed8-5d93-435a-b2b4-0d637303b959",
+  "doctype": "Case",
+  "parties": [
+    "National Electric Power Authority",
+    "R.O. Alli",
+    "Lamurey Nigeria Limited"
+  ]
+}

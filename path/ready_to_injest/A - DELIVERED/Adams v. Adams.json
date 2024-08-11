@@ -1,0 +1,33 @@
+{
+  "case_title": "Adams v. Adams",
+  "court": "High Court",
+  "date": "29-3-1971",
+  "year": "1971",
+  "suit_number": "",
+  "lex_citation": "LEXM/196/1970",
+  "other_citations": "3PLR/1970/75(HC-E)",
+  "area_of_law": [
+    "Family Law",
+    "Children and Women Law",
+    "Education and La",
+    "Healthcare and Law",
+    "Immigration Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Lambo J",
+  "representation_appellant": "Impey",
+  "representation_respondent": [
+    "Chief",
+    "Williams"
+  ],
+  "doc_id": "5b381ac2-99b6-4409-a155-f280a3c8e601",
+  "doctype": "Case",
+  "parties": [
+    "Ine Ann Adams",
+    "Derek Humphrey Adams"
+  ]
+}

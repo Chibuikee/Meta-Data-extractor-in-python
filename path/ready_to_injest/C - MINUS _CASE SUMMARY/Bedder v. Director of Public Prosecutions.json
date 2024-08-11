@@ -1,0 +1,49 @@
+{
+  "case_title": "Bedder v. Director of Public Prosecutions",
+  "court": "House of Lords",
+  "date": "23-7-1954",
+  "year": "1954",
+  "suit_number": "SECUTIONS",
+  "lex_citation": "LEX(1954)-2ALLE.R.801",
+  "other_citations": [
+    "3PLR/1954/5(HL-E)",
+    "[1954]2ALLE.R.801"
+  ],
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Health Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "Lord Simonds Lc",
+    "Lord Porter",
+    "Lord Goddard CJ",
+    "Lord Tucker and Lord Asquith of Bishopstone"
+  ],
+  "representation_appellant": "Marshall Qc",
+  "representation_respondent": [
+    "O J V Kitson",
+    "Attorney General",
+    "Elwes Qc",
+    "Stimson",
+    "Crown",
+    "C D Geach",
+    "Leicester",
+    "Director of Public Prosecutions",
+    "G a Kidner"
+  ],
+  "originating_court": [
+    "Court of Criminal Appeal (hilbery, Cassels and Havers Jj)",
+    "Leicester Assizes, (sellers J., Presiding)"
+  ],
+  "doc_id": "454842a0-db68-45dd-b252-a31d57b0451e",
+  "doctype": "Case",
+  "parties": [
+    "Director of Public Prosecutions"
+  ]
+}

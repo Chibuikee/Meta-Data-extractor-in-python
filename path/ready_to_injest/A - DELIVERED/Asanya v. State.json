@@ -1,0 +1,45 @@
+{
+  "case_title": "Asanya v. State",
+  "court": "Supreme Court",
+  "date": "19-4-1991",
+  "year": "1991",
+  "suit_number": "S.C.43/1990",
+  "lex_citation": "LEX(1991)-SC.43/1990",
+  "other_citations": "3PLR/1991/51(SC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Constitutional Law",
+    "Ethics",
+    "Children and Women Law",
+    "Healthcare and Law",
+    "Appeal",
+    "Court",
+    "Evidence",
+    "Interpretation of Statute"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Mohammed Bello CJN",
+    "Andrews Otutu Obaseki JSC",
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Saidu Kawu JSC",
+    "Salihu Modibbo Alfa Belgore JSC",
+    "Philip Nnaemeka-Agu JSC",
+    "Olajide Olatawura JSC"
+  ],
+  "representation": [
+    "Bankole Aluko",
+    "Modupe Fasanmi"
+  ],
+  "doc_id": "ea2a2d8f-a621-4641-bf78-7b0be04c9dea",
+  "doctype": "Case",
+  "parties": [
+    "S Asanya",
+    "The State"
+  ]
+}

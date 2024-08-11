@@ -1,0 +1,52 @@
+{
+  "case_title": "Auto Import Export v. Adebayo",
+  "court": "Supreme Court",
+  "date": "16-12-2005",
+  "year": "2005",
+  "suit_number": "SC49/1997",
+  "lex_citation": "LEX(2005)-SC49/1997",
+  "other_citations": [
+    "2PLR/2005/18(SC)",
+    "[2005]19NWLR(PT.959)44"
+  ],
+  "area_of_law": [
+    "Banking and Finance Law",
+    "Action",
+    "Appeal",
+    "Pleadings"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sylvester Umaru Onu JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "George Adesola Oguntade JSC",
+    "Mahmoud Mohammed JSC",
+    "Ikechi Francis Ogbuagu JSC"
+  ],
+  "representation": [
+    "O.M. Sagay",
+    "O.O. Delano",
+    "MR",
+    "Alex A. Ajayi",
+    "Wasiu Ajibore",
+    "L. Tebira"
+  ],
+  "originating_court": [
+    "Court of Appeal, Lagos Judiciail Division",
+    "Lagos High Court (candide Johnson C.J., Presiding)"
+  ],
+  "doc_id": "d9c004ff-d045-44b4-9dd0-2e0bbd883983",
+  "doctype": "Case",
+  "parties": [
+    "Auto Import Export",
+    "J.A.A. Adebayo",
+    "A.O. Obikoya",
+    "Sons Limited",
+    "National Bank of Nig. Ltd."
+  ]
+}

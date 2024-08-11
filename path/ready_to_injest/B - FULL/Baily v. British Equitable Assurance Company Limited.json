@@ -1,0 +1,35 @@
+{
+  "case_title": "Baily v. British Equitable Assurance Company Limited",
+  "court": "Court of Appeal",
+  "date": "19-invalid-1904",
+  "year": "1904",
+  "suit_number": "(1904)-1CH.374",
+  "lex_citation": "LEX(1904)-1CH.374",
+  "other_citations": [
+    "3PLR/1904/1(CA)",
+    "[1903B.2364.]",
+    "[1904]1CH.374"
+  ],
+  "area_of_law": [
+    "Company Law",
+    "Insurance and Reinsurance"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Vaughan Williams, Stirling, and Cozens-Hardy L JJ",
+  "representation_appellant": "Warrington",
+  "representation_respondent": [
+    "Whinney",
+    "P. O. Lawrence"
+  ],
+  "originating_court": "High Court (kekewich J., Presiding)",
+  "doc_id": "7287d06e-d4fd-4b9b-88bb-cf4d7619f5d0",
+  "doctype": "Case",
+  "parties": [
+    "Baily",
+    "British Equitable Assurance Company"
+  ]
+}

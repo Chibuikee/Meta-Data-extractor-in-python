@@ -1,0 +1,31 @@
+{
+  "case_title": "Watson v. Watson",
+  "court": "Probate, Etc., Division",
+  "date": "19-7-1953",
+  "year": "1953",
+  "suit_number": "(1953)-3W.L.R.708",
+  "lex_citation": "LEX(1953)-3W.L.R.708",
+  "other_citations": "2PLR/1953/7(CA)",
+  "area_of_law": [
+    "Family Law",
+    "Health Law",
+    "Children and Women Law",
+    "Practice and Procedure"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Barnard J",
+  "representation": [
+    "Van Oss",
+    "Marston Garsia"
+  ],
+  "doc_id": "45ed2d90-5c9c-4209-b42c-f5f2d48de677",
+  "doctype": "Case",
+  "parties": [
+    "Watson",
+    "Watson"
+  ]
+}

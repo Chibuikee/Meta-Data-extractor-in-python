@@ -1,0 +1,33 @@
+{
+  "case_title": "Willie v. the State",
+  "court": "Supreme Court",
+  "date": "11-4-1968",
+  "year": "1968",
+  "suit_number": "S.C.380/67",
+  "lex_citation": "LEX(1968)-S.C.380/67",
+  "other_citations": "2PLR/1968/79(HC-W)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Religion and Law",
+    "Healthcare and Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": "Charles Olusoji Madarikan JSC",
+  "representation": [
+    "Cole",
+    "Gbemudu"
+  ],
+  "originating_court": "High Court, Mid-west, Holden at Warri (obaseki, J. Presiding)",
+  "doc_id": "3c2949a0-817f-4db9-b222-5efe8ceda3df",
+  "doctype": "Case",
+  "parties": [
+    "D Willie",
+    "The State"
+  ]
+}

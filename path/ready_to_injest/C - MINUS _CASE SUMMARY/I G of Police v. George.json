@@ -1,0 +1,42 @@
+{
+  "case_title": "I G of Police v. George",
+  "court": "Supreme Court",
+  "date": "10-3-1958",
+  "year": "1958",
+  "suit_number": "SC.28/1958",
+  "lex_citation": "LEX(1958)-FSC.28/1958",
+  "other_citations": "3PLR/1958/21(FSC)",
+  "area_of_law": [
+    "Criminal Law and Procedur",
+    "Education Law",
+    "Children and Women Law",
+    "Action"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "MCNageon De Lestang, AgF CJ",
+    "Sir Henley Coussey, Ag FJ",
+    "Robert Yorke Hedges, Ag FJ"
+  ],
+  "representation": [
+    "C.H.E. Miller",
+    "Ag",
+    "Son C.c",
+    "G.N.A. Okafor"
+  ],
+  "originating_court": [
+    "",
+    "High Court of the Eastern Region of Nigeria, Port Harcourt Judicial Division"
+  ],
+  "doc_id": "146c16ea-200e-4090-bd29-e2cb9bede848",
+  "doctype": "Case",
+  "parties": [
+    "F Police",
+    "D.D. Tom George"
+  ]
+}

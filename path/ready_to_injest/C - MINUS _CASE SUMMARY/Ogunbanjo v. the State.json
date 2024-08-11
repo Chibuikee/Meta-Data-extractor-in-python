@@ -1,0 +1,33 @@
+{
+  "case_title": "Ogunbanjo v. the State",
+  "court": "Supreme Court",
+  "date": "2-invalid-null",
+  "year": "No Year",
+  "suit_number": "SC.2/72",
+  "lex_citation": "LEX(1973)-SC.2/72",
+  "other_citations": [
+    "3PLR/1972/120(SC)",
+    "1973NMLR257"
+  ],
+  "area_of_law": [
+    "Children and Women Law",
+    "Healthcare and Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Dahunsi Olugbeni Coker JSC",
+    "George Sodeinde Sowemimo JSC",
+    "Ayo Gabriel Irikefe, Ag JSC"
+  ],
+  "doc_id": "2c1b1f7c-747d-4fad-94f1-bec73022d006",
+  "doctype": "Case",
+  "parties": [
+    "Jo Ogunbanjo",
+    "The State"
+  ]
+}

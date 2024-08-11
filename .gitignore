@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+
+# files and folders 
+path/case/
+path/to/
+# this ensures that other files in path is not ignored 
+!path/
+
 # Distribution / packaging
 .Python
 build/

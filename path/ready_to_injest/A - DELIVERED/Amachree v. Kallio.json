@@ -1,0 +1,49 @@
+{
+  "case_title": "Amachree v. Kallio",
+  "court": "Supreme Court",
+  "date": "Null-invalid-null",
+  "year": "No Year",
+  "suit_number": "(1908)-SC.1908/108",
+  "lex_citation": "LEX(1908)-SC.1908/108",
+  "other_citations": [
+    "3PLR/1907/3(SC-N)",
+    "(1908)2N.LR.108"
+  ],
+  "area_of_law": [
+    "Agriculture and Food Law",
+    "Constitutional and Public Law",
+    "Education and Law",
+    "Environmental and Natural Resources Law",
+    "Real Estate and Land Law",
+    "Customary Law",
+    "Human Right",
+    "Transportation and Logistic Law",
+    "Taxation and Revenue"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sir Edwin",
+    "Arney Speed",
+    "Fc Webber and Ross JJ"
+  ],
+  "representation": [
+    "Williams",
+    "Gibson",
+    "Taylor",
+    "Brew",
+    "Clark",
+    "Clinton"
+  ],
+  "originating_court": "Divisional Court, Sitting at Degema",
+  "doc_id": "3e36b2a7-bebb-42e8-a0ae-dbd81c8a6227",
+  "doctype": "Case",
+  "parties": [
+    "E King Amachree",
+    "Daniel Kallio and Others"
+  ]
+}

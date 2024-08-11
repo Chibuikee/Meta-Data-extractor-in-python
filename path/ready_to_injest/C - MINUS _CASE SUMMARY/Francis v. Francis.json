@@ -1,0 +1,34 @@
+{
+  "case_title": "Francis v. Francis",
+  "court": "Probate, Divorce, and Admiralty Division",
+  "date": "Null-invalid-null",
+  "year": "No Year",
+  "suit_number": "(1959)-3ALLER206",
+  "lex_citation": "LEX(1959)-3ALLER206",
+  "other_citations": [
+    "2PLR/1959/45(SC)",
+    "(1959)3ALLER206"
+  ],
+  "area_of_law": [
+    "Family Law",
+    "Healthcare and Law",
+    "Children and Women"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Lord Merriman, P, and Phillimore J",
+  "representation": [
+    "K. C. L. Smithies",
+    "Wife"
+  ],
+  "originating_court": "Eastleigh Petty Sessional Division of Hampshire",
+  "doc_id": "e89db8b6-3d61-4395-854a-d4199d058852",
+  "doctype": "Case",
+  "parties": [
+    "Francis",
+    "Probate, Divorce, and Admiralty Division"
+  ]
+}

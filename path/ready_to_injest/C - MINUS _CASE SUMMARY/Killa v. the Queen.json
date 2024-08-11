@@ -1,0 +1,37 @@
+{
+  "case_title": "Killa v. the Queen",
+  "court": "Supreme Court",
+  "date": "16-2-1959",
+  "year": "1959",
+  "suit_number": "S.C.323/1958",
+  "lex_citation": "LEX(1959)-F.S.C.323/1958",
+  "other_citations": "2PLR/1959/70(SC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Practice and Procedure Issues",
+    "Appeal"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sir Adetokunbo Ademola, F CJ",
+    "Myles John Abbott FJ",
+    "Lionel Brett FJ"
+  ],
+  "representation": [
+    "Applicant",
+    "MR. I. M. Lewis",
+    "General"
+  ],
+  "doc_id": "3542cc83-c44d-4395-b9ce-4a1a54560a5d",
+  "doctype": "Case",
+  "parties": [
+    "Killa",
+    "The Queen"
+  ]
+}

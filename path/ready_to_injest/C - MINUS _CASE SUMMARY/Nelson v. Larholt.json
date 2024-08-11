@@ -1,0 +1,50 @@
+{
+  "case_title": "Nelson v. Larholt",
+  "court": "King's Bench Division",
+  "date": "19-invalid-1947",
+  "year": "1947",
+  "suit_number": "(1947)-3391KB",
+  "lex_citation": "LEX(1947)-3391",
+  "other_citations": [
+    "2PLR/1948/1",
+    "[1948]3391K.B."
+  ],
+  "area_of_law": [
+    "Lex",
+    "Befor",
+    "S",
+    "Tort and Personal Injury",
+    "Banking and Finance",
+    "Estate Administration",
+    "Children and Women Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Denning J",
+  "representation_appellant": [
+    "Douglas Lowe",
+    "Plaintiffs",
+    "P. M. O",
+    "Connor",
+    "Plaintiffs",
+    "C. Butcher",
+    "& Simon Burns",
+    "Stanley Jarrett & Co",
+    "Judgment From Cause of Action",
+    "Tort"
+  ],
+  "representation_respondent": [
+    "Personal Injury",
+    "Money - Taken From Owner - Without His Authority - Right of Owner to Follow Money - Until Received in Good Faith and Value and Without Notice of Want of Authority - Recipient Put on Inquiry - Restitution - When",
+    "Banking"
+  ],
+  "doc_id": "b928761a-2b6e-4735-8d9a-195a9bfa0185",
+  "doctype": "Case",
+  "parties": [
+    "Nelson and Others",
+    "Larholt"
+  ]
+}

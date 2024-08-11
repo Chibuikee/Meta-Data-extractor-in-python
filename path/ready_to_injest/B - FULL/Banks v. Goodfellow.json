@@ -1,0 +1,38 @@
+{
+  "case_title": "Banks v. Goodfellow",
+  "court": "Queen's Bench",
+  "date": "11-5-1870",
+  "year": "1870",
+  "suit_number": "(1870)-5Q.B.549",
+  "lex_citation": "LEX(1870)-5Q.B.549",
+  "other_citations": "[L.R.]5Q.B.549",
+  "area_of_law": [
+    "Estate Administration",
+    "Healthcare and Law",
+    "Children and Women Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Cockburn CJ, Blackburn, Mellor, and Hannen JJ",
+  "representation_appellant": [
+    "J. G Waugh",
+    "Manisty",
+    "Aspinall",
+    "Kemplay",
+    "Nethersole"
+  ],
+  "representation_respondent": "Speechley",
+  "originating_court": [
+    "Cumberland Spring Assizes, 1869 [brett, J., Presiding]",
+    "Legal"
+  ],
+  "doc_id": "78b736de-6500-42e5-b637-71d2aeb3ab8f",
+  "doctype": "Case",
+  "parties": [
+    "Goodfellow",
+    "Queen's Bench Division"
+  ]
+}

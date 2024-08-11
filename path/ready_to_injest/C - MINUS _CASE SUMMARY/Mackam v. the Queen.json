@@ -1,0 +1,38 @@
+{
+  "case_title": "Mackam v. the Queen",
+  "court": "Supreme Court",
+  "date": "4-8-1959",
+  "year": "1959",
+  "suit_number": "S.C.69/1959",
+  "lex_citation": "LEX(1959)-FSC69/1959",
+  "other_citations": "2PLR/1959/76(SC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women",
+    "Ethics",
+    "Religion and Law",
+    "Court"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Myles John Abbott, AgF CJ",
+    "Louis Nwachukwu Mbanefo FJ",
+    "Alexander William Bellamy, Ag FJ"
+  ],
+  "representation": [
+    "Applicant",
+    "MR. M. Bello",
+    "Crown Counsel"
+  ],
+  "doc_id": "c4d8915d-bb43-487e-a4b5-114913782c12",
+  "doctype": "Case",
+  "parties": [
+    "Mackam",
+    "The Queen"
+  ]
+}

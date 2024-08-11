@@ -1,0 +1,49 @@
+{
+  "case_title": "Winterbottom v. Allwood",
+  "court": "King's Bench Division",
+  "date": "19-invalid-1914",
+  "year": "1914",
+  "suit_number": "(1914)-KBD608",
+  "lex_citation": "LEX(1914)-KBD608",
+  "other_citations": "[1914]KBD608",
+  "area_of_law": [
+    "Commercial Law",
+    "Food and Agriculture Law",
+    "Intellectual Property Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "Ridley J",
+    "Avory J",
+    "Lush J"
+  ],
+  "representation": [
+    "Maddocks",
+    "R. M. Montgomery K.c",
+    "T. D. Jones",
+    "&",
+    "Co",
+    "L. Clark",
+    "Smethwick",
+    "Sharpe",
+    "Pritchard",
+    "&",
+    "Co",
+    "H. Brevitt",
+    "Wolverhampton"
+  ],
+  "originating_court": [
+    "",
+    "Magistrate for South Staffordshire."
+  ],
+  "doc_id": "fd1a7ea9-35b2-40a8-b457-c4bebd654384",
+  "doctype": "Case",
+  "parties": [
+    "Winterbottom",
+    "Allwood"
+  ]
+}

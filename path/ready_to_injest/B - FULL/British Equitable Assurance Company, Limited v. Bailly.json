@@ -1,0 +1,37 @@
+{
+  "case_title": "British Equitable Assurance Company, Limited v. Bailly",
+  "court": "House of Lords",
+  "date": "19-invalid-1905",
+  "year": "1905",
+  "suit_number": "(1905)-A.C.35",
+  "lex_citation": "LEX(1905)-A.C.35",
+  "other_citations": [
+    "3PLR/1906/2(HL-E)",
+    "(1906)A.C.35"
+  ],
+  "area_of_law": [
+    "Company Law",
+    "Insurance and Reinsurance"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "Lord Macnaghten",
+    "Lord Robertson",
+    "Lord Lindley"
+  ],
+  "representation_appellant": "Levett",
+  "representation_respondent": [
+    "Whinney",
+    "P. O. Lawrence"
+  ],
+  "doc_id": "6e2dbfb1-c271-4cf6-a40c-2273e5290123",
+  "doctype": "Case",
+  "parties": [
+    "H Equitable Assurance Company, Limited",
+    "Bailly"
+  ]
+}

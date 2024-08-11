@@ -1,0 +1,42 @@
+{
+  "case_title": "Udofa v. the King",
+  "court": "Court of Appeal",
+  "date": "1-3-1950",
+  "year": "1950",
+  "suit_number": "CA30",
+  "lex_citation": "LEX(1950)-[1956]VIIIWACA30",
+  "other_citations": "3PLR/1950/5(WACA)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Healthcare Law",
+    "Religion Law",
+    "Court",
+    "Evidence",
+    "Interpretation of Statute"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "John Verity CJ",
+    "Nigeria",
+    "Bode Rhodes-Vivour J",
+    "Vahe Robert Bairamian J"
+  ],
+  "representation": [
+    "C. O. Awoyele",
+    "Lloyd",
+    "Crown Counsel"
+  ],
+  "originating_court": "High Court (hallinan, J., Presiding)",
+  "doc_id": "707bef1f-ba4f-4c58-9854-28e9978776c9",
+  "doctype": "Case",
+  "parties": [
+    "Udofa Unwa Idiong",
+    "Nkanang Akpan Umo",
+    "The King"
+  ]
+}

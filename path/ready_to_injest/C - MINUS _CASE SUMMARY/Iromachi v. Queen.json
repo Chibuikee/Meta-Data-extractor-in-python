@@ -1,0 +1,42 @@
+{
+  "case_title": "Iromachi v. Queen",
+  "court": "Supreme Court",
+  "date": "3-1-1963",
+  "year": "1963",
+  "suit_number": "S.C.350/1962",
+  "lex_citation": "LEX(1963)-F.S.C.350/1962",
+  "other_citations": "3PLR/1963/72(FSC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Education and Law",
+    "Ethics",
+    "Evidence"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sir Adetokunbo Ademola CJ",
+    "Sir Lionel Brett FJ",
+    "Sir Vahe Bairamian FJ"
+  ],
+  "representation": [
+    "R. A. Fani-kayode",
+    "J. I. Emembolu",
+    "Senior Crown Counsel"
+  ],
+  "originating_court": "High Court of Eastern Nigeria",
+  "doc_id": "ea592f59-308d-4845-962e-9f2b3397f06e",
+  "doctype": "Case",
+  "parties": [
+    "Osuala Iromachi",
+    "Eugene Achonwa",
+    "Osuala Iromachi",
+    "Eugene Achonwa",
+    "The Queen"
+  ]
+}

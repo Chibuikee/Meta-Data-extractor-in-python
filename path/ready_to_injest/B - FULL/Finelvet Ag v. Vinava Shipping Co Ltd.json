@@ -1,0 +1,42 @@
+{
+  "case_title": "Finelvet Ag v. Vinava Shipping Co Ltd",
+  "court": "Queen's Bench",
+  "date": "22-11-1982",
+  "year": "1982",
+  "suit_number": "(1982)-2ALLE.R.658",
+  "lex_citation": "LEX(1982)-2ALLE.R.658",
+  "other_citations": [
+    "3PLR/1982/20(QB)",
+    "[1983]2ALLE.R.658"
+  ],
+  "area_of_law": [
+    "Shipping and Admiralty",
+    "International Trade",
+    "International Law",
+    "Alternative Dispute Resolution",
+    "B",
+    "E",
+    "T"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Mustill J",
+  "representation": [
+    "Anthony Hallgarten Qc",
+    "Patricia Phelan",
+    "Bernard Eder Shipowners",
+    "Sinclair Roche & Temperley",
+    "Holman Fenwick & Willan",
+    "K. Mydeen",
+    "Esq Barrister"
+  ],
+  "doc_id": "e1901d6c-baa3-477d-9ebe-e3130d8719dc",
+  "doctype": "Case",
+  "parties": [
+    "Finelvet Ag",
+    "Vinava Shipping Company Ltd"
+  ]
+}

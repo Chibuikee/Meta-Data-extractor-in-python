@@ -1,0 +1,49 @@
+{
+  "case_title": "Dare Kada v. the State",
+  "court": "Supreme Court",
+  "date": "1-11-1991",
+  "year": "1991",
+  "suit_number": "SC.22/1990",
+  "lex_citation": "LEX(1990)-SC.22/1990",
+  "other_citations": "3PLR/1991/75(CA)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Ethics",
+    "Healthcare and Law",
+    "Children and Women Law",
+    "Appeal",
+    "Evidence"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Mohammed Uwais, Ag CJN",
+    "Saidu Kawu JSC",
+    "Abubakar Bashir Wali JSC",
+    "Olajide Olatawura JSC",
+    "Paul Nkemdilim Nwokedi JSC"
+  ],
+  "representation": [
+    "Eman. C. Akwiwu",
+    "Miss",
+    "A.A. Akwiwu",
+    "M.B. Danyaya",
+    "Niger State",
+    "M.S. Gana",
+    "Law Officer"
+  ],
+  "originating_court": [
+    "Court of Appeal, Kaduna Division",
+    "High Court of Justice, Minna, Niger State"
+  ],
+  "doc_id": "3290c8cb-1d29-41ad-9080-10be3f0d09e4",
+  "doctype": "Case",
+  "parties": [
+    "Dare Kada",
+    "The State"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_title": "Kusu v. Sokoto N. A.",
+  "court": "Supreme Court",
+  "date": "2-11-1962",
+  "year": "1962",
+  "suit_number": "(1962)-F.S.C.276/1962",
+  "lex_citation": "LEX(1962)-F.S.C.276/1962",
+  "other_citations": "3PLR/1961/46(FSC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Healthcare Law",
+    "Religion and Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sir Lionel Brett FJ",
+    "Sir Idowu Conrad Taylor FJ",
+    "Sir Vahe Bairamian FJ"
+  ],
+  "representation": [
+    "J.A. Cole",
+    "A. A. Isiaku"
+  ],
+  "originating_court": [
+    "High Court of the Northern Region of Nigeria",
+    "Court of the Sultan of Sokoto"
+  ],
+  "doc_id": "8fb55ca9-8ff6-4d99-873c-a19b00de8d57",
+  "doctype": "Case",
+  "parties": [
+    "Sokoto Native Authority",
+    "Federal"
+  ]
+}

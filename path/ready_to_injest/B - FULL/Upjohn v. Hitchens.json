@@ -1,0 +1,35 @@
+{
+  "case_title": "Upjohn v. Hitchens",
+  "court": "Court of Appeal",
+  "date": "19-5-1918",
+  "year": "1918",
+  "suit_number": "CASESUMMARY",
+  "lex_citation": "LEX(1916)–U.723",
+  "other_citations": "3PLR/1918/1(CA)",
+  "area_of_law": [
+    "Insurance Ans Reinsurance La",
+    "Real Estate"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Pickford, Warrington, and Scrutton L JJ",
+  "representation_appellant": [
+    "Lewis Thomas",
+    "A. H. H. Richardson",
+    "Colam",
+    "Gervais Rentoul",
+    "E. J. Stokes",
+    "Hewitt"
+  ],
+  "representation_respondent": "Chapman",
+  "originating_court": "High Court (roche J., Presiding)",
+  "doc_id": "1451d611-e8ab-4f85-ac5a-f5f784e9cb4d",
+  "doctype": "Case",
+  "parties": [
+    "Upjohn",
+    "Hitchens"
+  ]
+}

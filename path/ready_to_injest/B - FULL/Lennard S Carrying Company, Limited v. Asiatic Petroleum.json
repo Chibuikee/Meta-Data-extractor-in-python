@@ -1,0 +1,51 @@
+{
+  "case_title": "Lennard S Carrying Company, Limited v. Asiatic Petroleum",
+  "court": "House of Lords",
+  "date": "19-3-1915",
+  "year": "1915",
+  "suit_number": "(1915)-A.C.705",
+  "lex_citation": "LEX(1915)-A.C.705",
+  "other_citations": [
+    "2PLR/1915/5(HL)",
+    "[1915]A.C.705"
+  ],
+  "area_of_law": [
+    "Shipping and Admiralty Law",
+    "Transportation and Logistics Law",
+    "Company Law",
+    "Ethics",
+    "Words and Phrases"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": [
+    "Viscount Haldane",
+    "Lord Dunedin",
+    "Lord Atkinson",
+    "Lord Parker of Waddington",
+    "Lord Parmoor"
+  ],
+  "representation_appellant": [
+    "Adair Roche",
+    "Raeburn",
+    "Maurice Hill",
+    "F. D. Mackinnon",
+    "Downing"
+  ],
+  "representation_respondent": [
+    "Cock",
+    "Middleton & Lewis",
+    "Bolam",
+    "Middleton & Co",
+    "Sunderl"
+  ],
+  "doc_id": "16e0aaf6-a03d-4232-911e-8535113f8642",
+  "doctype": "Case",
+  "parties": [
+    "D's Carrying Company, Limited",
+    "Asiatic Petroleum"
+  ]
+}

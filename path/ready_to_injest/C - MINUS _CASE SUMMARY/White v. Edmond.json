@@ -1,0 +1,35 @@
+{
+  "case_title": "White v. Edmond",
+  "court": "Chancery",
+  "date": "19-invalid-1901",
+  "year": "1901",
+  "suit_number": "(1901)-1CH.570",
+  "lex_citation": "LEX(1901)-1CH.570",
+  "other_citations": "1900W.4755",
+  "area_of_law": [
+    "Healthcare and Law",
+    "Children and Women Law",
+    "Evidence"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Buckley J",
+  "representation": [
+    "H. Terrell",
+    "James Bacon",
+    "Hornell",
+    "Keddey Fletcher & Fry",
+    "Philbrick & Co",
+    "Haynes & Co",
+    "Bow"
+  ],
+  "doc_id": "c184c02e-2aec-41db-bec9-11622afaf16e",
+  "doctype": "Case",
+  "parties": [
+    "Edmond",
+    "Chancery Division"
+  ]
+}

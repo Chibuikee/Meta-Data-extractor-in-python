@@ -1,0 +1,36 @@
+{
+  "case_title": "Utuk v. Queen",
+  "court": "Supreme Court",
+  "date": "26-9-1961",
+  "year": "1961",
+  "suit_number": "S.C.292/1961",
+  "lex_citation": "LEX(1961)-F.S.C.292/1961",
+  "other_citations": "3PLR/1961/82(FSC)",
+  "area_of_law": [
+    "Criminal Law and Procedure",
+    "Children and Women Law",
+    "Healthcare Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Sir Adetokunbo Ademola CJ",
+    "Edgar Ignatius Godfrey Unsworth FJ",
+    "John Idowu Conrad Taylor FJ"
+  ],
+  "representation": [
+    "J. A. Cole",
+    "D. O. Nwosu",
+    "Senior Crown Counsel"
+  ],
+  "doc_id": "ba080fa8-bb82-4972-baba-a90e3039a325",
+  "doctype": "Case",
+  "parties": [
+    "Ekanem Akpan Utuk",
+    "The Queen"
+  ]
+}

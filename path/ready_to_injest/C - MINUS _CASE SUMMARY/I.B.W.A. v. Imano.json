@@ -1,0 +1,51 @@
+{
+  "case_title": "I.B.W.A. v. Imano",
+  "court": "Supreme Court",
+  "date": "9-3-2001",
+  "year": "2001",
+  "suit_number": "SC.178/1995",
+  "lex_citation": "LEX(2001)-SC.178/1995",
+  "other_citations": [
+    "3PLR/2001/152(SC)",
+    "(2001)3NWLR(PT.85)633",
+    "(2001)FWLR(PT.44)421,",
+    "(​2001)3SCNJ160,178",
+    "(2001)7NWLR(PT.713)610AT626"
+  ],
+  "area_of_law": [
+    "Banking and Finance",
+    "Debtor Creditor",
+    "Appeal",
+    "Court",
+    "Evidence",
+    "Pleadings"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Salihu Modibbo Alfa Belgore JSC",
+    "Anthony Ikechukwu Iguh JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "Akintola Olufemi Ejiwunmi JSC",
+    "Emmanuel Olayinka Ayoola JSC"
+  ],
+  "representation": "T. a Ezeobi Onyeabo C. Obi",
+  "originating_court": [
+    "Court of Appeal, Lagos Judicial Division",
+    "High Court of Lagos State, Lagos Judicial Division"
+  ],
+  "doc_id": "408d4bc9-2a2c-4532-b5e7-8f24505bd09d",
+  "doctype": "Case",
+  "parties": [
+    "International Bank of West Africa Ltd",
+    "Imano",
+    "Nigeria",
+    "Ltd",
+    "Unity Life",
+    "Insurance Company Ltd"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_title": "Morley v. Moore",
+  "court": "Court of Appeal",
+  "date": "28-4-1936",
+  "year": "1936",
+  "suit_number": "(1936)-2ALLE.R.79",
+  "lex_citation": "LEX(1936)-2ALLE.R.79",
+  "other_citations": [
+    "3PLR/1936/1(2CA)",
+    "[1936]2ALLER79"
+  ],
+  "area_of_law": [
+    "Insurance and Reinsurance",
+    "Estate"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Sir Boyd Merriman, P Scott LJ and Eve J",
+  "representation": [
+    "Frederick W Pope",
+    "Bishop & Fenton",
+    "Jones . Derek H Kitchin"
+  ],
+  "originating_court": "County Court (honour Judge Konstam Kc)",
+  "doc_id": "97ab65dd-ddad-4dad-83ad-af597d934b88",
+  "doctype": "Case",
+  "parties": [
+    "Morley",
+    "Moore"
+  ]
+}
