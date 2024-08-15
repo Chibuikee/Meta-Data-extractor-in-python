@@ -10,6 +10,7 @@ __pycache__/
 # files and folders 
 path/case/
 path/to/
+path/documentsToProcess/
 # this ensures that other files in path is not ignored 
 !path/
 
