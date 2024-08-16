@@ -1,6 +1,6 @@
 {
   "case_title": "Adesanoye v. Adesanoye",
-  "court": "Supreme Court",
+  "court": "Federal Supreme Court",
   "date": "15-4-1971",
   "year": "1971",
   "suit_number": "SC.184/1970",
@@ -10,10 +10,10 @@
     "(1971)ALLN.L.R124"
   ],
   "area_of_law": [
-    "Education and Law",
-    "Family Law",
+    "Appeal",
     "Children and Women Law",
-    "Appeal"
+    "Education and Law",
+    "Family Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,17 +22,17 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adetokunbo Ademola CJN",
     "Charles Olusoji Madarikan JSC",
+    "Adetokunbo Ademola CJN",
     "Udo Udoma JSC"
   ],
   "representation": [
+    "Petitioner",
     "F.O. Akinrele",
-    "F.R.a Williams",
-    "Petitioner"
+    "F.R.a Williams"
   ],
   "originating_court": "Lagos State High Court",
-  "doc_id": "6ec1cde6-4dc0-4bc9-bfac-281c6a7e1bea",
+  "doc_id": "32487391-881b-4111-b443-8fd078de5173",
   "doctype": "Case",
   "parties": [
     "Festus Ibidapo Adesanoye",

@@ -3,13 +3,13 @@
   "court": "King's Bench Division",
   "date": "19-invalid-1914",
   "year": "1914",
-  "suit_number": "(1914)-KBD608",
+  "suit_number": "",
   "lex_citation": "LEX(1914)-KBD608",
   "other_citations": "[1914]KBD608",
   "area_of_law": [
+    "Intellectual Property Law",
     "Commercial Law",
-    "Food and Agriculture Law",
-    "Intellectual Property Law"
+    "Food and Agriculture Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -17,30 +17,27 @@
     "Case"
   ],
   "judge": [
+    "Lush J",
     "Ridley J",
-    "Avory J",
-    "Lush J"
+    "Avory J"
   ],
   "representation": [
-    "Maddocks",
-    "R. M. Montgomery K.c",
     "T. D. Jones",
-    "&",
-    "Co",
+    "R. M. Montgomery K.c",
     "L. Clark",
-    "Smethwick",
-    "Sharpe",
     "Pritchard",
     "&",
-    "Co",
+    "Maddocks",
+    "Smethwick",
     "H. Brevitt",
-    "Wolverhampton"
+    "Co",
+    "Wolverhampton",
+    "Sharpe"
   ],
   "originating_court": [
-    "",
     "Magistrate for South Staffordshire."
   ],
-  "doc_id": "fd1a7ea9-35b2-40a8-b457-c4bebd654384",
+  "doc_id": "7502e66c-9515-4274-a529-b250a48cf545",
   "doctype": "Case",
   "parties": [
     "Winterbottom",

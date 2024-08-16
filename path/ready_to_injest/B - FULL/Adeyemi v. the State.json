@@ -1,16 +1,16 @@
 {
   "case_title": "Adeyemi v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "30-6-2017",
   "year": "2017",
   "suit_number": "SC.209/2014",
   "lex_citation": "LEX(2017)-SC.209/2014",
   "other_citations": "3PLR/2017/26(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Appeal",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Appeal",
+    "Words and Phrases",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,12 +18,20 @@
     "Case",
     "High Profile Case"
   ],
+  "judge": [
+    "Olukayode Ariwoola JSC",
+    "Ibrahim Tanko Muhammad JSC",
+    "Mary UPeter-Odili JSC",
+    "Amina Adamu Augie JSC",
+    "Kumai Bayang Akaahs JSC",
+    "Their Lordhsip"
+  ],
   "representation": [
-    "J. A. Akinola",
-    "Taiye Oniyide"
+    "Taiye Oniyide",
+    "J. A. Akinola"
   ],
   "originating_court": "Court of Appeal, Ilorin Division (judgment of the Court of 27 February 2014)",
-  "doc_id": "69cff25b-ec63-4a05-9282-2b2a589317ed",
+  "doc_id": "ba1f2cf8-4ef7-472c-bf8d-863b378a95d0",
   "doctype": "Case",
   "parties": [
     "Ibrahim Adeyemi",

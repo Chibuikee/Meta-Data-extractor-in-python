@@ -3,28 +3,18 @@
   "court": "Privy Council",
   "date": "19-4-1913",
   "year": "1913",
-  "suit_number": "(1831)7BING.735",
+  "suit_number": "",
   "lex_citation": "",
   "other_citations": "3PLR/1913/2(PC-E)",
-  "area_of_law": [
-    "R",
-    "Mitchell",
-    "S",
-    "Anti",
-    "Environmental and Natural Resources",
-    "Business and Industry",
-    "Employment and Labour Law",
-    "Interpretation of Statute",
-    "Word and Phrases"
-  ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Viscount Haldane",
     "Lord Shaw of Dunfermline",
+    "Viscount Haldane",
     "Lord Moulton, and Lord Parker of Waddington"
   ],
   "representation_appellant": [
@@ -33,15 +23,15 @@
   ],
   "representation_respondent": [
     "Arthur Page",
-    "Mitchell",
     "Atkin",
-    "Schiller"
+    "Schiller",
+    "Mitchell"
   ],
   "originating_court": "On Appeal From the High Court of Australia",
-  "doc_id": "9ef5e653-0144-4f79-be5b-2d41bc14d19a",
+  "doc_id": "9cba9fbc-ee1e-4aa2-8e7a-b105e94944b5",
   "doctype": "Case",
   "parties": [
-    "Ey-general of the Commonwealth of Australia",
+    "Attorney-general of the Commonwealth of Australia",
     "Adelaide Steamship Company, Limited"
   ]
 }

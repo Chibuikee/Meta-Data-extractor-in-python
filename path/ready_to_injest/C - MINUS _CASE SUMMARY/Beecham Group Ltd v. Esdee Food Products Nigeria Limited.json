@@ -6,17 +6,18 @@
   "suit_number": "CA/L/12/84",
   "lex_citation": "LEX(1985)-CA/L/12/84",
   "other_citations": [
+    ":",
     "3PLR/1985/76(CA)",
     "28NIPJD[CA.1985]12/1984",
     "(1980)F.H.C.L177",
     "(1977-1989)2I.P.L.R.369"
   ],
   "area_of_law": [
-    "Intellectual Property",
-    "Antitrust and Trade Regulation",
     "Agriculture and Food Law",
+    "Antitrust and Trade Regulation",
     "Appeal",
-    "Interpretation of Statute"
+    "Interpretation of Statute",
+    "Intellectual Property"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,10 +30,13 @@
     "Uthman Mohammed JCA"
   ],
   "representation": [
-    "B. Omotayo",
-    "O. Kayode . Brief Prepared by David Garrick"
+    "O. Kayode",
+    "R. N. Agu",
+    "Brief Prepared by David Garrick",
+    "O. J. Idigbe",
+    "B. Omotayo"
   ],
-  "doc_id": "46bdd819-86a9-4f3c-979d-957b0a26e17d",
+  "doc_id": "1440c41c-0813-4591-8950-38321d89a606",
   "doctype": "Case",
   "parties": [
     "Beecham Group Ltd",

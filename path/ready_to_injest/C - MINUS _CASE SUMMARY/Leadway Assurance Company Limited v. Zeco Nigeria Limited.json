@@ -1,6 +1,6 @@
 {
   "case_title": "Leadway Assurance Company Limited v. Zeco Nigeria Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "16-4-2004",
   "year": "2004",
   "suit_number": "SC.4/2000",
@@ -10,12 +10,12 @@
     "(2004)11NWLR(PT.884)316"
   ],
   "area_of_law": [
-    "Admiralty and Shipping",
-    "Commercial Law",
     "Insurance and Reinsurance",
     "Appeal",
-    "Evidence",
-    "Pleadings"
+    "Admiralty and Shipping",
+    "Pleadings",
+    "Commercial Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,10 +25,10 @@
   ],
   "judge": [
     "Idris Legbo Kutigi JSC",
-    "Aloysius Iyorgyer Katsina-Alu JSC",
-    "Samson Odemwingie Uwaifo JSC",
     "Akintola Olufemi Ejiwunmi JSC",
-    "Dahiru Musdapher JSC"
+    "Samson Odemwingie Uwaifo JSC",
+    "Dahiru Musdapher JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
   "representation": [
     "Olu Ibitoye Esq",
@@ -38,7 +38,7 @@
     "Court of Appeal, Kaduna Judicial Division",
     "Federal High Court, Kaduna Judicial Division"
   ],
-  "doc_id": "440ea09f-b251-46c2-8c3d-e22eb49995f9",
+  "doc_id": "c907bf09-aa4d-4cac-a31d-a347cf2455c6",
   "doctype": "Case",
   "parties": [
     "Zeco Nigeria Limited",

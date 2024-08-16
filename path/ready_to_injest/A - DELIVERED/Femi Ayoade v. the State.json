@@ -1,6 +1,6 @@
 {
   "case_title": "Femi Ayoade v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.456/2018",
@@ -11,9 +11,9 @@
   ],
   "area_of_law": [
     "Criminal Law and Procedure",
-    "Constitutional Law",
+    "Appeal",
     "Action",
-    "Appeal"
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,23 +22,23 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
-    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
-    "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "Osayaba Giwa-osagie",
+    "Michael Dedon",
     "Paulyn Abulimen",
-    "Michael Dedon"
+    "Osayaba Giwa-osagie"
   ],
   "representation_respondent": "Ikechukwu Odozor",
   "originating_court": [
     "Lagos State High Court [hon. Justice I.O. Kasali, Presiding]",
     "Court of Appeal"
   ],
-  "doc_id": "8ffe1a02-668d-4d39-82b6-af50165b5455",
+  "doc_id": "40f8d9f9-69f4-4e1d-a40c-d1c235138b39",
   "doctype": "Case",
   "parties": [
     "Femi Ayoade",

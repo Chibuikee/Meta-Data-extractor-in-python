@@ -1,6 +1,6 @@
 {
   "case_title": "Jibril v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "28-3-1968",
   "year": "1968",
   "suit_number": "SC392/1967",
@@ -14,11 +14,11 @@
     "CRIMINALLAW,WOMENANDCHILDREN"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Children and Women Law",
     "Healthcare and Law",
-    "Evidence",
-    "Interpretation of Statutes"
+    "Children and Women Law",
+    "Interpretation of Statutes",
+    "Criminal Law and Procedure",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,17 +26,25 @@
     "Case",
     "High Profile Case"
   ],
+  "judge": [
+    "Suit NoSc",
+    "The State",
+    "Lex- Sc",
+    "Supreme Court of Nigeria",
+    "Bawa Jibril",
+    "Other Citations"
+  ],
   "representation_appellant": [
+    "Women",
     "Cole",
-    "Belgore",
     "Connected Areas of Practice Criminal Law",
-    "Women"
+    "Belgore"
   ],
   "representation_respondent": "Children",
-  "doc_id": "2a2f3e5c-99c0-441a-8e85-bcf77d7503b6",
+  "doc_id": "834a8e5e-8b31-439a-b566-ede6a80600e0",
   "doctype": "Case",
   "parties": [
-    "Ibril",
+    "Bawa Jibril",
     "The State"
   ]
 }

@@ -10,13 +10,13 @@
     "[2007]1NWLR(PT.1014)129"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
-    "Children and Women Law",
-    "Company Law",
-    "Employment and Labour Law",
     "Tort and Personal Injuries",
+    "Company Law",
     "Appeal",
-    "Evidence"
+    "Evidence",
+    "Employment and Labour Law",
+    "Children and Women Law",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,22 +24,25 @@
     "Case"
   ],
   "judge": [
-    "Saka Adeyemi Ibiyeye JSC",
     "John Afolabi Fabiyi JSC",
-    "Pius Olayiwola Aderemi JSC"
+    "Pius Olayiwola Aderemi JSC",
+    "Saka Adeyemi Ibiyeye JSC"
   ],
   "representation": [
-    "C. S. Ojiako",
     "F. J. Abigo",
-    "MR",
+    "C. S. Ojiako",
     "R. O. Mangim"
   ],
-  "doc_id": "99d95e6a-33bb-4729-90ad-7f09b082309e",
+  "originating_court": [
+    "State",
+    "High Court of Rivers State, [holden at Port Harcourt]"
+  ],
+  "doc_id": "7803e560-b401-4d54-912c-4d0cd14fa0bd",
   "doctype": "Case",
   "parties": [
     "First Bank of Nigeria Plc",
-    "Appellants",
     "Chief G. N. Anyichie",
+    "Appellants",
     "MRS Dibo Aboko",
     "Respondent"
   ]

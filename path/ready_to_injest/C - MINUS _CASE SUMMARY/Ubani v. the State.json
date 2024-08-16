@@ -1,6 +1,6 @@
 {
   "case_title": "Ubani v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-12-2003",
   "year": "2003",
   "suit_number": "SC.272/2002",
@@ -10,13 +10,13 @@
     "(2002)18NWLR(PT.851)224"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Healthcare and Law",
     "Criminal Law and Procedur",
     "Children and Women Law",
-    "Healthcare and Law",
     "Ethics",
-    "Practice and Procedure Issues",
-    "Appeal"
+    "Appeal",
+    "Criminal Law and Procedure",
+    "Practice and Procedure Issues"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,25 +25,25 @@
     "High Profile Case"
   ],
   "judge": [
-    "Salihu Modibbo Alfa Belgore JSC",
-    "Aloysius Iyorgyer Katsina-Alu JSC",
     "Umaru Atu Kalgo JSC",
+    "Dennis Onyejife Edozie JSC",
     "Samson Odemwingie Uwaifo JSC",
-    "Dennis Onyejife Edozie JSC"
+    "Salihu Modibbo Alfa Belgore JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
   "representation": [
     "E.T.O. Njoku Esq",
-    "H.E. Wabara Esq",
-    "G.N. Okonkwo Esq",
     "M.E. Nwosu Esq",
-    "S.U. Akuma",
-    "Nwabueze Nwankwo Esq"
+    "H.E. Wabara Esq",
+    "Nwabueze Nwankwo Esq",
+    "G.N. Okonkwo Esq",
+    "S.U. Akuma"
   ],
   "originating_court": [
     "Court of Appeal, Port Harcourt Division",
     "Isiala Ngwa High Court (isuama J., Presiding)"
   ],
-  "doc_id": "15a6f8f1-5a90-4b34-b9a6-31832d8cf280",
+  "doc_id": "d18723ea-7bc6-4143-bb51-a8377a1d9209",
   "doctype": "Case",
   "parties": [
     "Abainta Okendu Ubani",

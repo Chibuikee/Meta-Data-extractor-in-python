@@ -3,49 +3,48 @@
   "court": "Privy Council",
   "date": "19-invalid-1951",
   "year": "1951",
-  "suit_number": "(1951)-A.C.243",
+  "suit_number": "",
   "lex_citation": "LEX(1951)-A.C.243",
   "other_citations": [
     "[1951]A.C.243",
     "3PLR/1951/2(CA)"
   ],
   "area_of_law": [
-    "Lex",
     "Before Their Lordship",
-    "Fearnle",
-    "S"
+    "Lex"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Lord Radcliffe",
-    "Lord Tucker",
     "Sir John",
-    "Beaumont and Sir Lionel Leach"
+    "Beaumont and Sir Lionel Leach",
+    "Lord Radcliffe",
+    "Lord Tucker"
   ],
   "representation": [
     "Dingle Foot",
-    "T. O. Kellock",
+    "A. L. Bryden",
+    "Sons",
+    "Easton &",
     "Fearnley",
     "Whittingstall",
-    "Patrick Easton",
-    "A. L. Bryden",
-    "& Williams",
     "Wm",
-    "Easton &",
-    "Sons"
+    "Patrick Easton",
+    "T. O. Kellock",
+    "& Williams"
   ],
   "originating_court": [
     "West African Court of Appeal (gold Coast Session)",
     "Divisional Court at Kumasi (smith, J., Presiding)"
   ],
-  "doc_id": "c8945449-c12f-469f-b2b6-4725f00b1b10",
+  "doc_id": "0eab30ce-e541-4c23-b29e-9e38ad0b4e0e",
   "doctype": "Case",
   "parties": [
-    "Unkersette Obu",
+    "Kofi Sunkersette Obu",
     "A. Strauss and Co. Ltd"
   ]
 }

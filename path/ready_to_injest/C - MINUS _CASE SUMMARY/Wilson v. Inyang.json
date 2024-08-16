@@ -3,12 +3,14 @@
   "court": "Divisional Court",
   "date": "19-6-1951",
   "year": "1951",
-  "suit_number": "(1951)-2K.B.799",
+  "suit_number": "",
   "lex_citation": "LEX(1951)-2K.B.799",
-  "other_citations": "2PLR/1951/5(CA)",
+  "other_citations": [
+    "2PLR/1951/5(CA)"
+  ],
   "area_of_law": [
-    "Healthcare Law",
-    "Women and Children La"
+    "Women and Children La",
+    "Healthcare Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,10 +23,10 @@
     "Hempsons"
   ],
   "originating_court": "Metropolitan Magistrate Sitting at West London Magistrates' Court.",
-  "doc_id": "95b61064-fffc-4042-a313-e69aff7f6ea2",
+  "doc_id": "7753b6a2-a4ea-4664-b9c7-8f81c8c9821e",
   "doctype": "Case",
   "parties": [
-    "Inyang",
-    "Divisional Court"
+    "Wilson",
+    "Inyang"
   ]
 }

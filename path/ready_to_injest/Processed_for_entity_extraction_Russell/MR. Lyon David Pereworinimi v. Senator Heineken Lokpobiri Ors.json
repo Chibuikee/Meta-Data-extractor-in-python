@@ -10,11 +10,11 @@
     "(2020)LPELR-49505(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Appeal",
     "Election Law",
     "Jurisdiction",
-    "Action"
+    "Constitutional Law",
+    "Action",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,30 +22,30 @@
     "Case"
   ],
   "judge": [
+    "Cordelia Ifeoma Jombo-Ofo JCA",
     "Abubakar Muazu Lamido JCA",
-    "Isaiah Olufemi Akeju JCA",
-    "Cordelia Ifeoma Jombo-Ofo JCA"
+    "Isaiah Olufemi Akeju JCA"
   ],
   "representation_appellant": [
-    "Julius Iyekoroghe, Esq",
     "Chief Karina Tunyan",
-    "M.J. Numa, Esq"
+    "M.J. Numa, Esq",
+    "Julius Iyekoroghe, Esq"
   ],
   "representation_respondent": [
+    "J.O. Nwakpa, Esq",
     "I. E. Onokowhake, Esq",
     "F. B. Olorogun",
-    "T. Mamofede, Esq",
-    "J.O. Nwakpa, Esq"
+    "T. Mamofede, Esq"
   ],
   "originating_court": "Federal High Court [holden at Yenagoa Bayelsa State]",
-  "doc_id": "5329e30e-6446-4f7f-8ab8-55bb61fd4018",
+  "doc_id": "58ee18ab-abf1-44b0-8ed2-5944050ee771",
   "doctype": "Case",
   "parties": [
     "MR. Lyon David Pereworinimi",
-    "Senator Heineken Lokpobiri",
     "All Progressive Congress",
-    "Apc",
+    "Senator Heineken Lokpobiri",
     "Independent National Electoral Commission",
-    "Inec"
+    "Inec",
+    "Apc"
   ]
 }

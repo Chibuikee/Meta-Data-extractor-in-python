@@ -7,15 +7,15 @@
   "lex_citation": "LEX(2010)-CA/B/206/04",
   "other_citations": "2PLR/2010/59(CA)",
   "area_of_law": [
-    "Environmental and Natural Resources Law",
     "Oil and Gas Law",
     "Agriculture and Food Law",
-    "Appeal",
-    "Court",
-    "Evidence",
     "Judgment and Orders",
+    "Appeal",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Environmental and Natural Resources Law",
+    "Court",
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,19 +23,19 @@
     "Case"
   ],
   "judge": [
-    "Amina Adamu Augie JCA",
     "Oyebisi Folayemi Omoleye JCA",
+    "Amina Adamu Augie JCA",
     "Chioma Egondu Nwosu-Iheme JCA"
   ],
   "representation_appellant": "I. L. Alabi",
   "representation_respondent": "Funso Netufo",
-  "doc_id": "fbc18114-c58f-4840-94e4-d57c6ed7c8ab",
+  "doc_id": "ecfafb50-94a5-4c51-a322-165949e2b0b6",
   "doctype": "Case",
   "parties": [
     "Shell Petroleum Development Company Limited",
     "Prince Ogan Mafimisebi",
-    "Chief Bisi Ila Wole",
     "Chief Claudius Atimise",
+    "Chief Bisi Ila Wole",
     "Chief Adeyemi Atimise"
   ]
 }

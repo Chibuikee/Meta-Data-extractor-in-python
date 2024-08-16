@@ -10,15 +10,15 @@
     "(2020)LPELR-49482(CA)"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Real Estate and Property Law",
-    "Administrative and Government Law",
-    "Action",
-    "Appeal",
     "Evidence",
-    "Judgment and Order",
+    "Words and Phrases",
+    "Action",
+    "Administrative and Government Law",
+    "Real Estate and Property Law",
     "Jurisdiction",
-    "Words and Phrases"
+    "Commercial Law",
+    "Appeal",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,21 +26,21 @@
     "Case"
   ],
   "judge": [
-    "Adzira Gana Mshelia JCA",
     "Mudashiru Nasiru Oniyangi JCA",
-    "Boloukuromo Moses Ugo JCA"
+    "Boloukuromo Moses Ugo JCA",
+    "Adzira Gana Mshelia JCA"
   ],
   "representation_appellant": "A. A. Samuel Esq",
   "representation_respondent": "A. H. Umar Esq",
   "originating_court": "High Court of Bauchi State Sitting in Bauchi",
-  "doc_id": "e8d4ea56-162c-4713-8295-efa730241ddf",
+  "doc_id": "8b25a27f-e32c-409b-8e49-2709527a352b",
   "doctype": "Case",
   "parties": [
-    "Eng. Zubairu Yakubu",
     "Mohammed Saffullah",
-    "Ministry of Housing",
+    "Eng. Zubairu Yakubu",
+    "Yayari Sidi",
     "Environment",
     "Bauchi State",
-    "Yayari Sidi"
+    "Ministry of Housing"
   ]
 }

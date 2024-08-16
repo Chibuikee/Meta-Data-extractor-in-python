@@ -1,6 +1,6 @@
 {
   "case_title": "Union Bank of Nigeria Ltd. v. Edionseri",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "25-3-1988",
   "year": "1988",
   "suit_number": "SC81/1986",
@@ -10,15 +10,15 @@
     "(1988)2NWLR(PT.74)93"
   ],
   "area_of_law": [
-    "Banking and Finance",
-    "Debtor and Creditor",
-    "Children and Women Law",
-    "Constitutional Law",
-    "Action",
     "Jurisdiction",
-    "Court",
     "Service of Process",
-    "Interpretation of Statute"
+    "Action",
+    "Constitutional Law",
+    "Interpretation of Statute",
+    "Children and Women Law",
+    "Court",
+    "Debtor and Creditor",
+    "Banking and Finance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,28 +27,28 @@
     "High Profile Case"
   ],
   "judge": [
-    "Augustine Nnamani JSC",
-    "Muhammed Lawal Uwais JSC",
+    "Abubakar Bashir Wali JSC",
     "Salisu Modibo Alfa Belgore JSC",
-    "Philip Nnaemeka-Agu JSC",
-    "Abubakar Bashir Wali JSC"
+    "Muhammed Lawal Uwais JSC",
+    "Augustine Nnamani JSC",
+    "Philip Nnaemeka-Agu JSC"
   ],
   "representation": [
-    "G. U. R. Peter-okoye",
-    "F.R.A. Williams S.A.n",
-    "S. B. Johnson",
     "O. M. Ayeni",
-    "F.R.A. Williams",
-    "U. Nwokedi"
+    "S. B. Johnson",
+    "U. Nwokedi",
+    "F.R.A. Williams S.A.n",
+    "G. U. R. Peter-okoye",
+    "F.R.A. Williams"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Judicial Division",
     "High Court of Lagos"
   ],
-  "doc_id": "de1ab865-4c49-4004-8733-d9da9fbb408e",
+  "doc_id": "3b19c20d-1130-46d4-9452-8b708e7260a0",
   "doctype": "Case",
   "parties": [
-    "Bank of Nigeria Limited",
+    "Union Bank of Nigeria Limited",
     "Alhaja Bisi Edionseri"
   ]
 }

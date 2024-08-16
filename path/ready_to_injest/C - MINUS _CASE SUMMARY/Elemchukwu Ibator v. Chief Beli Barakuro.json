@@ -1,22 +1,22 @@
 {
   "case_title": "Elemchukwu Ibator v. Chief Beli Barakuro",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-4-2007",
   "year": "2007",
   "suit_number": "S.C.243/2001",
   "lex_citation": "LEX(2007)-S.C.243/2001",
   "other_citations": "3PLR/2007/42(SC)",
   "area_of_law": [
-    "Environmental and Natural Resources Law",
-    "Environmentaland Nautral Resources Law",
     "Oil and Gas Law",
-    "Children and Women Law",
-    "Real Estate and Property Law",
+    "Environmentaland Nautral Resources Law",
     "Constitutional Law",
+    "Action",
+    "Children and Women Law",
     "Food and Agriculture Law",
     "Customary Law",
-    "Action",
     "Appeal",
+    "Environmental and Natural Resources Law",
+    "Real Estate and Property Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -26,34 +26,33 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sylvester Umaru Onu JSC",
     "Dahiru Musdapher JSC",
+    "Sylvester Umaru Onu JSC",
+    "Ikechi Francis Ogbuagu JSC",
     "Sunday Akinola Akintan JSC",
-    "Mahmud Mohammed JSC",
-    "Ikechi Francis Ogbuagu JSC"
+    "Mahmud Mohammed JSC"
   ],
   "representation": [
-    "I.P.C. Igwe",
-    "J. C. Ejiogu"
+    "J. C. Ejiogu",
+    "I.P.C. Igwe"
   ],
   "originating_court": [
     "Court of Appeal, Port-harcourt Division",
     "High Court of Justice of Rivers State, Holden at Yenegoa"
   ],
-  "doc_id": "e70e48a0-101c-40af-af4d-c6eb144c2554",
+  "doc_id": "810d932a-631f-4415-91ee-16fa04458e58",
   "doctype": "Case",
   "parties": [
-    "Elemchukwu",
-    "Ibator",
     "Monday Ibator",
-    "Elijah Ziah",
+    "Elemchukwu",
     "Appellants",
+    "Ibator",
+    "Elijah Ziah",
+    "Respondents",
+    "Chief Francis Kologa",
     "Chief Beli Barakuro",
     "MR. Azikiwe Moses",
     "Chief Agreen Ogbonnah",
-    "Chief Francis Kologa",
-    "Respondents",
-    "And",
     "Nigerian Agip Oil Company Limited - Respondents"
   ]
 }

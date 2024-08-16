@@ -7,15 +7,15 @@
   "lex_citation": "LEX(2011)-CA/A/322/09",
   "other_citations": "3PLR/2011/48(CA)",
   "area_of_law": [
-    "Administrative and Government Law",
-    "Ethics",
     "Healthcare and Law",
     "Action",
-    "Appeal",
-    "Court",
-    "Evidence",
     "Judgment and Orders",
-    "Interpretation of Statute"
+    "Ethics",
+    "Appeal",
+    "Interpretation of Statute",
+    "Administrative and Government Law",
+    "Court",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,19 +24,18 @@
   ],
   "judge": [
     "Mohammed Lawal Garba JCA",
-    "Paul Adamu Galinje JCA",
-    "Regina Obiageli Nwodo JCA"
+    "Regina Obiageli Nwodo JCA",
+    "Paul Adamu Galinje JCA"
   ],
   "representation_appellant": [
-    "O. Akeredolu",
+    "Olufemi Ateteolaiye",
+    "Toyin Fameso",
     "MS",
     "Anne Etenam",
-    "Miss",
-    "Toyin Fameso",
-    "Olufemi Ateteolaiye"
+    "O. Akeredolu"
   ],
   "representation_respondent": "Josiah Daniel Ebume",
-  "doc_id": "e792fa6e-9d3d-4cfa-acfd-f19857169c08",
+  "doc_id": "faea4d4f-3de7-4711-8219-e09fc8d99adf",
   "doctype": "Case",
   "parties": [
     "Incorporated Trustees of Nigeria Association of General Practice Pharmacists Employers",

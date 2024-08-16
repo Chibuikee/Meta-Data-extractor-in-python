@@ -1,6 +1,6 @@
 {
   "case_title": "Apampa v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "18-6-1982",
   "year": "1982",
   "suit_number": "SC97/1981",
@@ -10,9 +10,14 @@
     "(1982)ALLN.L.R131"
   ],
   "area_of_law": [
+    "Criminal Law and Procedure",
+    "Words and Phrases",
+    "Education and Law",
     "Action",
-    "Interpretation of Statutes",
-    "Words and Phrases"
+    "Employment and Labour Law",
+    "Government and Administrative Law",
+    "Constitutional Law",
+    "Interpretation of Statutes"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,27 +26,28 @@
     "High Profile Case"
   ],
   "judge": [
-    "George Sodeinde Sowemimo JSC",
-    "Chukwuwike Idigbe JSC",
-    "Anthony Nnaemeka Aniagolu JSC",
     "Kayode Eso JSC",
-    "Mohammed Lawal Uwais JSC"
+    "Anthony Nnaemeka Aniagolu JSC",
+    "George Sodeinde Sowemimo JSC",
+    "Mohammed Lawal Uwais JSC",
+    "Chukwuwike Idigbe JSC"
   ],
-  "representation_appellant": [
-    "R.A. Ogunwole . E.O. Awosusi",
-    "Depuly Director of Public Prosecution",
+  "representation": [
     "Oyo State",
-    "Substantive Legal"
+    "E.O. Awosusi",
+    "M.A. Apampa",
+    "R.A. Ogunwole",
+    "Depuly Director of Public Prosecution",
+    "O. Akinjide"
   ],
-  "representation_respondent": "Policy Issues Criminal Law",
   "originating_court": [
     "Federal Court of Appeal",
     "High Court of Ibadan, of the Oyo State"
   ],
-  "doc_id": "e6b86630-08f3-4497-933f-750851ee9d3b",
+  "doc_id": "09f92b5d-bfa8-42e9-b7ce-0ce7f54bf077",
   "doctype": "Case",
   "parties": [
-    "I Ajasa Apampa",
+    "Bkadiri Ajasa Apampa",
     "The State"
   ]
 }

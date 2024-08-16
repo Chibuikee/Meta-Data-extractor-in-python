@@ -1,18 +1,18 @@
 {
   "case_title": "Sunny Tongo and Helen Tongo v. Commissioner of Police",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "27-4-2007",
   "year": "2007",
   "suit_number": "SC.105/2000",
   "lex_citation": "LEX(2007)-SC.105/2000",
   "other_citations": "2PLR/2007/102(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Action",
     "Constitutional Law and Human Rights",
-    "Elder Law",
-    "Health Law",
     "Children and Women Law",
-    "Action"
+    "Health Law",
+    "Criminal Law and Procedure",
+    "Elder Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,21 +21,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Umaru Atu Kalgo JSC",
-    "George Adesola Oguntade JSC",
     "Aloma Mariam Mukhtar JSC",
     "Walter Samuel Nkanu Onnoghen JSC",
-    "Christopher Mitchell Chukwuma-Eneh JSC"
+    "Christopher Mitchell Chukwuma-Eneh JSC",
+    "Umaru Atu Kalgo JSC",
+    "George Adesola Oguntade JSC"
   ],
   "representation": [
-    "A.N.A. Igbinovia Esq",
-    "V.O. Aweh",
     "O. R. Thomas",
     "O. S. Uwuigbe",
+    "Edo State",
     "Director of Public Prosecution",
-    "Edo State"
+    "V.O. Aweh",
+    "A.N.A. Igbinovia Esq"
   ],
-  "doc_id": "fff8f6c1-7284-48f3-a4ed-fa36aa1e4f29",
+  "originating_court": [
+    "Court(s)",
+    "Court of Appeal, Benin Judicial Division, Edo State",
+    "High Court Sitting at Benin City. Edo State (edokpayi J., Presiding)",
+    "Magistrate E.I. Ikponmwonba (MRS.) of Edo State Judiciary Sitting at Benin City"
+  ],
+  "doc_id": "267d043b-347f-4fe0-9f65-5561277c7dd2",
   "doctype": "Case",
   "parties": [
     "Sunny Tongo",

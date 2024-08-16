@@ -1,6 +1,6 @@
 {
   "case_title": "Emeryi v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "9-3-1973",
   "year": "1973",
   "suit_number": "SC158/1972",
@@ -12,10 +12,10 @@
     "[1973]NSCC91"
   ],
   "area_of_law": [
+    "Court",
     "Criminal Law and Procedure",
     "Children and Women Law",
-    "Healthcare and Law",
-    "Court"
+    "Healthcare and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,22 +24,20 @@
     "High Profile Case"
   ],
   "judge": [
-    "George Baptist ACoker JSC",
     "Sodeinde Sowemimo JSC",
+    "George Baptist ACoker JSC",
     "Dan Ibekwe, Ag JSC"
   ],
   "representation": [
-    "MR",
-    "F.O. Akinrele",
-    "MR",
     "Ejiwunmi",
+    "F.O. Akinrele",
     "Lagos State"
   ],
   "originating_court": "High Court of Lagos (kassim J., Presiding)",
-  "doc_id": "26c499eb-ac7a-4590-b5b4-25d8bf6bf679",
+  "doc_id": "5ca88e81-65a2-4365-b244-3ebc3e9f06e2",
   "doctype": "Case",
   "parties": [
-    "Ian Emeryi",
+    "Christian Emeryi",
     "The State"
   ]
 }

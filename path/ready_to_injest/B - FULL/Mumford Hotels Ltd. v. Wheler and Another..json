@@ -3,17 +3,17 @@
   "court": "Chancery",
   "date": "19-7-1963",
   "year": "1963",
-  "suit_number": "CASESUMMARY",
-  "lex_citation": "LEX(1963)–CH.117",
+  "suit_number": "",
+  "lex_citation": "LEX(1963)-CH.117",
   "other_citations": [
     "2PLR/1963/49(CH.D)",
     "[1962M.NO.966.]",
     "[1964]CH.117"
   ],
   "area_of_law": [
+    "Word and Phrases",
     "Real Estate and Property Law",
-    "Insurance and Reinsurance",
-    "Word and Phrases"
+    "Insurance and Reinsurance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,7 +21,8 @@
     "Case"
   ],
   "judge": "Harman LJ",
-  "doc_id": "8a3f7ab5-7a78-4a4c-8a2f-a96bdf7eef3f",
+  "representation": "Representation Not Found",
+  "doc_id": "3e9f88f0-969c-4a50-9ad9-c6c1cfd1adc6",
   "doctype": "Case",
   "parties": [
     "Mumford Hotels Ltd",

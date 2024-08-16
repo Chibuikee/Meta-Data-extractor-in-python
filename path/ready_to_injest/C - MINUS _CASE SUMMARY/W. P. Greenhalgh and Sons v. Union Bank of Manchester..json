@@ -3,7 +3,7 @@
   "court": "King's Bench Division",
   "date": "19-4-1924",
   "year": "1924",
-  "suit_number": "(1924)-K.B04/24",
+  "suit_number": "",
   "lex_citation": "LEX(1924)-K.B04/24",
   "other_citations": "3PLR/1924/6(KB.D)",
   "area_of_law": "Banking and Finance Law",
@@ -13,24 +13,16 @@
     "Case"
   ],
   "judge": "Swift J",
-  "representation": [
-    "Grundy",
-    "Kershaw",
-    "Samson & Co",
-    "Manchester",
-    "Tatham",
-    "Worthington & Co",
-    "Manchester"
-  ],
-  "doc_id": "8f1b8b72-a3db-4b2b-bc58-e16d5ea8b5cb",
+  "representation": "Representation Not Found",
+  "doc_id": "ec5a1000-96ff-47bb-9747-a72a14ee9604",
   "doctype": "Case",
   "parties": [
     "W. P. Greenhalgh and Sons",
-    "Union Bank of Manchester",
     "Reresentation",
+    "N. J. Laski",
     "Cyril Atkinson K.C.",
-    "J. Lustgarten",
     "Eastham K.C.",
-    "N. J. Laski"
+    "Union Bank of Manchester",
+    "J. Lustgarten"
   ]
 }

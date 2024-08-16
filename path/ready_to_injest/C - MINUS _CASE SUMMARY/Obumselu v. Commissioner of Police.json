@@ -1,23 +1,17 @@
 {
   "case_title": "Obumselu v. Commissioner of Police",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-12-1958",
   "year": "1958",
   "suit_number": "S.C.34/1958",
   "lex_citation": "LEX(1958)-F.S.C.34/1958",
   "other_citations": "3PLR/1958/51(FSC)",
   "area_of_law": [
-    "Lex",
-    "Before Their Lordship",
-    "Myles John Abbott",
-    "Representatio",
-    "Ayoola",
-    "Ademola",
-    "Criminal Law and Procedure",
-    "Education and Law",
-    "Healthcare Law",
     "Children and Women Law",
-    "Words and Phrases"
+    "Criminal Law and Procedure",
+    "Words and Phrases",
+    "Healthcare Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,23 +21,21 @@
   ],
   "judge": [
     "Myles John Abbott FJ",
-    "Lionel Brett FJ",
-    "Louis Nwachukwu Mbanefo FJ"
+    "Louis Nwachukwu Mbanefo FJ",
+    "Lionel Brett FJ"
   ],
-  "representation_appellant": [
-    "Ayoola",
+  "representation": [
     "Ademola",
-    "Substantive Legal"
+    "Ayoola"
   ],
-  "representation_respondent": "Policy Issues Criminal Law",
   "originating_court": [
     "High Court of the Western Region",
     "Chief Magistrate of the Ibadan Magisterial District"
   ],
-  "doc_id": "f0df1b79-6deb-42e1-8aad-f8316889801f",
+  "doc_id": "c742baaf-8a42-4948-b12e-64d0a43cb6cb",
   "doctype": "Case",
   "parties": [
-    "Ct Obumselu",
+    "Benedict Obumselu",
     "Commissioner of Police"
   ]
 }

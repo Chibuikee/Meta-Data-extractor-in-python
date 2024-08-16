@@ -1,14 +1,14 @@
 {
   "case_title": "Inije v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "21-1-1977",
   "year": "1977",
   "suit_number": "SC101/1976",
   "lex_citation": "LEX(1977)-SC101/1976",
   "other_citations": "3PLR/1977/32(SC)",
   "area_of_law": [
-    "Criminal Law",
     "Children and Women Law",
+    "Criminal Law",
     "Healthcare and Law"
   ],
   "semantic_tags": [
@@ -18,20 +18,20 @@
     "High Profile Case"
   ],
   "judge": [
+    "High Court of Lagos State",
     "Udo Udoma JSC",
     "Chukwunwike Idigbe JSC",
     "Andrews Otutu Obaseki JSC",
-    "Origination",
-    "High Court of Lagos State (savage J"
+    "Origination"
   ],
   "representation": [
     "F. O. Akinrele Esq",
     "Abiodun Alao Esq"
   ],
-  "doc_id": "e5a80540-f0ab-4b9f-bc2d-5f024f2dd1cb",
+  "doc_id": "6c595744-1945-48ab-9f87-8fa72661e368",
   "doctype": "Case",
   "parties": [
-    "Irefeta Inije",
+    "Daniel Irefeta Inije",
     "The State"
   ]
 }

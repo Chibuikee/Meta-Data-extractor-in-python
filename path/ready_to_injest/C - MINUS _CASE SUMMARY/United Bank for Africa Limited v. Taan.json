@@ -10,12 +10,12 @@
     "(1992)7NWLR(PT.304)368."
   ],
   "area_of_law": [
-    "Debtor and Creditor",
     "Ethics",
     "Appeal",
+    "Judgment and Order",
     "Court",
-    "Evidence",
-    "Judgment and Order"
+    "Debtor and Creditor",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,19 +23,20 @@
     "Case"
   ],
   "judge": [
+    "Eugene Chukwuemeka Ubaezonu JCA",
     "Ibrahim Kolapo Sulu-Gambari JCA",
-    "Niki Tobi JCA",
-    "Eugene Chukwuemeka Ubaezonu JCA"
+    "Niki Tobi JCA"
   ],
   "representation": [
-    "Babatunde Oshilaja - Applicant",
-    "O. Idemudia"
+    "Babatunde Oshilaja",
+    "O. Idemudia",
+    "Applicant"
   ],
-  "doc_id": "7d487e00-7c64-4d43-9bc8-9eb9245d2940",
+  "doc_id": "6b73da2d-b8f7-4f64-904f-bfeba77df383",
   "doctype": "Case",
   "parties": [
     "United Bank for Africa Limited",
-    "Majeed Taan",
-    "Rolan Taan"
+    "Rolan Taan",
+    "Majeed Taan"
   ]
 }

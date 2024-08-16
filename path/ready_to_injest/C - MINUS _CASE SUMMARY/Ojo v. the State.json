@@ -1,6 +1,6 @@
 {
   "case_title": "Ojo v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "28-11-1973",
   "year": "1973",
   "suit_number": "SC176/1972",
@@ -10,20 +10,18 @@
     "(1973)11S.C.(REPRINT)199"
   ],
   "area_of_law": [
-    "Lex",
-    "M",
-    "Criminal Law and Procedure",
-    "Children and Women Law",
+    "F",
     "Healthcare and Law",
+    "I",
+    "Children and Women Law",
     "Practice and Procedure",
     "Appeal",
-    "Sowemimo",
-    "A",
     "T",
-    "F",
-    "I",
     "H",
-    "W"
+    "Criminal Law and Procedure",
+    "Sowemimo",
+    "W",
+    "A"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -37,16 +35,14 @@
     "Dan Ibekwe JSC"
   ],
   "representation": [
-    "MR",
     "M. A. Bashua",
-    "MR",
     "W. O. O. Agahowe"
   ],
   "originating_court": "High Court Auchi, in the Midwestern State",
-  "doc_id": "0b92a35d-f490-49f0-8155-d12a6d09ca8f",
+  "doc_id": "e57d7c63-e216-4c29-a2e8-3ad098b33f7d",
   "doctype": "Case",
   "parties": [
-    "U Ojo",
+    "Ise Ibu Ojo",
     "The State"
   ]
 }

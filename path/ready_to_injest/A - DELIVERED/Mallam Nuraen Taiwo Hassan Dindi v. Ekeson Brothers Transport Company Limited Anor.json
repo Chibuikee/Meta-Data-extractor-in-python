@@ -4,18 +4,18 @@
   "date": "21-2-2020",
   "year": "2020",
   "suit_number": "CA/A/323/2015",
-  "lex_citation": "LEX(2020)–CA/A/323/2015",
+  "lex_citation": "LEX(2020)-CA/A/323/2015",
   "other_citations": [
     "3PLR/2020/28(CA)",
     "(2020)LPELR-49523(CA)"
   ],
   "area_of_law": [
-    "Tort and Personal Injuries",
+    "Employment and Labour Law",
     "Tort and Personal Injury Law",
     "Tort and Personal Injury",
-    "Transportation Law",
-    "Employment and Labour Law",
-    "Appeal"
+    "Tort and Personal Injuries",
+    "Appeal",
+    "Transportation Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,21 +23,21 @@
     "Case"
   ],
   "judge": [
-    "Stephen Jonah Adah JCA",
-    "Peter Olabisi Ige JCA",
     "Emmanuel Akomaye Agim JCA",
     "Betweeen",
     "Mallam Nuraen Taiwo Hassan",
-    "Ekeson",
-    "Brothers Transport Company Limited"
+    "Stephen Jonah Adah JCA",
+    "Peter Olabisi Ige JCA",
+    "Brothers Transport Company Limited",
+    "Ekeson"
   ],
   "representation_appellant": "Adekola Mustapha",
   "representation_respondent": "A.O. Edmond-okeke",
   "originating_court": "High Court of the Federal Capital Territory [olukayode A. Adeniyi J. Presiding]",
-  "doc_id": "d83df9ae-c22c-4e2b-b856-5ba88238bd76",
+  "doc_id": "0a10435c-3138-4185-bd98-eac79514ddcc",
   "doctype": "Case",
   "parties": [
-    "Nuraen Taiwo Hassan Dindi",
+    "Mallam Nuraen Taiwo Hassan Dindi",
     "Ekeson Brothers Transport Company Limited & Anor"
   ]
 }

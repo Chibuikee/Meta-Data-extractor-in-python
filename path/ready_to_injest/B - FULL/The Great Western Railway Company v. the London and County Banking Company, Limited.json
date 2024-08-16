@@ -1,10 +1,10 @@
 {
   "case_title": "The Great Western Railway Company v. the London and County Banking Company, Limited",
   "court": "House of Lords",
-  "date": "22-invalid-1901",
+  "date": "22-7-1901",
   "year": "1901",
-  "suit_number": "(1862)13",
-  "lex_citation": "LEX(1901)–1A.C.414",
+  "suit_number": "",
+  "lex_citation": "LEX(1901)-1A.C.414",
   "other_citations": [
     "2PLR/1902/3(HL-E)",
     "[1901]1A.C.414"
@@ -13,29 +13,30 @@
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Earl of Halsbury",
-    "Lord Shand",
     "Lord Davey",
+    "Lord Lindley",
     "Lord Brampton",
-    "Lord Lindley"
+    "Earl of Halsbury",
+    "Lord Shand"
   ],
   "representation_appellant": [
     "H. D. Greene",
     "A. T. Lawrence"
   ],
   "representation_respondent": [
-    "Guy Lushington",
-    "R. R. Nelson",
     "Harries",
+    "R. R. Nelson",
+    "Guy Lushington",
     "Wilkinson & Raikes"
   ],
-  "doc_id": "6e509389-be53-45d1-9ed9-53a51c8162f6",
+  "doc_id": "c6450d67-ac84-43d2-8e73-5de8310ba065",
   "doctype": "Case",
   "parties": [
-    "Eat Western Railway Company",
+    "The Great Western Railway Company",
     "The London and County Banking Company, Limited"
   ]
 }

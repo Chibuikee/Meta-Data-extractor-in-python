@@ -1,6 +1,6 @@
 {
   "case_title": "Ogwa Nweke Onah v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "6-12-1985",
   "year": "1985",
   "suit_number": "SC164/1984",
@@ -23,26 +23,25 @@
   ],
   "judge": [
     "Andrews Otutu Obaseki JSC",
-    "Anthony Nnnaemezie Aniagolu JSC",
+    "Chukwudifu Akunne Oputa JSC",
     "Muhammadu Lawal Uwais JSC",
     "Boonyamin Oladiran Kazeem JSC",
-    "Chukwudifu Akunne Oputa JSC"
+    "Anthony Nnnaemezie Aniagolu JSC"
   ],
   "representation": [
-    "MR",
-    "A. O. Mogboh",
     "C. N. Uzoewulu",
     "Principal State Counsel",
+    "A. O. Mogboh",
     "Anambra State"
   ],
   "originating_court": [
     "Court of Appeal",
     "(old) Anambra State High Court, Holden at Abakaliki (offish, J., Presiding)"
   ],
-  "doc_id": "9da0621f-ceb4-4544-8268-b673665e7ff7",
+  "doc_id": "bdac602e-07e2-4075-8f00-9c77dd085bbe",
   "doctype": "Case",
   "parties": [
-    "Weke Onah",
+    "Ogwa Nweke Onah",
     "The State"
   ]
 }

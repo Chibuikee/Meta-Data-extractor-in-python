@@ -10,15 +10,15 @@
     "(2016)LPELR-40146(CA)"
   ],
   "area_of_law": [
-    "Banking and Finance",
-    "Commercial Law",
-    "Debtor and Creditor Law",
-    "Action",
-    "Appeal",
-    "Court",
-    "Evidence",
     "Jurisdiction",
-    "Words and Phrases"
+    "Action",
+    "Court",
+    "Appeal",
+    "Debtor and Creditor Law",
+    "Commercial Law",
+    "Words and Phrases",
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,27 +26,27 @@
     "Case"
   ],
   "judge": [
-    "Helen Moronkeji Ogunwumiju JCA",
     "Massoud Abdulrahman Oredola JCA",
-    "Misitura Omodere Bolaji-Yusuff JCA"
+    "Misitura Omodere Bolaji-Yusuff JCA",
+    "Helen Moronkeji Ogunwumiju JCA"
   ],
   "representation_appellant": [
     "Chijioke Nwankwo",
     "Barth O. Ezea"
   ],
   "representation_respondent": [
+    "Unrepresented",
     "I.A. Akaraiwe",
-    "F. B. Agim",
-    "Unrepresented"
+    "F. B. Agim"
   ],
-  "doc_id": "a4d62623-1641-489b-99fe-344255703d94",
+  "doc_id": "f82b5e0a-2521-4027-a22d-30bbc4f34378",
   "doctype": "Case",
   "parties": [
     "Hydro-tech Nigeria Ltd",
     "Rev. Hyde Onuaguluchi",
+    "Rural Development",
     "Leadway Assurance Co. Ltd",
-    "Fidelity Bank Plc",
     "Federal Ministry of Water Resources",
-    "Rural Development"
+    "Fidelity Bank Plc"
   ]
 }

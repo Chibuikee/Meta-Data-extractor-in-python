@@ -3,48 +3,49 @@
   "court": "House of Lords",
   "date": "19-6-1980",
   "year": "1980",
-  "suit_number": "(2)SECTION74COFTHE1925",
-  "lex_citation": "LEX(1980)–2ALLE.R.408",
+  "suit_number": "",
+  "lex_citation": "LEX(1980)-2ALLE.R.408",
   "other_citations": [
     "3PLR/1980/35(HL)",
     "[1981]AC487",
     "[1980]2ALLER408"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
+    "Real Estate and Property Law",
+    "Words and Phrases",
     "Children and Women Law",
     "Debtor and Creditor",
-    "Estate Planning",
+    "Banking and Finance Law",
     "Family Law",
-    "Real Estate and Property Law",
-    "Words and Phrases"
+    "Estate Planning"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
     "Lord Wilberforce",
-    "Viscount Dilhorne",
     "Lord Salmon",
-    "Lord Scarman",
-    "Lord Roskill"
+    "Viscount Dilhorne",
+    "Lord Roskill",
+    "Lord Scarman"
   ],
   "representation_appellant": [
     "Stephenson Harwood",
-    "Kanter",
-    "Jules"
+    "Jules",
+    "Kanter"
   ],
   "representation_respondent": [
+    "Hughmans",
     "Co",
-    "Hughmans . Mary Rose Plummer",
-    "Barrister"
+    "Mary Rose Plummer"
   ],
-  "doc_id": "96033360-6ec0-4759-bd0f-99a02154e55c",
+  "doc_id": "b4ac2b07-cfb0-4260-aecd-a2c6916d8a05",
   "doctype": "Case",
   "parties": [
-    "MS and Glyn’s Bank Ltd",
+    "Williams and Glyn’s Bank Ltd",
     "Brown"
   ]
 }

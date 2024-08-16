@@ -3,20 +3,20 @@
   "court": "High Court",
   "date": "10-9-1956",
   "year": "1956",
-  "suit_number": "(1956)-WNLR154",
+  "suit_number": "",
   "lex_citation": "LEX(1956)-WNLR154",
   "other_citations": [
     "3PLR/1956/87(HC)",
     "1955-1958WNLR154"
   ],
   "area_of_law": [
-    "Insurance and Reinsurance",
-    "Commercial Law",
+    "Court",
     "Alternative Dispute Resolution",
+    "Insurance and Reinsurance",
     "Ethics",
     "Transportation and Logistics Law",
-    "Evidence",
-    "Court"
+    "Commercial Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,7 +28,7 @@
     "Ayoola",
     "Thanni"
   ],
-  "doc_id": "8f257c89-635f-481c-9bbd-80146e565a32",
+  "doc_id": "a4e57097-613f-4627-ab2c-af9a1eadfff1",
   "doctype": "Case",
   "parties": [
     "Mark Kayode",

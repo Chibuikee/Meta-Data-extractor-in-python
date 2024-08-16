@@ -1,6 +1,6 @@
 {
   "case_title": "Abdulrahman Abubakar",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-3-2017",
   "year": "2017",
   "suit_number": "SC.167/2016",
@@ -10,11 +10,11 @@
     "(2017)LPELR-41915(SC)"
   ],
   "area_of_law": [
+    "Jurisdiction",
+    "Court",
     "Election Petition",
     "Constitutional Law",
-    "Ethics",
-    "Court",
-    "Jurisdiction"
+    "Ethics"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,70 +23,65 @@
     "High Profile Case"
   ],
   "judge": [
-    "Mary Ukaego Peter-Odili JSC",
-    "Clara Bata Ogunbiyi JSC",
-    "Chima Centus Nweze JSC",
     "Amina Adamu Augie JSC",
-    "Sidi Dauda Bage JSC"
+    "Mary Ukaego Peter-Odili JSC",
+    "Sidi Dauda Bage JSC",
+    "Chima Centus Nweze JSC",
+    "Clara Bata Ogunbiyi JSC"
   ],
   "representation_appellant": [
-    "J.S. Okutepa, San",
-    "Aliu",
-    "O. Saiki, Esq",
-    "John",
-    "A. Mathew, Esq",
-    "J.J. Usman, Esq",
-    "M.S. Ibrahim, Esq",
-    "Ocholi",
-    "O. Okutepa, Esq",
-    "MRS Hokaha",
-    "H. Bassey",
-    "W.C. Daniel, Esq",
-    "MRS",
     "Elizabeth",
-    "O. Ifedayo",
-    "Ojonimi",
-    "S. Apeh, Esq",
-    "M.O. Idam, Esq",
-    "O. A. Arowosebe, Esq",
     "Miss Abodia",
-    "O. Okutepa",
-    "M. O. Ogobuchi, Esq",
-    "Onu",
+    "Ojonimi",
+    "W.C. Daniel, Esq",
+    "J.J. Usman, Esq",
+    "C. O. Ozuzu",
+    "M.S. Ibrahim, Esq",
+    "O. Okutepa, Esq",
+    "O. A. Arowosebe, Esq",
     "S. Achem, Esq",
-    "Miss",
+    "S. Apeh, Esq",
+    "Aliu",
+    "J.S. Okutepa, San",
+    "Ocholi",
     "G. O. Ejesieme",
-    "Miss",
+    "MRS Hokaha",
     "A. E. Agunbiade",
-    "Miss",
     "B. E. Ameh and Miss",
-    "C. O. Ozuzu"
+    "M. O. Ogobuchi, Esq",
+    "O. Okutepa",
+    "A. Mathew, Esq",
+    "O. Saiki, Esq",
+    "H. Bassey",
+    "John",
+    "O. Ifedayo",
+    "M.O. Idam, Esq",
+    "Onu"
   ],
   "representation_respondent": [
-    "P.I.N. Ikwueto, San",
     "C.D. Eze, Esq",
-    "O.D. Soyebo, Esq",
     "N. U. Odimegwu, Esq",
     "A.A. Ibrahim, Esq",
-    "MRS",
-    "B. Sheyin"
+    "B. Sheyin",
+    "O.D. Soyebo, Esq",
+    "P.I.N. Ikwueto, San"
   ],
   "originating_court": [
     "Court of Appeal (ruling Striking Out the Appellants’ Motion No. Ca/a/36a/m/2016 ).",
     "National Assembly Election Petition Tribunal Lokoja"
   ],
-  "doc_id": "1a64da67-4876-4276-9ac5-02a329e82fcf",
+  "doc_id": "66bd06bc-87fa-489c-a71b-d6ecefef827c",
   "doctype": "Case",
   "parties": [
-    "Abdulrahman Abubakar",
     "All Progressives Congress",
     "Apc",
-    "Senator Aidoko Ali Usman",
+    "Abdulrahman Abubakar",
     "Peoples Democratic Party",
-    "Pdp",
-    "Independent National Electoral Commission",
     "Inec",
+    "Kogi East Senatorial District",
     "The Returning Officer",
-    "Kogi East Senatorial District"
+    "Pdp",
+    "Senator Aidoko Ali Usman",
+    "Independent National Electoral Commission"
   ]
 }

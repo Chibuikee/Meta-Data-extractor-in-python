@@ -1,6 +1,6 @@
 {
   "case_title": "Skye Bank Plc v. Victor Anaemem Iwu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "30-6-2017",
   "year": "2017",
   "suit_number": "SC.885/2014",
@@ -10,18 +10,17 @@
     "(2017)LPELR-42595(SC)"
   ],
   "area_of_law": [
-    "Company Law",
-    "Constitutional Law",
     "Constitutional Law and Human Rightds",
-    "Employment and Labour Law",
+    "Constitutional Law",
     "Action",
+    "Company Law",
     "Appeal",
-    "Court",
-    "Jurisdiction",
     "Interpretation of Statute",
     "Interpretation of Statutes",
+    "Employment and Labour Law",
+    "Court",
     "Words and Phrases",
-    "Words and Phrase"
+    "Jurisdiction"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -30,18 +29,18 @@
     "High Profile Case"
   ],
   "judge": [
-    "Mary Ukaego Peter-Odili JSC",
-    "Musa Dattijo Muhammad JSC",
-    "Clara Bata Ogunbiyi JSC",
-    "Kumai Bayang Aka'ahs JSC",
     "Kudirat Motonmori Olatokunbo Kekere-Ekun  JSC",
     "Chima Centus Nweze  JSC",
-    "Ejembi Eko JSC"
+    "Clara Bata Ogunbiyi JSC",
+    "Kumai Bayang Aka'ahs JSC",
+    "Ejembi Eko JSC",
+    "Musa Dattijo Muhammad JSC",
+    "Mary Ukaego Peter-Odili JSC"
   ],
   "representation_appellant": [
+    "Ekene Nwonu",
     "Charles D. Mekwunye",
-    "S. M. Emojeghware",
-    "Ekene Nwonu"
+    "S. M. Emojeghware"
   ],
   "representation_respondent": [
     "Fes Eze Eke",
@@ -51,7 +50,7 @@
     "Court of Appeal, Lagos Judicial Division",
     "National Industrial Court, Lagos Division [obaseki-osaghae, J., Presiding]"
   ],
-  "doc_id": "760e045a-db40-48f6-b873-ebc429ce50eb",
+  "doc_id": "41d0ddc5-0c40-4c80-ab0a-020819f50301",
   "doctype": "Case",
   "parties": [
     "Skye Bank Plc",

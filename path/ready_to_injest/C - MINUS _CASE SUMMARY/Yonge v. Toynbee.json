@@ -3,13 +3,13 @@
   "court": "Court of Appeal",
   "date": "12-5-1909",
   "year": "1909",
-  "suit_number": "(1)8",
+  "suit_number": "",
   "lex_citation": "",
   "other_citations": "3PLR/1909/2(CA-E)",
   "area_of_law": [
+    "S",
     "Ethics",
-    "Healthcare",
-    "S"
+    "Healthcare"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -17,32 +17,32 @@
     "Case"
   ],
   "judge": [
-    "Swinfen Eady J",
-    "Vaughan Williams and Buckley L JJ"
+    "Vaughan Williams and Buckley L JJ",
+    "Swinfen Eady J"
   ],
   "representation_appellant": [
-    "Retainer to Conduct Defence to an Action - Lunacy of Client - Determination",
-    "Authority - Steps in Action Taken by in Ignorance of Determination of Authority - Implied Warranty of Existence of Authority - Liability of Personally to Pay Plaintiff",
-    "Costs - Practice - Appeal",
-    "Matter",
-    "Judicature Act",
-    "Healthcare",
-    "Medicine"
-  ],
-  "representation_respondent": [
-    "Lunacy or Unsoundness of Mind - Effect on Existing Contract Made by Sufferer - Re",
-    "Representation A. Scott",
+    "Sons",
     "Montague Shearman",
-    "Wood",
-    "Bigg & Nash",
-    "J. H. Yonge",
+    "A. Scott",
+    "&",
     "Worcester",
     "Wontner",
-    "&",
-    "Sons",
-    "Case Summary Originating Facts"
+    "Wood",
+    "Case Summary Originating Facts",
+    "Bigg & Nash",
+    "J. H. Yonge"
   ],
-  "doc_id": "8d974b73-c502-4487-a88c-c49d367df044",
+  "representation_respondent": [
+    "Claims",
+    "In",
+    "Subsequently",
+    "Before",
+    "Refusal by Sutton",
+    "Court of Appeal",
+    "Decision Appealed Against",
+    "Master"
+  ],
+  "doc_id": "98498d16-8ff4-4c3b-9072-9b7d8026d4ab",
   "doctype": "Case",
   "parties": [
     "Yonge",

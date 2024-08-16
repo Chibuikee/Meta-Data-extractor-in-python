@@ -3,17 +3,17 @@
   "court": "Court of Appeal",
   "date": "9-6-1994",
   "year": "1994",
-  "suit_number": "CASESUMMARY",
-  "lex_citation": "LEX(1994)–1ALLE.R.641",
+  "suit_number": "",
+  "lex_citation": "LEX(1994)-1ALLE.R.641",
   "other_citations": [
     "3PLR/1994/8(SC)",
     "[1995]1ALLER641"
   ],
   "area_of_law": [
+    "Alternative Dispute Resolution",
     "Admiralty and Maritime Law",
     "Admiralty and Shipping",
-    "Debtor and Creditor Law",
-    "Alternative Dispute Resolution"
+    "Debtor and Creditor Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,13 +22,13 @@
   ],
   "judge": "Hirst LJ, Hoffmann LJ",
   "representation": [
-    "Angus Glennie Qc",
-    "Karen Maxwell",
+    "Plaintiffs",
     "Richard Southern",
-    "Plaintiffs"
+    "Angus Glennie Qc",
+    "Karen Maxwell"
   ],
   "originating_court": "High Court (hobhouse J., Presiding)",
-  "doc_id": "37d5ffa6-3c43-46ea-acfd-b9b52d29efa2",
+  "doc_id": "ef4c406d-e3c4-4260-8487-329aae31a2dc",
   "doctype": "Case",
   "parties": [
     "Aectra Refining and Marketing Inc",

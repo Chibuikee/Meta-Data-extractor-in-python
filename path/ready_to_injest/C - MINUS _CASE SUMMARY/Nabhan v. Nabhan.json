@@ -1,16 +1,16 @@
 {
   "case_title": "Nabhan v. Nabhan",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "21-4-1967",
   "year": "1967",
   "suit_number": "SC358/1965",
   "lex_citation": "LEX(1967)-SC358/1965",
   "other_citations": "2PLR/1967/48(SC)",
   "area_of_law": [
-    "Family Law",
     "Healthcare and Law",
-    "Practice and Procedure Issues",
     "Appeal",
+    "Practice and Procedure Issues",
+    "Family Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -20,9 +20,9 @@
     "High Profile Case"
   ],
   "judge": [
-    "Lionel Brett JSC",
     "George Baptist ACoker JSC",
-    "Ian Lewis JSC"
+    "Ian Lewis JSC",
+    "Lionel Brett JSC"
   ],
   "representation": [
     "H. O. Davies",
@@ -32,10 +32,10 @@
     "Originating Court",
     "The High Court of Western Nigeria (adeyinka Morgan, C.J., Presiding)"
   ],
-  "doc_id": "a57bcd36-d153-4d4b-94fa-69d286ca603c",
+  "doc_id": "d7ebfb72-1d29-4832-9806-86652a5ad42e",
   "doctype": "Case",
   "parties": [
-    "Nabhan",
+    "Claude Nabhan",
     "George Nabhan"
   ]
 }

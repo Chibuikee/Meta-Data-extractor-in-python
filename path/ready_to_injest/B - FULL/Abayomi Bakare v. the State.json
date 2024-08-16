@@ -10,10 +10,10 @@
     "(2017)LPELR-42772(CA)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Appeal",
+    "Judgment and Order",
     "Evidence",
-    "Judgment and Order"
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,17 +21,18 @@
     "Case"
   ],
   "judge": [
-    "Modupe Fasanmi JCA",
     "Chinwe Eugenia Iyizoba JCA",
+    "Modupe Fasanmi JCA",
     "Haruna Simon Tsammani JCA"
   ],
   "representation": [
-    "D. A. Awosika",
+    "Oludayo Osunfisan",
     "M. I. Omojola",
-    "Oludayo Osunfisan R. B. Kadiri"
+    "R. B. Kadiri",
+    "D. A. Awosika"
   ],
   "originating_court": "Ogun State High Court of Justice in the Ota Judicial Division (n. I. Agbelu, J., Presiding)",
-  "doc_id": "b34619d8-9040-4b47-8baf-e9384c40a28f",
+  "doc_id": "658751b9-122a-41de-ab46-39cb4a1e4e7a",
   "doctype": "Case",
   "parties": [
     "Abayomi Bakare",

@@ -1,15 +1,15 @@
 {
   "case_title": "Awopeju v. Famakinwa",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-5-1956",
   "year": "1956",
   "suit_number": "SC180/1955",
   "lex_citation": "LEX(1956)-FSC180/1955",
   "other_citations": "2PLR/1956/53(SC)",
   "area_of_law": [
-    "Alternative Dispute Resolution",
+    "Employment and Labour",
     "Commercial Law",
-    "Employment and Labour"
+    "Alternative Dispute Resolution"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,10 +18,11 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sir Stafford Foster-Sutton, F CJ",
+    "Myles John Abbott, Ag FJ",
     "Olumuyiwa Jibowu FJ",
-    "Myles John Abbott, Ag FJ"
+    "Sir Stafford Foster-Sutton, F CJ"
   ],
+  "representation": "Representation Not Found",
   "originating_court": [
     "High Court, (gregg, J., Presiding)",
     "Between",
@@ -33,13 +34,13 @@
     "4. H.A. Oluwasani",
     "Trading as West African Industrial Etc."
   ],
-  "doc_id": "10f08c84-0123-43f2-9260-6f8d7e5b79a0",
+  "doc_id": "ee15a343-5a1a-4b55-b27d-98ea7be00059",
   "doctype": "Case",
   "parties": [
     "P. O. Awopeju",
-    "S.O. Famakinwa",
+    "H.A. Oluwasani",
     "D.A. Badejo",
-    "MRS. M.R. Meadows",
-    "H.A. Oluwasani"
+    "S.O. Famakinwa",
+    "MRS. M.R. Meadows"
   ]
 }

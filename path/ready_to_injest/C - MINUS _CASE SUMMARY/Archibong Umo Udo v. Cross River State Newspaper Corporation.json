@@ -7,18 +7,17 @@
   "lex_citation": "LEX(2001)-CA/C/77/99",
   "other_citations": "2PLR/2001/63(CA)",
   "area_of_law": [
-    "Administrative and Government Law",
-    "Constitutional Law",
-    "Criminal Law and Procedure",
-    "Employment and Labour Law",
     "Action",
-    "Appeals",
-    "Appeal",
-    "Court",
-    "Evidence",
+    "Constitutional Law",
     "Judgment and Orders",
+    "Pleading",
     "Judgment and Order",
-    "Pleading"
+    "Employment and Labour Law",
+    "Administrative and Government Law",
+    "Criminal Law and Procedure",
+    "Court",
+    "Appeals",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -31,20 +30,19 @@
     "Simeon Osuji Ekpe JCA"
   ],
   "representation": [
-    "Bassey F. Etuk",
-    "J.E. Efa S.S.c",
     "Ministry of Justice",
+    "J.E. Efa S.S.c",
+    "Bassey F. Etuk",
     "Calabar"
   ],
   "originating_court": [
-    "",
     "Cross River State High Court, Calabar Judicial Division"
   ],
-  "doc_id": "464ffa55-5ea7-406e-b473-e96ff382a4a9",
+  "doc_id": "22661ac9-6792-4b16-9dd1-2930ab417916",
   "doctype": "Case",
   "parties": [
     "Archibong Umo Udo",
-    "Cross River State Newspaper Corporation",
-    "Attorney-general of Cross River State"
+    "Attorney-general of Cross River State",
+    "Cross River State Newspaper Corporation"
   ]
 }

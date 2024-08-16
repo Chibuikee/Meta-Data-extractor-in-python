@@ -1,19 +1,19 @@
 {
   "case_title": "Engr. Chinedum O. Anya v. Barr. Onwuchekwa O. Anya Ors2",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.116/2014",
-  "lex_citation": "LEX(2020)–SC.116/2014",
+  "lex_citation": "LEX(2020)-SC.116/2014",
   "other_citations": [
     "3PLR/2020/17(SC)",
     "(2020)LPELR-49386(SC)"
   ],
   "area_of_law": [
-    "Estate Planning and Administration",
+    "Evidence",
     "Customary Law",
     "Court",
-    "Evidence"
+    "Estate Planning and Administration"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,11 +22,11 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
-    "Musa Dattijo Muhammad JSC",
-    "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Musa Dattijo Muhammad JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": "O.A. Eze",
   "representation_respondent": "O.O. Anya",
@@ -34,17 +34,14 @@
     "Court of Appeal",
     "High Court of Enugu State, Enugu Judicial Division"
   ],
-  "doc_id": "1fc80e4a-9a1d-4619-9448-fffd6068690d",
+  "doc_id": "2c90a8ec-66bf-454d-b1f8-315727e2f54d",
   "doctype": "Case",
   "parties": [
     "Engr. Chinedum O. Anya",
     "Barr. Onwuchekwa O. Anya",
-    "Ogbonnaya Anya",
-    "Barr",
-    "MRS",
     "Udemma Ngbor",
-    "Nee Anya",
     "MRS. Ijeoma U. Blunt",
+    "Ogbonnaya Anya",
     "Nee Anya",
     "Hon. Justice Oriaku Z. Ikeorha"
   ]

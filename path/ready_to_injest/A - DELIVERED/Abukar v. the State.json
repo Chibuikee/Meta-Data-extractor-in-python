@@ -1,16 +1,16 @@
 {
   "case_title": "Abukar v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "31-10-1969",
   "year": "1969",
   "suit_number": "S.C.158/69",
   "lex_citation": "LEX(1969)-S.C.158/69",
   "other_citations": "3PLR/1969/4(SC)",
   "area_of_law": [
+    "Religion and Law",
     "Criminal Law and Procedure",
     "Children and Women Law",
-    "Healthcare and Law",
-    "Religion and Law"
+    "Healthcare and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,19 +19,21 @@
     "High Profile Case"
   ],
   "judge": [
+    "Charles Olusoji Madarikan JSC",
     "Adetokunbo Ademola CJN",
-    "George Baptist ACoker JSC",
-    "Charles Olusoji Madarikan JSC"
+    "George Baptist ACoker JSC"
   ],
   "representation": [
-    "Akinsanya Cole",
+    "Cole",
     "Liberty",
-    "Senior State Counsel"
+    "Senior State Counsel",
+    "Akinsanya"
   ],
   "originating_court": "High Court, Maiduguri (hague J. Presiding)",
-  "doc_id": "fe8891ae-9449-451f-a01b-14ccf381ccaa",
+  "doc_id": "a8ca63bf-545d-4b8b-8b5d-3403b5ae2436",
   "doctype": "Case",
   "parties": [
+    "Tom Abukar",
     "The State"
   ]
 }

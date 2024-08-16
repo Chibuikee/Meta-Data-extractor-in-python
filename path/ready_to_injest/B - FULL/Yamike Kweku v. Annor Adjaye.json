@@ -3,34 +3,30 @@
   "court": "Privy Council",
   "date": "19-6-1926",
   "year": "1926",
-  "suit_number": "(1855)6MOO.I.A.134",
-  "lex_citation": "LEX(1926)–PC06/21",
+  "suit_number": "",
+  "lex_citation": "LEX(1926)-PC06/21",
   "other_citations": "3PLR/1925/2(PC)",
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Court"
+    "Court",
+    "Alternative Dispute Resolution"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
     "Viscount Haldane, Lord Atkinson",
     "Lord Darling"
   ],
-  "representation": [
-    "A. L. Bryden",
-    "Ashurst",
-    "Morris",
-    "Crisp & Co"
-  ],
+  "representation": "Representation Not Found",
   "originating_court": [
     "Appeal From the Supreme Court of the Gold Coast Colony.",
     "Divisional Court in the Gold Coast Colony",
     "Arbitration Panel"
   ],
-  "doc_id": "88d5641e-0fb1-4a1a-96ff-0b82bdc5d397",
+  "doc_id": "79dc1421-f2f0-471a-b0f6-f3fc2ab6945b",
   "doctype": "Case",
   "parties": [
     "Yamike Kweku",

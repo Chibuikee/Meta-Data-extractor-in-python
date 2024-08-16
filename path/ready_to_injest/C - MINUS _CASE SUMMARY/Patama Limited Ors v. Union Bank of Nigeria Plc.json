@@ -10,13 +10,13 @@
     "(2015)LPELR-24535(CA)"
   ],
   "area_of_law": [
-    "Banking and Finance La",
-    "Debtor and Credito",
     "Action",
+    "Words and Phrases",
     "Appeal",
-    "Evidence",
     "Judgment and Order",
-    "Words and Phrases"
+    "Debtor and Creditor",
+    "Banking and Finance Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,28 +24,31 @@
     "Case"
   ],
   "judge": [
-    "Sidi Dauda Bage  JCA",
+    "Jamilu Yanmama Tukur JCA",
     "Chinwe Eugenia Iyizoba JCA",
-    "Jamilu Yanmama Tukur JCA"
+    "Sidi Dauda Bage  JCA"
   ],
   "representation_appellant": [
-    "A. U. Igri",
+    "D. E. Ojiekhaudu",
     "Holding",
-    "D. E. Ojiekhaudu"
+    "A. U. Igri"
   ],
-  "representation_respondent": "A. O. Lajide A. O. Akanji",
+  "representation_respondent": [
+    "A. O. Akanji",
+    "A. O. Lajide"
+  ],
   "originating_court": "High Court of Lagos State, Lagos Judicial Division (justice R.I.B. Adebiyi., Presiding)",
-  "doc_id": "bc40dc89-fd5e-48eb-9ad5-d08ca18518de",
+  "doc_id": "a0107914-4a64-4cfc-988d-04c200332527",
   "doctype": "Case",
   "parties": [
-    "Patama Limited",
-    "Chief Patrick I. Umunegbe",
-    "MR. J. O. Umunegbe",
     "MR. A. Dan Ukaogo",
+    "MR. J. O. Umunegbe",
     "Appellants",
     "Respondents",
+    "Chief Patrick I. Umunegbe",
+    "Patama Limited",
     "Union Bank of Nigeria Plc",
-    "Respondent",
-    "Appellant"
+    "Appellant",
+    "Respondent"
   ]
 }

@@ -1,21 +1,21 @@
 {
   "case_title": "Unity Bank Plc v. Denclag Limited Anor",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "30-3-2012",
   "year": "2012",
   "suit_number": "SC.185/2004",
   "lex_citation": "LEX(2012)-SC.185/2004",
   "other_citations": "2PLR/2012/103(SC)",
   "area_of_law": [
-    "Commercial Law",
-    "Debtor and Creditor",
-    "Banking and Financing",
     "Healthcare and Law",
     "Ethics",
     "Appeal",
-    "Evidence",
+    "Interpretation of Statutes",
     "Pleadings",
-    "Interpretation of Statutes"
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Banking and Financing",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,17 +24,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Francis Fedode Tabai JSC",
     "Christopher Mitchell Chukwuma-Eneh JSC",
-    "Muhammad Saifullah Muntaka-Coomassie JSC",
     "Bode Rhodes-Vivour JSC",
-    "Mary Ukaego Peter-Odili JSC"
+    "Mary Ukaego Peter-Odili JSC",
+    "Francis Fedode Tabai JSC",
+    "Muhammad Saifullah Muntaka-Coomassie JSC"
   ],
-  "doc_id": "f0a537e5-e6fc-4f5d-912c-90e112f52c9d",
+  "representation": "Representation Not Found",
+  "originating_court": [
+    "State",
+    "Bauchi State High Court"
+  ],
+  "doc_id": "244b0920-38cc-4f5a-9ac0-a966dee1c028",
   "doctype": "Case",
   "parties": [
     "Unity Bank Plc",
-    "Denclag Limited",
-    "I. Audu"
+    "I. Audu",
+    "Denclag Limited"
   ]
 }

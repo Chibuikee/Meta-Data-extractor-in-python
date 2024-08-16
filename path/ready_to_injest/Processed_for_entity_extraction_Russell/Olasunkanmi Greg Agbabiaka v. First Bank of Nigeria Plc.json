@@ -4,20 +4,20 @@
   "date": "28-6-2019",
   "year": "2019",
   "suit_number": "SC.6/2007",
-  "lex_citation": "LEX(2020)–SC.6/2007",
+  "lex_citation": "LEX(2020)-SC.6/2007",
   "other_citations": [
     "3PLR/2020/38(SC)",
     "(2019)LPELR-48125(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Appeal",
-    "Evidence",
     "Judgement and Order",
+    "Ethics",
+    "Constitutional Law",
+    "Debtor",
+    "Appeal",
     "Banking Law",
     "Judgement",
-    "Debtor",
-    "Ethics"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,23 +26,23 @@
     "High Profile Case"
   ],
   "judge": [
+    "Ibrahim Tanko Muhammad JSC",
     "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
     "Ejembi Eko JSC",
-    "Uwani Musa Abba Aji JSC",
-    "Ibrahim Tanko Muhammad JSC"
+    "Uwani Musa Abba Aji JSC"
   ],
   "representation_appellant": [
     "P. E Tagbo, Esq",
-    "Olumide Sofowora, San",
-    "G. Sofowora, Esq"
+    "G. Sofowora, Esq",
+    "Olumide Sofowora, San"
   ],
   "representation_respondent": "Emoni Williams, Esq",
   "originating_court": [
     "Court of Appeal, Lagos Division",
     "Lagos State High Court"
   ],
-  "doc_id": "a9948d62-1fd2-47a0-afa2-bf08b3f01140",
+  "doc_id": "e109ff06-5387-455c-abe5-21f1ee1c24a2",
   "doctype": "Case",
   "parties": [
     "Olasunkanmi Greg Agbabiaka",

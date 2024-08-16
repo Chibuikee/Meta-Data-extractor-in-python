@@ -1,21 +1,21 @@
 {
   "case_title": "Bill Construction Co. Ltd. v. Imani Sons Ltd Shell Trustees Ltd (a Joint Venture)",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-12-2006",
   "year": "2006",
   "suit_number": "SC.63/2002",
   "lex_citation": "LEX(2006)-SC.63/2002",
   "other_citations": "2PLR/2006/28",
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Commercial Law",
-    "Constitutional Law",
     "Constitutional and Public Law",
     "Action",
-    "Court",
-    "Judgment and Order",
+    "Constitutional Law",
     "Judgment and Orders",
-    "Interpretation of Statutes"
+    "Court",
+    "Alternative Dispute Resolution",
+    "Interpretation of Statutes",
+    "Judgment and Order",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,25 +24,26 @@
     "High Profile Case"
   ],
   "judge": [
+    "Sunday Akinola Akintan JSC",
     "Idris Legbo Kutigi JSC",
     "Umaru Atu Kalgo JSC",
-    "Sunday Akinola Akintan JSC",
     "Walter Samuel Nkanu Onnoghen JSC"
   ],
   "representation": [
-    "G.N. Okonkwo",
     "Cross",
     "Olu Daramola",
-    "Cross"
+    "Akin Akintan",
+    "G.N. Okonkwo",
+    "M.B. Badmus Aladesane"
   ],
   "originating_court": [
     "Court of Appeal Holden at Lagos",
     "Lagos State High Court, Lagos"
   ],
-  "doc_id": "dd94b8d2-d38e-4faf-94da-2008fde6b1c3",
+  "doc_id": "d9ac05ab-b8c8-4c8f-8a87-3f330d326952",
   "doctype": "Case",
   "parties": [
-    "Onstruction Co. Ltd",
+    "Bill Construction Co. Ltd",
     "Imani & Sons Ltd/shell Trustees Ltd (a Joint Venture"
   ]
 }

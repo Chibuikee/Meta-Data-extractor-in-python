@@ -3,16 +3,16 @@
   "court": "King's Bench Division",
   "date": "19-4-1927",
   "year": "1927",
-  "suit_number": "(1927)-2K.B.123",
+  "suit_number": "",
   "lex_citation": "LEX(1927)-2K.B.123",
   "other_citations": [
     "3PLR/1927/4(KB.D)",
     "[1928]1K.B.48"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
+    "Children and Women Law",
     "Company Law",
-    "Children and Women Law"
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,24 +21,23 @@
   ],
   "judge": "Wright J",
   "representation": [
-    "Singleton K.c",
     "Wooll",
+    "Plaintiffs",
+    "Singleton K.c",
     "Greaves",
     "Lord K.c",
-    "N. B. Goldie",
-    "Plaintiffs Plaintiffs",
     "G. H. Brabner",
     "Liverpool",
     "Rutherford & Co",
-    "Liverpool"
+    "N. B. Goldie"
   ],
-  "doc_id": "9ee52a65-f44b-42a8-bd85-0e573ad9aba3",
+  "doc_id": "db9d6ce7-5313-4797-be29-67e2417c3410",
   "doctype": "Case",
   "parties": [
     "B. Liggett",
+    "Limited",
     "Liverpool",
     "Limited",
-    "Barclays Bank",
-    "Limited"
+    "Barclays Bank"
   ]
 }

@@ -10,14 +10,14 @@
     "(2014)LPELR-22836(CA)"
   ],
   "area_of_law": [
+    "Action",
+    "Appeal",
+    "Nonprofit Law",
     "Real Estate",
     "Education Law",
     "Children and Women Law",
-    "Nonprofit Law",
-    "Action",
-    "Appeal",
     "Court",
-    "Words and Phrase"
+    "Words and Phrases"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,33 +25,33 @@
     "Case"
   ],
   "judge": [
-    "Uwani Musa Abba Aji JCA",
     "Philomena Mbua Eekpe JCA",
+    "Uwani Musa Abba Aji JCA",
     "Peter Olabisi Ige JCA"
   ],
   "representation": [
     "G. O. Dunga",
-    "U. N. Anyiam",
-    "Nkechi Obioha"
+    "Nkechi Obioha",
+    "U. N. Anyiam"
   ],
   "originating_court": [
     ":",
     "High Court of Imo State of Nigeria (N.B. Ukaoha, J)"
   ],
-  "doc_id": "f9f106df-58be-4b46-a47c-79e7c7041ebb",
+  "doc_id": "270d4a81-0056-4ca0-970f-ed8569b95905",
   "doctype": "Case",
   "parties": [
-    "The Registered Trustees of International Secondary School",
     "I.S.s",
     "Orlu",
     "Sir S.C. Elenwoke",
-    "Bicoz Oil Coy. Nigeria Limited",
+    "The Registered Trustees of International Secondary School",
+    "Owerri",
     "Chief Ifeanyichukwu Anele",
+    "Imo State",
+    "Department of Petroleum Resources",
+    "The Director",
     "Isiehi",
     "Hon. Commissioner for Lands Survey and Urban Planning",
-    "Imo State",
-    "The Director",
-    "Department of Petroleum Resources",
-    "Owerri"
+    "Bicoz Oil Coy. Nigeria Limited"
   ]
 }

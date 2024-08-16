@@ -7,16 +7,16 @@
   "lex_citation": "LEX(2017)-CA/L/244/2012",
   "other_citations": "3PLR/2017/8(CA)",
   "area_of_law": [
+    "Employment and Labour Law",
+    "Words and Phrases",
+    "Company Law",
     "Administrative Law and Government",
     "Banking and Finance Law",
     "Commmercial Law",
-    "Company Law",
-    "Employment and Labour Law",
-    "Judgment and Order",
-    "Tort and Personal Injury Law",
-    "Appeal",
     "Judgment and Orders",
-    "Words and Phrases"
+    "Appeal",
+    "Judgment and Order",
+    "Tort and Personal Injury Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,16 +25,17 @@
   ],
   "judge": [
     "MLGarba JCA",
-    "Abimbola Osarugue Obaseki-Adejumo JCA",
-    "Jamilu Yammama Tukur JCA"
+    "Jamilu Yammama Tukur JCA",
+    "Abimbola Osarugue Obaseki-Adejumo JCA"
   ],
+  "representation": "Representation Not Found",
   "originating_court": "High Court of Lagos State .",
-  "doc_id": "e1e364ca-dabe-4644-8a8e-13a0f1e4053c",
+  "doc_id": "6116be1e-1173-4678-9216-04042d11397a",
   "doctype": "Case",
   "parties": [
     "MR. Solomon Abekhe",
     "Alpha Merchant Bank Plc",
-    "Nigeria Deposit Insurance Corporation",
-    "Central Bank of Nigeria"
+    "Central Bank of Nigeria",
+    "Nigeria Deposit Insurance Corporation"
   ]
 }

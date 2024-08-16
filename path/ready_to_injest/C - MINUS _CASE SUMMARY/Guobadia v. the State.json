@@ -1,6 +1,6 @@
 {
   "case_title": "Guobadia v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "3-6-2002",
   "year": "2002",
   "suit_number": "SC.295/2002",
@@ -10,12 +10,12 @@
     "(2004)6NWLR(PT.869)360"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Healthcare and Law",
-    "Constitutional Law and Human Right Rights",
     "Children and Women Law",
     "Appeal",
-    "Interpretation of Statute"
+    "Interpretation of Statute",
+    "Constitutional Law and Human Right Rights",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,20 +25,20 @@
   ],
   "judge": [
     "Idris Legbo Kutigi JSC",
+    "Dennis Onyejife Edozie JSC",
     "Aloysius Iyorgyer Katsina-Alu JSC",
     "Umaru Atu Kalgo JSC",
-    "Samson Odemwingie Uwaifo JSC",
-    "Dennis Onyejife Edozie JSC"
+    "Samson Odemwingie Uwaifo JSC"
   ],
   "representation": [
-    "Etigwe Uwa Esq",
     "O.A. Omonuwa Esq",
-    "N.T. Ekwejie"
+    "N.T. Ekwejie",
+    "Etigwe Uwa Esq"
   ],
-  "doc_id": "3c59f63e-10af-40e4-a08c-3549b881c828",
+  "doc_id": "a9b7f570-0887-4c59-bf00-56f4f6d9e8b8",
   "doctype": "Case",
   "parties": [
-    "Ine Guobadia",
+    "Augustine Guobadia",
     "The State"
   ]
 }

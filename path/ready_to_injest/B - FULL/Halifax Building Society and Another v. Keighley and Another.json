@@ -3,17 +3,17 @@
   "court": "King's Bench Division",
   "date": "19-3-1931",
   "year": "1931",
-  "suit_number": "CASESUMMARY",
-  "lex_citation": "LEX(1931)–2K.B.248",
+  "suit_number": "",
+  "lex_citation": "LEX(1931)-2K.B.248",
   "other_citations": [
     "3PLR/1931/2(KBD)",
     "[1931]2K.B.248",
     "[1931.H.692.]"
   ],
   "area_of_law": [
+    "Real Estate and Property Law",
     "Debtor and Creditor",
-    "Insurance and Reinsurance",
-    "Real Estate and Property Law"
+    "Insurance and Reinsurance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,21 +24,20 @@
   "representation": [
     "A. J. Belsham",
     "Plaintiffs",
-    "Gilbert Beyfus",
-    "F. B. Brook",
-    "Gaunt",
     "Foster & Co",
-    "Bradford",
-    "Somerville",
-    "Philpot & Co",
-    "F. G",
     "H. E. Smith",
+    "Gilbert Beyfus",
+    "Philpot & Co",
+    "Gaunt",
+    "F. B. Brook",
+    "F. G",
+    "Somerville",
     "Bradford"
   ],
-  "doc_id": "cdd84650-5535-4b7a-a5c6-98c156bf735f",
+  "doc_id": "c437dd48-8da2-4688-913c-69c353ab4d41",
   "doctype": "Case",
   "parties": [
-    "X Building Society and Another",
+    "Halifax Building Society and Another",
     "Keighley and Another"
   ]
 }

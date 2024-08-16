@@ -3,16 +3,16 @@
   "court": "Court of Appeal",
   "date": "18-12-1981",
   "year": "1981",
-  "suit_number": "(1982)-1ALLE.R.796",
+  "suit_number": "",
   "lex_citation": "LEX(1982)-1ALLE.R.796",
   "other_citations": [
     "2PLR/1981/15(CA)",
     "[1982]1ALLER796"
   ],
   "area_of_law": [
-    "Commercial Law",
     "Shipping and Admiralty Law",
-    "Judgment and Order"
+    "Judgment and Order",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,19 +24,18 @@
     "And Sir George Baker"
   ],
   "representation": [
-    "Bernard Eder",
-    "Peregrin Simon",
+    "Diana Brahams",
+    "Middleton",
     "Richards",
     "Butler & Co",
-    "Middleton",
+    "Bernard Eder",
     "Potts & Co",
-    "Diana Brahams",
-    "Barrister"
+    "Peregrin Simon"
   ],
-  "doc_id": "85f5f2f8-1214-497c-a472-b7781cd8b6c4",
+  "doc_id": "32971bb7-f766-47cc-9bd5-fd309907e90e",
   "doctype": "Case",
   "parties": [
-    "A Maritime Sa",
+    "Galaxia Maritime Sa",
     "Mineral Import Export the Eleftherios"
   ]
 }

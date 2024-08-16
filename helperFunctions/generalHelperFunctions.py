@@ -12,7 +12,20 @@ def flatten_a_2D_list(list):
 def create_key_and_value(key, data_array, metadata):
     if data_array is not None:
         for index, value in enumerate(data_array):
-            metadata[f"{key}_{index}"] = value
+            metadata[f"{key}_{index}"] = value.rstrip().rstrip("-").rstrip()
+
+
+# this is just to filter out words only
+# don't confuse with filtered_and_refined_words which does more than filtering out words
+def filter_out_some_words(matched_words, array_of_words_to_remove):
+    r_words = [item.lower() for item in array_of_words_to_remove]
+
+    # Define the removeItem function
+    def remove_item(word):
+        # print(f"word to convert{word not in r_word}")
+        return word.lower() not in r_words
+
+    return list(set(filter(remove_item, matched_words)))
 
 
 def index_sort_in_ascending(regexes, text, first_index=0):
@@ -76,6 +89,7 @@ def to_ascii(text):
         "™": "(TM)",  # trademark sign
         "“": '"',
         "”": '"',
+        "’": "'",
     }
 
     # First, replace known characters

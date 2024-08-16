@@ -1,17 +1,17 @@
 {
   "case_title": "Chijioke Ugwu v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.196/2015",
-  "lex_citation": "LEX(2021)–SC.196/2015",
+  "lex_citation": "LEX(2021)-SC.196/2015",
   "other_citations": [
     "3PLR/2020/7(SC)",
     "(2020)LPELR-49375(SC)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Ethics",
+    "Criminal Law and Procedure",
     "Appeal"
   ],
   "semantic_tags": [
@@ -21,31 +21,29 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
-    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
-    "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "I.A. Akaraiwe Esq",
-    "DR",
     "O. B. Ajinola",
-    "B. E. Uwaokhonye, Esq",
-    "T. E. Iyoha-osagie, Esq"
+    "I.A. Akaraiwe Esq",
+    "T. E. Iyoha-osagie, Esq",
+    "B. E. Uwaokhonye, Esq"
   ],
   "representation_respondent": [
-    "Chief",
-    "M. A. Eze",
-    "T. A. Ngene, Esq",
     "U. D. Neboh, Esq",
-    "K.K. Odugu, Esq"
+    "M. A. Eze",
+    "K.K. Odugu, Esq",
+    "T. A. Ngene, Esq"
   ],
   "originating_court": [
     "Court of Appeal [enugu Division]",
     "Enugu State High Court [holden at Nsukka Judicial Division]"
   ],
-  "doc_id": "23ba6225-ad3f-450a-a306-e1e1ff3febd4",
+  "doc_id": "551408dd-e1ac-4abe-9eaf-f413f5b834f8",
   "doctype": "Case",
   "parties": [
     "Chijioke Ugwu",

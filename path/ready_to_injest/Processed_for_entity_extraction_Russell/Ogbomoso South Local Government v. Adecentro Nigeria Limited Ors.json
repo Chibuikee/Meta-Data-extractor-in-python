@@ -10,8 +10,8 @@
     "(2020)LPELR-49532(CA)"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Action"
+    "Action",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,24 +20,24 @@
   ],
   "judge": [
     "Nonyerem Okoronkwo JCA",
-    "Folasade Ayodeji Ojo JCA",
-    "Haruna Simon Tsammani JCA"
+    "Haruna Simon Tsammani JCA",
+    "Folasade Ayodeji Ojo JCA"
   ],
   "representation": [
     "O.M. Ayeni, Esq",
-    "S. Akande, Esq",
     "Akinsumbo",
-    "I.C. Ezechukwu, Esq",
-    "H.O. Abdulazeez, Esq"
+    "S. Akande, Esq",
+    "H.O. Abdulazeez, Esq",
+    "I.C. Ezechukwu, Esq"
   ],
   "originating_court": "Oyo State High Court [holden at Ogbomoso]",
-  "doc_id": "1a5b67c1-ad2d-4b51-9bf0-fdca571c5805",
+  "doc_id": "dc7124c0-4c4e-4529-9ed4-ed72c545f1a2",
   "doctype": "Case",
   "parties": [
     "Ogbomoso South Local Government",
-    "Adecentro Nigeria Limited",
+    "Ogooluwa Local Government",
     "Ogbomoso North Local Government",
-    "Surulere Local Government",
-    "Ogooluwa Local Government"
+    "Adecentro Nigeria Limited",
+    "Surulere Local Government"
   ]
 }

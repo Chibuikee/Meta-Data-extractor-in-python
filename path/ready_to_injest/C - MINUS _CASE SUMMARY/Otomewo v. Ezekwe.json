@@ -1,20 +1,22 @@
 {
   "case_title": "Otomewo v. Ezekwe",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-3-1958",
   "year": "1958",
   "suit_number": "S.C.161/1957",
   "lex_citation": "LEX(1958)-F.S.C.161/1957",
-  "other_citations": "2PLR/1958/59(FSC)",
+  "other_citations": [
+    "2PLR/1958/59(FSC)"
+  ],
   "area_of_law": [
     "Tort and Personal Injury",
-    "Children and Women Law",
     "Healthcare and Law",
+    "Appeal",
     "Nonprofit Law",
-    "Religion and Law",
-    "Practice and Procedure Issues",
+    "Children and Women Law",
     "Judgment and Order",
-    "Appeal"
+    "Practice and Procedure Issues",
+    "Religion and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,25 +25,23 @@
     "High Profile Case"
   ],
   "judge": [
-    "MCNageon De Lestang, AgF CJ",
+    "Robert Yorke Hedges, Ag FJ",
     "Sir Henley Coussey, Ag FJ",
-    "Robert Yorke Hedges, Ag FJ"
+    "MCNageon De Lestang, AgF CJ"
   ],
   "representation": [
-    "MR",
     "J.E.C. David",
-    "Apundefinedpellant",
+    "Ap",
     "MR. G.C.M. Onyiuke"
   ],
   "originating_court": [
-    "",
     "High Court of the Western Region, Warri Judicial Division"
   ],
-  "doc_id": "51b41a73-28d2-4cfd-81be-cab925bfc5d9",
+  "doc_id": "e6edf5c1-b48f-4668-b249-c3ecad4d6fca",
   "doctype": "Case",
   "parties": [
-    "E.T. Otomewo",
     "Samuel E. Lessor",
+    "E.T. Otomewo",
     "DR. Philip V.N. Ezekwe"
   ]
 }

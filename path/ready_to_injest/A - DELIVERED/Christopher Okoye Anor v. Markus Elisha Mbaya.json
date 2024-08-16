@@ -10,11 +10,11 @@
     "(2020)LPELR-49161(CA)"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Constitutional Law",
     "Evidence",
-    "Judgment and Order",
-    "Jurisdiction"
+    "Constitutional Law",
+    "Jurisdiction",
+    "Commercial Law",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,9 +22,9 @@
     "Case"
   ],
   "judge": [
-    "Chidi Nwaoma Uwa JCA",
     "James Shehu Abiriyi JCA",
-    "Abdullahi Mahmud Bayero JCA"
+    "Abdullahi Mahmud Bayero JCA",
+    "Chidi Nwaoma Uwa JCA"
   ],
   "representation_appellant": "M.J. Ifegwu",
   "representation_respondent": "C.K. Atiman",
@@ -32,7 +32,7 @@
     "Adamawa State Upper Area Court",
     "Adamawa State Upper Area Court No. 2"
   ],
-  "doc_id": "a54f00cd-4d66-4c8e-be06-4099f29f85fb",
+  "doc_id": "769a787a-12a9-42f1-a08b-9179cc19ca90",
   "doctype": "Case",
   "parties": [
     "Christopher Okoye",

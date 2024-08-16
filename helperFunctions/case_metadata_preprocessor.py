@@ -168,10 +168,14 @@ def process_json(input_file, output_folder):
 
 def main():
     # FOR CHIBUIKE
-    input_folder = r"C:\chibs\Desktop\chibscodes\python\path\A - DELIVERED"
-    output_folder = (
-        r"C:\chibs\Desktop\chibscodes\python\path\ready_to_injest\A - DELIVERED"
+    input_folder = (
+        # r"C:\chibs\Desktop\chibscodes\python\path\documentsToProcess\A - DELIVERED"
+        # r"C:\chibs\Desktop\chibscodes\python\path\documentsToProcess\Processed_for_entity_extraction_Russell"
+        # r"C:\chibs\Desktop\chibscodes\python\path\documentsToProcess\B - FULL"
+        # r"C:\chibs\Desktop\chibscodes\python\path\documentsToProcess\C - MINUS _CASE SUMMARY"
+        r"C:\chibs\Desktop\chibscodes\python\path\documentsToProcess\Processed_for_entity_extraction_Russell"
     )
+    output_folder = r"C:\chibs\Desktop\chibscodes\python\path\ready_to_injest\Processed_for_entity_extraction_Russell"
     # FOR RUSSLE
     # input_folder = r"C:\Users\Russell\Desktop\Second\in_TEST"
     # output_folder = r"C:\Users\Russell\Desktop\Second\out_TEST"

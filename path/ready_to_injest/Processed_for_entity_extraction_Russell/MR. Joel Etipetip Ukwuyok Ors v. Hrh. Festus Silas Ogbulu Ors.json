@@ -10,9 +10,9 @@
     "(2019)LPELR-48741(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
+    "Court",
     "Appeal",
-    "Court"
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,11 +21,11 @@
     "High Profile Case"
   ],
   "judge": [
-    "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
     "Ibrahim Tanko Muhammad JSC",
-    "John Inyang Okoro JSC"
+    "Paul Adamu Galumje JSC",
+    "John Inyang Okoro JSC",
+    "Uwani Musa Abba Aji JSC"
   ],
   "representation_appellant": "E.K. Saidu, Esq",
   "representation_respondent": [
@@ -36,21 +36,21 @@
     "Court of Appeal",
     "High Court of Justice, Rivers State [holden at Port Harcourt (coram) W. A. Chechey, J]"
   ],
-  "doc_id": "7c288bc7-48a7-49b5-ad29-dcdeff65d783",
+  "doc_id": "199162ce-883c-441e-9e30-6dc33fe93257",
   "doctype": "Case",
   "parties": [
     "MR. Joel Etipetip Ukwuyok",
-    "MR. Robinson Karibi Ukwuyok",
-    "MR. Joshua Etipetip Ukwuyok",
-    "MR. David Etipetip Ukwuyok",
     "MR. Robinson Dike",
-    "MR. Frank David Etipetip",
     "MR. Karibi Etipetip Ukwuyok",
-    "Hrh. Festus Silas Ogbulu",
-    "The Okan-ama of Ibotirem Town",
+    "MR. Joshua Etipetip Ukwuyok",
+    "MR. Robinson Karibi Ukwuyok",
+    "MR. David Etipetip Ukwuyok",
+    "MR. Frank David Etipetip",
     "Elder Ajebula W.D. Ogbulu",
-    "MR. John S. Eneyok",
+    "The Okan-ama of Ibotirem Town",
     "MR. Jonah Okwa",
-    "Elder Joseph Joshua"
+    "Elder Joseph Joshua",
+    "MR. John S. Eneyok",
+    "Hrh. Festus Silas Ogbulu"
   ]
 }

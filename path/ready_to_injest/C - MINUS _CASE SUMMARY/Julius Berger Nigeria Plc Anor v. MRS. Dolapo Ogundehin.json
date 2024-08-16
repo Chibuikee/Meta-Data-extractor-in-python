@@ -10,15 +10,15 @@
     "(2013)LPELR-20421(CA)"
   ],
   "area_of_law": [
-    "Tort and Personal Injuries",
     "Transportation and Logistic Law",
     "Healthcare and Law",
-    "Criminal Law and Procedure",
-    "Children and Women Law",
     "Action",
-    "Evidence",
+    "Tort and Personal Injuries",
+    "Children and Women Law",
+    "Criminal Law and Procedure",
     "Judgment and Order",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,18 +26,22 @@
     "Case"
   ],
   "judge": [
+    "Joseph Tine Tur JCA",
     "Mohammed Lawal Garba JCA",
-    "Uzo INdukwe Anyanwu JCA",
-    "Joseph Tine Tur JCA"
+    "Uzo INdukwe Anyanwu JCA"
   ],
   "representation_appellant": "A. A. Osara",
   "representation_respondent": "Bankole Falade",
-  "doc_id": "813af939-03be-4462-813a-646496222408",
+  "originating_court": [
+    "State",
+    "Cross River State: High Court"
+  ],
+  "doc_id": "465aa06a-30de-46d8-8e56-df21cb7d6251",
   "doctype": "Case",
   "parties": [
     "Julius Berger",
-    "Nig",
     "Plc",
+    "Nig",
     "Idris Umai Kasimu",
     "MRS. Dolapo Ogundehin"
   ]

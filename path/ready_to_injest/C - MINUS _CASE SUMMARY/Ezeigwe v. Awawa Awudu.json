@@ -7,15 +7,15 @@
   "lex_citation": "LEX(2008)-CA/PH/96/98",
   "other_citations": "3PLR/2001/138(CA)",
   "area_of_law": [
-    "Real Estate",
-    "Commercial Law",
-    "Criminal Law and Procedure",
-    "Children and Women La",
-    "Education and Law",
-    "Elders and Law",
     "Healthcare and Law",
+    "Interpretation of Stature",
+    "Children and Women Law",
+    "Elders and Law",
     "Evidence",
-    "Interpretation of Stature"
+    "Real Estate",
+    "Criminal Law and Procedure",
+    "Commercial Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,19 +23,20 @@
     "Case"
   ],
   "judge": [
-    "James Ogenyi Ogebe JCA",
+    "Michael Eyaruoma Akpiroroh JCA",
     "Sylvanus Adiewere Nsofor JCA",
-    "Michael Eyaruoma Akpiroroh JCA"
+    "James Ogenyi Ogebe JCA"
   ],
   "representation": [
-    "I. A. Okafor",
-    "San K.C.D. Njemanze . Collins N. Obulor"
+    "K.C.D. Njemanze",
+    "Collins N. Obulor",
+    "I. A. Okafor"
   ],
   "originating_court": "High Court of Rivers State [okor J. Presiding]",
-  "doc_id": "0ac7c0e2-b02a-40d0-9096-559d07335a70",
+  "doc_id": "b0c23d04-3809-4eb7-abd6-cf0bdb2755bd",
   "doctype": "Case",
   "parties": [
-    "T Ezeigwe",
+    "Gilbert Ezeigwe",
     "Awawa Awudu"
   ]
 }

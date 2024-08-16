@@ -1,6 +1,6 @@
 {
   "case_title": "Nasaralai Enterprises Ltd",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-7-1986",
   "year": "1986",
   "suit_number": "SC.138/1985",
@@ -10,15 +10,15 @@
     "(1986)NWLR(PT.36)409"
   ],
   "area_of_law": [
-    "Admiralty and Shipping",
+    "Jurisdiction",
     "Agriculture and Food Law",
-    "Banking and Finance",
-    "Banking and Finance Law",
-    "Commercial Law",
-    "International Law",
-    "Transportation Law",
     "Judgment",
-    "Jurisdiction"
+    "International Law",
+    "Admiralty and Shipping",
+    "Transportation Law",
+    "Commercial Law",
+    "Banking and Finance",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,13 +27,13 @@
     "High Profile Case"
   ],
   "judge": [
-    "Mohammed Bello JSC",
-    "Kayode Eso JSC",
-    "Muhammadu Lawal Uwais JSC",
     "Dahunsi Olugbem1 Coker JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
     "Saidu Kawu JSC",
-    "Chukwudifu Akunne Oputa JSC"
+    "Chukwudifu Akunne Oputa JSC",
+    "Muhammadu Lawal Uwais JSC",
+    "Mohammed Bello JSC",
+    "Kayode Eso JSC"
   ],
   "representation": [
     "A.B. Kasunmu",
@@ -43,7 +43,7 @@
     "Court of Appeal, Lagos Judicial Division (nasir P. (ademola, Nnaemeka-agu, Mohammed and Kutigi Jjca),",
     "High Court of Lagos State"
   ],
-  "doc_id": "8c077060-01ca-4c49-943b-6cdee1d0478b",
+  "doc_id": "72a2dd34-d2b8-4da9-bb12-7635efadc647",
   "doctype": "Case",
   "parties": [
     "Nasaralai Enterprises Limited",

@@ -9,9 +9,9 @@
   "area_of_law": [
     "Real Estate and Land Law",
     "Agriculture and Food Law",
-    "Environmental Law and Natural Resources",
     "Appeal",
-    "Interpretation of Statute"
+    "Interpretation of Statute",
+    "Environmental Law and Natural Resources"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,18 +20,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Vahe Robert Bairamian JSC",
     "Charles Dadi Onyeama JSC",
+    "Vahe Robert Bairamian JSC",
     "Michael Oguejiofo Aiegbo JSC"
   ],
-  "representation": "M. Adekunle . O. A. Okenla",
+  "representation": [
+    "M. Adekunle",
+    "O. A. Okenla"
+  ],
   "originating_court": [
     "High Court of the Western Region",
     "Ijebu Ife Native Court, Holden at Ijebu Ode (a. Desalu, Esq., a Senior Magistrate, Presiding)"
   ],
-  "doc_id": "76c78c89-6a22-413a-9dac-8c39392044b1",
+  "doc_id": "1740776e-d34b-4646-8b6c-b4fcce91d630",
   "doctype": "Case",
   "parties": [
+    "Kukoyi",
     "Odufale"
   ]
 }

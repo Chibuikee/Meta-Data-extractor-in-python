@@ -1,21 +1,23 @@
 {
   "case_title": "Agbonmagbe Bank Ltd v. C.F.A.O.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "25-5-1966",
   "year": "1966",
   "suit_number": "SC.576/1964",
   "lex_citation": "LEX(1966)-SC.576/1964",
-  "other_citations": "2PLR/1966/16(SC)",
+  "other_citations": [
+    "2PLR/1966/16(SC)"
+  ],
   "area_of_law": [
-    "Banking and Finance",
+    "Action",
+    "Judgment",
+    "Appeal",
+    "Action Estoppel",
+    "Tort and Personal Injury",
     "Children and Women Law",
     "Commercial Law",
     "Debtor and Creditor",
-    "Tort and Personal Injury",
-    "Action",
-    "Action Estoppel",
-    "Appeal",
-    "Judgment"
+    "Banking and Finance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,25 +26,24 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adetokunbo Ademola CJN",
+    "George Baptist ACoker JSC",
     "Vahe Robert Bairamian JSC",
-    "George Baptist ACoker JSC"
+    "Adetokunbo Ademola CJN"
   ],
   "representation": [
-    "A. K. I. Makanju",
     "H. A. Lardner",
-    "MRS",
-    "T. I. Williams",
-    "A. O. Lampejo"
+    "A. K. I. Makanju",
+    "A. O. Lampejo",
+    "T. I. Williams"
   ],
   "originating_court": [
     ":",
     "Lagos High Court (adedipe J., Presiding)"
   ],
-  "doc_id": "1e38f167-4a89-4c9f-b0eb-c8cfdd714018",
+  "doc_id": "b516df5c-4025-4c8a-a052-7f1cb3a2a1ff",
   "doctype": "Case",
   "parties": [
-    "Agbe Bank Ltd",
+    "Agbonmagbe Bank Ltd",
     "C.F.A.o"
   ]
 }

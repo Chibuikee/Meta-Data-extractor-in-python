@@ -4,42 +4,43 @@
   "date": "19-3-1930",
   "year": "1930",
   "suit_number": "",
-  "lex_citation": "LEX(1930)–1A.C366",
+  "lex_citation": "LEX(1930)-1A.C366",
   "other_citations": [
     "3PLR/1930/1(PC)",
     "[1930]1A.C.366"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Children and Women Law",
     "Healthcare and Law",
+    "Children and Women Law",
+    "U",
     "T",
     "P",
     "H",
     "S",
-    "U"
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
     "Lord Sankey",
     "Viscount Dunedin, Lord Darling, Lord Atkin, and Lord Thankerton"
   ],
   "representation": [
-    "Pritt K.c",
+    "Crown",
     "Horace Douglas",
     "William Jowitt A.-g",
     "C. H. Pearson",
-    "Crown"
+    "Pritt K.c"
   ],
   "originating_court": "The Chief Commissioner's Court of Ashanti (eastern Province), Gold Coast (ghana)",
-  "doc_id": "83a04f56-02c8-4cfa-9d77-5462efffe5c3",
+  "doc_id": "b589e4c2-9d6e-4635-a10a-691d9a99a2e5",
   "doctype": "Case",
   "parties": [
-    "Min Knowles",
+    "Benjamin Knowles",
     "The King"
   ]
 }

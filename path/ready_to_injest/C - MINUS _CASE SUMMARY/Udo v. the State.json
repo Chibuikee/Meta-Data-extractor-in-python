@@ -1,6 +1,6 @@
 {
   "case_title": "Udo v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "1-12-1976",
   "year": "1976",
   "suit_number": "SC173/1976",
@@ -10,10 +10,10 @@
     "(1976)12SC63"
   ],
   "area_of_law": [
+    "Evidence",
     "Criminal Law and Procedure",
-    "Agriculture and Food Law",
-    "Children and Women La",
-    "Evidence"
+    "Children and Women Law",
+    "Agriculture and Food Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,15 +21,22 @@
     "Case",
     "High Profile Case"
   ],
-  "representation": [
-    "O. O. Jibowu . E. B. James",
-    "Principal State Counsel",
-    "Cross River State"
+  "judge": [
+    "Muhammed Bello JSC",
+    "Andres Otutu Obaseki, Ag JSC",
+    "Their Lordshiup",
+    "George Sodeinde Sowemimo JSC"
   ],
-  "doc_id": "db32d31f-ed56-423f-85a0-fd8809516ce4",
+  "representation": [
+    "Cross River State",
+    "Principal State Counsel",
+    "O. O. Jibowu",
+    "E. B. James"
+  ],
+  "doc_id": "8fa00b3c-170a-455a-9f78-c8096cae2cab",
   "doctype": "Case",
   "parties": [
-    "Ohn Udo",
+    "Okon John Udo",
     "The State"
   ]
 }

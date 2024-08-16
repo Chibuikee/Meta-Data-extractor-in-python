@@ -1,21 +1,21 @@
 {
   "case_title": "Osun State Government v. Dalami Nigeria Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "2-3-2007",
   "year": "2007",
-  "suit_number": "(7)MONTHSAFTERTHETERMINATIONOFTHELEASEHOLDISCAUGHTBYTHEPROVISIONSOFSECTION2",
-  "lex_citation": "",
+  "suit_number": "SC.277/2002",
+  "lex_citation": "LEX(2007)-SC.277/2002",
   "other_citations": "2PLR/2007/90(SC)",
   "area_of_law": [
-    "Agriculture and Food Law",
-    "Commercial Law",
-    "Company and Corporate Law",
-    "Real Estate and Property Law",
     "Constitutional Law",
+    "Agriculture and Food Law",
     "Action",
-    "Appeal",
     "Court",
-    "Interpretation of Statute"
+    "Appeal",
+    "Interpretation of Statute",
+    "Company and Corporate Law",
+    "Commercial Law",
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,27 +24,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "Walter Samuel Nkanu Onnoghen JSC",
     "Umaru Atu Kalgo JSC",
     "George Adesola Oguntade JSC",
     "Mahmud Mohammed JSC",
-    "Walter Samuel Nkanu Onnoghen JSC"
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
-  "representation_appellant": "A.S. Awomolo",
-  "representation_respondent": [
-    "Otaru",
+  "representation": [
+    "M.o Adeleke",
     "M.O. Olawole",
-    "Akinyemi Olujinmi",
     "Lynda Adzuanaga",
+    "A.S. Awomolo",
     "Olayiwola",
     "Afolab",
-    "M.o Adeleke"
+    "Roland Otaru",
+    "Akinyemi Olujinmi"
   ],
   "originating_court": [
     "Court of Appeal, Oyo Judicial Division",
     "High Court of Justice of Oyo State"
   ],
-  "doc_id": "3f55a219-5fc8-45d3-b3c4-7c34d9e51854",
+  "doc_id": "853741be-7ece-4b94-929f-c9d081c9e796",
   "doctype": "Case",
   "parties": [
     "Osun State Government - Appellant",

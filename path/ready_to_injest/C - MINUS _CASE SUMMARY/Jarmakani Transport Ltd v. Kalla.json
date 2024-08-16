@@ -8,12 +8,12 @@
   "other_citations": "3PLR/1965/40(SC)",
   "area_of_law": [
     "Tort and Personal Injury",
-    "Insurance and Reinsurance",
     "Constitutional Law",
     "Alternative Dispute Resolution",
-    "Debtor and Creditor",
+    "Insurance and Reinsurance",
     "Appeal",
-    "Interpretation of Statute"
+    "Interpretation of Statute",
+    "Debtor and Creditor"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,12 +23,15 @@
   ],
   "judge": [
     "Ademola CJN",
-    "Bairamian JSC",
-    "Coker JSC"
+    "Coker JSC",
+    "Bairamian JSC"
   ],
-  "representation": "J. G. Bentley P. A. Atilade",
+  "representation": [
+    "J. G. Bentley",
+    "P. A. Atilade"
+  ],
   "originating_court": "High Court",
-  "doc_id": "36023df9-8480-442c-aac7-6460d47acaeb",
+  "doc_id": "fa5fb253-4be8-4c13-ad4f-54fe1182575b",
   "doctype": "Case",
   "parties": []
 }

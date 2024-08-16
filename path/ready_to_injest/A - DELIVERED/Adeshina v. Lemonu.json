@@ -1,22 +1,21 @@
 {
   "case_title": "Adeshina v. Lemonu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "2-7-1965",
   "year": "1965",
   "suit_number": "SC94/1963",
   "lex_citation": "",
   "area_of_law": [
-    "Before Their Lordship",
-    "Environmental and Natural Resources",
     "Real Estate",
-    "Government and Administrative Law",
     "Agriculture and Law",
-    "Admiralty and Maritime Law",
-    "Taxation and Revenue",
-    "Transportation Law",
-    "Constitutional and Public Law",
     "Practice and Procedure",
-    "Interpretation of Statutes"
+    "Government and Administrative Law",
+    "Environmental and Natural Resources",
+    "Admiralty and Maritime Law",
+    "Constitutional and Public Law",
+    "Taxation and Revenue",
+    "Interpretation of Statutes",
+    "Transportation Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,15 +24,15 @@
     "High Profile Case"
   ],
   "judge": [
-    "Ademola CJN",
     "Bairamian JSC",
-    "Coker JSC"
+    "Coker JSC",
+    "Ademola CJN"
   ],
   "representation": [
-    "F.O. Akinrele",
-    "L.V. Davis"
+    "L.V. Davis",
+    "F.O. Akinrele"
   ],
-  "doc_id": "6f1a6783-e81d-4318-97d3-0bd0d9d9da7c",
+  "doc_id": "9742cb4f-e899-431f-9311-ba43f553d4fc",
   "doctype": "Case",
   "parties": [
     "Adamo Lawani Adeshina",

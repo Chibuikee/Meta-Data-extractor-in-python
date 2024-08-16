@@ -1,0 +1,42 @@
+{
+  "case_title": "The King v. Lovegrove.",
+  "court": "",
+  "date": "19-7-1920",
+  "year": "1920",
+  "suit_number": "",
+  "lex_citation": "LEX(1920)-CCA3K.B643",
+  "other_citations": "[1920]3K.B.643",
+  "area_of_law": [
+    "Criminal Law",
+    "Evidence",
+    "Healthcare Law",
+    "Children and Women Law"
+  ],
+  "semantic_tags": [
+    "Caselaw",
+    "Legal Document",
+    "Case"
+  ],
+  "judge": "Earl of Reading, CJsalter, and Acton JJ",
+  "representation_appellant": [
+    "J. G. Hurst K.c",
+    "C. R. Sawyer",
+    "Doughty"
+  ],
+  "representation_respondent": [
+    "J. C. Buckwell",
+    "Withall",
+    "Brighton",
+    "J. K. Nye",
+    "Crown"
+  ],
+  "originating_court": [
+    "Sussex Assizes"
+  ],
+  "doc_id": "af41a980-e51c-4def-9cc4-7041f77705c6",
+  "doctype": "Case",
+  "parties": [
+    "The King",
+    "Lovegrove"
+  ]
+}

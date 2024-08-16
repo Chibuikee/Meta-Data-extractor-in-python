@@ -10,12 +10,12 @@
     "(1991)6N.W.L.R(PT.197)365"
   ],
   "area_of_law": [
-    "Employment and Labour Law",
     "Constitutonal Law",
     "Ethics",
-    "Children and Women La",
-    "Court",
-    "Interpretation of Statutes"
+    "Interpretation of Statutes",
+    "Employment and Labour Law",
+    "Children and Women Law",
+    "Court"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,24 +23,24 @@
     "Case"
   ],
   "judge": [
-    "Idris Legbo Kut’igi JCA",
-    "Aloysius Iyorgyer Katsina-Alu JCA",
-    "George Adesola Oguntade JCA"
+    "Idris Legbo Kutigi JCA",
+    "George Adesola Oguntade JCA",
+    "Aloysius Iyorgyer Katsina-Alu JCA"
   ],
   "representation": [
-    "O. I. Okon",
     "General",
+    "Justice O. A. Esin",
+    "Appeared",
     "Ministry of Justice",
     "Calabar",
-    "Justice O. A. Esin",
-    "Appeared"
+    "O. I. Okon"
   ],
   "originating_court": "High Court of Cross River State",
-  "doc_id": "3c03a044-bd04-45d8-ba22-8911da9e47ae",
+  "doc_id": "43c71f19-2e6e-44f0-9b3d-02fbc0fa9396",
   "doctype": "Case",
   "parties": [
-    "Attorney-general of Cross River State",
     "Cross River State Judicial Service Commission",
+    "Attorney-general of Cross River State",
     "Hon. Justice O. A. Esin"
   ]
 }

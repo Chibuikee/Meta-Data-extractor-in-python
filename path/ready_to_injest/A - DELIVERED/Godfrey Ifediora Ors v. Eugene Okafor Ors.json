@@ -1,6 +1,6 @@
 {
   "case_title": "Godfrey Ifediora Ors v. Eugene Okafor Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-7-2019",
   "year": "2019",
   "suit_number": "SC.166/2010",
@@ -10,10 +10,10 @@
     "(2019)LPELR-49518(SC)"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Agriculture and Food Law",
-    "Appeal",
     "Evidence",
+    "Agriculture and Food Law",
+    "Real Estate and Property Law",
+    "Appeal",
     "Judgment and Order"
   ],
   "semantic_tags": [
@@ -23,11 +23,11 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Ibrahim Tanko Muhammad JSC",
     "Olukayode Ariwoola JSC",
-    "John Inyang Okoro JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "John Inyang Okoro JSC"
   ],
   "representation_appellant": [
     "J. R. Nduka, Esq",
@@ -39,14 +39,14 @@
     "High Court of Anambra State.",
     "Court of Appeal"
   ],
-  "doc_id": "936f4ec7-f528-4f21-9d2e-f79777467ae0",
+  "doc_id": "05201f7e-ff34-4d2b-8f3f-4849840279ca",
   "doctype": "Case",
   "parties": [
+    "Eleazar Onuorah",
     "Godfrey Ifediora",
     "Okeke Icheke",
-    "Eleazar Onuorah",
-    "Eugene Okafor",
+    "Uchechukwu Okafor",
     "Augustine Anazo",
-    "Uchechukwu Okafor"
+    "Eugene Okafor"
   ]
 }

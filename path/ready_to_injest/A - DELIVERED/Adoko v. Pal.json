@@ -1,21 +1,21 @@
 {
   "case_title": "Adoko v. Pal",
-  "court": "Queen's Bench",
+  "court": "Queen’s Bench Division",
   "date": "19-1-2004",
   "year": "2004",
-  "suit_number": "(2004)-EWHC25",
+  "suit_number": "",
   "lex_citation": "LEX(2004)-EWHC25",
   "other_citations": [
     "[2004]ALLER(D)113(JAN)",
     "3PLR/2004/4(QB)"
   ],
   "area_of_law": [
-    "Tort and Personal Injury",
-    "Science and Technology and Law",
-    "Children and Women Law",
     "Ethics",
+    "Science and Technology and Law",
+    "Action",
+    "Children and Women Law",
     "Healthcare and Law",
-    "Action"
+    "Tort and Personal Injury"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,10 +24,10 @@
   ],
   "judge": "Hooper J",
   "representation": "Dilys Tausz",
-  "doc_id": "421aaa6b-3130-4158-b716-09940749348d",
+  "doc_id": "a82c0f5e-2917-4c7a-8d46-b1c7cc3c9fc9",
   "doctype": "Case",
   "parties": [
-    "Ewhc 25 (qb",
-    "Lex (2004) - Ewhc 25 (qb"
+    "Adoko",
+    "Queen’s Bench Division"
   ]
 }

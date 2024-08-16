@@ -10,13 +10,13 @@
     "[1993]7NWLR(PT.304)173."
   ],
   "area_of_law": [
-    "Banking and Finance",
-    "Company",
-    "Debtor and Creditor",
     "Appeal",
+    "Company",
+    "Pleadings",
     "Court",
-    "Evidence",
-    "Pleadings"
+    "Debtor and Creditor",
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,15 +28,17 @@
     "Yekini Olayiwola Adio JCA",
     "James Ogenyi Ogebe JCA"
   ],
-  "representation_appellant": "O.N. Oji",
-  "representation_respondent": "Nwanze",
+  "representation": [
+    "O.N. Oji",
+    "S.O.S. Andy-nwanze"
+  ],
   "originating_court": "High Court Asaba, Old Bendel State (now Delta State)",
-  "doc_id": "2172c4ed-ec08-46b4-89d4-b62a02075b44",
+  "doc_id": "a102392c-0bc4-4682-9aee-93d0dd8c4efb",
   "doctype": "Case",
   "parties": [
     "African Continental Bank Ltd",
-    "Eugene N. Oba",
     "Peter I. Odiachi",
+    "Eugene N. Oba",
     "Paula. Onya Onianwa"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "case_title": "Murmansk State Steamship Line v. Kano Oil Millers Ltd.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "11-12-1974",
   "year": "1974",
   "suit_number": "SC252/1974",
@@ -10,11 +10,11 @@
     "(1974)ALLN.L.R893"
   ],
   "area_of_law": [
-    "Commercial Law",
+    "Agriculture and Food Law",
+    "Alternative Dispute Resolution",
     "Admiralty and Maritime",
     "International Law",
-    "Alternative Dispute Resolution",
-    "Agriculture and Food Law"
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,20 +23,18 @@
     "High Profile Case"
   ],
   "judge": [
+    "Irikefe JSC",
     "Elias CJN",
-    "Sowemimo JSC",
-    "Irikefe JSC"
+    "Sowemimo JSC"
   ],
   "representation": [
-    "MR",
-    "E. Noel Grey",
-    "MR",
-    "R.S. Horn"
+    "R.S. Horn",
+    "E. Noel Grey"
   ],
-  "doc_id": "eb0681de-71af-4963-8f73-6491c7be1f9c",
+  "doc_id": "e4c16bca-1f7a-45bb-be7e-ff8fa06c9bb6",
   "doctype": "Case",
   "parties": [
-    "Sk State Steamship Line",
+    "Murmansk State Steamship Line",
     "Kano Oil Millers Limited"
   ]
 }

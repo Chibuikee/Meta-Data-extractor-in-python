@@ -6,11 +6,11 @@
   "suit_number": "CA/I/225/88",
   "lex_citation": "",
   "area_of_law": [
+    "Evidence",
     "Real Estate Law",
-    "Children and Women Law",
-    "Agriculture and Food Law",
     "Action",
-    "Evidence"
+    "Children and Women Law",
+    "Agriculture and Food Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,18 +18,18 @@
     "Case"
   ],
   "judge": [
+    "Idowu Olayimika Agoro JCA",
     "Emanuel Obioma Ogwuegbu JCA",
-    "Justin Thompson Akpabio JCA",
-    "Idowu Olayimika Agoro JCA"
+    "Justin Thompson Akpabio JCA"
   ],
   "representation": [
     "J.O.A. Ajakaiye",
     "Alhaji A. Ishola-gbenia"
   ],
-  "doc_id": "0c01f1b6-4d53-4a52-8160-7c431b9425ff",
+  "doc_id": "18f7f818-f625-4e28-9653-87deea2fc51c",
   "doctype": "Case",
   "parties": [
-    "Ayisatu Akintola",
+    "Alhaja Ayisatu Akintola",
     "Madam Falilatu Lasupo"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "case_title": "Ogunbanjo v. the State",
-  "court": "Supreme Court",
-  "date": "2-invalid-null",
-  "year": "No Year",
+  "court": "Supreme Court of Nigeria",
+  "date": "2-invalid-none",
+  "year": "None",
   "suit_number": "SC.2/72",
   "lex_citation": "LEX(1973)-SC.2/72",
   "other_citations": [
@@ -11,6 +11,7 @@
   ],
   "area_of_law": [
     "Children and Women Law",
+    "Criminal Law",
     "Healthcare and Law"
   ],
   "semantic_tags": [
@@ -24,10 +25,11 @@
     "George Sodeinde Sowemimo JSC",
     "Ayo Gabriel Irikefe, Ag JSC"
   ],
-  "doc_id": "2c1b1f7c-747d-4fad-94f1-bec73022d006",
+  "representation": "Representation Not Found",
+  "doc_id": "27b1e10f-7c45-4cc3-a656-ae0c40a9acc7",
   "doctype": "Case",
   "parties": [
-    "Jo Ogunbanjo",
+    "Adebanjo Ogunbanjo",
     "The State"
   ]
 }

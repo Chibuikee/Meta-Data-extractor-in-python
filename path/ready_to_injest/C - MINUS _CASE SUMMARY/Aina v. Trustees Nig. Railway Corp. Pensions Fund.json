@@ -1,15 +1,15 @@
 {
   "case_title": "Aina v. Trustees Nig. Railway Corp. Pensions Fund",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "1-7-1970",
   "year": "1970",
   "suit_number": "SC105/1968",
   "lex_citation": "LEX(1970)-SC105/1968",
   "other_citations": "2PLR/1968/12(SC)",
   "area_of_law": [
-    "Employment and Labour Law",
+    "Pleadings",
     "Alternative Dispute Resolution",
-    "Pleadings"
+    "Employment and Labour Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,19 +18,19 @@
     "High Profile Case"
   ],
   "judge": [
+    "Sodeinde Sowemimo JSC",
     "George Baptist Ayodola Coker JSC",
-    "Ian Lewis JSC",
-    "Sodeinde Sowemimo JSC"
+    "Ian Lewis JSC"
   ],
   "representation": [
     "Oshisanya",
-    "Ajibade"
+    "Ajibade",
+    "Olamosu"
   ],
   "originating_court": [
-    "Lagos High Court (kazeem, Ag. J., Presiding)",
-    ""
+    "Lagos High Court (kazeem, Ag. J., Presiding)"
   ],
-  "doc_id": "64082c02-3c2d-4219-8453-b42400f8d905",
+  "doc_id": "70fdc2f4-487e-4098-a485-b8a4f0f16efd",
   "doctype": "Case",
   "parties": [
     "Isiah Okumade Aina",

@@ -1,6 +1,6 @@
 {
   "case_title": "MR. Anthony Igwemma Anor v. Chinedu Benjamin Obidigwe Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "21-6-2019",
   "year": "2019",
   "suit_number": "SC.478/2019",
@@ -11,10 +11,10 @@
   ],
   "area_of_law": [
     "Election Law",
+    "Words and Phrases",
     "Constitutional Law",
-    "Judgment and Order",
     "Jurisdiction",
-    "Words and Phrases"
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,43 +24,43 @@
   ],
   "judge": [
     "Olukayode Ariwoola JSC",
-    "John Inyang Okoro JSC",
+    "Paul Adamu Galumje JSC",
     "Amiru Sanusi JSC",
-    "Amina Adamu Augie JSC",
-    "Paul Adamu Galumje JSC"
+    "John Inyang Okoro JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "Ifeanyi Obiakor, Esq",
-    "O. M. Madukonje, Esq",
     "P.I. Chukwudebele, Esq",
+    "Ifeanyi Obiakor, Esq",
     "Nnamdi Anagor, Esq",
-    "D.O. Okoli, Esq"
+    "D.O. Okoli, Esq",
+    "O. M. Madukonje, Esq"
   ],
   "representation_respondent": [
+    "A. I. Idris, Esq",
+    "I. E. Inyang, Esq",
+    "P. T. Soje, Esq",
+    "O. P. Okonkwu, Esq",
+    "E. N. Onyibor, Esq",
     "Roy",
     "O.U. Nwaeze, Esq",
-    "I. E. Inyang, Esq",
-    "E. J. Effiong, Esq",
-    "E. N. Onyibor, Esq",
-    "O. P. Okonkwu, Esq",
-    "S. E. Aruwa, Esq",
-    "P. T. Soje, Esq",
     "E. E. Mmeru, Esq",
-    "M. I. Balogun, Esq",
-    "A. I. Idris, Esq"
+    "S. E. Aruwa, Esq",
+    "E. J. Effiong, Esq",
+    "M. I. Balogun, Esq"
   ],
   "originating_court": [
     "Court of Appeal, Enugu Division, Enugu State",
     "Federal High Court Awka, Anambra State"
   ],
-  "doc_id": "b67f9243-d132-4797-a9cb-332170f3a6f6",
+  "doc_id": "a532b1aa-1b39-4b6d-b07c-04b8242f1329",
   "doctype": "Case",
   "parties": [
-    "MR. Anthony Igwemma",
     "Hon. Victor Jideofor Okoye",
+    "MR. Anthony Igwemma",
     "Chinedu Benjamin Obidigwe",
+    "Inec",
     "All Progressives Grand Alliance",
-    "Independent National Electoral Commission",
-    "Inec"
+    "Independent National Electoral Commission"
   ]
 }

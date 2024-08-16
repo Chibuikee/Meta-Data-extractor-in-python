@@ -3,13 +3,13 @@
   "court": "Probate, Etc., Division",
   "date": "19-7-1953",
   "year": "1953",
-  "suit_number": "(1953)-3W.L.R.708",
+  "suit_number": "",
   "lex_citation": "LEX(1953)-3W.L.R.708",
   "other_citations": "2PLR/1953/7(CA)",
   "area_of_law": [
-    "Family Law",
     "Health Law",
     "Children and Women Law",
+    "Family Law",
     "Practice and Procedure"
   ],
   "semantic_tags": [
@@ -19,10 +19,10 @@
   ],
   "judge": "Barnard J",
   "representation": [
-    "Van Oss",
-    "Marston Garsia"
+    "Marston Garsia",
+    "Van Oss"
   ],
-  "doc_id": "45ed2d90-5c9c-4209-b42c-f5f2d48de677",
+  "doc_id": "b8578094-5b9f-4344-b42f-a1ae7aab6310",
   "doctype": "Case",
   "parties": [
     "Watson",

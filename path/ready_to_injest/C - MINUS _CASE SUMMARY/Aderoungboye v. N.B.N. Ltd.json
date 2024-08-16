@@ -1,16 +1,18 @@
 {
   "case_title": "Aderoungboye v. N.B.N. Ltd",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "14-1-1966",
   "year": "1966",
   "suit_number": "S.C.106/1964",
   "lex_citation": "LEX(1966)-S.C.106/1964",
-  "other_citations": "2PLR/1966/11(SC)",
+  "other_citations": [
+    "2PLR/1966/11(SC)"
+  ],
   "area_of_law": [
+    "Pleadings",
     "Insurance and Re",
-    "Banking and Finance Law",
     "Real Estate and Property Law",
-    "Pleadings"
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,7 +30,7 @@
     "L.O. Okunnu"
   ],
   "originating_court": "The High Court of Western Nigeria",
-  "doc_id": "a9b81324-ab69-4247-bd7d-4053bfea54a5",
+  "doc_id": "bc3b2dc1-cfa3-471b-bf2f-58697dea6405",
   "doctype": "Case",
   "parties": [
     "Genty Aderoungboye",

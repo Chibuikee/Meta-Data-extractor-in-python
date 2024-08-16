@@ -1,6 +1,6 @@
 {
   "case_title": "Mercantile Bank of Nig. Plc. Anor. v. Linus Nwobodo",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-7-2005",
   "year": "2005",
   "suit_number": "SC.38/2001",
@@ -11,10 +11,10 @@
     "(2005)7S.C(PTIII)"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
     "Debtor and Creditor",
+    "Appeal",
     "Ethics",
-    "Appeal"
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,21 +23,21 @@
     "High Profile Case"
   ],
   "judge": [
-    "Idris Legbo Kutigi JSC",
-    "Sylvester Umaru Onu JSC",
     "Umaru Atu Kalgo JSC",
-    "Dahiru Musdapher JSC",
-    "Ignatius Chukwudi Pats-Acholonu JSC"
+    "Idris Legbo Kutigi JSC",
+    "Ignatius Chukwudi Pats-Acholonu JSC",
+    "Sylvester Umaru Onu JSC",
+    "Dahiru Musdapher JSC"
   ],
   "originating_court": [
     "Court of Appeal",
     "High Court (binang J., Presiding)"
   ],
-  "doc_id": "6d3844ed-6853-464b-8872-f9c20251fd8f",
+  "doc_id": "87d0e2d1-0526-4b0f-bb3f-9b44db159912",
   "doctype": "Case",
   "parties": [
-    "Mercantile Bank of Nig. Plc",
     "Nigerian Deposit Insurance Corporation",
+    "Mercantile Bank of Nig. Plc",
     "Linus Nwobodo"
   ]
 }

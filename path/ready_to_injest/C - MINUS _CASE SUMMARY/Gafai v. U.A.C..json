@@ -3,15 +3,15 @@
   "court": "High Court",
   "date": "5-12-1961",
   "year": "1961",
-  "suit_number": "(1961)-K/7/1961",
+  "suit_number": "",
   "lex_citation": "LEX(1961)-K/7/1961",
   "other_citations": "3PLR/1961/6(HC-N)",
   "area_of_law": [
-    "Commercial Law",
-    "Agriculture and Food Law",
+    "Jurisdictio",
     "Action",
-    "Judgment and Order",
-    "Jurisdictio"
+    "Agriculture and Food Law",
+    "Commercial Law",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,13 +20,13 @@
   ],
   "judge": "Reed J",
   "representation": [
-    "Nwazei",
-    "Grey"
+    "Grey",
+    "Nwazei"
   ],
-  "doc_id": "bd543329-5ad5-4015-9f1b-ab5896be5b09",
+  "doc_id": "e0869ac5-6e7b-498e-a451-57eb1b2d93a7",
   "doctype": "Case",
   "parties": [
-    "Bature Gafai",
+    "Alhaji Bature Gafai",
     "United Africa Company Limited"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "case_title": "Theophilus Kure v. Commissioner of Police",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.317/2018",
@@ -11,15 +11,15 @@
   ],
   "area_of_law": [
     "Criminal Law and Procedure",
-    "Administrative and Government Law",
-    "Agriculture and Food Law",
-    "Commercial Law",
-    "Debtor and Creditor",
-    "Estate Planing and Management",
-    "Tort and Personal Injury Law",
-    "Appeal",
     "Words and Phrases",
-    "Notable Statement"
+    "Agriculture and Food Law",
+    "Administrative and Government Law",
+    "Tort and Personal Injury Law",
+    "Notable Statement",
+    "Commercial Law",
+    "Appeal",
+    "Debtor and Creditor",
+    "Estate Planing and Management"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,26 +28,26 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
-    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
-    "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "L. A. O Nylader San",
-    "J. F Adamu and Seember Wayo Esq"
+    "J. F Adamu and Seember Wayo Esq",
+    "L. A. O Nylader San"
   ],
   "representation_respondent": [
-    "MR. E. E. Ekhasemomhe",
-    "P. O Iyaji"
+    "P. O Iyaji",
+    "MR. E. E. Ekhasemomhe"
   ],
   "originating_court": [
     "Court of Appeal, Kaduna Division",
     "High Court, Kaduna State (coram M. L Bello and B. F Zubairu Jj)",
     "Chief Magistrate Court, Kaduna"
   ],
-  "doc_id": "76a1ea1f-aeb2-43e7-9c1b-d2fac529461a",
+  "doc_id": "c1fa4588-3752-4afa-be87-cca7946f4aec",
   "doctype": "Case",
   "parties": [
     "Theophilus Kure",

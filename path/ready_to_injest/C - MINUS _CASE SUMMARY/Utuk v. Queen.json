@@ -1,6 +1,6 @@
 {
   "case_title": "Utuk v. Queen",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "26-9-1961",
   "year": "1961",
   "suit_number": "S.C.292/1961",
@@ -18,16 +18,16 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sir Adetokunbo Ademola CJ",
     "Edgar Ignatius Godfrey Unsworth FJ",
+    "Sir Adetokunbo Ademola CJ",
     "John Idowu Conrad Taylor FJ"
   ],
   "representation": [
+    "Senior Crown Counsel",
     "J. A. Cole",
-    "D. O. Nwosu",
-    "Senior Crown Counsel"
+    "D. O. Nwosu"
   ],
-  "doc_id": "ba080fa8-bb82-4972-baba-a90e3039a325",
+  "doc_id": "864eff40-f186-4dfd-9948-df4ccf466fd4",
   "doctype": "Case",
   "parties": [
     "Ekanem Akpan Utuk",

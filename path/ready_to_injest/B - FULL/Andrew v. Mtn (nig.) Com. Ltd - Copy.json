@@ -7,15 +7,15 @@
   "lex_citation": "LEX(2016)-CA/IL/107/2015",
   "other_citations": "2PLR/2017/42(SC)",
   "area_of_law": [
-    "Criminal Law and Proceedings",
-    "Human Rights",
-    "Science and Technology",
-    "Ethics",
-    "Appeal",
     "Court",
+    "Words and Phrases",
+    "Science and Technology",
+    "Criminal Law and Proceedings",
+    "Ethics",
+    "Human Rights",
     "Evidence",
-    "Judgment and Order",
-    "Words and Phrases"
+    "Appeal",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,19 +23,19 @@
     "Case"
   ],
   "judge": [
-    "Mohammed Ladan Tsamiya JCA",
     "Chidi Nwaoma Uwa JCA",
-    "Uchechukwu Onyemenam JCA"
+    "Uchechukwu Onyemenam JCA",
+    "Mohammed Ladan Tsamiya JCA"
   ],
   "representation": [
-    "Joseph Oboite",
-    "O. Atofarati",
-    "D. A. Ijalaye",
     "D. Y. Awogbade",
-    "I. R. Oderinde"
+    "I. R. Oderinde",
+    "Joseph Oboite",
+    "D. A. Ijalaye",
+    "O. Atofarati"
   ],
   "originating_court": "Kwara State High Court, Ilorin Judicial Division (judgment of M. Abdulgafar, J. Delivered on 19 March 2014).",
-  "doc_id": "19bad03d-7cbd-4ec8-8e74-994a307838d0",
+  "doc_id": "93c047b1-9400-4494-8931-6c58dbf12c61",
   "doctype": "Case",
   "parties": [
     "Anyaeji Mary Andrew",

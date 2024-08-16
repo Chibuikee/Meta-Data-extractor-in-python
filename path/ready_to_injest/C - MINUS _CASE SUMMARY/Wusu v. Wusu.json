@@ -1,18 +1,18 @@
 {
   "case_title": "Wusu v. Wusu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "7-2-1969",
   "year": "1969",
   "suit_number": "S.C.66/68",
   "lex_citation": "LEX(1969)-S.C.66/68",
   "other_citations": "2PLR/1969/90(SC)",
   "area_of_law": [
-    "Family Law",
-    "Children and Women Law",
-    "Education and Law",
     "Healthcare and Law",
+    "Interpretation of Statute",
+    "Children and Women Law",
     "Words and Phrases",
-    "Interpretation of Statute"
+    "Family Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,18 +21,19 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adetokunbo Ademola CJN",
+    "Charles Olusoki Madarikan JSC",
     "George Baptist ACoker JSC",
-    "Charles Olusoki Madarikan JSC"
+    "Adetokunbo Ademola CJN"
   ],
   "representation": [
-    "Chief",
+    "Adeniyi",
+    "Bickersteth",
+    "Carew",
     "Williams",
-    "Petitioner",
-    "Bickersteth"
+    "Petitioner"
   ],
   "originating_court": "High Court of Lagos State",
-  "doc_id": "ca5c9dcd-243b-4057-9148-5e5856f82e38",
+  "doc_id": "30d6792c-411b-48b5-8c2e-37935a369fd3",
   "doctype": "Case",
   "parties": [
     "DR. O. O. Hunponu-wusu",

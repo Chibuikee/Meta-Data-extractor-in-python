@@ -5,16 +5,16 @@
   "year": "2017",
   "suit_number": "CA/OW/45/2014",
   "lex_citation": "LEX(2017)-CA/OW/45/2014",
+  "other_citations": [
+    "3PLR/2017/102(CA)",
+    "(2017)LPELR-42451(CA)"
+  ],
   "area_of_law": [
-    "Lex",
-    "Ayobode Olujimi Lokul",
-    "Eze a",
-    "Chief Sir Ernest Nwokafor",
-    "Tort Andpersonal Injury Law",
-    "Real Estate and Property Law",
     "Food and Agriculture Law",
+    "Practice and Procedure",
     "Environmental and Natural Resources Law",
-    "Practice and Procedure"
+    "Tort Andpersonal Injury Law",
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,12 +23,12 @@
   ],
   "judge": [
     "Massoud Abdulrahman Oredola JCA",
-    "Ayobode Olujimi Lokulo-Sodipe JCA",
-    "Ita George Mbaba JCA"
+    "Ita George Mbaba JCA",
+    "Ayobode Olujimi Lokulo-Sodipe JCA"
   ],
   "representation_appellant": "Absent",
   "representation_respondent": "Absent",
-  "doc_id": "c80b29ac-ad05-4342-af61-7e2b1c8df245",
+  "doc_id": "3cdafdf7-74ca-49f5-a62f-bddf3a4be8e1",
   "doctype": "Case",
   "parties": [
     "Eze A. A. Uwanamodo",

@@ -10,10 +10,10 @@
     "(2001)17NWLR(PT.741)82"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Constitutional Law",
     "Children and Women Law",
     "Ethics",
+    "Criminal Law and Procedure",
     "Education and Law"
   ],
   "semantic_tags": [
@@ -22,21 +22,21 @@
     "Case"
   ],
   "judge": [
+    "Musa Dattijo Muhammad JCA",
     "Justin Thompson Akpabio JCA",
-    "John Afolabi Fabiyi JCA",
-    "Musa Dattijo Muhammad JCA"
+    "John Afolabi Fabiyi JCA"
   ],
   "representation": [
-    "Unnamed in Report",
     "MRS. Franca Ofor",
+    "Unnamed in Report",
     "Deputy Director of Public Prosecution",
     "Anambra State Ministry of Justice"
   ],
   "originating_court": "High Court of Anambra State of Nigeria, Holden at Onitsha",
-  "doc_id": "983a0a64-fdac-42c0-a026-f0c6f612c239",
+  "doc_id": "93560b29-93e8-45bb-a231-f68bd404494e",
   "doctype": "Case",
   "parties": [
-    "S Ezediufu",
+    "Francis Ezediufu",
     "The State"
   ]
 }

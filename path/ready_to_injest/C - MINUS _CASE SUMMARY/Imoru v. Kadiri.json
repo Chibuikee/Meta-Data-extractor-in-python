@@ -3,15 +3,15 @@
   "court": "High Court",
   "date": "20-10-1969",
   "year": "1969",
-  "suit_number": "(1969)-LD/34/69",
+  "suit_number": "LD/34/69",
   "lex_citation": "LEX(1969)-LD/34/69",
   "other_citations": "3PLR/1969/52(SC)",
   "area_of_law": [
     "Tort and Personal Injury",
-    "Customary Law",
-    "Family Law",
     "Healthcare and Law",
-    "Children and Women Law"
+    "Customary Law",
+    "Children and Women Law",
+    "Family Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,10 +23,10 @@
     "Balogun",
     "Shomade"
   ],
-  "doc_id": "ef1128e3-1e87-4fe3-81fb-a7a4a1e56532",
+  "doc_id": "7423bf64-cfc5-4322-b6ae-26b7d71390f8",
   "doctype": "Case",
   "parties": [
-    "Imoru",
+    "Kadiri Imoru",
     "M.E. Kadiri"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "case_title": "Amusa v. the State (sc)",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "33-invalid-2001",
   "year": "2001",
   "suit_number": "SC.336/2001",
@@ -14,8 +14,8 @@
     "Children and Women Law",
     "Transport and Logistics Law",
     "Healthcare and Law",
-    "Appeal",
-    "Court"
+    "Court",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,27 +24,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Muhammadu Lawal Uwais CJN",
+    "Emmanuel Olayinka Ayoola JSC",
     "Michael Ekundayo Ogundare JSC",
-    "Sylvester Umaru Onu JSC",
     "Aloysius Iyorgyer Katsina-Alu JSC",
-    "Emmanuel Olayinka Ayoola JSC"
+    "Sylvester Umaru Onu JSC",
+    "Muhammadu Lawal Uwais CJN"
   ],
   "representation": [
     "A.A. Aribisala",
-    "O.A. Ojo",
-    "Oyebolu",
+    "I. Agbelu",
     "Ogun State",
-    "I. Agbelu"
+    "Oyebolu",
+    "O.A. Ojo"
   ],
   "originating_court": [
     "Court of Appeal, Ibadan Division",
     "High Court of Ogun State, Holden at Sagamu (F.O. Odubiyi J., Presiding)"
   ],
-  "doc_id": "2aaca8e2-3162-4ce4-b07c-1d489d6ebc0b",
+  "doc_id": "eeaef3e6-8cf9-415c-9656-f5fb10009608",
   "doctype": "Case",
   "parties": [
-    "E Amusa",
+    "Adeboye Amusa",
     "The State"
   ]
 }

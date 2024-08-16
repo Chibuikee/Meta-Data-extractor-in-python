@@ -3,17 +3,17 @@
   "court": "Court of Appeal",
   "date": "13-5-1982",
   "year": "1982",
-  "suit_number": "(1982)-2ALLE.R.841",
+  "suit_number": "",
   "lex_citation": "LEX(1982)-2ALLE.R.841",
   "other_citations": [
     "2PLR/1982/29(CA-E)",
     "[1982]3ALLER841"
   ],
   "area_of_law": [
-    "Commercial Law",
+    "Shipping and Admiralty Law",
     "Employment and Labour Law",
     "International Trade",
-    "Shipping and Admiralty Law"
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,16 +22,17 @@
   ],
   "judge": "Lord Denning MR and May LJ",
   "representation": [
-    "Cyril W F Newman Qc Itf. Peter Leaver",
-    "Clifford",
     "Turner",
-    "Coward Chance . Diana Procter",
-    "Barrister"
+    "Diana Procter",
+    "Coward Chance",
+    "Cyril W F Newman Qc",
+    "Clifford",
+    "Itf. Peter Leaver"
   ],
-  "doc_id": "fde1a550-891b-4692-817a-bac8b2d9e83b",
+  "doc_id": "590a8abb-50bf-41db-9334-0a56ea6c9093",
   "doctype": "Case",
   "parties": [
-    "Osso Shipping Co Ltd",
-    "International Transport Workers' Federation"
+    "Monterosso Shipping Co Ltd",
+    "International Transport Workers’ Federation"
   ]
 }

@@ -10,9 +10,9 @@
     "(2020)LPELR-49553(CA)"
   ],
   "area_of_law": [
-    "Constitutional and Human Right Law",
+    "Action",
     "Court",
-    "Action"
+    "Constitutional and Human Right Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,20 +27,19 @@
   "representation_appellant": "Lun Nwakaeti",
   "representation_respondent": "Chief B. J. Adigwe",
   "originating_court": "Imo State High Court [justice L.C. Azuamaon Presiding]",
-  "doc_id": "eedd9348-eead-467b-852f-c18b78afd7fa",
+  "doc_id": "1ecba82c-e285-4059-973b-71b6506d180b",
   "doctype": "Case",
   "parties": [
     "MRS Uzo Grace Ebigbo",
-    "Commissioner of Police",
-    "Imo State",
-    "Asst. Inspector General of Police",
-    "Inspector General of Police",
+    "James Nzerem",
     "Dpo Mgbidi Police Station",
+    "Imo State",
+    "Inspector General of Police",
     "MR. G. Imo Officer in Charge Command Surellance Owerri",
-    "And",
     "Hrn Eze Prof. P.O. Ezigbo",
-    "Uju Uzoigwe",
     "Michael Igbonaju",
-    "James Nzerem"
+    "Asst. Inspector General of Police",
+    "Uju Uzoigwe",
+    "Commissioner of Police"
   ]
 }

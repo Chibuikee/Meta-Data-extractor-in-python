@@ -1,23 +1,23 @@
 {
   "case_title": "Nigerian National Petroleum Corporation v. Clifco Nigeria Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-4-2011",
   "year": "2011",
   "suit_number": "SC.233/2003",
   "lex_citation": "LEX(2011)-SC.233/2003",
   "other_citations": "(2011)LPELR-SC.233/2003",
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Commercial Law",
     "Oil and Gas Law",
-    "Energy Law",
-    "Ethics",
     "Constitutional Law",
     "Action",
-    "Court",
-    "Evidence",
     "Judgment and Orders",
-    "Jurisdiction"
+    "Court",
+    "Alternative Dispute Resolution",
+    "Ethics",
+    "Commercial Law",
+    "Energy Law",
+    "Jurisdiction",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,22 +28,21 @@
   "judge": [
     "Aloma Mariam Mukhtar JSC",
     "Walter Samuel Nkanu Onnoghen JSC",
-    "Francis Fedode Tabai JSC",
     "John Afolabi Fabiyi JSC",
-    "Bode Rhodes-Vivour JSC"
+    "Bode Rhodes-Vivour JSC",
+    "Francis Fedode Tabai JSC"
   ],
   "representation": [
-    "MR",
-    "I. L. Alabi",
+    "James Ugbolu",
     "M. I. Ahamba",
-    "James Ugbolu"
+    "I. L. Alabi"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Division",
     "Federal High Court, Lagos",
     "Arbitral Panel (nnaemeka-agu Jsc (rtd.), Abdullahi Ibrahim San, and Hon. Bayo Ojo, San., Presiding)"
   ],
-  "doc_id": "e32919a0-2ba8-4021-93dd-d32c88aaebb2",
+  "doc_id": "1cececd8-fef6-425e-ae8f-ca0ed8899822",
   "doctype": "Case",
   "parties": [
     "Nigerian National Petroleum Corporation",

@@ -10,11 +10,11 @@
     "(2003)6NWLR(PT.870)458"
   ],
   "area_of_law": [
-    "Admiralty and Shipping",
-    "Commercial Law",
-    "Transportation Law and Logistics",
     "Action",
-    "Interpretation of Statutes"
+    "Transportation Law and Logistics",
+    "Interpretation of Statutes",
+    "Admiralty and Shipping",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,18 +28,17 @@
   ],
   "representation": [
     "A. Ogie",
-    "M.C. Omijeh",
     "O. Badewole",
-    "MRS"
+    "M.C. Omijeh"
   ],
   "originating_court": "Federal High Court, Lagos Judicial Division",
-  "doc_id": "9914bf22-b64d-48ee-9bcf-854549805603",
+  "doc_id": "edb69e3a-2c29-4167-822a-28e0d1af8ac7",
   "doctype": "Case",
   "parties": [
     "Umarco",
-    "Nig",
     "Plc",
-    "Jofabris and Associates Ltd",
-    "Nigeria Ports Plc"
+    "Nig",
+    "Nigeria Ports Plc",
+    "Jofabris and Associates Ltd"
   ]
 }

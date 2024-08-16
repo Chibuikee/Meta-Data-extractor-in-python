@@ -1,16 +1,16 @@
 {
   "case_title": "Zacchus Odunsi v. Inspector-general of Police",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-5-1955",
   "year": "1955",
-  "suit_number": "(1955)-SC.05/55",
+  "suit_number": "",
   "lex_citation": "LEX(1955)-SC.05/55",
   "other_citations": "2PLR/1955/20(SC)",
   "area_of_law": [
+    "Interpretation of Statutes",
     "Criminal Law and Procedure",
-    "Insurance and Reinsurance",
     "Transport and Logistics Law",
-    "Interpretation of Statutes"
+    "Insurance and Reinsurance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,7 +23,7 @@
     "Adeyinka",
     "Ejimofor"
   ],
-  "doc_id": "963e971a-9ea4-485d-b7db-6898cc3a2d09",
+  "doc_id": "11d19efe-0bb4-42c4-a589-c915fbc9f258",
   "doctype": "Case",
   "parties": [
     "Zacchus Odunsi",

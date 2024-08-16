@@ -3,16 +3,16 @@
   "court": "High Court",
   "date": "19-3-1972",
   "year": "1972",
-  "suit_number": "(1972)-HU/1D/71",
+  "suit_number": "",
   "lex_citation": "LEX(1972)-HU/1D/71",
   "other_citations": "3PLR/1972/133(HC)",
   "area_of_law": [
-    "Family Law",
     "Healthcare and Law",
-    "Education and Law",
-    "Children and Women La",
     "Action",
-    "Word and Phrases"
+    "Word and Phrases",
+    "Children and Women Law",
+    "Family Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,10 +24,10 @@
     "Egbuziem",
     "Obonna"
   ],
-  "doc_id": "59846d8e-0870-45ab-946b-f2ef13ac94dd",
+  "doc_id": "7c8fe617-2147-4fe2-825c-1db018736ecf",
   "doctype": "Case",
   "parties": [
-    "C. Oyedo",
+    "Reuben C. Oyedo",
     "Daisy N. Oyedo"
   ]
 }

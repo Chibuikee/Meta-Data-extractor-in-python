@@ -10,15 +10,10 @@
     "(2001)17NWLR(PT.741)82"
   ],
   "area_of_law": [
-    "Lex",
-    "Francis Ezediufu",
-    "The State",
-    "Adetokunbo Kayode",
-    "Franca Ofor",
-    "Criminal Law and Procedure",
     "Constitutional Law",
     "Children and Women Law",
     "Ethics",
+    "Criminal Law and Procedure",
     "Education and Law"
   ],
   "semantic_tags": [
@@ -27,27 +22,25 @@
     "Case"
   ],
   "judge": [
+    "The State",
     "Justin Thompson Akpabio JCA",
-    "John Afolabi Fabiyi JCA",
-    "Musa Dattijo Muhammad JCA",
     "Francis Ezediufu",
-    "The State"
+    "Musa Dattijo Muhammad JCA",
+    "John Afolabi Fabiyi JCA"
   ],
-  "representation_appellant": [
-    "Adetokunbo Kayode",
-    "Franca Ofor",
-    "Deputy Director of Public Prosecution",
+  "representation": [
     "Ministry of Justice",
+    "Adetokunbo Kayode",
+    "Deputy Director of Public Prosecution",
     "Awka",
-    "Anambra State",
-    "Substantive Legal"
+    "Franca Ofor",
+    "Anambra State"
   ],
-  "representation_respondent": "Policy Issues Criminal Law",
   "originating_court": "High Court of Anambra State of Nigeria, Holden at Onitsha (F.O.nwokedi, J., Presiding)",
-  "doc_id": "c9173326-0710-46c7-ba3d-8f9fa3219a81",
+  "doc_id": "fe2a24e7-a2d2-400a-8a8f-bdc3ef5fe59f",
   "doctype": "Case",
   "parties": [
-    "S Ezediufu",
+    "Francis Ezediufu",
     "The State"
   ]
 }

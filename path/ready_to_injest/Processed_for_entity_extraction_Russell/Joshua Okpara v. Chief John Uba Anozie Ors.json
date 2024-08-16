@@ -10,10 +10,10 @@
     "(2020)LPELR-49296(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Real Estate and Property Law",
+    "Action",
     "Appeal",
-    "Action"
+    "Real Estate and Property Law",
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,27 +21,26 @@
     "Case"
   ],
   "judge": [
-    "Ibrahim Ali Andenyangtso JCA",
     "Ita George Mbaba JCA",
-    "Raphael Chikwe Agbo JCA"
+    "Raphael Chikwe Agbo JCA",
+    "Ibrahim Ali Andenyangtso JCA"
   ],
   "representation_appellant": "K.E. Owuamalam",
   "representation_respondent": "Ibeneme Njoku",
   "originating_court": [
-    "",
     "Imo State High Court [justice Ngozi Opara, Presiding]"
   ],
-  "doc_id": "eecff7ab-0a79-421b-bfbb-e699a20d30fe",
+  "doc_id": "04cc3d28-5592-46d3-90c6-fdc38403ed93",
   "doctype": "Case",
   "parties": [
     "Joshua Okpara",
+    "Michael Anozie",
     "Chief John Uba Anozie",
-    "Chief Emmanuel Obinna Anozie",
+    "Uzodinma Anozie",
     "Daniel Abameziri Anozie",
     "Okenze Alex Anozie",
+    "Livinus Anozie",
     "Cletus Anozie",
-    "Michael Anozie",
-    "Uzodinma Anozie",
-    "Livinus Anozie"
+    "Chief Emmanuel Obinna Anozie"
   ]
 }

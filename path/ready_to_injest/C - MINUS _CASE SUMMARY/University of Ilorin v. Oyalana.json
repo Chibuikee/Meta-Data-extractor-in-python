@@ -11,14 +11,19 @@
     "[2001]FWLR[PT.83]2193"
   ],
   "area_of_law": [
+    "Constitutional Law",
     "Action",
+    "Judgment",
+    "Ethics",
     "Appeal",
-    "Court",
     "Evidence",
     "Judgment and Order",
-    "Judgment",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Administrative and Government Law",
+    "Children and Women Law",
+    "Court",
+    "Words and Phrases",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,34 +31,25 @@
     "Case"
   ],
   "judge": [
-    "Muritala Aremu Okunola JCA",
     "Patrick Ibe Amaizu JCA",
+    "Muritala Aremu Okunola JCA",
     "Walter Samuel Nkanu Onnoghen JCA"
   ],
-  "representation_appellant": [
-    "Olatunji Arosanyin . I.A. Amoo",
+  "representation": [
+    "I. Kuranga",
     "Messrs",
     "O. S. Ogidiolu",
-    "I. Kuranga Substantive Legal"
-  ],
-  "representation_respondent": [
-    "Policy Issues Constitutional Law",
-    "Fair Hearing",
-    "Fair",
-    "Constitution of Federal Republic of Nigeria",
-    "Administrative"
+    "Olatunji Arosanyin",
+    "I.A. Amoo"
   ],
   "originating_court": "The Federal High Court (tshoho J., Presiding)",
-  "doc_id": "e10a4d6f-77cc-419c-a78b-7fbb9373e6be",
+  "doc_id": "9ca2216d-bc4d-4cbc-834d-18a1f4336c9b",
   "doctype": "Case",
   "parties": [
-    "University of Ilorin",
     "The Vice Chancellor",
-    "University of Ilorin",
     "The Senate",
     "University of Ilorin",
     "The Registrar",
-    "University of Ilorin",
     "Miss. V.I. Oyalana"
   ]
 }

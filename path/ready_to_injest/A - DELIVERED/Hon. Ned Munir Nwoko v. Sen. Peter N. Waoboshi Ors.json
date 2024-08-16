@@ -1,6 +1,6 @@
 {
   "case_title": "Hon. Ned Munir Nwoko v. Sen. Peter N. Waoboshi Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "16-7-2019",
   "year": "2019",
   "suit_number": "SC.671/2019",
@@ -20,42 +20,43 @@
     "High Profile Case"
   ],
   "judge": [
-    "John Inyang Okoro JSC",
+    "Uwani Musa Abba Aji JSC",
     "Amiru Sanusi JSC",
-    "Amina Adamu Augie JSC",
+    "John Inyang Okoro JSC",
     "Ejembi Eko JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
     "Ahmed Raji San",
-    "Onyeka Nwokolo",
-    "Adeola Adedipe",
+    "Mubarak Imam",
     "Dolapo Kehinde",
-    "Mubarak Imam"
+    "Onyeka Nwokolo",
+    "Adeola Adedipe"
   ],
   "representation_respondent": [
-    "A.i Idigbe",
-    "Chief Robert Clarke",
-    "George Ogbemie",
-    "DR.frank Nwugo",
     "Wendy Kuku",
-    "S.m Danbaba",
+    "S.n Anicheve",
     "Emmanuel Enodim",
     "A. Fanokun",
     "N.N. Asobinuakwu",
+    "George Ogbemie",
+    "Chief Robert Clarke",
+    "Party Interested",
     "Orji Nwafor Orize",
-    "S.n Anicheve Party Interested"
+    "A.i Idigbe",
+    "S.m Danbaba",
+    "DR.frank Nwugo"
   ],
   "originating_court": [
     "S",
     "High Court of the Federal Capital Territory",
     "Court of Appeal, Abuja Division"
   ],
-  "doc_id": "f63db444-58bf-469d-8450-d80beee056f4",
+  "doc_id": "4bd2668f-4e5d-4a89-bd46-9061721636a1",
   "doctype": "Case",
   "parties": [
     "Hon. Ned Munir Nwoko",
-    "Sen. Peter N. Waoboshi",
-    "Ors"
+    "Ors",
+    "Sen. Peter N. Waoboshi"
   ]
 }

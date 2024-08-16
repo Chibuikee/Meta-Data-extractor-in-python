@@ -10,10 +10,10 @@
     "(2020)LPELR-49489(CA)"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Agriculture and Food Law",
+    "Evidence",
     "Appeal",
-    "Evidence"
+    "Agriculture and Food Law",
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,20 +21,20 @@
     "Case"
   ],
   "judge": [
-    "Adzira Gana Mshelia JCA",
     "Mudashiru Nasiru Oniyangi JCA",
-    "Boloukuromo Moses Ugo JCA"
+    "Boloukuromo Moses Ugo JCA",
+    "Adzira Gana Mshelia JCA"
   ],
   "representation_appellant": [
     "J. O. Oroko Godwin Haruna",
     "S. N. Yakubu Brief of Habu Wazirifor"
   ],
   "representation_respondent": [
-    "T. A. Lengkat",
-    "S. Badagubifor"
+    "S. Badagubifor",
+    "T. A. Lengkat"
   ],
   "originating_court": "High Court of Justice, Borno State (hon. Justice A. Z. Musa, Presiding)",
-  "doc_id": "859926f9-15d1-4da6-85fc-d85014b31e1d",
+  "doc_id": "298800ae-3a5c-4086-be5d-456fc891f627",
   "doctype": "Case",
   "parties": [
     "Alhaji Hassan Modu Goba",

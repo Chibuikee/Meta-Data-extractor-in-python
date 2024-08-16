@@ -1,25 +1,19 @@
 {
   "case_title": "Zenith Bank Plc v. Chief Arthur John Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "30-1-2015",
   "year": "2015",
   "suit_number": "SC.519/2012",
   "lex_citation": "",
-  "other_citations": "(2015)LPELR-24315(SC)",
+  "other_citations": [
+    "(2015)LPELR-24315(SC)"
+  ],
   "area_of_law": [
-    "P",
-    "G",
-    "Other Electronic Compendium in the Sam Eleanya",
-    "Coming Soon",
-    "Mary Ukaego Pete",
-    "Zenith Bank Plc",
-    "O",
-    "L",
-    "Debtor",
-    "Environmental and Natural Resources Law",
-    "Banking",
     "Ethics",
-    "Practice and Procedure"
+    "Practice and Procedure",
+    "Banking",
+    "Environmental and Natural Resources Law",
+    "Debtor"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,30 +22,30 @@
     "High Profile Case"
   ],
   "judge": [
+    "Nwali Sylvester Ngwuta JSC",
     "Walter Samuel Nkanu Onnoghen JSC",
     "Suleiman Galadima JSC",
-    "Nwali Sylvester Ngwuta JSC",
     "Mary Ukaego Peter-Odili JSC",
     "Musa Dattijo Muhammad JSC"
   ],
   "representation_appellant": [
     "O. Akoni",
-    "Prince",
+    "A. O. Utake",
     "G. Akitoye",
-    "A. O. Utake"
+    "Prince"
   ],
   "representation_respondent": [
-    "L. E. Nwosu",
     "A. N. Ayaogu",
+    "L. E. Nwosu",
     "Z. A. Nwosu"
   ],
-  "doc_id": "9d894aa4-a134-437b-b14b-973c55ea8a7c",
+  "doc_id": "4cd5c159-c575-42db-abce-a281fe651f9c",
   "doctype": "Case",
   "parties": [
     "Zenith Bank Plc",
-    "Chief Arthur John",
-    "Elder Frank Ule",
     "Chief Silas Oforji",
+    "Elder Frank Ule",
+    "Chief Arthur John",
     "Lga"
   ]
 }

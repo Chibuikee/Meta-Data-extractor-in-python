@@ -1,6 +1,6 @@
 {
   "case_title": "Olalomi Industries Ltd. v. Nigerian Industrial Development Bank Ltd.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-7-2009",
   "year": "2009",
   "suit_number": "SC.212/2002",
@@ -10,14 +10,14 @@
     "(2009)16NWLR(PT.1167)266S.C."
   ],
   "area_of_law": [
-    "Banking and Finance",
-    "Commercial Law",
-    "Debtor and Creditor",
-    "Real Estate",
     "Action",
     "Appeal",
-    "Evidence",
-    "Interpretation of Statute"
+    "Interpretation of Statute",
+    "Real Estate",
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,23 +26,23 @@
     "High Profile Case"
   ],
   "judge": [
+    "John Afolabi Fabiyi JSC",
     "George Adesola Oguntade JSC",
     "Mahmud Mohammed JSC",
     "Francis Fedode Tabai JSC",
-    "John Afolabi Fabiyi JSC",
     "Olufunmilola Oyelola Adekeye JSC"
   ],
   "representation_appellant": "Ijaodola",
   "representation_respondent": [
-    "Sheni Ibiwoye",
     "T. Okwute",
+    "Sheni Ibiwoye",
     "S. Okere"
   ],
   "originating_court": [
     "Court of Appeal, Ilorin Judicial Division",
     "High Court, Kwara State (A.O. Belgore, J., Presiding)"
   ],
-  "doc_id": "f9871c22-93a5-442f-82ed-9d7f069a59c3",
+  "doc_id": "7bcd4f27-3c6f-4fbf-aaff-2ca14f20f7b3",
   "doctype": "Case",
   "parties": [
     "Olalomi Industries Ltd.",

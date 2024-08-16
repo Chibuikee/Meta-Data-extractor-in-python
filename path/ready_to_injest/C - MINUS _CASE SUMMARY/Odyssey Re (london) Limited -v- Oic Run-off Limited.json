@@ -3,10 +3,15 @@
   "court": "Supreme Court",
   "date": "13-3-2000",
   "year": "2000",
-  "suit_number": "(2000)-QBCMF99/0512/A3",
+  "suit_number": "",
   "lex_citation": "LEX(2000)-QBCMF99/0512/A3",
-  "other_citations": "3PLR/2000/202(QB.D)",
-  "area_of_law": "Evidence",
+  "other_citations": [
+    "3PLR/2000/202(QB.D)"
+  ],
+  "area_of_law": [
+    "Insurance and Reinsurance",
+    "Evidence"
+  ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
@@ -18,32 +23,26 @@
     "Lord Justice Brooke and Lord Justice Buxton"
   ],
   "representation": [
-    "MR",
-    "J Sumption Qc",
-    "MR",
-    "Calver",
-    "Claimants",
-    "Lord",
-    "Grabiner Qc",
-    "MR",
     "Griffiths",
-    "MRS",
-    "Lake",
-    "MR",
-    "Jowell"
+    "J Sumption Qc",
+    "Grabiner Qc",
+    "Jowell",
+    "Calver",
+    "Lord",
+    "Claimants",
+    "Lake"
   ],
   "originating_court": [
-    "",
     "On Appeal From the High Court of Justice, Queen's Bench Division, Commercial Court (MR Justice Langley) Royal Courts of Justice, Strand, London Wc2a 2ll"
   ],
-  "doc_id": "57c120e8-e4a7-4168-8729-244ea6ee5d6d",
+  "doc_id": "5f135902-a045-487d-9eb0-3e9a18bbeb34",
   "doctype": "Case",
   "parties": [
-    "Odyssey Re",
     "London",
+    "Odyssey Re",
     "Limited",
     "Alexander Howden Holdings Limited",
-    "Oic Run-off Limited",
-    "Orion Insurance Company Plc"
+    "Orion Insurance Company Plc",
+    "Oic Run-off Limited"
   ]
 }

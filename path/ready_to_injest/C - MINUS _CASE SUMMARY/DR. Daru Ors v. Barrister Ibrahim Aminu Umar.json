@@ -7,17 +7,17 @@
   "lex_citation": "LEX(2013)-CA/J/272/2009",
   "other_citations": "3PLR/2010/19(SC)",
   "area_of_law": [
-    "Tort and Personal Injury Law",
-    "Administrative and Government Law",
-    "Children and Women Law",
-    "Constitutional Law",
-    "Employment and Labour Law",
     "Healthcare and Law",
+    "Tort and Personal Injury Law",
+    "Constitutional Law",
     "Action",
     "Appeal",
+    "Interpretation of Statutes",
+    "Employment and Labour Law",
+    "Administrative and Government Law",
+    "Children and Women Law",
     "Court",
-    "Jurisdiction",
-    "Interpretation of Statutes"
+    "Jurisdiction"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,28 +25,28 @@
     "Case"
   ],
   "judge": [
-    "Rapheal Chikwe Agbo JCA",
     "Ibrahim Shata Bdliya JCA",
+    "Rapheal Chikwe Agbo JCA",
     "Peter Olabisi Ige JCA"
   ],
   "representation_appellant": "Joshua Barau",
   "representation_respondent": [
+    "High Court",
+    "Originating State",
     "L. E. Anyia",
     "A. R. Dasoem",
-    "Originating State",
-    "Plateau State",
-    "High Court"
+    "Plateau State"
   ],
-  "doc_id": "b7b274af-db91-4db3-96c9-4ad78cb572e7",
+  "doc_id": "958a0319-2ff0-482a-bfdf-bb423855a41a",
   "doctype": "Case",
   "parties": [
-    "DR. Daru",
-    "DR. Maduka",
     "DR. Utoo",
-    "DR. Micah",
-    "DR. Ociieke",
-    "Jos University Teaching Hospital",
+    "DR. Daru",
     "Juth",
+    "Jos University Teaching Hospital",
+    "DR. Ociieke",
+    "DR. Maduka",
+    "DR. Micah",
     "Barrister Ibrahim Aminu Umar"
   ]
 }

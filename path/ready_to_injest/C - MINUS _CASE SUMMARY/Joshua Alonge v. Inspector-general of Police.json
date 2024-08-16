@@ -1,15 +1,15 @@
 {
   "case_title": "Joshua Alonge v. Inspector-general of Police",
-  "court": "Supreme Court",
+  "court": "Federal Supreme Court",
   "date": "23-10-1959",
   "year": "1959",
   "suit_number": "SC222/1959",
   "lex_citation": "LEX(1959)-FSC222/1959",
   "other_citations": "3PLR/1959/68(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Children and Women Law",
     "Education Law",
+    "Criminal Law and Procedure",
     "Practice and Procedure Issues",
     "Evidence"
   ],
@@ -20,18 +20,19 @@
     "High Profile Case"
   ],
   "judge": [
+    "Samuel Okai Quashie Idun, Ag FJ",
     "Adetokunbo Ademola CJ",
-    "Lionel Brett FJ",
-    "Samuel Okai Quashie Idun, Ag FJ"
+    "Lionel Brett FJ"
   ],
   "representation": [
-    "M. E. R. Okorodudu . A. W. E. Wheeler",
-    "Senior Crown Counsel"
+    "Senior Crown Counsel",
+    "M. E. R. Okorodudu",
+    "A. W. E. Wheeler"
   ],
-  "doc_id": "660990f8-aaa6-4101-9a6c-fccdf8b692c7",
+  "doc_id": "5fe3e4d2-264a-41c5-bf38-e08b444a8d74",
   "doctype": "Case",
   "parties": [
-    "Alonge",
+    "Joshua Alonge",
     "Inspector-general of Police"
   ]
 }

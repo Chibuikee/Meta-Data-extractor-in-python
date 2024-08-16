@@ -1,6 +1,6 @@
 {
   "case_title": "Aremu v. Adetoro",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-7-2007",
   "year": "2007",
   "suit_number": "S.C.418/2001",
@@ -18,31 +18,26 @@
     "High Profile Case"
   ],
   "judge": [
-    "Niki Tobi JSC",
-    "Dahiru Musdapher JSC",
-    "Walter Samuel Nkanu Onnoghen JSC",
     "Francis Fedode Tabai JSC",
-    "Pius Olayiwola Aderemi JSC"
+    "Pius Olayiwola Aderemi JSC",
+    "Dahiru Musdapher JSC",
+    "Niki Tobi JSC",
+    "Walter Samuel Nkanu Onnoghen JSC"
   ],
-  "representation_appellant": [
-    "Not Represented",
-    "N.O.O. Oke",
+  "representation": [
     "A.O. Oloriaje",
-    "Issues Determination Real Estate"
-  ],
-  "representation_respondent": [
-    "Land Matters - Claim Declaration of Title to Land and Injunction - What Claimant Must Prove to Succeed - Burden of Proof as to Title and Identity of Land - on",
-    "Real Estate"
+    "N.O.O. Oke",
+    "Not Represented"
   ],
   "originating_court": [
     "Court of Appeal, Ibadan Division",
     "High Court, Oyo State"
   ],
-  "doc_id": "60d2bdd9-5fdd-4912-8b80-258957bc2b82",
+  "doc_id": "a2126e85-cb71-4ca2-8ee3-19b73d0e30fe",
   "doctype": "Case",
   "parties": [
-    "Lasisi Aremu",
     "Substituted for Buraimoh Ogunleye",
+    "Lasisi Aremu",
     "Appellants",
     "Alhaji Lawal Adetoro - Respondents"
   ]

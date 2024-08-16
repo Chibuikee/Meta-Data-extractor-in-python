@@ -3,13 +3,13 @@
   "court": "Court of Appeal",
   "date": "23-1-2004",
   "year": "2004",
-  "suit_number": "(2002)-ALLE.R107",
+  "suit_number": "",
   "lex_citation": "LEX(2002)-ALLE.R107",
   "other_citations": "3PLR/2004/69(SC)",
   "area_of_law": [
     "Children and Women Law",
-    "Healthcare and Law",
     "Human Rights",
+    "Healthcare and Law",
     "Judgment"
   ],
   "semantic_tags": [
@@ -22,9 +22,10 @@
     "Jeremy Carey",
     "Ian Denham"
   ],
-  "doc_id": "4686781c-6461-4612-94ca-6e05829e23f2",
+  "doc_id": "c1043698-5e2a-40dc-8b00-eb08bf250d2e",
   "doctype": "Case",
   "parties": [
+    "Morgan",
     "Smally"
   ]
 }

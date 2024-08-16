@@ -1,24 +1,23 @@
 {
   "case_title": "Agu v. Ikewebe",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "19-4-1991",
   "year": "1991",
   "suit_number": "SC.107/1988",
   "lex_citation": "LEX(1991)-SC.107/1988",
   "other_citations": "2PLR/1991/24(SC)",
   "area_of_law": [
-    "Real Estate",
-    "Alternative Dispute Resolution",
     "Constitutional and Public Law",
     "Constitutional Law",
+    "Judgment",
+    "Alternative Dispute Resolution",
     "Customary Law",
-    "Customary La",
     "Ethics",
     "Appeal",
-    "Evidence",
-    "Judgment",
+    "Real Estate",
     "Pleadings",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,22 +26,21 @@
     "High Profile Case"
   ],
   "judge": [
-    "Andrews Otutu Obaseki JSC",
+    "Abubakar Bashir Wali JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
     "Saidu Kawu JSC",
-    "Philip Nnaemeka-Agu JSC",
-    "Abubakar Bashir Wali JSC"
+    "Andrews Otutu Obaseki JSC",
+    "Philip Nnaemeka-Agu JSC"
   ],
   "representation": [
     "J.H.C. Okolo",
-    "Chief",
     "I. Tagbo Nwogu"
   ],
   "originating_court": [
     "Court of Appeal",
     "High Court of East Central State"
   ],
-  "doc_id": "32328963-df00-4f57-b596-d9d8238c2a41",
+  "doc_id": "b5e70de2-784e-4a34-9cec-542f5541a1cc",
   "doctype": "Case",
   "parties": [
     "Raphael Agu",

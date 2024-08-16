@@ -1,17 +1,17 @@
 {
   "case_title": "Ibolukwu v. Onoharigho",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-6-1964",
   "year": "1964",
   "suit_number": "S.C.113/1963",
   "lex_citation": "LEX(1964)-F.S.C.113/1963",
   "other_citations": "3PLR/1964/39(SC)",
   "area_of_law": [
-    "Tort and Personal Injuries Law",
-    "Children and Women Law",
     "Transport Law Motor and Vehicle",
-    "Education and Law",
-    "Interpretation of Statutes"
+    "Tort and Personal Injuries Law",
+    "Interpretation of Statutes",
+    "Children and Women Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,20 +20,23 @@
     "High Profile Case"
   ],
   "judge": [
-    "Lionel Brett JSC",
     "John Idowu Conrad Taylor JSC",
-    "Vahe Robert Bairamian JSC"
+    "Vahe Robert Bairamian JSC",
+    "Lionel Brett JSC"
   ],
-  "representation": "B. O. Benson A. G. Irikefe",
+  "representation": [
+    "Him Branco",
+    "B. O. Benson",
+    "A. G. Irikefe"
+  ],
   "originating_court": [
-    "",
     "High Court of Western Nigeria"
   ],
-  "doc_id": "c37153ca-a4d2-447c-a323-fcf6fc2feb1a",
+  "doc_id": "932485c4-92ec-46e7-ba38-5dda2e9f99f7",
   "doctype": "Case",
   "parties": [
-    "Agolo Ibolukwu",
     "Others",
+    "Agolo Ibolukwu",
     "James Onoharigho"
   ]
 }

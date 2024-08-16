@@ -3,17 +3,17 @@
   "court": "Court of Appeal",
   "date": "30-6-1981",
   "year": "1981",
-  "suit_number": "(1981)-3ALLE.R.577",
+  "suit_number": "",
   "lex_citation": "LEX(1981)-3ALLE.R.577",
   "other_citations": [
     "3PLR/1981/6(CA)",
     "[1981]3ALLE.R.577"
   ],
   "area_of_law": [
-    "Banking and Finance",
+    "International Trade",
     "Business and Industry",
-    "Debtor and Creditor",
-    "International Trade"
+    "Banking and Finance",
+    "Debtor and Creditor"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,15 +24,26 @@
     "Lord Denning",
     "Eveleigh and Brandon L JJ"
   ],
+  "representation_appellant": [
+    "Paul Walker",
+    "Mark Hapgood",
+    "Anthony Colman Qc",
+    "Andrew Morritt Qc",
+    "Allen"
+  ],
+  "representation_respondent": [
+    "Henrietta Steinberg",
+    "Overy",
+    "Nabarro Nathanson"
+  ],
   "originating_court": [
-    "",
     "High Court (robert Goff J., Presiding)"
   ],
-  "doc_id": "6e0fbc5d-68b5-4833-a656-aeec09704e9d",
+  "doc_id": "2844da6c-e366-4ac4-8160-f35bb4113a24",
   "doctype": "Case",
   "parties": [
-    "Amalgamated Investment and Property Co Ltd",
     "In Liquidazion",
+    "Amalgamated Investment and Property Co Ltd",
     "Texas Commerce International Bank Ltd"
   ]
 }

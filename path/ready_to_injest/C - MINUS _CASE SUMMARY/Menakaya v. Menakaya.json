@@ -1,6 +1,6 @@
 {
   "case_title": "Menakaya v. Menakaya",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "3-7-2001",
   "year": "2001",
   "suit_number": "SC.169/96",
@@ -10,17 +10,17 @@
     "(2001)16NWLR(PT.738)203"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Family Law",
-    "Children and Women Law",
-    "Education and Law",
     "Healthcare and Law",
-    "Ethics",
+    "Constitutional Law",
     "Judgment",
+    "Ethics",
+    "Interpretation of Statute",
+    "Interpretation of Statutes",
+    "Children and Women Law",
     "Court",
     "Estoppel",
-    "Interpretation of Statute",
-    "Interpretation of Statutes"
+    "Family Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,25 +29,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Michael Ekundayo Ogundare JSC",
     "Uthman Mohammed JSC",
+    "Michael Ekundayo Ogundare JSC",
     "Sylvester Umaru Onu JSC",
     "Samson Odemwingie Uwaifo JSC",
     "Emmanuel Olayinka Ayoola JSC"
   ],
   "representation": [
+    "J.O. Ibik San",
+    "Ayodele Ogundele",
     "A.N. Anyamene",
-    "DR",
-    "J.O. Ibik San"
+    "M.C. Okonkwo",
+    "W. Gbadamosi"
   ],
   "originating_court": [
     "Court of Appeal",
     "High Court of Anambra State, Onitsha Judicial Division"
   ],
-  "doc_id": "f11c11c5-358e-4336-961b-3e30b77e6b0e",
+  "doc_id": "bba74bed-b6f2-42e0-87f0-7fb7d5562fc6",
   "doctype": "Case",
   "parties": [
-    "Mothy N. Menakaya",
+    "DR. Timothy N. Menakaya",
     "Ann Okwuchukwu Menakaya"
   ]
 }

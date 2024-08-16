@@ -1,19 +1,19 @@
 {
   "case_title": "DR. Casmir Anyanwu v. Chief Okey Eze Ors2",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-7-2019",
   "year": "2019",
   "suit_number": "SC.626/2019",
-  "lex_citation": "LEX(2020)–SC.625/2019",
+  "lex_citation": "LEX(2020)-SC.625/2019",
   "other_citations": [
     "3PLR/2020/13(SC)",
     "(2019)LPELR-48740(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Electoral Matters",
+    "Appeal",
     "Action",
-    "Appeal"
+    "Electoral Matters",
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,42 +23,42 @@
   ],
   "judge": [
     "Mary Ukaego Peter-Odili JSC",
+    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
-    "Amiru Sanusi JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Amiru Sanusi JSC"
   ],
   "representation_appellant": [
     "Chukwudi Adiukwu, Esq",
-    "Ikechukwu Uwanna",
     "C.B. Okoroafor",
+    "Ikechukwu Uwanna",
     "Fernanadez Marcus-obiene and Jacinta Azuatalam"
   ],
   "representation_respondent": [
-    "A. I. Nwachukwu, Esq",
+    "Fermandez Marcus-obiene, Esq",
     "M.C. Arnanze, Esq",
     "R.A. Lawal-rabana, San",
-    "Ikechukwu Uwanna, Esq",
-    "Izito Zuoke, Esq",
-    "Michael Nwamu, Esq",
     "Chinedu",
-    "B. Okoroafor, Esq",
-    "Fermandez Marcus-obiene, Esq",
+    "A. I. Nwachukwu, Esq",
+    "Ikechukwu Uwanna, Esq",
     "Peter Abang",
-    "Inec"
+    "B. Okoroafor, Esq",
+    "Inec",
+    "Izito Zuoke, Esq",
+    "Michael Nwamu, Esq"
   ],
   "originating_court": [
     "Court of Appeal, Owerri Division, Owerri, Imo State, Nigeria",
     "Federal High Court, Owerri, Imo State, Nigeria"
   ],
-  "doc_id": "0578fd08-8666-4706-824d-4090c8add0ab",
+  "doc_id": "9f8a5197-4e87-4d3c-8036-3a4768733ff0",
   "doctype": "Case",
   "parties": [
     "DR. Casmir Anyanwu",
-    "Chief Okey Eze",
-    "Social Democratic Party",
     "Sdp",
     "Independent National Electoral Commission",
+    "Chief Okey Eze",
+    "Social Democratic Party",
     "Inec"
   ]
 }

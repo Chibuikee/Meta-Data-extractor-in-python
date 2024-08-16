@@ -10,15 +10,15 @@
     "(2020)LPELR-49524(CA)"
   ],
   "area_of_law": [
-    "Appeal",
+    "Administrative and Government Law",
     "Court",
     "Criminal Law and Procedure",
     "Constitutional Law and Human Right",
-    "Administrative and Government Law",
+    "Ethics",
     "Media and Law",
     "Interpretation of Statute",
-    "Ethics",
-    "Action"
+    "Action",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -31,22 +31,22 @@
     "Stephen Jonah Adah JCA"
   ],
   "representation_appellant": [
-    "J.B. Daudu, San",
-    "M.J. Sule Esq",
-    "Emmanuel Oni Esq",
-    "A. Adedeji Esq",
     "D.k Lorhemba, San",
-    "K. F. Umenji Esq"
+    "A. Adedeji Esq",
+    "K. F. Umenji Esq",
+    "J.B. Daudu, San",
+    "Emmanuel Oni Esq",
+    "M.J. Sule Esq"
   ],
   "representation_respondent": [
-    "O.A. Atolagbe, Esq",
-    "Raymond Ashikem Esq",
     "O.D. Mese Esq",
+    "Raymond Ashikem Esq",
     "Nabila",
+    "O.A. Atolagbe, Esq",
     "S. Gaduya Esq"
   ],
   "originating_court": "Federal High Court [holden in Abuja, O.E. Abang J. Presiding]",
-  "doc_id": "03e8a48e-dd8f-4581-9c83-ab2c9724a073",
+  "doc_id": "cca34a12-17a2-464c-a4a6-0f3b3a93e4c6",
   "doctype": "Case",
   "parties": [
     "Gabriel Torwua Suswam",

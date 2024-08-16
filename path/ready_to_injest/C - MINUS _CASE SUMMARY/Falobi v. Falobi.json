@@ -1,6 +1,6 @@
 {
   "case_title": "Falobi v. Falobi",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "23-9-1976",
   "year": "1976",
   "suit_number": "S.C.112/1975",
@@ -12,10 +12,10 @@
   ],
   "area_of_law": [
     "Action",
-    "Court",
-    "Evidenc",
     "Pleadings",
-    "Words and Phrases"
+    "Court",
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,39 +29,31 @@
     "Chukwunweike Idigbe JSC"
   ],
   "representation_appellant": [
-    "MR",
-    "Gani Fawehinmi",
-    "MR",
-    "Afe Babalola",
-    "Other Issues Family Law",
-    "Matrimonial Causes",
     "Custody",
-    "Custody",
-    "Order",
-    "Applicable",
-    "Whether Court",
-    "Family Law",
-    "Matrimonial Causes",
-    "Custody",
-    "Maintenance Order",
     "Whether",
-    "Children"
+    "Custody",
+    "Afe Babalola",
+    "Applicable Laws - Whether Court",
+    "Gani Fawehinmi",
+    "Maintenance Order",
+    "Order",
+    "Other Issues Family Law",
+    "Children",
+    "Family Law",
+    "Matrimonial Causes"
   ],
   "representation_respondent": [
-    "Women Law",
-    "Women and Justice Administration",
-    "Wife",
     "Appropriate",
-    "Women in Employment",
-    "Wage",
-    "Relevance",
-    "Children"
+    "Women and Justice Administration -wife",
+    "Children",
+    "Women Law",
+    "Women in Employment - Wage Earning Wives -relevance"
   ],
   "originating_court": [
     "High Court of the Former Western State in Ibadan",
     "Defunct Western State Court of Appeal"
   ],
-  "doc_id": "3e8fd800-eb63-4b23-ad32-486cb9915a7e",
+  "doc_id": "73e73c93-f024-4399-a05a-4d3ee4dae687",
   "doctype": "Case",
   "parties": [
     "Joseph O. Falobi",

@@ -10,8 +10,8 @@
     "(2020)LPELR-49531(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law",
     "Appeal",
+    "Constitutional Law",
     "Criminal Law and Procedure",
     "Evidence"
   ],
@@ -22,17 +22,16 @@
   ],
   "judge": [
     "Nonyerem Okoronkwo JCA",
-    "Folasade Ayodeji Ojo JCA",
-    "Haruna Simon Tsammani JCA"
+    "Haruna Simon Tsammani JCA",
+    "Folasade Ayodeji Ojo JCA"
   ],
   "representation_appellant": "A.M. Kotoye, Esq",
   "representation_respondent": [
-    "MRS",
-    "M.M. Akintunde, Esq",
-    "F.E. Bolarinwa - Adebowale"
+    "F.E. Bolarinwa - Adebowale",
+    "M.M. Akintunde, Esq"
   ],
   "originating_court": "Ogun State High Court [holden at Abeokuta, A. A. Akinyemi, J Presiding].",
-  "doc_id": "05f78592-e45e-43ee-9e81-65895276f9e6",
+  "doc_id": "de321188-2466-4fe2-9b0d-787ddcd62d80",
   "doctype": "Case",
   "parties": [
     "Kola Akanji",

@@ -28,7 +28,7 @@ def extract_doc(file_path, word):
         doc.Close(False)
         # this contains old formating, which causes bugs such as
         # absence of \n and presence of \r etc
-        return content.replace("\r\n", "\n").replace("\r", "\n")
+        return content.replace("\r\n", "\n").replace("\r", "\n").replace("–", "-")
         # return content
     except Exception as err:
         print(f"Error processing {file_path}: {err}")
@@ -40,7 +40,7 @@ async def doc_files_extractor(doc_path, file, CDispath):
     try:
         # doc_path = os.path.join(input_dir)
         if file.lower().endswith(".docx"):
-            return extract_docx(doc_path)
+            return extract_docx(doc_path).replace("–", "-")
         elif file.lower().endswith(".doc"):
             return extract_doc(doc_path, CDispath)
             # print("ends with doc")

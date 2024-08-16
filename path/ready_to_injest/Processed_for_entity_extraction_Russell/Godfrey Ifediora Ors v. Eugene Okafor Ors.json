@@ -10,11 +10,11 @@
     "(2019)LPELR-49518(SC)"
   ],
   "area_of_law": [
-    "Appeal",
-    "Evidence",
     "Agriculture and Food Law",
+    "Appeal",
+    "Judgment and Order",
     "Real Estate and Property Law",
-    "Judgment and Order"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,15 +23,15 @@
     "High Profile Case"
   ],
   "judge": [
-    "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
     "Ibrahim Tanko Muhammad JSC",
-    "John Inyang Okoro JSC"
+    "Paul Adamu Galumje JSC",
+    "John Inyang Okoro JSC",
+    "Uwani Musa Abba Aji JSC"
   ],
   "representation_appellant": [
-    "J. R. Nduka, Esq",
-    "R. E. Nduka"
+    "R. E. Nduka",
+    "J. R. Nduka, Esq"
   ],
   "representation_respondent": "Emeka Anyaenetu, Esq",
   "originating_court": [
@@ -39,7 +39,7 @@
     "High Court of Anambra State.",
     "Court of Appeal"
   ],
-  "doc_id": "2a4b9e41-d5be-4d0a-b040-1ad22fc2461b",
+  "doc_id": "7b5b0064-4fae-44cb-82ad-a562afb4a999",
   "doctype": "Case",
   "parties": [
     "Godfrey Ifediora",

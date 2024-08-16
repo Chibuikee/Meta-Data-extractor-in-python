@@ -1,6 +1,6 @@
 {
   "case_title": "Nigerian Bank for Commerce and Industry v. Integrated Gas (nigeria) Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "21-1-2005",
   "year": "2005",
   "suit_number": "SC.253/2000",
@@ -11,19 +11,19 @@
     "(2005)LPELR-SC.253/2000"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
-    "Commercial Law",
-    "Debtor and Creditor",
-    "International Trade Law",
-    "Action",
-    "Appeal",
+    "Waiver",
     "Equity",
     "Estoppel",
+    "Action",
+    "Words and Phrases",
+    "Appeal",
     "Evidence",
     "Pleading",
     "Pleadings",
-    "Waiver",
-    "Words and Phrases"
+    "International Trade Law",
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -32,26 +32,26 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sylvester Umaru Onu JSC",
-    "Akintola Olufemi Ejiwunmi, JSCNiki Tobi JSC",
+    "Dennis Onyejife Edozie JSC",
     "Dahiru Musdapher JSC",
-    "Dennis Onyejife Edozie JSC"
+    "Akintola Olufemi Ejiwunmi, JSCNiki Tobi JSC",
+    "Sylvester Umaru Onu JSC"
   ],
   "representation": [
-    "J.A. Badejo Esq",
-    "Nasiru Tijani Esq"
+    "Nasiru Tijani Esq",
+    "J.A. Badejo Esq"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Judicial Division",
     "Lagos State High Court"
   ],
-  "doc_id": "f4b3cdef-73a7-4fe8-a5d2-3a614ff8f424",
+  "doc_id": "a562ab24-3d6f-4834-9e42-eb7308d16453",
   "doctype": "Case",
   "parties": [
     "Nigerian Bank for Commerce and Industry",
-    "Integrated Gas",
     "Nigeria",
+    "S.A. Essien",
     "Limited",
-    "S.A. Essien"
+    "Integrated Gas"
   ]
 }

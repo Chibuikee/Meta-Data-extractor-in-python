@@ -1,9 +1,9 @@
 {
   "case_title": "Hitchins and Another v. British Coal Refining Processes Ltd",
-  "court": "King's Bench Division",
+  "court": "",
   "date": "23-3-1936",
   "year": "1936",
-  "suit_number": "(1936)-2ALLE.R191",
+  "suit_number": "",
   "lex_citation": "LEX(1936)-2ALLE.R191",
   "other_citations": [
     "2PLR/1936/10(KB)",
@@ -20,17 +20,17 @@
   ],
   "judge": "Talbot and Macnaghten JJ",
   "representation": [
-    "R P Croom-johnson",
-    "J P Ashworth",
     "D N Pritt Kc",
-    "Gilbert Paull",
+    "W K Scrivener",
+    "R P Croom-johnson",
     "Appeal",
-    "Slaughter & May",
-    "W Wallace Harden . W K Scrivener",
-    "Barrister"
+    "J P Ashworth",
+    "Gilbert Paull",
+    "W Wallace Harden",
+    "Slaughter & May"
   ],
   "originating_court": "Appeal From the Award of an Arbitrator Under the Arbitration Act 1889.",
-  "doc_id": "427ca696-a583-48e1-a62c-4b4875175af3",
+  "doc_id": "bd1c3fc2-6675-4d75-a2bf-9e6bd722ce0a",
   "doctype": "Case",
   "parties": [
     "Hitchins and Another",

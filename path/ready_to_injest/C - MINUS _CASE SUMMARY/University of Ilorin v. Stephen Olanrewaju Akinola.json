@@ -10,12 +10,12 @@
     "(2014)LPELR-23275(SC)"
   ],
   "area_of_law": [
+    "Appeal",
+    "Interpretation of Statutes",
     "Education Law",
     "Children and Women Law",
-    "Appeal",
     "Court",
-    "Evidence",
-    "Interpretation of Statute"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,18 +24,18 @@
     "High Profile Case"
   ],
   "judge": [
-    "Mahmud Mohammed JSC",
     "Suleiman Galadima JSC",
     "Mary Ukaego Peter-Odili JSC",
-    "Musa Dattijo Muhammad JSC",
-    "John Inyang Okoro JSC"
+    "Mahmud Mohammed JSC",
+    "John Inyang Okoro JSC",
+    "Musa Dattijo Muhammad JSC"
   ],
   "representation": [
     "A. Olumide-fusika",
     "A. A. Adewumi"
   ],
   "originating_court": "Federal High Court, Ilorin",
-  "doc_id": "7a9a1c9f-1b3b-44e6-8dd6-120464e9a3ea",
+  "doc_id": "aa596791-8c38-4e98-808e-659539de5ae3",
   "doctype": "Case",
   "parties": [
     "University of Ilorin",

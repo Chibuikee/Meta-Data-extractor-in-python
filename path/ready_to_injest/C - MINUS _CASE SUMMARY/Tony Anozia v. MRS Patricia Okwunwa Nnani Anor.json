@@ -10,17 +10,17 @@
     "(2015)LPELR-24277(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law and Human Rights",
-    "Family Law",
-    "Customary Law",
-    "Children and Women Law",
     "Science an Technology Law",
-    "Ethics",
-    "Healthcare Law",
-    "Evidence",
     "Action",
+    "Constitutional Law and Human Rights",
+    "Customary Law",
+    "Ethics",
     "Appeal",
-    "Words and Phrases"
+    "Children and Women Law",
+    "Words and Phrases",
+    "Family Law",
+    "Healthcare Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,18 +28,18 @@
     "Case"
   ],
   "judge": [
+    "Ita George Mbaba JCA",
     "Rachael Chikwe Agbo JCA",
-    "Ignatius Igwe Agube JCA",
-    "Ita George Mbaba JCA"
+    "Ignatius Igwe Agube JCA"
   ],
   "representation_appellant": "In Person",
   "representation_respondent": "A. O. Nwankwo",
-  "doc_id": "8ccbdb48-2d3a-4f67-861a-7097232a328c",
+  "doc_id": "9b4934fe-00d2-4c84-8354-f4585573070c",
   "doctype": "Case",
   "parties": [
     "Tony Anozia",
+    "Nnani",
     "MRS Patricia Okwunwa Nnani",
-    "Ignatius",
-    "Nnani"
+    "Ignatius"
   ]
 }

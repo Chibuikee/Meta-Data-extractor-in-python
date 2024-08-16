@@ -3,14 +3,14 @@
   "court": "High Court",
   "date": "25-7-1970",
   "year": "1970",
-  "suit_number": "(1970)-K/93/68",
+  "suit_number": "",
   "lex_citation": "LEX(1970)-K/93/68",
   "other_citations": "3PLR/1970/65(HC)",
   "area_of_law": [
+    "Pleadings",
     "Commercial Law",
-    "Insurance and Reinsurance Law",
     "Transportation and Logistic Law",
-    "Pleadings"
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,10 +19,10 @@
   ],
   "judge": "Wheeler J",
   "representation": [
-    "Mustapha",
-    "R. O. Rowl"
+    "R. O. Rowland",
+    "Mustapha"
   ],
-  "doc_id": "7e44d318-5eba-487d-8812-0048ec5bf7ad",
+  "doc_id": "2981f030-af74-4d31-a7f8-919946f1a355",
   "doctype": "Case",
   "parties": [
     "Wada Darma",

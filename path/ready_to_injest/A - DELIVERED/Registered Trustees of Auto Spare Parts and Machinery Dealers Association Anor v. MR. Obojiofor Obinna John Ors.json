@@ -10,15 +10,15 @@
     "(2020)LPELR-49541(CA)"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
-    "Employment and Lablour Law",
-    "Company Law",
-    "Nonprofit Law",
-    "Action",
     "Appeal",
+    "Action",
+    "Pleadings",
+    "Employment and Lablour Law",
+    "Administrative and Government Law",
+    "Nonprofit Law",
     "Court",
-    "Judgment and Order",
-    "Pleadings"
+    "Company Law",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,30 +26,19 @@
     "Case"
   ],
   "judge": [
+    "Jamilu Yammama Tukur JCA",
     "Mohammed Lawal Garba JCA",
-    "Ugochukwu Anthony Ogakwu JCA",
-    "Jamilu Yammama Tukur JCA"
-  ],
-  "representation_respondent": [
-    "Chief Olalekan Yusuf, San",
-    "Victor Ozoude, Esq",
-    "Oluwole Awogbade, Esq",
-    "Olanrewaju Akinola, Esq",
-    "MS",
-    "Hakeemat Ijaiye",
-    "&",
-    "MS",
-    "Zainab Koiki"
+    "Ugochukwu Anthony Ogakwu JCA"
   ],
   "originating_court": "High Court of Lagos State [ogunjobi, J., Presiding]",
-  "doc_id": "8f9172f6-50f2-44b8-a1a0-36c5dacbd668",
+  "doc_id": "4f8bbdb9-7d28-48e0-9c29-0e84606f785d",
   "doctype": "Case",
   "parties": [
     "Registered Trustees of Auto Spare Parts and Machinery Dealers Association",
     "MR. Daniel Oforkansi",
     "MR. Obojiofor Obinna John",
+    "MR. Nwadimka Nathaniel",
     "MR. James C. Onwugamba",
-    "MR. Philip N. Ezeabasili",
-    "MR. Nwadimka Nathaniel"
+    "MR. Philip N. Ezeabasili"
   ]
 }

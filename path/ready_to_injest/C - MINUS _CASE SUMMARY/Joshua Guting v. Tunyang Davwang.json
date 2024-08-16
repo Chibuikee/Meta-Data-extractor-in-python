@@ -10,23 +10,23 @@
     "(2013)LPELR-21921(CA)"
   ],
   "area_of_law": [
-    "Real Estate",
-    "Constitutional Law",
-    "Constitutional and Public Law",
     "Public and Constitutional Law",
-    "Public Law and Jurisprudence",
-    "Ethics",
-    "Education and Law",
-    "Elders and Law",
-    "Food and Agriculture Law",
+    "Constitutional and Public Law",
     "Food and Agriculture",
+    "Constitutional Law",
     "Customary Court Trials",
     "Action",
+    "Food and Agriculture Law",
+    "Ethics",
+    "Elders and Law",
     "Appeal",
-    "Court",
     "Evidence",
+    "Interpretation of Statute",
+    "Real Estate",
+    "Public Law and Jurisprudence",
     "Pleadings",
-    "Interpretation of Statute"
+    "Court",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -40,15 +40,13 @@
   ],
   "representation_appellant": [
     "Okey Akobundu",
-    "Miss",
     "B. Okafor"
   ],
   "representation_respondent": [
-    "F. T. Kumah",
-    "Miss",
-    "Ajara Gidado"
+    "Ajara Gidado",
+    "F. T. Kumah"
   ],
-  "doc_id": "0d3bcc1e-3e57-4c6c-a62f-59ad23c60ddb",
+  "doc_id": "623787d5-9d92-4564-882f-61a54f66acbd",
   "doctype": "Case",
   "parties": [
     "Joshua Guting",

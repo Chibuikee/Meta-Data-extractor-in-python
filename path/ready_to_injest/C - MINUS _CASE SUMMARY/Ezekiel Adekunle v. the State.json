@@ -1,6 +1,6 @@
 {
   "case_title": "Ezekiel Adekunle v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-12-1989",
   "year": "1989",
   "suit_number": "SC66/1989",
@@ -11,8 +11,8 @@
     "(1989)12S.C203"
   ],
   "area_of_law": [
-    "Evidence",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,29 +21,31 @@
     "High Profile Case"
   ],
   "judge": [
-    "Muhammed Bello JSC",
     "Kayode Eso JSC",
-    "Augustine Nnamani JSC",
     "Salihu Modigbo Alfa Belgore JSC",
-    "Abubakar Bashir Wali JSC"
+    "Muhammed Bello JSC",
+    "Abubakar Bashir Wali JSC",
+    "Augustine Nnamani JSC"
   ],
   "representation_appellant": [
-    "Wole Olanipekun",
-    "Modupe Fasanmi",
-    "Deputy Director of Public Prosecution",
+    "Of Issues Criminal Law",
     "Ondo State",
-    "Issues From Cause of Issues Criminal Law"
+    "Cause",
+    "Issues From",
+    "Deputy Director of Public Prosecution",
+    "Wole Olanipekun",
+    "Modupe Fasanmi"
   ],
   "representation_respondent": [
-    "Procedure",
+    "Criminal Law",
     "Murder - Proof of - Killing by a Mob - Prosecution Duty to Prove Common Intention - How",
-    "Criminal Law"
+    "Procedure"
   ],
   "originating_court": [
     "Ondo State High Court, Ikere-ekiti Judicial Division",
     "Court of Appeal Benin Judicial Division (coram Omo, Musdapher and Ejiwanmi Jj.C.A.)"
   ],
-  "doc_id": "e04dfcf1-c598-4aff-b1ce-8927ae36a978",
+  "doc_id": "e4196744-348a-4e3f-9d68-b1e983dbdba5",
   "doctype": "Case",
   "parties": [
     "Ezekiel Adekunle",

@@ -1,23 +1,23 @@
 {
   "case_title": "Federal University of Technology Minna Ors v. Bukola Oluwaseun Olutayo",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-12-2017",
   "year": "2017",
   "suit_number": "SC.344/2009",
   "lex_citation": "LEX(2017)-SC.344/2009",
   "other_citations": "3PLR/2017/128(SC)",
   "area_of_law": [
-    "Administrative Law",
-    "Education and Law",
-    "Constitutional Law",
     "Constitutional and Human Rights Law",
     "Action",
-    "Court",
+    "Constitutional Law",
+    "Administrative Law",
     "Evidence",
-    "Jurisdiction",
     "Interpretation of Statute",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Court",
+    "Words and Phrases",
+    "Jurisdiction",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,44 +26,43 @@
     "High Profile Case"
   ],
   "judge": [
-    "Musa Dattijo Muhammad JSC",
-    "KMotonmori Olatokunbo Kekere-Ekun JSC",
-    "John Inyang Okoro JSC",
     "Chima Centus Nweze JSC",
-    "Ejembi Eko JSC"
+    "Ejembi Eko JSC",
+    "Musa Dattijo Muhammad JSC",
+    "John Inyang Okoro JSC",
+    "KMotonmori Olatokunbo Kekere-Ekun JSC"
   ],
   "representation": [
+    "Bola Olotu Esq",
+    "Karina",
+    "Ite Thomas Agantemi Esq",
+    "Temitope Ayodele-osunjide Esq and Oluwome Kolawole Esq",
     "Joseph Oluwarotimi Ojo Esq",
-    "Bola Olotu Esq"
+    "Chinenye Aneke Esq",
+    "C. A. Akinwale Esq"
   ],
   "originating_court": [
     "Court of Appeal",
     "High Court of Niger State, Holden at Minna (coram: M.S. Zukogi, J.)"
   ],
-  "doc_id": "b54ac183-5c14-4b97-ba0c-4adf66e8c74f",
+  "doc_id": "d516b3c9-5672-446e-a236-ce259e453253",
   "doctype": "Case",
   "parties": [
+    "State",
     "Federal University of Technology Minna",
-    "Prof. Turkur Sa",
+    "Technology",
+    "Federal University of Technology",
     "Ad",
     "Vice Chancellor",
-    "Federal University of Technology",
     "Minna",
-    "Niger State",
-    "Mallam Mohammed Dati Usman",
     "Acting Registrar",
-    "Federal University of Technology",
-    "Minna",
-    "Niger",
-    "State",
-    "A. N. Kolo",
     "The Acting Secretary",
-    "Federal University of Technology",
-    "Minna",
+    "Mallam Mohammed Dati Usman",
     "Niger State University of",
-    "Technology",
-    "Minna",
+    "Niger",
+    "Prof. Turkur Sa",
     "Niger State",
+    "A. N. Kolo",
     "Bukola Oluwaseun Olutayo"
   ]
 }

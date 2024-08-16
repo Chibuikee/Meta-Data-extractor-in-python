@@ -1,6 +1,6 @@
 {
   "case_title": "Uzor v. the Queen",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "3-1-1957",
   "year": "1957",
   "suit_number": "S.C.204/1956",
@@ -17,20 +17,16 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olumuyiwa Jibowu, AgF CJ",
     "MCNageon De Lestang FJ",
+    "Olumuyiwa Jibowu, AgF CJ",
     "Percy Cyril Hubbard"
   ],
   "representation": [
-    "Applicant",
-    "MR. S. D. Adebiyi"
+    "MR. S. D. Adebiyi",
+    "Applicant"
   ],
   "originating_court": "Na",
-  "doc_id": "a6e1f795-ce76-4c74-817b-c6a0d7472ade",
+  "doc_id": "1871ccd8-f860-4d24-a6cf-4b58afce1a0b",
   "doctype": "Case",
-  "parties": [
-    "James Uzor",
-    "James Uzor",
-    "The Queen"
-  ]
+  "parties": []
 }

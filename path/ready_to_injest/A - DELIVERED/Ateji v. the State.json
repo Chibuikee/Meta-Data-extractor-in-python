@@ -1,6 +1,6 @@
 {
   "case_title": "Ateji v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "27-2-1976",
   "year": "1976",
   "suit_number": "SC74/1975",
@@ -10,10 +10,10 @@
     "(1976)2S.C.43"
   ],
   "area_of_law": [
+    "Evidence",
     "Criminal Law and Procedure",
     "Healthcare and Law",
-    "Children and Women Law",
-    "Evidence"
+    "Children and Women Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,25 +22,25 @@
     "High Profile Case"
   ],
   "judge": [
-    "Darnley Arthur Alexander CJN",
     "Mamman Nasir JSC",
+    "Darnley Arthur Alexander CJN",
     "George Sodeinde Sowemimo JSC"
   ],
   "representation": [
-    "MR",
     "F. O. Akinrele",
-    "MR",
-    "I. A. Salami",
+    "S. B. A. Laro",
     "Ag",
-    "Director of Public Prosecutions"
+    "Director of Public Prosecutions",
+    "I. A. Salami",
+    "State Counsel Grade"
   ],
   "originating_court": [
-    "",
     "High Court of Oyo State, Ilesha Judicial Division (adesiyun, J. Presiding)"
   ],
-  "doc_id": "ccc42d57-76c9-495f-a7a8-9c71b1cbdd3e",
+  "doc_id": "d0b245f9-3fe6-4091-8a1f-d88ae80007e9",
   "doctype": "Case",
   "parties": [
+    "Musa Ateji",
     "The State"
   ]
 }

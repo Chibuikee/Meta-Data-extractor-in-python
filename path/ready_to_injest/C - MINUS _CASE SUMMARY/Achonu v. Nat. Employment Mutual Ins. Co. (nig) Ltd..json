@@ -1,6 +1,6 @@
 {
   "case_title": "Achonu v. Nat. Employment Mutual Ins. Co. (nig) Ltd.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-12-1976",
   "year": "1976",
   "suit_number": "SC490/1975",
@@ -21,24 +21,21 @@
     "High Profile Case"
   ],
   "judge": [
-    "George Sodeinde Sowemimo JSC",
     "Chukwunwike Idigbe JSC",
+    "George Sodeinde Sowemimo JSC",
     "Andrews Otutu Obaseki, Ag JSC"
   ],
   "representation": [
-    "MR",
-    "C. E. Ekpe",
-    "MR",
-    "A. N. Anyamene"
+    "A. N. Anyamene",
+    "C. E. Ekpe"
   ],
   "originating_court": [
-    "",
     "High Court of the East Central State, Holden at Enugu"
   ],
-  "doc_id": "5891144d-8b06-461b-81d6-53c6f7a0399b",
+  "doc_id": "f90ac7ba-9f9e-4a39-96f3-19e257d2b506",
   "doctype": "Case",
   "parties": [
-    "Achonu",
+    "T. A. Achonu",
     "National Employment Mutual Insurance Company (nig.) Ltd"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "case_title": "Emmanuel Egwumi v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "22-2-2013",
   "year": "2013",
   "suit_number": "SC.453/2010",
@@ -10,10 +10,14 @@
     "(2013)LPELR-20091(SC)"
   ],
   "area_of_law": [
+    "Food and Agriculture",
+    "Constitutional Law",
+    "Children and Women Law",
     "Appeal",
+    "Criminal Law and Procedure",
     "Court",
-    "Evidence",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,21 +28,21 @@
   "judge": [
     "Walter Samuel Nkanu Onnoghen JSC",
     "Christopher Mitchell Chukwuma-Eneh JSC",
-    "Bode Rhodes-Vivour JSC",
     "Musa Dattijo Muhammed JSC",
+    "Bode Rhodes-Vivour JSC",
     "Clara Bata Ogunbiyi JSC"
   ],
   "representation_appellant": "C. I Enweluzo Esq",
   "representation_respondent": [
-    "J. a Abrahams Esq Hon. Attorney-general",
-    "Of Kogi State",
-    "P. A. Aifa Dpp",
-    "H. E. Yusuf Ddpp Kogi State",
+    "High Court",
     "Originating State",
     "Kogi State",
-    "High Court"
+    "Of Kogi State",
+    "J. a Abrahams Esq Hon. Attorney-general",
+    "H. E. Yusuf Ddpp Kogi State",
+    "P. A. Aifa Dpp"
   ],
-  "doc_id": "529520c2-cf8e-420a-a9ad-72c7e714fc6f",
+  "doc_id": "95c1a1f9-dbd2-4ac0-b960-9fe276b1135d",
   "doctype": "Case",
   "parties": [
     "Emmanuel Egwumi",

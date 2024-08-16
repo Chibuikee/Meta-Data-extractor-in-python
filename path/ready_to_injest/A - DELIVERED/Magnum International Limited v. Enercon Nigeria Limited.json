@@ -4,19 +4,19 @@
   "date": "6-2-2020",
   "year": "2020",
   "suit_number": "CA/L/714/2018",
-  "lex_citation": "LEX(2020)–CA/L/714/2018",
+  "lex_citation": "LEX(2020)-CA/L/714/2018",
   "other_citations": [
     "3PLR/2020/27(CA)",
     "(2020)LPELR-49501(CA)"
   ],
   "area_of_law": [
+    "Ethics",
+    "Words and Phrases",
+    "Interpretation of Statute",
     "Alternative Dispute Resolution",
     "Constitutional Law",
     "Commercial Law",
-    "Ethics",
-    "Appeal",
-    "Interpretation of Statute",
-    "Words and Phrases"
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,12 +29,12 @@
     "Tijjani Abubakar JCA"
   ],
   "representation_appellant": [
-    "N. C. Ibeh",
-    "E. B. Folorunso"
+    "E. B. Folorunso",
+    "N. C. Ibeh"
   ],
   "representation_respondent": "E. Dike",
   "originating_court": "Federal High Court (holden at Lagos)",
-  "doc_id": "0c745dd9-ff0e-44ab-a717-90da50f60b32",
+  "doc_id": "51c6b697-b9b6-4c21-a536-84d41b8634ee",
   "doctype": "Case",
   "parties": [
     "Magnum International Ltd",

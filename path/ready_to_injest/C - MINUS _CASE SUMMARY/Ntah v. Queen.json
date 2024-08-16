@@ -1,6 +1,6 @@
 {
   "case_title": "Ntah v. Queen",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-10-1961",
   "year": "1961",
   "suit_number": "S.C.308/1961",
@@ -19,8 +19,8 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adetokunbo Ademola CJ",
     "Edgar Ignatius Godfrey Unsworth FJ",
+    "Adetokunbo Ademola CJ",
     "John Idowu Conrad Taylor FJ"
   ],
   "representation": [
@@ -28,10 +28,10 @@
     "Nwosu"
   ],
   "originating_court": "High Court of the Eastern Region of Nigeria",
-  "doc_id": "5d4962d5-e200-44ab-be2f-87af0838d829",
+  "doc_id": "13c2923b-1da8-4e85-bfbd-049b5420db27",
   "doctype": "Case",
   "parties": [
-    "The Queen",
-    "Federal"
+    "Friday Ntah",
+    "The Queen"
   ]
 }

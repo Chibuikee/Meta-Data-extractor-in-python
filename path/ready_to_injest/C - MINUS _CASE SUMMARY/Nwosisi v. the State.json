@@ -1,6 +1,6 @@
 {
   "case_title": "Nwosisi v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "4-6-1976",
   "year": "1976",
   "suit_number": "SC372/1975",
@@ -10,11 +10,10 @@
     "(1976)6S.C.(REPRINT)72"
   ],
   "area_of_law": [
+    "Healthcare and Law",
+    "Children and Women Law",
     "Criminal Law and Procedure",
     "Customs and Law",
-    "Children and Women La",
-    "Children and Women Law",
-    "Healthcare and Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -24,16 +23,17 @@
     "High Profile Case"
   ],
   "judge": [
-    "Damley Arthur Alexander CJN",
-    "George Sodeinde Sowemimo JSC",
     "Chukwunwike Idigbe JSC",
-    "Andrews Otutu Obaseki JSC"
+    "George Sodeinde Sowemimo JSC",
+    "Andrews Otutu Obaseki JSC",
+    "Damley Arthur Alexander CJN"
   ],
+  "representation": "Representation Not Found",
   "originating_court": "High Court in the Onitsha Judicial Division",
-  "doc_id": "9adca588-79c5-4a91-9878-3844e1f2c879",
+  "doc_id": "55eca3f6-0523-4502-b436-eab7dbfbd829",
   "doctype": "Case",
   "parties": [
-    "Ian Nwosisi",
+    "Christian Nwosisi",
     "The State"
   ]
 }

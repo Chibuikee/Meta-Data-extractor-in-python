@@ -1,6 +1,6 @@
 {
   "case_title": "Adelenwa v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-10-1972",
   "year": "1972",
   "suit_number": "SC275/71",
@@ -10,11 +10,11 @@
     "(1972)7NSCC591"
   ],
   "area_of_law": [
-    "Administrative Law and Governmen",
     "Criminal Law and Procedure",
     "Children and Women Law",
     "Healthcare and Law",
-    "Court"
+    "Court",
+    "Administrative Law and Government"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,25 +23,23 @@
     "High Profile Case"
   ],
   "judge": [
-    "Elias CJN",
+    "Sowemimo JSC",
     "Coker JSC",
-    "Sowemimo JSC"
+    "Elias CJN"
   ],
   "representation": [
-    "MR",
-    "A. R. A. Noibi",
-    "MR",
+    "South-eastern State",
     "A Mbrey-bassey",
-    "Senior State Counsel South-eastern State"
+    "A. R. A. Noibi",
+    "Senior State Counsel"
   ],
   "originating_court": [
-    "",
     "High Court, Calabar, [koolresh, J. Presiding]"
   ],
-  "doc_id": "0ccad062-c813-4d35-9658-e784b205ec63",
+  "doc_id": "ee4c7ac7-d410-4bad-9b53-361224f94d76",
   "doctype": "Case",
   "parties": [
-    "I Adelenwa",
+    "Abayomi Adelenwa",
     "The State"
   ]
 }

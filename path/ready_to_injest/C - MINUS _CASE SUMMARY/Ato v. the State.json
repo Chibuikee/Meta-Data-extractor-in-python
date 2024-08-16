@@ -1,17 +1,17 @@
 {
   "case_title": "Ato v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "11-4-1968",
   "year": "1968",
   "suit_number": "SC325/67",
   "lex_citation": "LEX(1968)-SC325/67",
   "other_citations": "2PLR/1968/21(SC)",
   "area_of_law": [
-    "Criminal Law",
     "Healthcare and Law",
+    "Court",
     "Children and Women Law",
-    "Practice and Procedure Issues",
-    "Court"
+    "Criminal Law",
+    "Practice and Procedure Issues"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,19 +20,20 @@
     "High Profile Case"
   ],
   "judge": [
-    "Lionel Brett JSC",
-    "George Baptist ACoker JSC",
     "Charles Olusoji Madarikan JSC",
+    "George Baptist ACoker JSC",
     "Connected Areas of Practice",
-    "Criminal Law (murder with Knife), Women and Children"
+    "Lionel Brett JSC",
+    "Criminal Law, Women and Children"
   ],
   "representation": [
     "Cole",
     "Belgore"
   ],
-  "doc_id": "e4748f57-e105-4af2-afaf-d96f68b118d6",
+  "doc_id": "2ab905bb-5825-4670-adc5-b2c2830cc54c",
   "doctype": "Case",
   "parties": [
+    "Tolato Ato",
     "The State"
   ]
 }

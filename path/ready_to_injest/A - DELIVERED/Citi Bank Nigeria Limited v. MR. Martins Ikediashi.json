@@ -1,6 +1,6 @@
 {
   "case_title": "Citi Bank Nigeria Limited v. MR. Martins Ikediashi",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.621/2015",
@@ -10,14 +10,14 @@
     "(2020)LPELR-49496(SC)"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Banking and Finance",
-    "Tort and Personal Injury Law",
-    "Administrative and Government Law",
     "Evidence",
-    "Pleadings",
+    "Words and Phrases",
     "Interpretation of Statute",
-    "Words and Phrase"
+    "Pleadings",
+    "Administrative and Government Law",
+    "Tort and Personal Injury Law",
+    "Commercial Law",
+    "Banking and Finance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,27 +28,27 @@
   "judge": [
     "Olabode Rhodes-Vivour JSC",
     "Olukayode Ariwoola JSC",
-    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
     "Amiru Sanusi JSC",
+    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
     "Ejembi Eko JSC"
   ],
   "representation_appellant": [
-    "Folabi Kuti, Esq",
     "H. H. Bassey Esq",
     "Pius Owhoavwodua Esq",
+    "Folabi Kuti, Esq",
     "Temidayo Adeoye Esq"
   ],
   "representation_respondent": [
-    "Osayaba Giwa-osagie Esq",
-    "Michael Dedon Esq",
+    "Bisola Bamigbola, Esq",
     "Ikechukwu Odozor Esq",
-    "Bisola Bamigbola, Esq"
+    "Osayaba Giwa-osagie Esq",
+    "Michael Dedon Esq"
   ],
   "originating_court": [
     "Court of Appeal [lagos Division]",
     "Lagos State High Court [justice F. O. Atilade Presiding]"
   ],
-  "doc_id": "5e168317-c796-4e63-b888-f0c54e222b88",
+  "doc_id": "2a2e142e-0cf5-4edf-b15b-a66c37b12860",
   "doctype": "Case",
   "parties": [
     "Citi Bank Nig. Ltd.",

@@ -10,13 +10,13 @@
     "(2020)LPELR-49540(CA)"
   ],
   "area_of_law": [
-    "Family Law",
+    "Action",
+    "Children and Women Law",
     "International Law",
     "Real Estate and Family Law",
-    "Children and Women Law",
-    "Action",
-    "Appeal",
     "Court",
+    "Family Law",
+    "Appeal",
     "Judgment and Order"
   ],
   "semantic_tags": [
@@ -25,14 +25,14 @@
     "Case"
   ],
   "judge": [
+    "Jamilu Yammama Tukur JCA",
     "Mohammed Lawal Garba JCA",
-    "Ugochukwu Anthony Ogakwu JCA",
-    "Jamilu Yammama Tukur JCA"
+    "Ugochukwu Anthony Ogakwu JCA"
   ],
   "representation_appellant": "Yinka Ajana, Esq",
   "representation_respondent": "Olufemi Abiodun, Esq",
   "originating_court": "High Court of Lagos State",
-  "doc_id": "9d935c3b-2963-4b50-880a-051cb5153c2c",
+  "doc_id": "7261c938-c538-4e9f-ae69-c909d810bade",
   "doctype": "Case",
   "parties": [
     "MR. Grant Kayode Yankey",

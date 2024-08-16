@@ -3,15 +3,17 @@
   "court": "High Court",
   "date": "45-invalid-1970",
   "year": "1970",
-  "suit_number": "(1970)-LD/450/1970",
+  "suit_number": "LD/450/1970",
   "lex_citation": "LEX(1970)-LD/450/1970",
-  "other_citations": "3PLR/1972/46(HC)",
+  "other_citations": [
+    "3PLR/1972/46(HC)"
+  ],
   "area_of_law": [
     "Tort and Personal Injury",
-    "Insurance and Re",
-    "Healthcare Law",
     "Ethics",
-    "Transportation and Logistics Law"
+    "Transportation and Logistics Law",
+    "Insurance and Re",
+    "Healthcare Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,11 +22,11 @@
   ],
   "judge": "Odesanya J",
   "representation": [
-    "Adewole",
     "Olaogun",
+    "Adewole",
     "Second"
   ],
-  "doc_id": "d25d9749-0807-42bd-8483-6c991ed62560",
+  "doc_id": "9596191a-3891-40e1-8dd0-b2d0219979e6",
   "doctype": "Case",
   "parties": [
     "Akin Denton",

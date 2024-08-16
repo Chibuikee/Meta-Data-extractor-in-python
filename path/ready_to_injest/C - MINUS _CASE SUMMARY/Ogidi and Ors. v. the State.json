@@ -10,11 +10,11 @@
     "(2002)FWL(PT.87)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Children and Women Law",
     "Healthcare and Law",
-    "Evidence",
-    "Words and Phrases"
+    "Children and Women Law",
+    "Criminal Law and Procedure",
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,18 +27,18 @@
     "David Adedoyin Adeniji JCA"
   ],
   "representation": [
+    "P. S. C. Imo State",
     "A. Nwaiwu",
     "N. N. Ojiabo",
-    "L. C. Azuama",
-    "P. S. C. Imo State"
+    "L. C. Azuama"
   ],
   "originating_court": "Owerri High Court of Imo State, Holden at Owerri (C.I. Ohakwe, J.)",
-  "doc_id": "cf064bc4-d619-4ce4-81c5-57c2a4289094",
+  "doc_id": "5378c789-75af-4ec7-bf98-349d6373f9fe",
   "doctype": "Case",
   "parties": [
-    "Cyriacus Ogidi",
-    "Augustine Awuzie",
     "Paul Uzoechi",
+    "Augustine Awuzie",
+    "Cyriacus Ogidi",
     "Chukwudi Ogidi",
     "The State"
   ]

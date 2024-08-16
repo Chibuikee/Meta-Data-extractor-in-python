@@ -10,15 +10,15 @@
     "(2020)LPELR-49568(SC)"
   ],
   "area_of_law": [
-    "Company Law",
-    "Appeal",
     "Court",
-    "Evidence",
     "Religion and Law",
+    "Jurisdiction",
+    "Company Law",
+    "Action",
+    "Appeal",
     "Nonprofit Law",
     "Real Estate and Property Law",
-    "Jurisdiction",
-    "Action"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,32 +29,32 @@
   "judge": [
     "Olabode Rhodes-Vivour JSC",
     "Amina Adamu Augie JSC",
-    "Chima Centus Nweze JSC",
     "Ejembi Eko JSC",
-    "Mary Ukaego Peter-Odili JSC"
+    "Mary Ukaego Peter-Odili JSC",
+    "Chima Centus Nweze JSC"
   ],
   "representation_appellant": [
+    "Mimi Ayua, Esq",
     "M.A. Ebuke, Esq",
     "Ogwu James Onoja, San",
-    "Mimi Ayua, Esq",
     "Noah Abdul, Esq"
   ],
   "representation_respondent": [
-    "Ikechukwu Onuoma, Esq",
-    "Daniel Aloh, Esq"
+    "Daniel Aloh, Esq",
+    "Ikechukwu Onuoma, Esq"
   ],
   "originating_court": [
     "Lower Appellate Court: Court of Appeal, Enugu Division [decision Dated 30th June, 2014, Coram: Massoud Abdulrahman Oredola, Emmanuel Akomaye Agim, Misitura Omodere Bolaji-yusuf J.C.A.]",
     "Trial: High Court of Justice, Awka Judicial Division [in the Then Anambra State of Nigeria Vide a Writ of Summons Dated 16th December, 1986. by the Further Amended Statement of Claim Dated 27th June, 2001]"
   ],
-  "doc_id": "c5de11af-5cb3-43a1-99c7-4544b2144fc8",
+  "doc_id": "6f7c59bc-4f1e-45cf-ad70-dcdf2bac2f6d",
   "doctype": "Case",
   "parties": [
-    "Apostle Peter Ekweozor",
+    "S Apostolic Church",
     "Rev. K. Oyema",
     "The Registered Trustees of the Saviour",
-    "S Apostolic Church",
-    "The Registered Trustees of the Saviour",
-    "S Apostolic Church of Nigeria"
+    "Apostle Peter Ekweozor",
+    "S Apostolic Church of Nigeria",
+    "The Registered Trustees of the Saviour"
   ]
 }

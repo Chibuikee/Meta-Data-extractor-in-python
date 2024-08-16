@@ -1,20 +1,20 @@
 {
   "case_title": "Ajufo v. Ajarbor and Others.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "16-6-1978",
   "year": "1978",
   "suit_number": "SC260/1975",
   "lex_citation": "",
   "other_citations": "(1978)6-7SC39",
   "area_of_law": [
-    "Commercial Law",
-    "Insurance and Re",
-    "Tort and Personal Injury",
-    "Healthcare and Law",
-    "Employer and Employee Law",
     "Transportation and Logistics Law",
     "Action",
-    "Interpretation of Statue"
+    "Insurance and Re",
+    "Healthcare and Law",
+    "Commercial Law",
+    "Interpretation of Statue",
+    "Employer and Employee Law",
+    "Tort and Personal Injury"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -32,16 +32,15 @@
     "A. B. Kasunmu"
   ],
   "originating_court": [
-    "",
     "High Court of the Then Mid-western State I(asaba Judicial Division)"
   ],
-  "doc_id": "2950cac6-1680-4bc6-92e7-c92a5d839e87",
+  "doc_id": "f9af4ad6-9561-4b34-b611-a8190ca4e3fa",
   "doctype": "Case",
   "parties": [
     "Andrew O. Ajufo",
-    "Christopher Ajarbor",
     "Okafor Dibia",
+    "Mercury Assurance Co. Ltd",
     "N. Nnonyeli",
-    "Mercury Assurance Co. Ltd"
+    "Christopher Ajarbor"
   ]
 }

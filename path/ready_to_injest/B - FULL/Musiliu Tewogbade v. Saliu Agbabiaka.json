@@ -7,16 +7,16 @@
   "lex_citation": "",
   "other_citations": "24WRN12",
   "area_of_law": [
-    "Children and Law",
-    "Constitutional Law",
-    "Estate Administration and Planning Law",
     "Real Estate and Property Law",
+    "T",
     "Action",
-    "Evidence",
-    "Judgment and Order",
+    "Constitutional Law",
     "Judgment and Orders",
-    "Pleadings",
-    "T"
+    "Estate Administration and Planning Law",
+    "Evidence",
+    "Children and Law",
+    "Judgment and Order",
+    "Pleadings"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,21 +29,21 @@
     "Pius Olayiwola Aderemi JCA"
   ],
   "representation": [
-    "Olumide Sofowora",
+    "L.V. Davis",
     "S.Y. Kolawole",
-    "L.V. Davis"
+    "Olumide Sofowora"
   ],
   "originating_court": [
     "S",
     "Lagos State High Court, Ikeja Judicial Division (martins J., Presiding)"
   ],
-  "doc_id": "1010c107-ff0a-41c0-ba6a-e5a98a7a436c",
+  "doc_id": "d5518503-d61e-4a21-8574-ef907d324625",
   "doctype": "Case",
   "parties": [
     "Musiliu Tewogbade",
     "Saliu Agbabiaka",
-    "Modinatu Agbabiaka",
     "Nimota Agbabiaka",
-    "Sinotu Agbabiaka"
+    "Sinotu Agbabiaka",
+    "Modinatu Agbabiaka"
   ]
 }

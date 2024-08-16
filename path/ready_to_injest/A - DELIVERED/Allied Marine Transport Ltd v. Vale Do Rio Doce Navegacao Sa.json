@@ -1,18 +1,18 @@
 {
   "case_title": "Allied Marine Transport Ltd v. Vale Do Rio Doce Navegacao Sa",
-  "court": "Queen's Bench",
+  "court": "Queen’s Bench Division",
   "date": "22-3-1982",
   "year": "1982",
-  "suit_number": "(1983)-3ALLE.R737",
+  "suit_number": "",
   "lex_citation": "LEX(1983)-3ALLE.R737",
   "other_citations": [
     "2PLR/1982/8(QB)",
     "[1983]3ALLE.R.737"
   ],
   "area_of_law": [
-    "Shipping and Admiralty Law",
     "Alternative Dispute Resolution",
-    "Commercial Law"
+    "Commercial Law",
+    "Shipping and Admiralty Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,18 +21,18 @@
   ],
   "judge": "Mustill J",
   "representation_appellant": [
-    "Michael G Collins",
     "Richard Aikens",
+    "Michael G Collins",
     "Ince"
   ],
   "representation_respondent": "Richards Butler",
   "originating_court": [
-    "",
     "Matter Before an Arbitration Panel"
   ],
-  "doc_id": "57bb4309-114c-4a02-a644-45223915e471",
+  "doc_id": "3c956c2f-3af2-4645-81ce-0cd9bec2fbfb",
   "doctype": "Case",
   "parties": [
-    "Sa"
+    "Allied Marine Transport Ltd",
+    "Vale Do Rio Doce Navegacao Sa"
   ]
 }

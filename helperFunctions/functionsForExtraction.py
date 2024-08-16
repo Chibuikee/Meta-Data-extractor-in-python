@@ -4,6 +4,7 @@ from .filterOutWord import filtered_and_refined_words
 from .formatDate import format_date
 from .generalHelperFunctions import (
     create_key_and_value,
+    filter_out_some_words,
     index_sort_in_ascending,
     to_ascii,
 )
@@ -38,6 +39,11 @@ def parties_extractor(text, metadata={}):
                 r"PRIVY COUNCIL",
                 r"HOUSE OF LORDS",
                 r"HOUSE OF L\w+DS?",
+                r"OTHER CITATIONS",
+                # Don't use queen because queen could be a party
+                # when queen is used as index locator and queen is one of the parties
+                # only the first party will be extracted and queen won't be added as a party
+                # r"QUEEN'?’?S?",
                 r"REPRESENTATION",
             ]
             resolvedPIndex = index_sort_in_ascending(
@@ -54,7 +60,7 @@ def parties_extractor(text, metadata={}):
         partiesMatch = re.findall(partiesRegex, PtextFromIndex)
         # print(f"text now in: {partiesMatch}")
         ex = [item.strip() for item in partiesMatch]
-
+        words_to_remove = ["MRS", "BARR", "HON", "AND"]
         if PstartIndex is None:
             regex = r"\b[A-Z]+.{3,}[A-Z]\b"
             partiesMatch = re.findall(regex, PtextFromIndex)
@@ -74,8 +80,13 @@ def parties_extractor(text, metadata={}):
         else:
             app = ex[: ex.index("AND")]
             res = ex[ex.index("AND") + 1 :]
-            create_key_and_value("parties_0", app, metadata)
-            create_key_and_value("parties_1", res, metadata)
+            # BARR MRS
+            create_key_and_value(
+                "parties_0", filter_out_some_words(app, words_to_remove), metadata
+            )
+            create_key_and_value(
+                "parties_1", filter_out_some_words(res, words_to_remove), metadata
+            )
         # print(f"meta data ready: {metadata}")
 
     except Exception as Err:
@@ -136,7 +147,14 @@ def suit_number_extraction(text, metadata={}):
             r"(M\/|CA|SC|S.C|HD\/|LD\/|(\(\d+\)))[.\/\w\s-]+\d\w?\b|^\[\d+\].+"
         )
         suitNumberMatch = re.search(suitNumberRegex, extractedSuitNoText)
-        metadata["suit_number"] = suitNumberMatch.group() if suitNumberMatch else ""
+        suit_number_matched = suitNumberMatch.group() if suitNumberMatch else ""
+        #    some suit number comes like this "SC 36/1959\n3PLR/1959/16", so take only the first
+        valid_suit_number = (
+            suit_number_matched.split("\n")[0]
+            if "\n" in suit_number_matched
+            else suit_number_matched
+        )
+        metadata["suit_number"] = valid_suit_number
 
     except Exception as Err:
         print(f"Suit number extraction error: {Err}")
@@ -204,8 +222,15 @@ def other_citations_extraction(text, metadata={}):
         # citeRegex = r"(?<=\n+)(.+)"
         listOfCitations = re.findall(citeRegex, otherCittextFromIndex)
         cleaned_up_list = [i.strip() for i in listOfCitations if i is not None]
+
+        #    in a situation where the first index is missing the logic picks all the items
+        # and stops at the stop index, hence parties and other items might be included
+        # so it just picks the last two items which most likely are suit numbers
+        selected_citations = (
+            cleaned_up_list[-2:] if otherCitstartIndex == 0 else cleaned_up_list
+        )
         # print("list of other citations", cleaned_up_list)
-        create_key_and_value("other_citations", cleaned_up_list, metadata)
+        create_key_and_value("other_citations", selected_citations, metadata)
 
     except Exception as Err:
         print(f"Other citations extraction failed: {Err}")
@@ -257,6 +282,12 @@ def legal_representation_extraction(text, metadata={}):
             "Plaintiff",
             "Defendants",
             "Defendant",
+            "Mr",
+            "Mrs",
+            "Miss",
+            "Dr",
+            "Chief",
+            "Barr",
         ]
 
         reparearegex = r"\b[A-Z\s]*&[\sA-Z]+\b|\b([A-Z]\.\s?){0,4}([A-Z][a-z\s-]+)*([A-Z][a-z]+)(, (Esq|SAN|S.A.N))?\b|(\b[A-Z][A-Z.\s]+ [A-Z-.]+\b)|\b[A-Z]{4,}"
@@ -319,7 +350,11 @@ def originating_court_extraction(text, metadata={}):
 
 def judges_extraction(text, metadata={}):
     try:
-        JstartRegex = [r"\bBEFORE.*(LORDSHIPS?:?|JUDGES?:?)\b", r"\bBEFORE:"]
+        JstartRegex = [
+            r"\bBEFORE.*(LORDSHIPS?:?|JUDGES?:?)\b",
+            r"\bBEFORE:",
+            r"\bBEFORE",
+        ]
         JstartIndex = index_sort_in_ascending(JstartRegex, text)
         Jregexes = [
             r"BETWEEN",
@@ -328,7 +363,11 @@ def judges_extraction(text, metadata={}):
             r"\bISSUE.+ OF ACTION\b",
         ]
         JresolvedIndex = index_sort_in_ascending(
-            Jregexes, text, JstartIndex["pickedIndex"]
+            Jregexes,
+            text,
+            # added  "if JstartIndex["pickedIndex"] is not None else 0" becasue if
+            # JstartIndex is None it raises error
+            JstartIndex["pickedIndex"] if JstartIndex["pickedIndex"] is not None else 0,
         )
         cutText = text[JstartIndex["end"] : JresolvedIndex["pickedIndex"]]
         judgesRegex = (
@@ -358,29 +397,41 @@ def areas_of_law_extraction(text, metadata={}):
             r"SUBSTANTIVE LEGAL AND POLICY ISSUES?",
         ]
         arearesolvedIndex = index_sort_in_ascending(areaRegexStart, text)
-        areaRegexStop = [r"CASE SUMMARY", r"MAI?N JUDGE?MENT"]
+        areaRegexStop = [r"CASE SUMMARY", r"MAI?N JUDGE?MENT", r"ORIGINATING COURT"]
         arearesolvedIndexStop = index_sort_in_ascending(
-            areaRegexStop, text, arearesolvedIndex["pickedIndex"]
+            areaRegexStop,
+            text,
+            # added  "if arearesolvedIndex["pickedIndex"] is not None else 0" becasue if
+            # JstartIndex is None it raises error
+            (
+                arearesolvedIndex["pickedIndex"]
+                if arearesolvedIndex["pickedIndex"] is not None
+                else 0
+            ),
         )
         textFromIndex = text[
             arearesolvedIndex["end"] : arearesolvedIndexStop["pickedIndex"]
         ]
         # loggerToFile(to_ascii(textFromIndex))
+        # this regex gets the short areas of law
         arearegex = r"(?<=\n)\n*[A-Z ]+(?=.+(?:-|:))"
+        # in the future uncomment the one below if the requirement is for a long version of areas of law
+        # this regex gets the long or full areas of law
+        # arearegex = r"(?<=\n)\n*[A-Z ]+.*(?=:-|:|-)"
 
         # allMatches = filtered_and_refined_words(
         #     textFromIndex, ["Just skip this"], arearegex
         # )
         allMatches = re.findall(arearegex, textFromIndex)
         # print(f"areas of law found: {allMatches}")
-        cleanAreasofLaw = [item.strip() for item in allMatches]
+        cleanAreasofLaw = [item.strip().rstrip(":") for item in allMatches]
         UniqueAreasofLaw = list(set(cleanAreasofLaw))
         create_key_and_value("area_of_law", UniqueAreasofLaw, metadata)
         # for index, value in enumerate(UniqueAreasofLaw):
         #     metadata[f"area_of_law_{index}"] = value
 
     except Exception as Err:
-        print(f" extraction failed: {Err}")
+        print(f"Areas of law extraction failed: {Err}")
     finally:
         return metadata
 

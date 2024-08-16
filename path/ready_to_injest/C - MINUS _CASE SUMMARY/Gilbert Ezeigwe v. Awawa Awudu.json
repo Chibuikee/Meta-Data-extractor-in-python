@@ -1,6 +1,6 @@
 {
   "case_title": "Gilbert Ezeigwe v. Awawa Awudu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "23-5-2008",
   "year": "2008",
   "suit_number": "SC.391/2002",
@@ -9,14 +9,16 @@
     "3PLR/2008/40(SC)",
     "(2008)11NWLR(PT.1097)158",
     "(2008)5-6S.C.(PT.II)23",
-    "(2008)JELR46783(SC)",
-    ""
+    "(2008)JELR46783(SC)"
   ],
   "area_of_law": [
+    "Words and Phrases",
+    "Ethics",
     "Appeal",
-    "Evidence",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Administrative Law and Government",
+    "Real Estate and Property Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,25 +27,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "Walter Samuel Nkanu Onnoghen JSC",
+    "Ibrahim Tanko Muhammad JSC",
     "Sunday Akinola Akintan JSC",
     "Mahmud Mohammed JSC",
-    "Walter Samuel Nkanu Onnoghen JSC",
-    "Ibrahim Tanko Muhammad JSC"
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
   "representation_appellant": [
-    "Chief O. Ugolo",
-    "San I. I. Ikoani"
+    "San I. I. Ikoani",
+    "Chief O. Ugolo"
   ],
-  "representation_respondent": [
-    "I. N. Obulor",
-    "Substantive Legal"
-  ],
+  "representation_respondent": "I. N. Obulor",
   "originating_court": [
     "Court of Appeal [port Harcourt Division] [coram: James Ogenyi Ogebe; Jca, Sylvanus Adiewere Nsofor, Jca; Michael Eyaruoma Akpiroroh, Jca]",
     "High Court of Rivers State, [suit No. Phc/218/90, Okor J. Presiding]"
   ],
-  "doc_id": "a84be610-02e5-435c-9db2-fafdce89bef3",
+  "doc_id": "446e32b5-129c-469a-9cec-7a65279c4b56",
   "doctype": "Case",
   "parties": [
     "Gilbert Ezeigwe",

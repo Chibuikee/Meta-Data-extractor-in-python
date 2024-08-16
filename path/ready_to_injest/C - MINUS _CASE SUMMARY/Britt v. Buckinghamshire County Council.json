@@ -3,7 +3,7 @@
   "court": "Court of Appeal",
   "date": "6-2-1963",
   "year": "1963",
-  "suit_number": "(1963)-2ALLE.R.175",
+  "suit_number": "",
   "lex_citation": "LEX(1963)-2ALLE.R.175",
   "other_citations": [
     "3PLR/1963/98(CA-E)",
@@ -11,10 +11,10 @@
   ],
   "area_of_law": [
     "Real Estate and Property Law",
-    "Environmental and Natural Planning Law",
     "Food and Agriculture",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Environmental and Natural Planning Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,21 +23,21 @@
   ],
   "judge": "Sellers, Harman and Pearson, L JJ",
   "representation": [
-    "V G Wellings",
-    "Desmond Ackner Qc",
-    "David Trustram Eve",
-    "S Sydney Silverman",
-    "Sharpe",
     "Pritchard",
     "&",
-    "Co",
+    "David Trustram Eve",
+    "S Sydney Silverman",
+    "V G Wellings",
     "Clerk to Buckinghamshire County Council",
-    "Henry Summerfield"
+    "Henry Summerfield",
+    "Co",
+    "Desmond Ackner Qc",
+    "Sharpe"
   ],
-  "doc_id": "3ded8d87-15ef-4344-adc5-0e805aac4b82",
+  "doc_id": "a30ceb1c-557c-40a2-9ba5-ac31c82874a7",
   "doctype": "Case",
   "parties": [
-    "Buckinghamshire County Council",
-    "Town and Country Planning"
+    "Britt",
+    "Buckinghamshire County Council"
   ]
 }

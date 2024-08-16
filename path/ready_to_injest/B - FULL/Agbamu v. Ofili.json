@@ -7,14 +7,14 @@
   "lex_citation": "LEX(2003)-CA/B/91/2001",
   "other_citations": "2PLR/2017/30(CA)",
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Constitutional Law",
-    "Action",
-    "Appeal",
     "Court",
-    "Judgment and Error",
+    "Real Estate and Property Law",
+    "Words and Phrases",
+    "Action",
+    "Constitutional Law",
     "Judgment and Orders",
-    "Words and Phrases"
+    "Appeal",
+    "Judgment and Error"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,8 +23,8 @@
   ],
   "judge": [
     "Muhammad Saifullahi Muntaka-Coomassie JCA",
-    "Kumai Bayang Akaahs JCA",
-    "Amina Adamu Augie JCA"
+    "Amina Adamu Augie JCA",
+    "Kumai Bayang Akaahs JCA"
   ],
   "representation": [
     "J. O. Nwabor",
@@ -34,7 +34,7 @@
     "Ika South Area Customary Court Agbor-obi, Delta State (judgment Delivered on the 11th of August, 1997).",
     "High Court of Delta State, Agbor (judgment Delivered by by Diai J. on the 9th of May, 2000)."
   ],
-  "doc_id": "18128025-2b69-4b6f-8fdd-6687eeaf75a3",
+  "doc_id": "8f24efa6-e8be-4423-9cf5-c2e576ad8b57",
   "doctype": "Case",
   "parties": [
     "M. C. Agbamu",

@@ -1,6 +1,6 @@
 {
   "case_title": "Nepa v. Alli",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "2-10-1992",
   "year": "1992",
   "suit_number": "SC.12/1990",
@@ -10,15 +10,15 @@
     "(1992)NWLR(PT.259)279"
   ],
   "area_of_law": [
+    "Judgment and Orders",
+    "Appeal",
     "Tort and Personal Injuries Law",
+    "Evidence",
+    "Pleadings",
+    "Court",
     "Energy Law",
     "Administrative Law and Government",
-    "Education and Law",
-    "Appeal",
-    "Court",
-    "Evidence",
-    "Judgment and Orders",
-    "Pleadings"
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,19 +27,22 @@
     "High Profile Case"
   ],
   "judge": [
+    "Emmaanuel Obioma Ogwuegbu JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
     "Saidu Kawu JSC",
     "Philip Nnaemeka-Agu JSC",
-    "Emmaanuel Obioma Ogwuegbu JSC",
     "Shehu Usman Mohammed JSC"
   ],
   "representation": [
-    "MR",
     "G. N. Uwechue",
-    "MR",
+    "O. Akinbi",
     "Oluwole Aina"
   ],
-  "doc_id": "94ef3ed8-5d93-435a-b2b4-0d637303b959",
+  "originating_court": [
+    "The Court of Appeal, Ibadan Division",
+    "High Court of Ogun State, Ijebu Ode (delano, J., Presiding)"
+  ],
+  "doc_id": "20decff1-f995-437e-958e-65693d01d204",
   "doctype": "Case",
   "parties": [
     "National Electric Power Authority",

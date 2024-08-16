@@ -1,6 +1,6 @@
 {
   "case_title": "Kano State Urban Dev. Board v. Fanz Construction Co. Ltd.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-6-1990",
   "year": "1990",
   "suit_number": "SC.45/1988",
@@ -10,13 +10,13 @@
     "(1990)NWLR(PT.142)1"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Alternative Dispute Resolution",
-    "Appeals",
     "Judgment",
-    "Jurisdiction",
+    "Alternative Dispute Resolution",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Appeals",
+    "Commercial Law",
+    "Words and Phrases",
+    "Jurisdiction"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,26 +24,27 @@
     "Case",
     "High Profile Case"
   ],
-  "judge": [
-    "Andrews Otutu Obaseki JSC",
-    "Kayode Eso JSC",
-    "Saidu Kawu JSC",
-    "Salihu Modibbo Alfa Belgore JSC",
-    "Abdul Ganiyu Olatunji Agbaje JSC"
-  ],
+  "judge": "Andrews Otutu Obaseki, JSCKayode Eso, JSCSaidu Kawu, JSCSalihu Modibbo Alfa Belgore, JSCAbdul Ganiyu Olatunji Agbaje JSC",
   "representation": [
     "A.B. Mahmoud",
+    "Assistant Director",
+    "Bayo Kehinde",
     "Director",
+    "Jean Chiazor",
+    "O. T. Asuquo",
     "Civil Litigations",
+    "Akerele",
+    "Civil Litigation",
+    "O. T. Nnadi",
     "Kano State Ministry of Justice",
-    "Bayo Kehinde"
+    "Yahaya"
   ],
   "originating_court": [
     "Court of Appeal, Kaduna, Division",
     "High Court of Kano State; and",
     "Arbitration (alhaji Kaloma Ali, Presiding)."
   ],
-  "doc_id": "19d67f40-7fe5-483a-903a-529995fbf435",
+  "doc_id": "b34aead1-dd83-4de3-a17b-1c38ba4e5a48",
   "doctype": "Case",
   "parties": [
     "Kano State Urban Dev.board",

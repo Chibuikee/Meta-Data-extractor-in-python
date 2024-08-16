@@ -3,7 +3,7 @@
   "court": "Court of Appeal",
   "date": "19-invalid-1904",
   "year": "1904",
-  "suit_number": "(1904)-1CH.374",
+  "suit_number": "",
   "lex_citation": "LEX(1904)-1CH.374",
   "other_citations": [
     "3PLR/1904/1(CA)",
@@ -26,7 +26,7 @@
     "P. O. Lawrence"
   ],
   "originating_court": "High Court (kekewich J., Presiding)",
-  "doc_id": "7287d06e-d4fd-4b9b-88bb-cf4d7619f5d0",
+  "doc_id": "d3851c6a-a206-46df-91e5-2d8d5631f9c0",
   "doctype": "Case",
   "parties": [
     "Baily",

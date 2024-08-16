@@ -1,6 +1,6 @@
 {
   "case_title": "Adaje v. State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "22-6-1979",
   "year": "1979",
   "suit_number": "SC32/1978",
@@ -11,8 +11,8 @@
   ],
   "area_of_law": [
     "Criminal Law and Procedure",
-    "Children and Women Law",
     "Religion and Law",
+    "Children and Women Law",
     "Healthcare and Law",
     "Appeal"
   ],
@@ -23,24 +23,24 @@
     "High Profile Case"
   ],
   "judge": [
+    "Anthony Nnaemezie Aniagolu JSC",
+    "Muhammed Bello JSC",
     "George Sodeinde Sowemimo JSC",
     "Ayo Gabriel Irikefe JSC",
-    "Anthony Nnaemezie Aniagolu JSC",
-    "Kayode Eso JSC",
-    "Muhammed Bello JSC"
+    "Kayode Eso JSC"
   ],
   "representation": [
     "B. O. N. Omoruwa",
+    "Ministry of Justice",
     "R. O. Omuoreu",
     "Legal Adviser",
-    "Ministry of Justice",
     "Bendel State"
   ],
   "originating_court": "High Court of Bendel State, Sapele Judicial",
-  "doc_id": "2eb115bc-428e-4a2b-a3d7-ce4ef5dfbe42",
+  "doc_id": "944e0071-e38b-42e1-8622-141ff7095dca",
   "doctype": "Case",
   "parties": [
-    "Adaje",
+    "Samuel Adaje",
     "The State"
   ]
 }

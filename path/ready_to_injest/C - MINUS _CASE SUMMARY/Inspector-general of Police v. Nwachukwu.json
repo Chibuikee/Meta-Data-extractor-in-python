@@ -1,17 +1,17 @@
 {
   "case_title": "Inspector-general of Police v. Nwachukwu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-7-1955",
   "year": "1955",
-  "suit_number": "(1955)-F.S.C.10/06",
+  "suit_number": "",
   "lex_citation": "LEX(1955)-F.S.C.10/06",
   "other_citations": "3PLR/1955/12(SC)",
   "area_of_law": [
-    "Criminal Law",
     "Constitutional and Public Law",
-    "Education and Law",
+    "Interpretation of Statute",
+    "Criminal Law",
     "Real Estate and Property Law",
-    "Interpretation of Statute"
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,10 +21,10 @@
   ],
   "judge": "Louis Nwachukwu Mbanefo J",
   "representation": "Achik",
-  "doc_id": "65d95a9c-d77f-4940-b3b9-65c21d84d9e6",
+  "doc_id": "ab80e480-66f8-4c23-8606-7aeb9849abf6",
   "doctype": "Case",
   "parties": [
-    "Tor-general of Police",
+    "Inspector-general of Police",
     "Nwachukwu"
   ]
 }

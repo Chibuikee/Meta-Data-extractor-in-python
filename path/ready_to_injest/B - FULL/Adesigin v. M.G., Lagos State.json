@@ -1,18 +1,18 @@
 {
   "case_title": "Adesigin v. M.G., Lagos State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-2-2017",
   "year": "2017",
   "suit_number": "SC.68/2006",
   "lex_citation": "LEX(2017)-SC.68/2006",
   "other_citations": "3PLR/2017/26(SC)",
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Appeal",
-    "Court",
-    "Judgment and Order",
     "Jurisdiction",
-    "Interpretation of Statute"
+    "Court",
+    "Real Estate and Property Law",
+    "Interpretation of Statute",
+    "Appeal",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,35 +21,45 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olabode Rhodes-Vivour JSC",
+    "Amiru Sanusi JSC",
     "Musa Dattijo Muhammad JSC",
     "Clara Bata Ogunbiyi JSC",
     "Chima Centus Nweze JSC",
-    "Amiru Sanusi JSC"
+    "Olabode Rhodes-Vivour JSC"
   ],
   "representation": [
+    "Civil Litigation",
+    "J. I. Jacob",
+    "O. Olarenwaju",
+    "Lagos State",
+    "Attorney-general and Commissioner",
+    "O. Osusanya",
+    "Justice",
+    "Assistant Director",
     "L. A. O. Nylander",
-    "A. Adeniji Kazeem",
+    "Principal State Counsel",
+    "I. Oshodi",
+    "Senior State Counsel",
+    "Chief State Counsel",
     "Hon",
-    "Attorney-general and Commissioner Justice",
-    "Lagos State"
+    "A. Adeniji Kazeem"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Judicial Division",
     "Lagos High Court (agoro J., Presiding)"
   ],
-  "doc_id": "2cf276ca-7597-4695-965c-1a544f007e07",
+  "doc_id": "1ab36b07-f46e-4ab1-96bd-84a67456766a",
   "doctype": "Case",
   "parties": [
     "MRS. Esther I. Adesigbin",
-    "Magistrate Adio Adesigbin",
-    "L. B. Agusto",
-    "Alh. A. A. Ojikutu",
-    "Imoh Braimoh",
     "Alhaja A. E. Elias",
-    "K. A. Kotun",
-    "A. R. Williams",
+    "Alh. A. A. Ojikutu",
     "J. Balogun",
+    "A. R. Williams",
+    "L. B. Agusto",
+    "Imoh Braimoh",
+    "K. A. Kotun",
+    "Magistrate Adio Adesigbin",
     "Military Governor of Lagos State",
     "Attorney-general of Lagos State"
   ]

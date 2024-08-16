@@ -1,16 +1,16 @@
 {
   "case_title": "Dasi v. State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "19-11-1970",
   "year": "1970",
   "suit_number": "SC206",
   "lex_citation": "LEX(1970)-NO.SC206",
   "other_citations": "3PLR/1970/31(HC-L)",
   "area_of_law": [
+    "Court",
     "Criminal Law and Procedure",
-    "Healthcare and Law",
     "Children and Women Law",
-    "Court"
+    "Healthcare and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,21 +19,21 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adetokunbo Ademola CJN",
+    "Charles Olusoji Madarikan JSC",
     "Ian Lewis JSC",
-    "Charles Olusoji Madarikan JSC"
+    "Adetokunbo Ademola CJN"
   ],
   "representation": [
-    "Thanni",
-    "Ogbe",
+    "Jos",
     "Senior State Counsel",
-    "Jos"
+    "Ogbe",
+    "Thanni"
   ],
   "originating_court": "High Court of Benue Plateau State",
-  "doc_id": "c9797293-4915-4730-bd00-cbea216f8686",
+  "doc_id": "0bc8817e-99b4-4ac6-8c92-6994de85010f",
   "doctype": "Case",
   "parties": [
-    "Adu Dan Juma Dasi",
+    "Muhammadu Dan Juma Dasi",
     "The State"
   ]
 }

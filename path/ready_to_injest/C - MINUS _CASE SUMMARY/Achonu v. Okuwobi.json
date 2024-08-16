@@ -1,19 +1,19 @@
 {
   "case_title": "Achonu v. Okuwobi",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-4-2017",
   "year": "2017",
   "suit_number": "SC.254/2006",
   "lex_citation": "LEX(2017)-SC.254/2006",
   "other_citations": "2PLR/2017/14(SC)",
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Interpretation of Statute",
-    "Appeal",
-    "Commercial Law",
-    "Court",
     "Jurisdiction",
-    "Pleadings"
+    "Appeal",
+    "Interpretation of Statute",
+    "Commercial Law",
+    "Pleadings",
+    "Court",
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,23 +22,24 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olabode Rhodes Vivour JSC",
-    "Amiru Sanusi JSC",
-    "Ejembi Eko JSC",
     "Paul Adamu Galinje JSC",
-    "Sidi Dauda Bage JSC"
+    "Ejembi Eko JSC",
+    "Sidi Dauda Bage JSC",
+    "Olabode Rhodes Vivour JSC",
+    "Amiru Sanusi JSC"
   ],
   "representation": [
-    "MR",
     "Dotun Oduwobi",
-    "MR",
-    "A. R. Fatunde"
+    "C. A. Makpu",
+    "A. B. Jimoh",
+    "A. R. Fatunde",
+    "A. U. Umose"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Judicial Division",
     "High Court of Lagos State"
   ],
-  "doc_id": "1c48bafe-5ebe-4ad0-bbc9-d698e646468c",
+  "doc_id": "7f78a729-e33b-4cef-8c42-0076e5a6d296",
   "doctype": "Case",
   "parties": [
     "Florence Achonu",

@@ -7,10 +7,10 @@
   "lex_citation": "LEX(1965)-SC.132/1965",
   "other_citations": "3PLR/1965/39(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Healthcare and Law",
-    "Religion and Law",
     "Children and Women Law",
+    "Criminal Law and Procedure",
+    "Religion and Law",
     "Interpretation of Legislation"
   ],
   "semantic_tags": [
@@ -21,11 +21,12 @@
   ],
   "judge": "Bairamian, Onyeama and Ajegbo, J JSC",
   "representation": [
-    "J. A. Cole . E. O. E. Ekong",
-    "State Counsel"
+    "J. A. Cole",
+    "State Counsel",
+    "E. O. E. Ekong"
   ],
   "originating_court": "Abakaliki in Eastern Nigeria, Phil-ebosie J",
-  "doc_id": "03e1cb7c-fc5d-4775-903c-1c951d2198e8",
+  "doc_id": "3c98d2aa-013b-47ac-909e-aa7ea1557620",
   "doctype": "Case",
   "parties": [
     "The State"

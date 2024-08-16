@@ -3,7 +3,7 @@
   "court": "King's Bench Division",
   "date": "19-7-1924",
   "year": "1924",
-  "suit_number": "(1923)-2KB.730",
+  "suit_number": "",
   "lex_citation": "LEX(1923)-2KB.730",
   "other_citations": [
     "2PLR/1924/2(KB.D)",
@@ -11,8 +11,8 @@
     "[1923.J.327.]"
   ],
   "area_of_law": [
-    "Commercial and Business Law",
     "International Law",
+    "Commercial and Business Law",
     "Shipping and Maritime"
   ],
   "semantic_tags": [
@@ -23,13 +23,13 @@
   "judge": "Lord Hewart CJ",
   "representation_appellant": "A. S. Comyns Carr K.c",
   "representation_respondent": [
-    "Ignatius Kelly",
-    "Merriman K.c"
+    "Merriman K.c",
+    "Ignatius Kelly"
   ],
-  "doc_id": "bd19ae3e-d20b-4b52-976e-af8069a64f00",
+  "doc_id": "b7cc6976-dfec-47f4-b040-acbcf9dea8b8",
   "doctype": "Case",
   "parties": [
-    "Oceanic Steam Navigation Company Limited",
-    "King's Bench Division"
+    "Jones",
+    "Oceanic Steam Navigation Company Limited"
   ]
 }

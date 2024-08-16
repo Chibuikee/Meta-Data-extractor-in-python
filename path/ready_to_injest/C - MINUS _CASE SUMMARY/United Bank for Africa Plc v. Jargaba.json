@@ -7,14 +7,14 @@
   "lex_citation": "LEX(2001)-CA/K/323/00",
   "other_citations": "(2001)2NWLR(PT750)200",
   "area_of_law": [
-    "Commercial Law",
-    "Banking and Finance",
-    "Debtor and Creditor",
     "Action",
+    "Words and Phrases",
     "Appeal",
-    "Evidence",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,23 +22,22 @@
     "Case"
   ],
   "judge": [
-    "Isa Ayo Salami JCA",
+    "Victor Aimepomo Oyeleye Omage JCA",
     "Rabiu Danlami Muhammad JCA",
-    "Victor Aimepomo Oyeleye Omage JCA"
+    "Isa Ayo Salami JCA"
   ],
   "representation": [
     "Ibrahim Buba",
     "Ogbododikue Enock-lucky"
   ],
   "originating_court": [
-    "",
     "Kaduna State High Court (gregory S. Lawan J., Prsiding)"
   ],
-  "doc_id": "fa5256a3-d3c5-48e1-92b9-dd8cdd8a590e",
+  "doc_id": "c145d113-7af8-43b3-b80c-bd5b6a13b7ab",
   "doctype": "Case",
   "parties": [
-    "United Bank for Africa Plc",
     "Alhaji Ibrahim El-rufai",
+    "United Bank for Africa Plc",
     "Alhaji Babangida Jargaba"
   ]
 }

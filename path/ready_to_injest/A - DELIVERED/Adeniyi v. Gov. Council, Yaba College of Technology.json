@@ -1,6 +1,6 @@
 {
   "case_title": "Adeniyi v. Gov. Council, Yaba College of Technology",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "16-7-1993",
   "year": "1993",
   "suit_number": "SC.197/1990",
@@ -12,19 +12,19 @@
     "(1993)LPELR-SC197/1990"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Commercial Law",
     "Criminal Law and Procedure",
+    "Equity",
+    "Words and Phrases",
+    "Interpretation of Statute",
     "Education and Law",
     "Employment and Labour Law",
-    "Government and Adminstrative Law",
     "Government and Administrative Law",
+    "Constitutional Law",
     "Government and Adminsitrative Law",
-    "Human Rights",
-    "Equity",
     "Pleading",
-    "Interpretation of Statute",
-    "Words and Phrases"
+    "Commercial Law",
+    "Government and Adminstrative Law",
+    "Human Rights"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -33,21 +33,24 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adolphus Godwin Karibi-Whyte JSC",
     "Salihu Modibo Alfa Belgore JSC",
-    "Abubakar Bashir Wali JSC",
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Idris Legbo Kutigi JSC",
     "Olajide Olatawura JSC",
-    "Idris Legbo Kutigi JSC"
+    "Abubakar Bashir Wali JSC"
   ],
   "representation": [
+    "J N Mbadugha",
+    "P O Uwechue",
+    "Seyi Sowemimo",
     "G N Uwechue",
-    "Seyi Sowemimo"
+    "B a Sodipo"
   ],
   "originating_court": [
     "S",
     "High Court of Lagos [famakinwa J., Presiding]"
   ],
-  "doc_id": "c90a6b3a-2c12-40da-b0fa-9d00b1404d58",
+  "doc_id": "b99d99f6-0601-418a-96ed-6459b8b71205",
   "doctype": "Case",
   "parties": [
     "O. A. Adeyemi Adeniyi",

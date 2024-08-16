@@ -3,12 +3,12 @@
   "court": "Court of Appeal",
   "date": "19-5-1918",
   "year": "1918",
-  "suit_number": "CASESUMMARY",
-  "lex_citation": "LEX(1916)–U.723",
+  "suit_number": "",
+  "lex_citation": "LEX(1916)-U.723",
   "other_citations": "3PLR/1918/1(CA)",
   "area_of_law": [
-    "Insurance Ans Reinsurance La",
-    "Real Estate"
+    "Real Estate",
+    "Insurance Ans Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,15 +18,15 @@
   "judge": "Pickford, Warrington, and Scrutton L JJ",
   "representation_appellant": [
     "Lewis Thomas",
-    "A. H. H. Richardson",
     "Colam",
-    "Gervais Rentoul",
     "E. J. Stokes",
-    "Hewitt"
+    "A. H. H. Richardson",
+    "Hewitt",
+    "Gervais Rentoul"
   ],
   "representation_respondent": "Chapman",
   "originating_court": "High Court (roche J., Presiding)",
-  "doc_id": "1451d611-e8ab-4f85-ac5a-f5f784e9cb4d",
+  "doc_id": "c24e606b-3402-4ee8-af7c-3534eedfc1fd",
   "doctype": "Case",
   "parties": [
     "Upjohn",

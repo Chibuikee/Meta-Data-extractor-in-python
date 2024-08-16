@@ -1,19 +1,19 @@
 {
   "case_title": "Ishola v. Union Bank of Nigeria Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "18-2-2005",
   "year": "2005",
   "suit_number": "SC.125/1996",
   "lex_citation": "LEX(2005)-SC.125/1996",
   "other_citations": "2PLR/2005/49(SC)",
   "area_of_law": [
-    "Banking and Finance Law",
-    "Debtor and Creditor Law",
     "Action",
     "Appeal",
-    "Court",
     "Evidence",
-    "Pleadings"
+    "Debtor and Creditor Law",
+    "Pleadings",
+    "Court",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,16 +23,16 @@
   ],
   "judge": [
     "Salii-Iu Modibbo Alfa Belgore, SSc",
-    "Umaru Atu Kalgo JSC",
-    "Dahiru Musdapher JSC",
     "Dennis Onyejife Edozie JSC",
+    "Dahiru Musdapher JSC",
+    "Umaru Atu Kalgo JSC",
     "Sunday Akinola Akintan JSC"
   ],
   "originating_court": [
     "Court of Appeal, Illorin Judicial Division",
     "Federal High Court (gbadeyan J., Presiding)"
   ],
-  "doc_id": "2ec89f40-9e44-417c-9ef2-422d63c1bc63",
+  "doc_id": "7bbf08e6-246a-4549-825e-f81b7037f021",
   "doctype": "Case",
   "parties": [
     "Alhaji Aminu Ishola",

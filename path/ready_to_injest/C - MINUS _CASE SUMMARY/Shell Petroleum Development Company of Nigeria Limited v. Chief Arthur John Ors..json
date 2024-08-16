@@ -11,11 +11,11 @@
     "(2011)LPELR-SC.150/2010"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
-    "Children and Women Law",
     "Environmental Law and Natural Resource Law",
     "Appeal",
-    "Court"
+    "Children and Women Law",
+    "Court",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,33 +23,31 @@
     "Case"
   ],
   "judge": [
+    "Mojeed Adekunle Owoade JCA",
     "Abubakar Jega Abdul-Kadir JCA",
-    "Helen Moronkeji Ogunwumiju JCA",
-    "Mojeed Adekunle Owoade JCA"
+    "Helen Moronkeji Ogunwumiju JCA"
   ],
   "representation_appellant": [
-    "R. Akinjide",
-    "MR",
     "Irerhimie",
-    "K. Obisike"
+    "K. Obisike",
+    "R. Akinjide"
   ],
   "representation_respondent": [
-    "L.E. Nwosu",
     "E.e Asido",
+    "L.E. Nwosu",
     "D.E. Ekenna F. C. Giadom L. C. Nwuzor"
   ],
   "originating_court": [
-    "",
     "Federal High Court, Holden at Umuahia (j. T. Tsoho, J., Presiding)"
   ],
-  "doc_id": "995854b8-f89d-4e32-afc0-8bf2a54be527",
+  "doc_id": "274aa8fd-cb93-41b9-b486-38efceab1cda",
   "doctype": "Case",
   "parties": [
     "The Shell Petroleum Development Company of Nigeria Limited",
-    "Chief Arthur John",
-    "Elder Frank Ule",
-    "Chief Silas Oforji",
     "Zenith Bank Plc",
-    "First Bank Plc."
+    "Chief Silas Oforji",
+    "Elder Frank Ule",
+    "First Bank Plc.",
+    "Chief Arthur John"
   ]
 }

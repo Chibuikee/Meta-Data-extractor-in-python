@@ -3,14 +3,16 @@
   "court": "High Court",
   "date": "17-6-1968",
   "year": "1968",
-  "suit_number": "(1968)-HD/52/67",
+  "suit_number": "HD/52/67",
   "lex_citation": "LEX(1968)-HD/52/67",
-  "other_citations": "2PLR/1968/76(HC)",
+  "other_citations": [
+    "2PLR/1968/76(HC)"
+  ],
   "area_of_law": [
-    "Family Law",
     "Customary Law",
-    "Education and Law",
-    "Children and Women Law"
+    "Children and Women Law",
+    "Family Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,11 +21,11 @@
   ],
   "judge": "Sowemimo J",
   "representation": [
+    "Ajibola",
     "Onafowokan",
-    "Petitioner",
-    "Ajibola"
+    "Petitioner"
   ],
-  "doc_id": "8aeb2a9a-852f-4451-933c-16dc11278c4c",
+  "doc_id": "b2b40a78-b3d5-45f2-834e-8b1e59aab3bf",
   "doctype": "Case",
   "parties": [
     "Abel Kprogidi Ubeku",

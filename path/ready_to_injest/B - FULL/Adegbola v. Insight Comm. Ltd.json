@@ -7,8 +7,8 @@
   "lex_citation": "LEX(2016)-CA/L/1007/2013",
   "other_citations": "2PLR/2017/21(CA)",
   "area_of_law": [
-    "Antitrust and Trade Regulations",
     "Commercial Law",
+    "Antitrust and Trade Regulations",
     "Intellectual Property Law",
     "Appeal",
     "Judgment and Order",
@@ -20,25 +20,28 @@
     "Case"
   ],
   "judge": [
-    "Mohammed Lawal Garba JCA",
+    "Ugochukwu Anthony Ogakwu JCA",
     "Sidi Dauda Bage JCA",
-    "Ugochukwu Anthony Ogakwu JCA"
+    "Mohammed Lawal Garba JCA"
   ],
   "representation": [
-    "O. F. Osineye",
-    "Kayode Ajekigbe",
+    "O. Ajamobi",
+    "M. T. Usman",
     "Shaubu Alaran",
+    "Kelechi Alamah",
+    "Kingsley Ajogun",
+    "O. F. Osineye",
     "K. N. Ndukwu",
-    "Kelechi Alamah"
+    "Kayode Ajekigbe"
   ],
   "originating_court": "High Court of Lagos State Holden at Ikeja (judgement Delivered on 2 May 2013).",
-  "doc_id": "006f21d4-bee4-411a-b3b8-c84980fa9eb5",
+  "doc_id": "814cb6a0-4770-406e-b7c6-0979690efc49",
   "doctype": "Case",
   "parties": [
     "MR. Bayo Adegbola",
     "Insight Communication Ltd",
+    "Primetime Entertainment Ltd",
     "Starcoms Ltd",
-    "Daar Communications Plc",
-    "Primetime Entertainment Ltd"
+    "Daar Communications Plc"
   ]
 }

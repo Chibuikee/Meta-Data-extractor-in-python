@@ -7,9 +7,9 @@
   "lex_citation": "LEX(2016)-CA/L/1248C/2014",
   "other_citations": "2PLR/2017/34(CA)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Words and Phrases",
-    "Evidence"
+    "Evidence",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -17,17 +17,19 @@
     "Case"
   ],
   "judge": [
-    "UINdukwe-Anyanwu JCA",
+    "Tijjani Abubakar JCA",
     "Chinwe Eugenia Iyizoba JCA",
-    "Tijjani Abubakar JCA"
+    "UINdukwe-Anyanwu JCA"
   ],
   "representation": [
     "C.O.P. Emeka",
-    "F.A. Dallye",
-    "O.A. Olude"
+    "Oluwakemi Agunbiade",
+    "O.A. Olude",
+    "E.O. Ekeocha",
+    "F.A. Dallye"
   ],
   "originating_court": "High Court of Lagos State (judgment of Hon. Justice M. Olokoba Delivered on 30 August 2012)",
-  "doc_id": "66fb3fc4-a09f-45e8-84bb-7ea2b6fcd352",
+  "doc_id": "06f8cb35-a037-40d9-80fa-e041ced0b41c",
   "doctype": "Case",
   "parties": [
     "Abiodun Akinbami",

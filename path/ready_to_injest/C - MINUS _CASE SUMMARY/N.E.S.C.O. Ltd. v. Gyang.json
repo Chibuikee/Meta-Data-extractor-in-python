@@ -6,19 +6,18 @@
   "suit_number": "S.C.O.LTD.",
   "lex_citation": "LEX(1979)-JD/4A/1970",
   "other_citations": [
-    "3PLR/1979/17(HC)",
-    ""
+    "3PLR/1979/17(HC)"
   ],
   "area_of_law": [
+    "Tort and Personal Injury Law",
     "Constitutional Law",
     "Food and Agriculture Law",
     "Energy and Infrastructure Law",
-    "Tort and Personal Injury Law",
+    "Appeal",
     "Jurisprudence and Public Law",
     "Interpretation of Statues",
-    "Appeal",
-    "Jurisdiction",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Jurisdiction"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -30,13 +29,13 @@
     "Jones J"
   ],
   "representation": [
-    "Feibai",
-    "Oyetunde"
+    "Oyetunde",
+    "Feibai"
   ],
-  "doc_id": "5132656e-ce55-4c34-8e92-9b19dd1b1feb",
+  "doc_id": "6e0d7b40-a11c-4b8d-a042-61316630456e",
   "doctype": "Case",
   "parties": [
-    "C.O. Ltd",
+    "N.E.S.C.O. Ltd",
     "Paul Gyang"
   ]
 }

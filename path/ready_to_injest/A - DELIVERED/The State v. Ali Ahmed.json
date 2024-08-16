@@ -1,6 +1,6 @@
 {
   "case_title": "The State v. Ali Ahmed",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.511/2016",
@@ -10,9 +10,9 @@
     "(2020)LPELR-49497(SC)"
   ],
   "area_of_law": [
+    "Evidence",
     "Criminal Law and Procedure",
     "Environmental and Natural Resources Law",
-    "Evidence",
     "Words and Phrases"
   ],
   "semantic_tags": [
@@ -22,26 +22,25 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
-    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
-    "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "Omar Musa",
-    "Esq. Him",
-    "Munir Yakubu"
+    "Munir Yakubu",
+    "Omar Musa"
   ],
   "representation_respondent": [
     "Akin Adewale",
-    "Esq. Him Mercy Omanijo"
+    "Him Mercy Omanijo"
   ],
   "originating_court": [
     "Court of Appeal [abuja Division]",
     "High Court of Niger State"
   ],
-  "doc_id": "b089b11b-222d-4f00-bcfa-8b321cd0f011",
+  "doc_id": "bd0a2922-d3ec-4241-aa96-5cded9e3c87b",
   "doctype": "Case",
   "parties": [
     "The State",

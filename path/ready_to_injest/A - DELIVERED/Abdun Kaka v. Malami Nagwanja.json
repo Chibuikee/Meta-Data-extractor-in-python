@@ -10,16 +10,16 @@
     "(2001)9NWLR(PT.717)124"
   ],
   "area_of_law": [
+    "Evidence",
+    "Ethics",
     "Religion and Law",
-    "Real Estate and Property Law",
-    "Children and Women Law",
-    "Estate Planning",
-    "Ethic",
     "Food and Agriculture Law",
-    "Appeal",
+    "Children and Women Law",
+    "Practice and Procedure",
+    "Real Estate and Property Law",
+    "Estate Planning",
     "Court",
-    "Evidenc",
-    "Practice and Procedure"
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,18 +27,19 @@
     "Case"
   ],
   "judge": [
-    "Muritala Aremu Okunola JCA",
     "Mahmood Muhammed JCA",
-    "Saifullahi Muntaka-Coomassie JCA"
+    "Saifullahi Muntaka-Coomassie JCA",
+    "Muritala Aremu Okunola JCA"
   ],
   "originating_court": [
     "Kebbi State Sharia Court of Appeal Holden in Birnin Kebbi",
     "Upper Area Court Birnin Kebbi",
     "Area Court, Gwandu, Birnin Kebbi"
   ],
-  "doc_id": "449d827b-1f01-4524-b7ad-8b98185068b8",
+  "doc_id": "bfac3242-f597-41c9-82c1-862d3a794ff8",
   "doctype": "Case",
   "parties": [
+    "Abdun Kaka",
     "Malami Nagwanja"
   ]
 }

@@ -1,19 +1,19 @@
 {
   "case_title": "U.O.O. Nigeria Plc v. MR. Maribe Okafor Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-3-2020",
   "year": "2020",
   "suit_number": "SC.713/2016",
-  "lex_citation": "LEX(2020)–SC.713/2016",
+  "lex_citation": "LEX(2020)-SC.713/2016",
   "other_citations": [
     "3PLR/2020/48(SC)",
     "(2020)LPELR-49570(SC)"
   ],
   "area_of_law": [
-    "Company Law",
-    "Commercial Law",
-    "Constitutional Law",
     "Action",
+    "Constitutional Law",
+    "Commercial Law",
+    "Company Law",
     "Judgment and Order"
   ],
   "semantic_tags": [
@@ -23,11 +23,11 @@
     "High Profile Case"
   ],
   "judge": [
+    "Chima Centus Nweze JSC",
     "Olabode Rhodes-Vivour JSC",
     "Mary Ukaego Peter-Odili JSC",
-    "Chima Centus Nweze JSC",
-    "Amina Adamu Augie JSC",
-    "Ejembi Eko JSC"
+    "Ejembi Eko JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
     "Emeka Ngige, San",
@@ -38,24 +38,24 @@
     "Court of Appeal",
     "Federal High Court, Lagos [okeke, J., Presiding]"
   ],
-  "doc_id": "dced7042-4591-4cfb-81fa-177b5ac6de60",
+  "doc_id": "2437d672-b64c-4a1d-8b4c-f7c0f72b992c",
   "doctype": "Case",
   "parties": [
     "U.O.O. Nigeria Plc",
-    "MR. Maribe Okafor",
-    "Barr. Nnaemeka Akuneto",
     "Obimma Ozoemena",
-    "Udewulu Nzedinma",
-    "Okezie Okafor",
-    "Amuzie Okafor",
-    "Chukwuma Nnaji",
-    "Emeka Eze",
     "Ndubueze Eze",
-    "Ugwumba Okafor",
+    "Amuzie Okafor",
     "Nwanze Ibe",
-    "Chukwuma Anabuike",
-    "Chigozie Eze",
+    "U.O.O.",
     "Mouneke Akpudumogo",
-    "U.O.O."
+    "Udewulu Nzedinma",
+    "Chigozie Eze",
+    "Chukwuma Nnaji",
+    "Barr. Nnaemeka Akuneto",
+    "Emeka Eze",
+    "Ugwumba Okafor",
+    "Chukwuma Anabuike",
+    "Okezie Okafor",
+    "MR. Maribe Okafor"
   ]
 }

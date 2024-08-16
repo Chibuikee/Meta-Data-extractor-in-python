@@ -1,20 +1,24 @@
 {
   "case_title": "Adesanya v. Hoegh and Co. as",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-11-1968",
   "year": "1968",
   "suit_number": "SC374/1967",
   "lex_citation": "",
+  "other_citations": [
+    "SUITNO.SC374/1967",
+    "3PLR/1968/8(SC)"
+  ],
   "area_of_law": [
-    "International Trade",
-    "Commercial Law",
-    "Admiralty and Shipping Law",
     "Admiralty and Shipping",
-    "Banking and Finance Law",
+    "Admiralty and Shipping Law",
     "Food and Agriculture Law",
-    "Tort and Personal Injury",
     "Transportation Law",
+    "Banking and Finance Law",
+    "Commercial Law",
+    "International Trade",
     "Appeal",
+    "Tort and Personal Injury",
     "Word and Phrases"
   ],
   "semantic_tags": [
@@ -23,15 +27,20 @@
     "Case",
     "High Profile Case"
   ],
+  "judge": [
+    "Madarikan JSC",
+    "Coker JSC",
+    "Lewis JSC"
+  ],
   "representation": [
     "Adefale",
+    "Adesina",
     "Impey"
   ],
   "originating_court": [
-    "",
     "Lagos High Court in Suit Ld/167/66 [adefarasin J. Presiding]"
   ],
-  "doc_id": "0cd2cff3-4a03-45f7-b333-0025cc2e532a",
+  "doc_id": "a1fbfdd3-bc2f-4466-9a28-b6163585a280",
   "doctype": "Case",
   "parties": [
     "Fasasi Adesanya",

@@ -10,16 +10,16 @@
     "(2013)LPELR-20737(CA)"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Insurance and Reinsurance Law",
     "Tort and Personal Injury",
-    "Alternative Dispute Resolution",
-    "Debtor and Creditor",
     "Court",
+    "Judgment",
+    "Alternative Dispute Resolution",
     "Evidence",
     "Judgment and Order",
-    "Judgment",
-    "Pleadings"
+    "Pleadings",
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,20 +28,17 @@
   ],
   "judge": [
     "Abdu Aboki JCA",
-    "Ita George Mbaba JCA",
-    "Habeeb Adewale Abiru JCA"
+    "Habeeb Adewale Abiru JCA",
+    "Ita George Mbaba JCA"
   ],
-  "representation_appellant": [
-    "MR",
-    "S. N. Chukwurah"
-  ],
+  "representation_appellant": "S. N. Chukwurah",
   "representation_respondent": "No",
   "originating_court": "High Court of Kaduna State (dogara Mallam J., Presiding)",
-  "doc_id": "e75a1f4d-f396-4da8-a185-c6e51d257967",
+  "doc_id": "f55bdfd4-f616-4c5e-aedd-4dfac95e1d09",
   "doctype": "Case",
   "parties": [
     "United Bank for Africa Plc",
-    "Comrade Cycle Ltd",
-    "Alhaji Ibrahim A. Mohammed"
+    "Alhaji Ibrahim A. Mohammed",
+    "Comrade Cycle Ltd"
   ]
 }

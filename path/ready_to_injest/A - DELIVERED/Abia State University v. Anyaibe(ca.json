@@ -4,21 +4,21 @@
   "date": "12-12-1995",
   "year": "1995",
   "suit_number": "CA/PH/105/94",
-  "lex_citation": "LEX(1995)–CA/PH/105/94",
+  "lex_citation": "LEX(1995)-CA/PH/105/94",
   "other_citations": [
     "2PLR/1995/3(SC)",
     "(1995)3NWLR(PT.439)646"
   ],
   "area_of_law": [
-    "Education and Law",
-    "Children and Women Law",
-    "Government and Administrative Law",
-    "Constitutional Law and Human Rights",
     "Corporate and Company Law",
+    "Interpretation of Statute",
+    "Education and Law",
     "Action",
     "Limitation of Actions",
-    "Interpretation of Statute",
-    "Words and"
+    "Children and Women Law",
+    "Government and Administrative Law",
+    "Words and",
+    "Constitutional Law and Human Rights"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,8 +26,8 @@
     "Case"
   ],
   "judge": [
-    "Aloysius Iyorgyer Katsina-Alu JCA",
     "Obinnaya Anunobi Okezie JCA",
+    "Aloysius Iyorgyer Katsina-Alu JCA",
     "Moronkeji Omotayo Onalja JCA"
   ],
   "representation": [
@@ -35,19 +35,16 @@
     "Aham Eke-ejelam"
   ],
   "originating_court": "High Court, Abia State Holden at Isiukwuato [isuama, J., Presiding]",
-  "doc_id": "241665bf-b90d-4063-936f-6db68603391a",
+  "doc_id": "77cd9cac-84bb-4389-802d-2aed0ca0f188",
   "doctype": "Case",
   "parties": [
-    "Abia State University",
-    "Uturu",
-    "Vice Chancellor",
     "Abia State University Uturu",
+    "Abia State University",
     "The Academic Registrar",
-    "Abia State University",
-    "The Senate",
-    "Abia State University",
+    "Vice Chancellor",
     "Governing Council",
-    "Abia State University",
+    "The Senate",
+    "Uturu",
     "Chima Anyaibe"
   ]
 }

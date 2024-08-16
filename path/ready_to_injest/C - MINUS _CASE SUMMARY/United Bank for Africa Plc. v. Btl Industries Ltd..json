@@ -1,6 +1,6 @@
 {
   "case_title": "United Bank for Africa Plc. v. Btl Industries Ltd.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-12-2006",
   "year": "2006",
   "suit_number": "SC.301/2003",
@@ -10,22 +10,22 @@
     "(2006)NWLR(PT.1013)61"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
-    "Commercial Law",
-    "Commercial Law Contract",
     "International Trade",
     "Constitutional Law",
     "Action",
-    "Appeal",
     "Court",
+    "Words and Phrases",
+    "Appeal",
     "Evidence",
     "Judgment and Order",
-    "Judgment and Ordr",
-    "Jurisdiction",
-    "Locus Standi",
     "Pleading",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Locus Standi",
+    "Commercial Law Contract",
+    "Commercial Law",
+    "Judgment and Ordr",
+    "Jurisdiction",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -35,23 +35,46 @@
   ],
   "judge": [
     "Salihu Modibbo Alfa Belgore CJN",
-    "Sylvester Umaru Onu JSC",
-    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "Francis Fedode Tabai JSC",
     "Dahiru Musdapher JSC",
-    "Francis Fedode Tabai JSC"
+    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "Sylvester Umaru Onu JSC"
   ],
-  "representation": [
+  "representation_appellant": [
     "A. B. Kasunmu",
-    "Afe Babalola"
+    "Busola Odusanya",
+    "Seye Opasanya",
+    "Tunde Osadare",
+    "Chike Okafor",
+    "Olisa Agbakoba",
+    "Quakers"
+  ],
+  "representation_respondent": [
+    "Sesan Dada",
+    "Alhaji Lasun Sanusi",
+    "M. B. Aladesawe",
+    "Gboyega Oyamide",
+    "Bayo Adenipekun",
+    "Afe Babalola",
+    "Olu Daramola",
+    "B. J. Akomolafe",
+    "Raphael Adeoye",
+    "Oyewole",
+    "O. A. Balogun",
+    "Akin Onigbinde",
+    "A. M. Kolawole",
+    "S. A. Awomolo",
+    "Remi Awe-osho",
+    "Mary Ekpere"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Judicial Division",
     "High Court of Lagos State"
   ],
-  "doc_id": "8352e301-383a-4f6e-9259-1e550404aa8c",
+  "doc_id": "9efeba6d-7747-4d94-8c3b-e399c81c7f1a",
   "doctype": "Case",
   "parties": [
-    "Bank for Africa Plc",
+    "United Bank for Africa Plc",
     "Btl Industries Ltd"
   ]
 }

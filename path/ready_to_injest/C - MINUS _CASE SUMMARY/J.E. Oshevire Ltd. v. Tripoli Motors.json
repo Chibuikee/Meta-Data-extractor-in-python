@@ -1,6 +1,6 @@
 {
   "case_title": "J.E. Oshevire Ltd. v. Tripoli Motors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "25-4-1997",
   "year": "1997",
   "suit_number": "SC.169/1990",
@@ -10,14 +10,14 @@
     "(1997)5NWLR(PT.503)1"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Insurance and Reinsurance Law",
-    "Insurance Law",
     "Tort and Personal Injury Law",
     "Action",
-    "Appeal",
     "Judgment and Orders",
-    "Words and Phrases"
+    "Appeal",
+    "Commercial Law",
+    "Words and Phrases",
+    "Insurance Law",
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,18 +26,18 @@
     "High Profile Case"
   ],
   "judge": [
-    "Salihu Modibbo Alfa Belgore JSC",
-    "Michael Ekundayo Ogundare JSC",
     "Emanuel Obioma Ogwuegbu JSC",
+    "Michael Ekundayo Ogundare JSC",
     "Sylvester Umaru Onu JSC",
-    "Anthony Ikechukwu Iguh JSC"
+    "Anthony Ikechukwu Iguh JSC",
+    "Salihu Modibbo Alfa Belgore JSC"
   ],
   "representation": "P.U. Oge",
   "originating_court": [
     "Court of Appeal, Kaduna Division (comm; Aikawa, J.C.A., Mohammed, J.C.A., and Achike, J.C.A. )",
     "High Court of Kano State Sitting in Kano (ubbaonu, J., Presiding)"
   ],
-  "doc_id": "019302e7-0c3f-494f-9bcf-881c53e29313",
+  "doc_id": "0e702a29-6b5c-405f-8d98-68203473f888",
   "doctype": "Case",
   "parties": [
     "J.E. Oshevire Limited",

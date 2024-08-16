@@ -1,6 +1,6 @@
 {
   "case_title": "Joe Uwagba v. Federal Republic of Nigeria",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "22-5-2009",
   "year": "2009",
   "suit_number": "SC.29/2007",
@@ -11,12 +11,12 @@
   ],
   "area_of_law": [
     "Criminal Law",
-    "Banking and Finance Law",
     "Appeal",
-    "Court",
+    "Interpretation of Statute",
     "Judgment and Order",
+    "Court",
     "Jurisdiction",
-    "Interpretation of Statute"
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,32 +25,31 @@
     "High Profile Case"
   ],
   "judge": [
-    "Dahiru Musdapher JSC",
-    "Francis Fedode Tabai JSC",
     "Ibrahim Tanko Muhammad JSC",
+    "Mohammad Saifullah Muntaka-Coomassie JSC",
     "Pius Olayiwola Aderemi JSC",
-    "Mohammad Saifullah Muntaka-Coomassie JSC"
+    "Dahiru Musdapher JSC",
+    "Francis Fedode Tabai JSC"
   ],
   "representation_appellant": [
-    "Akin Olujinmi",
-    "Kolawole Esan"
+    "Kolawole Esan",
+    "Akin Olujinmi"
   ],
   "representation_respondent": [
+    "Seum Omolale",
+    "F.O. Orbih",
+    "Abu Yunusa",
     "Ekomaru",
+    "Akinsola Olujinmi",
     "Esg",
     "Segun Olaniyi",
-    "Akinsola Olujinmi",
-    "Seum Omolale",
-    "Olufemi Aletedaye",
-    "F.O. Orbih",
-    "MR",
-    "Abu Yunusa"
+    "Olufemi Aletedaye"
   ],
   "originating_court": [
     "Court of Appeal, Enugu Judicial Division",
     "Failed Banks Tribunal, Enugu Zone"
   ],
-  "doc_id": "dd64d661-a6e8-439b-9a6f-35ca3e9e905e",
+  "doc_id": "060a8d0d-9175-4090-9fa1-109b94e9be06",
   "doctype": "Case",
   "parties": [
     "Joe Uwagba",

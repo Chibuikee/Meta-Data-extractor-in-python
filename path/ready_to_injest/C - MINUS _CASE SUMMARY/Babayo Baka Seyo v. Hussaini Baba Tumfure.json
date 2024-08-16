@@ -11,14 +11,14 @@
   ],
   "area_of_law": [
     "Real Estate and Property Law",
-    "Food and Agriculture Law",
-    "Religion and Law",
     "Constitutional Law",
-    "Ethic",
     "Action",
+    "Food and Agriculture Law",
+    "Ethics",
     "Appeal",
-    "Pleading",
-    "Word and Phrases"
+    "Pleadings",
+    "Word and Phrases",
+    "Religion and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,8 +26,8 @@
     "Case"
   ],
   "judge": [
-    "Ibrahim Tanko Muhammad JCA",
     "Abubakar Abdulkadir Jega JCA",
+    "Ibrahim Tanko Muhammad JCA",
     "Mohammed Ladan Tsamiya JCA"
   ],
   "representation": "C. D. Kadala",
@@ -35,7 +35,7 @@
     "Sharia Court of Appeal Gombe State [coram: Hon. Kadi Tukur Abdulkadir, Hon Kadi Ahmadu Sa'id Dukku and Hon Kadi Adamu Mohammed Abubakar]",
     "Bogo Area Court Gombe"
   ],
-  "doc_id": "4051be0f-ef55-407d-832c-5543340cc327",
+  "doc_id": "a9215fb4-c35c-4489-a3d0-72767c17ebd0",
   "doctype": "Case",
   "parties": [
     "Babayo Baka Seyo",

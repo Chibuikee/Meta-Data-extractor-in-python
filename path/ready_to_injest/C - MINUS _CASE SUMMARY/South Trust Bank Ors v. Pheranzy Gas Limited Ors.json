@@ -7,18 +7,18 @@
   "lex_citation": "LEX(2012)-CA/L/122/2012",
   "other_citations": "2PLR/2012/94(CA)",
   "area_of_law": [
-    "Banking and Finance",
-    "Commercial Law",
+    "Jurisdiction",
     "Constitutional Law",
-    "Debtor",
-    "Debtor and Creditor",
+    "Banking and Finance",
+    "Court",
+    "Words and Phrases",
     "International Law",
     "Appeal",
-    "Court",
-    "Judgment and Order",
-    "Jurisdiction",
     "Interpretation of Statutes",
-    "Words and Phrase"
+    "Judgment and Order",
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Debtor"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,28 +26,28 @@
     "Case"
   ],
   "judge": [
-    "Sidi Dauda Bage JCA",
     "Rita Nosakhare Pemu JCA",
-    "Chinwe Eugenia Iyizoba JCA"
+    "Chinwe Eugenia Iyizoba JCA",
+    "Sidi Dauda Bage JCA"
   ],
   "representation_appellant": [
-    "Olumide Aju",
-    "B. C. Akunya"
+    "B. C. Akunya",
+    "Olumide Aju"
   ],
   "representation_respondent": [
-    "F. R. Onoja",
     "Originating State Federal High Court",
+    "F. R. Onoja",
     "Lagos Division"
   ],
-  "doc_id": "3804c4f3-1493-4645-baa7-e662febf8f97",
+  "doc_id": "71b9b0e6-d487-494a-8a97-1d000d820e0b",
   "doctype": "Case",
   "parties": [
     "South Trust Bank",
-    "Export-import Bank of United States",
     "Private Export Funding Corporation",
-    "Pheranzy Gas Limited",
-    "Chris Ezeude",
+    "Export-import Bank of United States",
     "Cyprian Ezeude",
-    "Obi Ezeude"
+    "Chris Ezeude",
+    "Obi Ezeude",
+    "Pheranzy Gas Limited"
   ]
 }

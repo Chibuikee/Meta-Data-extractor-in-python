@@ -3,7 +3,7 @@
   "court": "House of Lords",
   "date": "5-8-1942",
   "year": "1942",
-  "suit_number": "(1942)-H.LNO.3",
+  "suit_number": "",
   "lex_citation": "LEX(1942)-H.LNO.3",
   "other_citations": [
     "3PLR/1942/1(HL)",
@@ -12,41 +12,34 @@
   ],
   "area_of_law": [
     "Tort and Personal Injury",
-    "Transport and Logistics Law",
     "Healthcare and Law",
-    "Children and Women Law",
+    "Transport and Logistics Law",
     "M",
     "T",
+    "Children and Women Law",
     "O",
     "A"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Lord Thankerton",
     "Lord Russell of Killowen",
+    "Lord Thankerton",
+    "Lord Porter",
     "Lord Macmillan",
-    "Lord Wright",
-    "Lord Porter"
+    "Lord Wright"
   ],
   "representation": [
+    "G. S. Reid",
     "Blades",
     "Guthrie",
-    "Duffes",
-    "G. S. Reid"
+    "Duffes"
   ],
-  "doc_id": "f2f36431-088c-4a9e-b571-3b00c6bb1de8",
+  "doc_id": "56d78f20-8911-4b27-9210-32cc3456ab4a",
   "doctype": "Case",
-  "parties": [
-    "MRS Euphemia Hay or Bourhill",
-    "James Young",
-    "John Young",
-    "MRS Euphemia Hay or Bourhill",
-    "James Young",
-    "John Young",
-    "S Executor-dative"
-  ]
+  "parties": []
 }

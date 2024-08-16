@@ -7,11 +7,11 @@
   "lex_citation": "LEX(2013)-CA/B/25/2004",
   "other_citations": "2PLR/2013/13(CA)",
   "area_of_law": [
+    "Judgment",
     "Real Estate",
-    "Banking and Finance Law",
     "Debtor and Creditor",
     "Jurisdiction",
-    "Judgment"
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,12 +19,16 @@
     "Case"
   ],
   "judge": [
+    "Tom Shaibu Yakubu JCA",
     "Helen Moronkeji Ogunwumiju JCA",
-    "Ibrahim Mohammed Musa Saulawa JCA",
-    "Tom Shaibu Yakubu JCA"
+    "Ibrahim Mohammed Musa Saulawa JCA"
   ],
   "representation": "Representation Not Found",
-  "doc_id": "8beee5e2-2751-412a-8c9a-9d2a38e6e3dd",
+  "originating_court": [
+    "State",
+    "High Court of Edo State (c. Idahosa J., Presiding)"
+  ],
+  "doc_id": "83b3b358-64b9-46ff-bfc3-7587fd44a2be",
   "doctype": "Case",
   "parties": [
     "Alims Nigeria Limited",

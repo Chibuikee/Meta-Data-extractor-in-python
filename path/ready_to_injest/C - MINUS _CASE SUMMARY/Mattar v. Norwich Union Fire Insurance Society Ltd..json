@@ -5,13 +5,15 @@
   "year": "1965",
   "suit_number": "SC217/1963",
   "lex_citation": "LEX(1963)-FSC217/1963",
-  "other_citations": "2PLR/1965/75(SC)",
+  "other_citations": [
+    "2PLR/1965/75(SC)"
+  ],
   "area_of_law": [
+    "Alternative Dispute Resolution",
     "Insurance and Reinsurance",
     "Commercial Law",
-    "Alternative Dispute Resolution",
-    "Evidence",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,19 +23,19 @@
   ],
   "judge": "Brett FJ, Onyeama, Ajegbo, J JSC",
   "representation": [
+    "A. Oyefeso",
     "H. A. Lardner",
     "J. Agbettor",
-    "A. Oyefeso . B. O. Benson"
+    "B. O. Benson"
   ],
   "originating_court": [
-    "",
     "High Court"
   ],
-  "doc_id": "7a14ec5c-d708-47cb-a963-ca692f231134",
+  "doc_id": "ecd9a46c-8303-42bd-a0a1-540816cada9e",
   "doctype": "Case",
   "parties": [
     "Mattar",
-    "Norwich Union Fire Insurance Society Ltd",
-    "Anor."
+    "Anor.",
+    "Norwich Union Fire Insurance Society Ltd"
   ]
 }

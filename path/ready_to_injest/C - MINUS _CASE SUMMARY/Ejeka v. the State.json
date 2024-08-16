@@ -1,6 +1,6 @@
 {
   "case_title": "Ejeka v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "11-4-2003",
   "year": "2003",
   "suit_number": "SC.258/2001",
@@ -10,15 +10,15 @@
     "(2003)7NWLR(PT.819)408"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Healthcare and Law",
     "Constitutional Law",
     "Children and Women Law",
-    "Education and Law",
-    "Healthcare and Law",
     "Appeal",
-    "Court",
     "Evidence",
-    "Interpretation of Statute"
+    "Interpretation of Statute",
+    "Criminal Law and Procedure",
+    "Court",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,27 +27,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Idris Legbo Kutigi JSC",
-    "Michael Ekundayo Ogundare JSC",
-    "Uthman Mohammed JSC",
     "Niki Tobi JSC",
-    "Dennis Onyejife Edozie JSC"
+    "Idris Legbo Kutigi JSC",
+    "Dennis Onyejife Edozie JSC",
+    "Uthman Mohammed JSC",
+    "Michael Ekundayo Ogundare JSC"
   ],
   "representation": [
-    "I.A. Adedipe",
-    "J.T.U. Nnodum",
+    "Assistant",
     "Imo State",
+    "J.T.U. Nnodum",
     "L. C. Azuama",
-    "Assistant"
+    "I.A. Adedipe"
   ],
   "originating_court": [
     "Court of Appeal",
     "Imo State High Court, Holden at Owerri, (nwogu, J., Presiging)"
   ],
-  "doc_id": "98290b08-acb8-4699-a89a-34013d45336b",
+  "doc_id": "7f2931ec-40c6-4bde-82ec-cfc75e4785d6",
   "doctype": "Case",
   "parties": [
-    "Ichukwu Ejeka",
+    "Ifeanyichukwu Ejeka",
     "The State"
   ]
 }

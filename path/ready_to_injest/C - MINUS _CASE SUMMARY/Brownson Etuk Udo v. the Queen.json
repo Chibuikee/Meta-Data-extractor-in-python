@@ -1,16 +1,16 @@
 {
   "case_title": "Brownson Etuk Udo v. the Queen",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-2-1964",
   "year": "1964",
   "suit_number": "S.C.33/64",
   "lex_citation": "LEX(1964)-S.C.33/64",
   "other_citations": "3PLR/1964/20(SC)",
   "area_of_law": [
-    "Criminal Law",
     "Criminal Law and Procedure",
-    "Children and Women Law",
-    "Healthcare and Law"
+    "Criminal Law",
+    "Healthcare and Law",
+    "Children and Women Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,15 +21,16 @@
   "judge": "Brett, Taylor, Bairamian, J JSC",
   "representation": [
     "H. A. Okuwosa",
-    "F. O. Nwokedi",
+    "A. on Okoye",
     "Ag",
-    "East"
+    "East",
+    "F. O. Nwokedi"
   ],
   "originating_court": "High Court of Eastern Nigeria",
-  "doc_id": "285b46cd-505b-47f6-9b32-96f4a44dd78e",
+  "doc_id": "bf9b88ee-dfe4-4bf1-9771-904930b47452",
   "doctype": "Case",
   "parties": [
-    "On Etuk Udo",
+    "Brownson Etuk Udo",
     "The Queen"
   ]
 }

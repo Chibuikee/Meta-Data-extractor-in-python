@@ -1,18 +1,18 @@
 {
   "case_title": "Adegbola v. Idowu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-4-2017",
   "year": "2017",
   "suit_number": "SC.584/2013",
   "lex_citation": "LEX(2017)-SC.584/2013",
   "other_citations": "3PLR/2017/20(SC)",
   "area_of_law": [
-    "Ethics",
-    "Appeal",
-    "Court",
     "Jurisdiction",
+    "Court",
+    "Ethics",
+    "Statute",
     "Service of Address",
-    "Statute"
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,39 +21,40 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olabode Rhodes-Vivour JSC",
-    "Clara Bata Ogunbiyi JSC",
     "Amiru Sanusi JSC",
     "Ejembi Eko JSC",
+    "Clara Bata Ogunbiyi JSC",
+    "Olabode Rhodes-Vivour JSC",
     "Paul Adamu Galinje JSC"
   ],
   "representation": [
     "K. A. Ogunwole San",
     "M. K. Raji",
     "O. A. Oguniran",
-    "Oyo State"
+    "Oyo State",
+    "Ahmed Raji"
   ],
   "originating_court": [
     "Court of Appeal, Ibadan Judicial Division",
     "High Court"
   ],
-  "doc_id": "746c56cf-2c4b-4a34-a6aa-73115fe973b7",
+  "doc_id": "361b0342-48dc-49e4-9227-07ee4f1ab5be",
   "doctype": "Case",
   "parties": [
     "H. R. H. Samuel Adebayo Adegbola",
-    "Elereuwa",
-    "Chief Jacob Salako Adewusi",
     "The Odofin Eruwa",
     "Deceased",
-    "Chief Femi Atanda-jagun of Eruwa",
-    "Chief I. O. Olabode-olukotun of Eruwa",
-    "Chief Idowu Okeowo-asipa of Eruwa",
-    "Chief E. Ojebisi-bale Agbe of Eruwa",
     "MR Kasali Sangotikun",
-    "MR James Olatunde Idowu",
-    "Alhaji Rasheed Oyedepo Ajao",
+    "Chief Jacob Salako Adewusi",
+    "Chief I. O. Olabode-olukotun of Eruwa",
+    "Elereuwa",
+    "Chief E. Ojebisi-bale Agbe of Eruwa",
+    "Chief Idowu Okeowo-asipa of Eruwa",
+    "Chief Femi Atanda-jagun of Eruwa",
     "The Governor of Oyo State",
+    "Ibarapa East Local Government",
     "The Attorney-general of Oyo State",
-    "Ibarapa East Local Government"
+    "Alhaji Rasheed Oyedepo Ajao",
+    "MR James Olatunde Idowu"
   ]
 }

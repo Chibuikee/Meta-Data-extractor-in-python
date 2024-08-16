@@ -7,16 +7,16 @@
   "lex_citation": "LEX(2010)-CA/L/786/08",
   "other_citations": "2PLR/2010/51(CA)",
   "area_of_law": [
-    "Banking and Finance",
-    "Banking and Finance Law",
-    "Criminal Law and Procedure",
     "Constitutional Law",
-    "Appeal",
-    "Court",
-    "Evidence",
     "Judgment and Orders",
     "Judgments and Orders",
-    "Words and Phrases"
+    "Appeal",
+    "Evidence",
+    "Criminal Law and Procedure",
+    "Court",
+    "Words and Phrases",
+    "Banking and Finance",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,18 +25,25 @@
   ],
   "judge": [
     "Paul Adamu Galinje JCA",
-    "Ibrahim Mohammed Musa Saulawa JCA",
-    "Regina Obiageli Nwodo JCA"
+    "Regina Obiageli Nwodo JCA",
+    "Ibrahim Mohammed Musa Saulawa JCA"
   ],
-  "representation_appellant": "A M. Makinde Ikodudu",
+  "representation_appellant": [
+    "Ikodudu",
+    "A M. Makinde"
+  ],
   "representation_respondent": "Tunde Olojo",
-  "doc_id": "89524b69-051e-4f1f-8ef2-f59b25da3838",
+  "originating_court": [
+    "State",
+    "Federal High Court, Lagos Judicial Division"
+  ],
+  "doc_id": "577053d4-9d94-40f9-ab7c-9855d61d6f6f",
   "doctype": "Case",
   "parties": [
     "Olatayo Aribo",
     "Central Bank of Nigeria",
     "Director",
-    "Banking Supervision",
-    "Central Bank of Nigeria"
+    "Central Bank of Nigeria",
+    "Banking Supervision"
   ]
 }

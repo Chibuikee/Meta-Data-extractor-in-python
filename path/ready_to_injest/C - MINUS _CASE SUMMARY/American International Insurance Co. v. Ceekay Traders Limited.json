@@ -1,6 +1,6 @@
 {
   "case_title": "American International Insurance Co. v. Ceekay Traders Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-5-1981",
   "year": "1981",
   "suit_number": "SC.81/1980",
@@ -11,8 +11,8 @@
   ],
   "area_of_law": [
     "Admiralty and Shipping",
-    "Insurance and Reinsurance Law",
-    "Jurisdiction"
+    "Jurisdiction",
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,23 +23,24 @@
   "judge": [
     "George Sodeinde Sowemimo JSC",
     "Mohammed Bello JSC",
+    "Muhammadu Lawal Uwais JSC",
     "Andrews Otutu Obaseki JSC",
-    "Augustine Nnamani JSC",
-    "Muhammadu Lawal Uwais JSC"
+    "Augustine Nnamani JSC"
   ],
   "representation": [
-    "F.R. A.. Williams",
+    "B. O. Ogundipe",
+    "Worrey",
     "S. S. Arthur",
-    "Worrey"
+    "F.R. A.. Williams"
   ],
   "originating_court": [
     "Federal Court of Appeal (coram: Nnaemeka-agu and Mohammed, Jj.ca (affirming) and Coker. Jca (dissenting)",
     "Federal High Court, Lagos (karibi-whyte, J.,)"
   ],
-  "doc_id": "b412e212-deaf-4881-93a9-6e0b7036cd06",
+  "doc_id": "93e6840b-5743-4644-8860-1069635c2381",
   "doctype": "Case",
   "parties": [
-    "American International Insurance Co",
+    "American International Insurance Co.",
     "Ceekay Traders Limited"
   ]
 }

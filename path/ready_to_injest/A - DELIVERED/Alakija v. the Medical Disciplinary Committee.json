@@ -1,14 +1,15 @@
 {
   "case_title": "Alakija v. the Medical Disciplinary Committee",
-  "court": "Supreme Court",
+  "court": "Federal Supreme Court",
   "date": "10-3-1959",
   "year": "1959",
   "suit_number": "SC36/1959",
   "lex_citation": "",
+  "other_citations": "",
   "area_of_law": [
-    "Administrative and Government Law",
     "Ethics",
-    "Healthcare and Law"
+    "Healthcare and Law",
+    "Administrative and Government Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -17,16 +18,18 @@
     "High Profile Case"
   ],
   "judge": [
+    "Louis Mbanefo FJ",
     "Miles John Abbott FJ",
-    "Lionel Brett FJ",
-    "Louis Mbanefo FJ"
+    "Lionel Brett FJ"
   ],
   "representation": [
-    "H. O. Moore",
+    "Senior Crown Counsel",
     "C. H. E. Miller",
-    "Senior Crown Counsel"
+    "J. O. Coker",
+    "O. O. Alakija",
+    "H. O. Moore"
   ],
-  "doc_id": "7c39ed03-187e-40c3-8f48-2a7ec6daa9ad",
+  "doc_id": "45243180-a3b8-45ec-92a8-ecbe7c92a71e",
   "doctype": "Case",
   "parties": [
     "In the Matter of the Suspension From Medical Practice of DR. M.O. Alakija",

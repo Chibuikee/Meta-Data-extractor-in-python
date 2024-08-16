@@ -1,6 +1,6 @@
 {
   "case_title": "Artra Industries Nigeria Limited v. the Nigerian Bank for Commerce and Industry",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-3-1998",
   "year": "1998",
   "suit_number": "SC.27/1997",
@@ -10,15 +10,17 @@
     "(1998)4NWLR(PT.546)357"
   ],
   "area_of_law": [
+    "International Trade",
     "Bankings and Finance",
-    "Commercial Law",
-    "Company Law",
-    "Appeal",
     "Court",
-    "Evidence",
+    "Company Law",
+    "Words and Phrases",
+    "Appeal",
     "Judgment and Order",
+    "Commercial Law",
     "Principles of Interpretation",
-    "Words and Phrases"
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,22 +29,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Salihu Modibbo Alfa Belgore JSC",
     "Michael Ekundayo Ogundare JSC",
+    "Sylvester Umaru Onu JSC",
     "Emanuel Obioma Ogwuegbu JSC",
     "Uthman Mohammed JSC",
-    "Sylvester Umaru Onu JSC"
+    "Salihu Modibbo Alfa Belgore JSC"
   ],
   "representation": [
+    "G. Ofodile Okafor",
     "O.B. James",
-    "G. Ofodile Okafor"
+    "R.C. Ogu"
   ],
   "originating_court": [
-    "",
     "Court of Appeal, Jos Judicial Division (coram: Oguntade, Edozie and Muntaka Coomassie, Jjca)",
     "Federal High Court, Jos"
   ],
-  "doc_id": "420162b8-facd-403b-96b0-618e42116253",
+  "doc_id": "fb763e43-c3b2-453e-b362-54e662cd1579",
   "doctype": "Case",
   "parties": [
     "Artra Industries Nigeria Limited",

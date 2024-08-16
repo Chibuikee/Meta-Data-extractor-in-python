@@ -1,6 +1,6 @@
 {
   "case_title": "Pius Umeadi Ors v. Victor Chibunze Anor",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-3-2020",
   "year": "2020",
   "suit_number": "SC.395/2015",
@@ -10,12 +10,12 @@
     "(2020)LPELR-49566(SC)"
   ],
   "area_of_law": [
+    "Evidence",
+    "Religion and Law",
+    "Alternative Dispute Resolution",
     "Real Estate and Property Law",
     "Customary Law",
-    "Alternative Dispute Resolution",
-    "Religion and Law",
-    "Appeal",
-    "Evidence"
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,36 +24,36 @@
     "High Profile Case"
   ],
   "judge": [
+    "Chima Centus Nweze JSC",
     "Olabode Rhodes-Vivour JSC",
     "Mary Ukaego Peter-Odili JSC",
-    "Chima Centus Nweze JSC",
-    "Amina Adamu Augie JSC",
-    "Ejembi Eko JSC"
+    "Ejembi Eko JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": "Ifeanyi Obiakor, Esq",
   "representation_respondent": [
-    "Fidelis",
-    "O. Anyanegbu, Esq"
+    "O. Anyanegbu, Esq",
+    "Fidelis"
   ],
   "originating_court": [
     "Court of Appeal, Enugu Division",
     "High Court of Anambra State"
   ],
-  "doc_id": "0b24dc3c-f4c8-46dc-826c-a42b38818384",
+  "doc_id": "fadbf313-77c9-41b5-b8b8-0ac255b05c88",
   "doctype": "Case",
   "parties": [
-    "Pius Umeadi",
-    "Jonas Umeadi",
-    "Clement Umeadi",
-    "Chigozie Umeadi",
-    "Charles Umeadi",
-    "Nkeke Umeadi",
     "Tochukwu Echezona",
-    "Okechukwu Echezona",
+    "Clement Umeadi",
+    "Charles Umeadi",
     "Anthony Echezona",
-    "Marcel Nwana",
     "Nwankwo Ngene",
-    "Victor Chibunze",
-    "Williams Chibunze"
+    "Jonas Umeadi",
+    "Chigozie Umeadi",
+    "Nkeke Umeadi",
+    "Okechukwu Echezona",
+    "Marcel Nwana",
+    "Pius Umeadi",
+    "Williams Chibunze",
+    "Victor Chibunze"
   ]
 }

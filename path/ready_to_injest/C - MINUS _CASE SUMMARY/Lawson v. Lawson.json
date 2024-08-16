@@ -1,17 +1,17 @@
 {
   "case_title": "Lawson v. Lawson",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "11-10-1968",
   "year": "1968",
   "suit_number": "SC527/1966",
   "lex_citation": "LEX(1968)-SC527/1966",
   "other_citations": "3PLR/1968/58(SC)",
   "area_of_law": [
+    "Healthcare and Law",
     "Family Law",
     "Children and Women Law",
-    "Healthcare and Law",
-    "Matrimonial Causes",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Matrimonial Causes"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,19 +20,19 @@
     "High Profile Case"
   ],
   "judge": [
+    "Madarikan JSC",
     "Coker JSC",
-    "Lewis JSC",
-    "Madarikan JSC"
+    "Lewis JSC"
   ],
   "representation": [
-    "Sikuade",
     "Sowemimo",
+    "Sikuade",
     "Petitioner"
   ],
-  "doc_id": "4854def4-e9a8-4445-b9f5-27e42da023b6",
+  "doc_id": "f6e148fc-cdde-41d9-8639-5171b7475cb4",
   "doctype": "Case",
   "parties": [
-    "Ko Adetoun Lawson",
+    "Badejoko Adetoun Lawson",
     "Charles Olatunde Lawson"
   ]
 }

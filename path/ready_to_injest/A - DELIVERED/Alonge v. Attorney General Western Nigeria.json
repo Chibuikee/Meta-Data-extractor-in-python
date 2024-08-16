@@ -1,6 +1,6 @@
 {
   "case_title": "Alonge v. Attorney General Western Nigeria",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-3-1964",
   "year": "1964",
   "suit_number": "S.C.3111964",
@@ -8,10 +8,10 @@
   "other_citations": "3PLR/1964/10(SC)",
   "area_of_law": [
     "Criminal Law and Procedure",
-    "Children and Women Law",
+    "Interpretation of Statute",
     "Religion and Law",
-    "Healthcare and Law",
-    "Interpretation of Statute"
+    "Children and Women Law",
+    "Healthcare and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,14 +21,14 @@
   ],
   "judge": "Brett JSC",
   "representation": [
-    "J A. Cole",
     "C. O. O. Bada",
-    "Senior State Counsel"
+    "Senior State Counsel",
+    "J A. Cole"
   ],
-  "doc_id": "d273243a-00b1-4358-939f-e632b36db928",
+  "doc_id": "24382f52-f26b-4791-8866-d68d4351b71f",
   "doctype": "Case",
   "parties": [
-    "Ale Alonge",
+    "Adebowale Alonge",
     "The Attorney General, Western Nigeria"
   ]
 }

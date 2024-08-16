@@ -1,23 +1,23 @@
 {
   "case_title": "Aderawos Timber Company Ltd v. Adedire and Others",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "28-7-1963",
   "year": "1963",
-  "suit_number": "(4)IFTHEINQUIRYDISCLOSESTHEEXISTENCEOFANYRIGHTSOVERTHELANDTHERESIDENTMAYAMENDTHEBOUNDARIESOFTHERESERVESOASTOEXCLUDETHESEAREAS.BYSECTION27",
+  "suit_number": "",
   "lex_citation": "",
+  "other_citations": [
+    "(P.C.NO.33OF1963)",
+    "3PLR/1963/12(PC)"
+  ],
   "area_of_law": [
-    "Before Their Lordship",
-    "Lord Morris of Borth",
-    "Aderawos Timber Company Ltd",
-    "Bale Adedire and Others",
-    "Agriculture and Food Law",
     "Environmental and Natural Resources Law",
+    "Interpretation of Statute",
+    "Action",
+    "Agriculture and Food Law",
     "Administrative and Government Law",
     "Real Estate and Property Law",
     "Customary Law",
-    "Action",
-    "Judgment and Order",
-    "Interpretation of Statute"
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -30,15 +30,12 @@
     "Lord Hodson",
     "And Lord Guest"
   ],
+  "representation": "Representation Not Found",
   "originating_court": [
     "Federal Supreme Court of Nigeria",
-    "High Court of Justice, Western Region of Nigeria at Ibadan (kester J. Presiding)",
-    "Elaborate Provisions Spread Across Several Applicable Statutes Including Forestry Ordinance (1948 Laws of Nigeria Cap. 75) S. 2, S. 4, S. 22, S.23(1), (4), S.27, S.33s.34, S.36, S.44(i), S.46(6), and S.48; Lfe Native Authority Forest Reserve Order, 1941*; Native Authority Ordinance (1948 Laws of Nigeria Cap. 140), S. 62 (1); Native Authority (amendment) Ordinance, 1948 S. 36 (c); Local Government Law 1957 (wn), S. 242, (printed as S. 246 in Cap. 68 of the 1959 Laws of the Western Region.) 7 the Forestry (southern Provinces Native Authorities) Rules, Rule 40 - Are Not Consistent with the View That the Title to Dispose of the Trees Is in the Native Authority, but That the Title to the Beneficial Ownership of the Trees Is in the Communal Owners.",
-    "Lands Over Which a Native Authority Forest Reserve Has Been Constituted Ceased to Be Communal Lands and Have Passed Under the Administration of the Native Authority.",
-    "The Respondents Have Not Established Their Locus Standi to Bring This Action to Set Aside the Concession Deed and Therefore It Unnecessary to Consider the Remaining Points, Namely Whether There Was a Fiduciary Duty Owed by the Oni of Ife to the Ife Community or Whether the Claim Was Statute Barred.",
-    "The Company Shall Pay on Demand to the Native Authority Fees and Royalties Assessed at Rates in Accordance with the Tariff at the Time in Force Under the Forestry Ordinance and Forestry (southern Provinces Native Authorities) Rules Made Thereunder by the Ife Native Authority on All Logs Lumber and Firewood Felled or Cut Which Is Defined as Merchantable Under Annexure a or Which the Company Extracts From the Forest or Sells or Uses in the Forest"
+    "High Court of Justice, Western Region of Nigeria at Ibadan (kester J. Presiding)"
   ],
-  "doc_id": "c713eca8-f959-4f64-846d-1a3910e2ebfb",
+  "doc_id": "d3a9a7bb-7543-46bb-8c95-301ee04e1e05",
   "doctype": "Case",
   "parties": [
     "Aderawos Timber Company Ltd",

@@ -1,23 +1,38 @@
 {
   "case_title": "Chief Samson O. Obaseki v. African Continental Bank Limited and Another2",
-  "court": "High Court",
-  "date": "Invalid Date Format",
-  "year": "No Year",
-  "suit_number": "SC.538/1963",
+  "court": "Supreme Court of Nigeria",
+  "date": "17-11-1965",
+  "year": "1965",
+  "suit_number": "CANCONTINENTALBANKLIMITEDANDANOTHER",
   "lex_citation": "LEX(1965)-FSC.538/1963",
   "other_citations": "2PLR/1965/58(SC)",
-  "area_of_law": "Before Their Lordship",
+  "area_of_law": [
+    "Commercial Law",
+    "Real Estate and Property Law",
+    "Banking and Finance"
+  ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
-  "representation": "S. J. Marke . G. N. A. Okafor",
+  "judge": [
+    "Charles Dadi Onyeama JSC",
+    "Michael Oguejiofo Ajegbo JSC",
+    "Vahe Robert Bairamian JSC"
+  ],
+  "representation": [
+    "G. N. A. Okafor",
+    "S. J. Marke"
+  ],
   "originating_court": [
-    "",
     "High Court of the Western Region, Ikeja Judicial Division (duffus J., Presiding)"
   ],
-  "doc_id": "cd946bb0-7055-485c-8427-064c6bfd1151",
+  "doc_id": "bcc38689-a3a9-423f-a076-d36716e12d1d",
   "doctype": "Case",
-  "parties": []
+  "parties": [
+    "Chief Samson O. Obaseki",
+    "African Continental Bank Limited and Another"
+  ]
 }

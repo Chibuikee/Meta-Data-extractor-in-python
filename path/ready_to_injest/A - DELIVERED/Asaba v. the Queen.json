@@ -1,6 +1,6 @@
 {
   "case_title": "Asaba v. the Queen",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "8-10-1959",
   "year": "1959",
   "suit_number": "S.C.246/1959",
@@ -20,20 +20,19 @@
   ],
   "judge": [
     "Sir Adetokunbo Ademola, F CJ",
-    "Lionel Brett FJ",
-    "Louis Nwachukwu Mbanefo FJ"
+    "Louis Nwachukwu Mbanefo FJ",
+    "Lionel Brett FJ"
   ],
   "representation": [
-    "Applicant",
-    "MR",
     "B. A. Adedipe",
+    "Applicant",
     "Senior Crown Counsel"
   ],
   "originating_court": "High Court, Akure in the Western Region",
-  "doc_id": "d38651e2-ed70-4cea-aed0-4d6a99fd5cc5",
+  "doc_id": "867ba32f-0e29-4444-8b79-778d03946071",
   "doctype": "Case",
   "parties": [
-    "L Ose Asaba",
+    "Gabriel Ose Asaba",
     "The Queen"
   ]
 }

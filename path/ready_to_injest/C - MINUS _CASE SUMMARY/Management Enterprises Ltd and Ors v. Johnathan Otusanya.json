@@ -1,6 +1,6 @@
 {
   "case_title": "Management Enterprises Ltd and Ors v. Johnathan Otusanya",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "16-4-1987",
   "year": "1987",
   "suit_number": "SC.100/1985",
@@ -10,14 +10,14 @@
     "(1987)2NWLR(PT.55)179"
   ],
   "area_of_law": [
-    "Insurance and Reinsurance Law",
     "Tort and Personal Injury Law",
     "Action",
     "Appeal",
-    "Court",
     "Evidence",
+    "Pleadings",
+    "Court",
     "Jurisdiction",
-    "Pleadings"
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,17 +26,19 @@
     "High Profile Case"
   ],
   "judge": [
-    "Andrews Otutu Obaseki JSC",
-    "Augustine Nnamani JSC",
-    "Adolphus Godwin Karibi-Whyte JSC",
     "Saidu Kawu JSC",
-    "Chukwudifu Akunne Oputa JSC"
+    "Andrews Otutu Obaseki JSC",
+    "Chukwudifu Akunne Oputa JSC",
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Augustine Nnamani JSC"
   ],
   "representation": [
+    "H. Olu-taylor",
+    "No",
     "R. O. A. Oriade",
-    "No"
+    "M.A. Babafemi"
   ],
-  "doc_id": "4b39a97e-fdab-4557-ab27-b2251c2f9256",
+  "doc_id": "d8180f21-843f-4842-82c1-a4a558b6f324",
   "doctype": "Case",
   "parties": [
     "Managment Enterprises Ltd",

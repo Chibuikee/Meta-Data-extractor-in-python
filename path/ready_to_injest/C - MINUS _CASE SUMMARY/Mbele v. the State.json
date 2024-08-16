@@ -1,6 +1,6 @@
 {
   "case_title": "Mbele v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "6-7-1990",
   "year": "1990",
   "suit_number": "SC.171/1989",
@@ -10,14 +10,14 @@
     "(1990)4NWLR(PT.145)484"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Children and Women Law",
-    "C",
     "Healthcare and Law",
-    "Elders Law",
+    "Children and Women Law",
     "Appeal",
-    "Evidence",
-    "Interpretation of Statute"
+    "Interpretation of Statute",
+    "Criminal Law and Procedure",
+    "Elders Law",
+    "C",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,23 +26,25 @@
     "High Profile Case"
   ],
   "judge": [
-    "Andrews Otutu Obaseki JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
-    "Salisu Modibo Alfa Belgore JSC",
     "Abdul Ganiyu Agbaje JSC",
+    "Andrews Otutu Obaseki JSC",
+    "Salisu Modibo Alfa Belgore JSC",
     "Philip Nnaemeka-Agu JSC"
   ],
   "representation": [
-    "J.C. Okonkwo",
     "D. O. Okolo",
     "Principal State Counsel",
-    "Anambra State Ministry of Justice"
+    "C.O. Nweke",
+    "J.C. Okonkwo",
+    "Anambra State Ministry of Justice",
+    "Senior State Counsel"
   ],
   "originating_court": [
     "Court of Appeal, Enugu Division",
     "Anambra State High Court, Abakaliki Judicial (offiah. J. Presiding)"
   ],
-  "doc_id": "e1132859-007c-4ebf-848a-694d628c7046",
+  "doc_id": "443fc6b0-5cc2-4662-838c-f9e4d9dd42c9",
   "doctype": "Case",
   "parties": [
     "Ngwuta Mbele",

@@ -1,6 +1,6 @@
 {
   "case_title": "Yadis Nigeria Limited v. Great Nigeria Insurance Company Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "4-5-2007",
   "year": "2007",
   "suit_number": "S.C.333/2001",
@@ -8,11 +8,11 @@
   "other_citations": "3PLR/2007/110(SC)",
   "area_of_law": [
     "Insurance and Reinsurance",
-    "Insurance and Reinsurance Law",
-    "Commercial Law",
     "Appeal",
+    "Evidence",
+    "Commercial Law",
     "Court",
-    "Evidence"
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,29 +21,28 @@
     "High Profile Case"
   ],
   "judge": [
+    "Walter Samuel Nkanu Onnoghen JSC",
+    "Delivered the Leading Judgment",
     "Sylvester Umaru Onu JSC",
-    "Presided",
-    "Dahiru Musdapher JSC",
     "Sunday Akinola Akintan JSC",
     "Mahmud Mohammed JSC",
-    "Walter Samuel Nkanu Onnoghen JSC",
-    "Delivered the Leading Judgment"
+    "Dahiru Musdapher JSC"
   ],
   "representation": [
-    "A.A. Aribisala",
     "F.B.N. Njoku Esq",
+    "A.A. Aribisala",
     "Toyin Pinheiro"
   ],
   "originating_court": [
     "Court of Appeal Holden at Lagos",
     "Lagos State High Court (O.O. Obadina J., Presiding)"
   ],
-  "doc_id": "e073f208-70d8-4e33-816b-a9b90b1c6d71",
+  "doc_id": "ee55cf65-96dc-4bff-bde4-9b0410eabc26",
   "doctype": "Case",
   "parties": [
     "Yadis Nigeria Limited - Appellant",
     "Cross Respondent",
-    "Great Nigeria Insurance Company Limited - Respondent",
-    "Cross Appellant"
+    "Cross Appellant",
+    "Great Nigeria Insurance Company Limited - Respondent"
   ]
 }

@@ -1,23 +1,23 @@
 {
   "case_title": "Hammond v. Allen and Others",
-  "court": "Queen's Bench",
+  "court": "Queen’s Bench Division",
   "date": "6-2-1992",
   "year": "1992",
-  "suit_number": "(1994)1ALLE.R.307",
+  "suit_number": "",
   "lex_citation": "LEX(1992)-(1994)1ALLE.R.307",
   "other_citations": [
     "2PLR/1992/44(QB)",
     "[1994]1ALLE.R.307"
   ],
   "area_of_law": [
-    "Agriculture and Food Law",
-    "Commercial Law",
-    "Real Estate and Property Law",
-    "Real Estate and Land Law",
-    "Alternative Dispute Resolution",
     "Jurisdiction",
+    "Real Estate and Land Law",
     "Service of Process",
-    "Interpretation of Statutes"
+    "Agriculture and Food Law",
+    "Alternative Dispute Resolution",
+    "Interpretation of Statutes",
+    "Commercial Law",
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,11 +26,11 @@
   ],
   "judge": "Owen J",
   "representation": [
-    "David Stockill",
     "Joanne Moss",
+    "David Stockill",
     "Mydeen"
   ],
-  "doc_id": "babf4e3c-440e-41dc-8abd-6bed18138fa4",
+  "doc_id": "c1303d2c-8712-47ec-88ba-823e9606082e",
   "doctype": "Case",
   "parties": [
     "Hammond",

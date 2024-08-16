@@ -3,21 +3,21 @@
   "court": "High Court",
   "date": "5-3-1971",
   "year": "1971",
-  "suit_number": "(1971)-JD/9A/1970.",
+  "suit_number": "",
   "lex_citation": "LEX(1971)-JD/9A/1970",
   "other_citations": "2PLR/1971/50(HC-B/P)",
   "area_of_law": [
+    "Real Estate and Property Law",
+    "Court",
+    "Judgment",
+    "Interpretation of Statute",
+    "Judgment and Order",
     "Administrative and Government Law",
-    "Banking and Finance",
     "Children and Women Law",
     "Commercial Law",
     "Debtor and Creditor",
-    "Real Estate and Property Law",
-    "Court",
-    "Evidence",
-    "Judgment",
-    "Judgment and Order",
-    "Interpretation of Statute"
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,15 +27,15 @@
   "judge": "Bate SP J",
   "representation": [
     "Lkomi",
-    "Brown",
     "Peterside",
-    "Fiebai"
+    "Fiebai",
+    "Brown"
   ],
-  "doc_id": "e420c4b8-41c1-4fdd-ad3e-550fc601a1a6",
+  "doc_id": "f358c420-a399-41b2-a45b-391d29f80a97",
   "doctype": "Case",
   "parties": [
-    "M.O. Okoye and Sons",
     "M.O. Okoye",
+    "M.O. Okoye and Sons",
     "Standard Bank of West Africa Ltd",
     "H.J. Umaru"
   ]

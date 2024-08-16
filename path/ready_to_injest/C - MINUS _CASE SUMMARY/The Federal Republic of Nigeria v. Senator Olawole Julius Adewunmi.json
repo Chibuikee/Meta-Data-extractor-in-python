@@ -1,19 +1,21 @@
 {
   "case_title": "The Federal Republic of Nigeria v. Senator Olawole Julius Adewunmi",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "27-4-2007",
   "year": "2007",
   "suit_number": "SC.287/2002",
   "lex_citation": "LEX(2007)-SC.287/2002",
-  "other_citations": "3PLR/2007/103(SC)",
+  "other_citations": [
+    "3PLR/2007/103(SC)"
+  ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Constitutional Law",
-    "Administrative Law and Government",
-    "Banking and Finance Law",
-    "Ethics",
     "Action",
-    "Interpretation of Statute"
+    "Ethics",
+    "Interpretation of Statute",
+    "Criminal Law and Procedure",
+    "Administrative Law and Government",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,22 +24,21 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sylvester Umaru Onu JSC",
-    "Umaru Atu Kalgo JSC",
     "Aloma Mariam Mukhtar JSC",
-    "Mahmud Mohammed JSC",
-    "Ikechi Francis Ogbuagu JSC"
+    "Umaru Atu Kalgo JSC",
+    "Ikechi Francis Ogbuagu JSC",
+    "Sylvester Umaru Onu JSC",
+    "Mahmud Mohammed JSC"
   ],
   "representation": [
     "F. C. A. Okoli",
     "No"
   ],
   "originating_court": [
-    "",
     "Court of Appeal, Lagos Judicial Division",
     "Federal High Court Lagos (transferred From the Failed Banks Tribunal, Enugu Division))"
   ],
-  "doc_id": "71be41bf-ad5f-4202-9aeb-dee44417c761",
+  "doc_id": "0c59cd0c-543a-4027-aad0-a836d72a28a3",
   "doctype": "Case",
   "parties": [
     "The Federal Republic of Nigeria - Appellant",

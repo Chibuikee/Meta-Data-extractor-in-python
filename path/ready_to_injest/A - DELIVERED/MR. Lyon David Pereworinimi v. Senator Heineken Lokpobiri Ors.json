@@ -11,10 +11,10 @@
   ],
   "area_of_law": [
     "Election Law",
-    "Constitutional Law",
     "Action",
-    "Appeal",
-    "Jurisdiction"
+    "Constitutional Law",
+    "Jurisdiction",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,25 +27,25 @@
     "Abubakar Muazu Lamido JCA"
   ],
   "representation_appellant": [
-    "Chief Karina Tunyan",
+    "Julius Iyekoroghe, Esq",
     "M.J. Numa, Esq",
-    "Julius Iyekoroghe, Esq"
+    "Chief Karina Tunyan"
   ],
   "representation_respondent": [
-    "F. B. Olorogun",
+    "J.O. Nwakpa, Esq",
     "I. E. Onokowhake, Esq",
-    "T. Mamofede, Esq",
-    "J.O. Nwakpa, Esq"
+    "F. B. Olorogun",
+    "T. Mamofede, Esq"
   ],
   "originating_court": "Federal High Court [holden at Yenagoa Bayelsa State]",
-  "doc_id": "90a2e5b3-bdbc-4a54-9c42-0f9c84ffdd1a",
+  "doc_id": "7b38d4ea-4747-456d-a829-66a2da6587af",
   "doctype": "Case",
   "parties": [
     "MR. Lyon David Pereworinimi",
-    "Senator Heineken Lokpobiri",
-    "All Progressive Congress",
     "Apc",
     "Independent National Electoral Commission",
-    "Inec"
+    "All Progressive Congress",
+    "Inec",
+    "Senator Heineken Lokpobiri"
   ]
 }

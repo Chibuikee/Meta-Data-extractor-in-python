@@ -10,15 +10,15 @@
     "(2002)4NWLR(PT.756)99"
   ],
   "area_of_law": [
+    "Appeal",
+    "Interpretation of Statute",
+    "Real Estate",
     "Administrative and Government Law",
-    "Banking and Finance",
     "Children and Women Law",
     "Commercial Law",
     "Debtor and Creditor",
-    "Real Estate",
-    "Appeal",
-    "Evidenc",
-    "Interpretation of Statute"
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,21 +27,21 @@
   ],
   "judge": [
     "Muritala Aremu Okunola JCA",
-    "Parick Ibe Amaizu JCA",
-    "Walter Samuel Nkanu Onnoghen JCA"
+    "Walter Samuel Nkanu Onnoghen JCA",
+    "Parick Ibe Amaizu JCA"
   ],
   "representation": [
     "Kolade Adelola Awojobi",
-    "P.A.O. Olorunnisola",
-    "S. Duro Adeyele"
+    "S. Duro Adeyele",
+    "P.A.O. Olorunnisola"
   ],
   "originating_court": "Kwara State High Court Holden at Ilorin (j. F. Gbadeyan J., Presiding)",
-  "doc_id": "de2375cc-0774-436f-ab74-47d93655ac60",
+  "doc_id": "ae2185a7-2a2e-42ed-b254-8bcba4d16ea9",
   "doctype": "Case",
   "parties": [
     "Alhaja Bamidele Adepate",
-    "Julius Babatunde",
+    "A. T. Ayantunde",
     "Bank of the North Ltd",
-    "A. T. Ayantunde"
+    "Julius Babatunde"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "case_title": "Purification Technique Nig. Ltd. Ors. v. Rufai Jubril Ors.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "8-6-2012",
   "year": "2012",
   "suit_number": "SC.159/2004",
@@ -10,12 +10,12 @@
     "JELR48547(SC)"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Real Estate and Property Law",
-    "Action",
-    "Evidence",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Real Estate and Property Law",
+    "Real Estate and Property Law",
+    "Words and Phrases",
+    "Action",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,40 +25,40 @@
   ],
   "judge": [
     "Aloma Mariam Mukhtar JSC",
+    "Olukayode Ariwoola JSC",
     "Francis Fedode Tabai JSC",
     "John Afolabi Fabiyi JSC",
-    "Nwali Sylvester Ngwuta JSC",
-    "Olukayode Ariwoola JSC"
+    "Nwali Sylvester Ngwuta JSC"
   ],
   "representation_appellant": "Aderemi Bashua",
   "representation_respondent": [
-    "J. K. Adeyi-odien",
     "Baku",
-    "P.O. Jomoh-lasisi",
-    "San S.A. Mustapha"
+    "San S.A. Mustapha",
+    "J. K. Adeyi-odien",
+    "P.O. Jomoh-lasisi"
   ],
   "originating_court": [
     "Court of Appeal Lagos Judicial Division",
     "High Court of Lagos State, Ikeja Judicial Division"
   ],
-  "doc_id": "033ca271-bb1c-4381-b4bf-56ea4ffef9c2",
+  "doc_id": "0c65983c-598f-455e-8802-3e0e6385b0bd",
   "doctype": "Case",
   "parties": [
+    "Ado Chieftaincy Family",
+    "Alhaji Saminu Saliu",
     "Purification Technique Nig. Ltd",
     "Chief Lateef Olayinka Ado",
-    "Alhaji Saminu Saliu",
     "Alhaji Shamusideen Abu",
-    "Ado Chieftaincy Family",
+    "MRS. Mabel Omoze",
+    "Sgt. J. Osagiede",
     "Rufai Jubril",
     "Sule Ramonu",
-    "Sunmola Oseni",
     "Alhaji Bashiru Salami Agbaje",
-    "Oba Sunday Adelakun",
     "Odan",
+    "Oba Sunday Adelakun",
     "Lt. Col. M. Muhammed",
     "MRS. Adesuwa Balogun",
-    "MRS. Mabel Omoze",
-    "Lt. E. Seide",
-    "Sgt. J. Osagiede"
+    "Sunmola Oseni",
+    "Lt. E. Seide"
   ]
 }

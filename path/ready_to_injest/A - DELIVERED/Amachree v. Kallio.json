@@ -1,24 +1,24 @@
 {
   "case_title": "Amachree v. Kallio",
-  "court": "Supreme Court",
-  "date": "Null-invalid-null",
-  "year": "No Year",
-  "suit_number": "(1908)-SC.1908/108",
+  "court": "Supreme Court of Nigeria",
+  "date": "None-invalid-none",
+  "year": "None",
+  "suit_number": "",
   "lex_citation": "LEX(1908)-SC.1908/108",
   "other_citations": [
     "3PLR/1907/3(SC-N)",
     "(1908)2N.LR.108"
   ],
   "area_of_law": [
-    "Agriculture and Food Law",
-    "Constitutional and Public Law",
-    "Education and Law",
-    "Environmental and Natural Resources Law",
-    "Real Estate and Land Law",
-    "Customary Law",
-    "Human Right",
     "Transportation and Logistic Law",
-    "Taxation and Revenue"
+    "Environmental and Natural Resources Law",
+    "Education and Law",
+    "Agriculture and Food Law",
+    "Human Right",
+    "Constitutional and Public Law",
+    "Customary Law",
+    "Taxation and Revenue",
+    "Real Estate and Land Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -33,17 +33,17 @@
   ],
   "representation": [
     "Williams",
-    "Gibson",
-    "Taylor",
     "Brew",
     "Clark",
-    "Clinton"
+    "Clinton",
+    "Taylor",
+    "Gibson"
   ],
   "originating_court": "Divisional Court, Sitting at Degema",
-  "doc_id": "3e36b2a7-bebb-42e8-a0ae-dbd81c8a6227",
+  "doc_id": "aabe3e37-edf2-485a-b5fc-c160fd672eb3",
   "doctype": "Case",
   "parties": [
-    "E King Amachree",
+    "Charlie King Amachree",
     "Daniel Kallio and Others"
   ]
 }

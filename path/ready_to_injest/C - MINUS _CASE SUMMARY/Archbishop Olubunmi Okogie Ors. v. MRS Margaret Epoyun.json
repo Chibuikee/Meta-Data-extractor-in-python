@@ -7,14 +7,14 @@
   "lex_citation": "LEX(2010)-CA/I/100/2004",
   "other_citations": "2PLR/2010/6(CA)",
   "area_of_law": [
-    "Employment and Abour Law",
-    "Children and Women La",
-    "Religion and Law",
     "Action",
-    "Court",
+    "Interpretation of Statute",
     "Judgment and Order",
     "Interpretation of Statut",
-    "Interpretation of Statute"
+    "Children and Women Law",
+    "Court",
+    "Employment and Abour Law",
+    "Religion and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,19 +23,19 @@
   ],
   "judge": [
     "Stanley Shenko Alagoa JCA",
-    "Kudirat MOKekere – Ekun JCA",
+    "Kudirat MOKekere - Ekun JCA",
     "Sidi Dauda Bage JCA"
   ],
-  "representation_appellant": "Prince P. A. Adesemowo",
+  "representation": "Prince P. A. Adesemowo",
   "originating_court": "High Court of Ogun State, Abeokuta Judicial Division",
-  "doc_id": "8895f10d-641c-4dbe-acee-b99815adfa85",
+  "doc_id": "ca808824-f2f3-4016-bc90-5e99a1201068",
   "doctype": "Case",
   "parties": [
-    "Archbishop Olubunmi Okogie",
-    "Chief",
     "DR",
-    "Gertrude Biasack",
     "MR. Akinniyi",
+    "Gertrude Biasack",
+    "Chief",
+    "Archbishop Olubunmi Okogie",
     "MRS Margaret Epoyun"
   ]
 }

@@ -10,16 +10,16 @@
     "(2017)LPELR-41887(CA)"
   ],
   "area_of_law": [
+    "Court",
+    "Interpretation of Statute",
+    "Action",
     "Administrative and Government Law",
     "Constitutional Law",
     "Customary Law",
     "Ethics",
-    "Action",
-    "Appeal",
-    "Court",
     "Evidence",
-    "Judgment and Order",
-    "Interpretation of Statute"
+    "Appeal",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,21 +27,21 @@
     "Case"
   ],
   "judge": [
-    "Joseph Tine Tur JCA",
     "Rita Nosakhare Pemu JCA",
-    "Misitura Omodere Bolaji-Yusuff JCA"
+    "Misitura Omodere Bolaji-Yusuff JCA",
+    "Joseph Tine Tur JCA"
   ],
   "representation_appellant": "E.A. Nwora",
   "representation_respondent": [
-    "DR J.o Ibik",
-    "O.J. Ibik",
+    "E.O. Ofodile",
     "K.I. Obianzor",
     "C.M. Ejeh",
-    "E.O. Ofodile",
-    "Chidu Chigbo"
+    "O.J. Ibik",
+    "Chidu Chigbo",
+    "DR J.o Ibik"
   ],
   "originating_court": "High Court of Anambra State, Onitsha Judicial Division (ruling Delivered on 12th April, 2006 with of Hon. Justice J.C. Nwadi Presiding).",
-  "doc_id": "49ca9a3a-23b6-4f05-a9c8-17d6c0262c21",
+  "doc_id": "b1e4d083-93b4-4556-a1ea-bca6ccf2a968",
   "doctype": "Case",
   "parties": [
     "Akunwata Onyeachonam Okolonji",

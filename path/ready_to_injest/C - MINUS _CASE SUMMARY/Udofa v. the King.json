@@ -7,13 +7,13 @@
   "lex_citation": "LEX(1950)-[1956]VIIIWACA30",
   "other_citations": "3PLR/1950/5(WACA)",
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Children and Women Law",
-    "Healthcare Law",
     "Religion Law",
+    "Children and Women Law",
+    "Interpretation of Statute",
+    "Criminal Law and Procedure",
     "Court",
-    "Evidence",
-    "Interpretation of Statute"
+    "Healthcare Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,17 +22,16 @@
   ],
   "judge": [
     "John Verity CJ",
-    "Nigeria",
-    "Bode Rhodes-Vivour J",
-    "Vahe Robert Bairamian J"
+    "Vahe Robert Bairamian J",
+    "Bode Rhodes-Vivour J"
   ],
   "representation": [
-    "C. O. Awoyele",
+    "Crown Counsel",
     "Lloyd",
-    "Crown Counsel"
+    "C. O. Awoyele"
   ],
   "originating_court": "High Court (hallinan, J., Presiding)",
-  "doc_id": "707bef1f-ba4f-4c58-9854-28e9978776c9",
+  "doc_id": "f6f10113-f7ac-49e2-b9b6-197782c76286",
   "doctype": "Case",
   "parties": [
     "Udofa Unwa Idiong",

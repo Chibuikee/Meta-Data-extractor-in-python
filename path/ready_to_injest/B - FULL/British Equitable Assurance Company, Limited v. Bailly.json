@@ -3,7 +3,7 @@
   "court": "House of Lords",
   "date": "19-invalid-1905",
   "year": "1905",
-  "suit_number": "(1905)-A.C.35",
+  "suit_number": "",
   "lex_citation": "LEX(1905)-A.C.35",
   "other_citations": [
     "3PLR/1906/2(HL-E)",
@@ -16,7 +16,8 @@
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
     "Lord Macnaghten",
@@ -28,10 +29,10 @@
     "Whinney",
     "P. O. Lawrence"
   ],
-  "doc_id": "6e2dbfb1-c271-4cf6-a40c-2273e5290123",
+  "doc_id": "befabd9d-bf7f-4efc-97a4-dc8542b221d8",
   "doctype": "Case",
   "parties": [
-    "H Equitable Assurance Company, Limited",
+    "British Equitable Assurance Company, Limited",
     "Bailly"
   ]
 }

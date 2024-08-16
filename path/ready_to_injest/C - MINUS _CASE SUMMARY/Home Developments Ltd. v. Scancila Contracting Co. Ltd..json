@@ -1,6 +1,6 @@
 {
   "case_title": "Home Developments Ltd. v. Scancila Contracting Co. Ltd.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "23-9-1994",
   "year": "1994",
   "suit_number": "SC.195/1988",
@@ -11,6 +11,8 @@
   ],
   "area_of_law": [
     "Court",
+    "Commercial Law",
+    "Alternative Dispute Resolution",
     "Judgment"
   ],
   "semantic_tags": [
@@ -20,19 +22,19 @@
     "High Profile Case"
   ],
   "judge": [
-    "Muhammadu Lawal Uwais JSC",
-    "Idris Legbo Kutigi JSC",
     "Michael Ekundayo Ogundare JSC",
-    "Sylvester",
+    "Idris Legbo Kutigi JSC",
     "Umaru Onu JSC",
-    "Anthony Ikechukwu Iguh JSC"
+    "Muhammadu Lawal Uwais JSC",
+    "Anthony Ikechukwu Iguh JSC",
+    "Sylvester"
   ],
   "representation": "E.J.J. Toro",
   "originating_court": [
     "Court of Appeal Kaduna Judicial Division",
     "Kaduna State High Court"
   ],
-  "doc_id": "43b522da-7bd6-40bb-a1d1-11a13420dba2",
+  "doc_id": "437d9395-b0e0-4aff-8d75-328c8357f809",
   "doctype": "Case",
   "parties": [
     "Home Developments Ltd",

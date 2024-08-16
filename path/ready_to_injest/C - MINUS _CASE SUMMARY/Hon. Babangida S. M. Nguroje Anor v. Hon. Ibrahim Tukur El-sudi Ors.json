@@ -10,10 +10,10 @@
     "Electoral Matters",
     "Constitutional and Human Rights Law",
     "Action",
-    "Court",
-    "Evidence",
+    "Interpretation of Statute",
     "Judgment and Order",
-    "Interpretation of Statute"
+    "Court",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,37 +21,31 @@
     "Case"
   ],
   "judge": [
-    "Sotonye Denton West JCA",
+    "Abubakar Alkali Abba JCA",
     "Ignatius Igwe Agube JCA",
-    "Abubakar Alkali Abba JCA"
+    "Sotonye Denton West JCA"
   ],
   "representation_appellant": [
-    "Garba Tetengi",
-    "San Adenike"
+    "Adenike",
+    "Garba Tetengi"
   ],
   "representation_respondent": [
-    "O. E. B. Offiong",
+    "Ahmed Umar",
     "A. J. Akamode",
-    "Ahmed Umar"
+    "O. E. B. Offiong"
   ],
   "originating_court": "The Federal High Court, Yola Division (s. M. Shuaibu, J., Presiding)",
-  "doc_id": "7bf89fea-754b-4390-b211-fe676b92ecc7",
+  "doc_id": "c49c7db5-d789-4e90-8300-f2b0c41a42af",
   "doctype": "Case",
   "parties": [
     "Hon. Babangida S. M. Nguroje - Ca",
     "Yl",
     "Peoples Democratic Party - Ca",
-    "Yl",
     "Consolidated",
+    "Yl",
     "Hon. Ibrahim Tukur El-sudi",
-    "Peoples Democratic Party - Ca",
-    "Yl",
     "Independent National Electoral Commission",
-    "And",
     "Hon. Babangida S. M. Nguroje",
-    "Hon. Ibrahim Tukur El-sudi - Ca",
-    "Yl",
-    "Independent National Electoral Commission",
-    "Consolidated"
+    "Hon. Ibrahim Tukur El-sudi - Ca"
   ]
 }

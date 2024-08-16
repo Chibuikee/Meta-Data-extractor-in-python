@@ -4,41 +4,42 @@
   "date": "13-10-1980",
   "year": "1980",
   "suit_number": "CADBURYSCHWEPPESPROPERTYLIMITEDANDOTHERS",
-  "lex_citation": "LEX(1980)–PC1ALLE.R213",
+  "lex_citation": "LEX(1980)-PC1ALLE.R213",
   "other_citations": [
     "[1981]1ALLER213",
     "3PLR/1980/11(SC)"
   ],
   "area_of_law": [
-    "Intellectual Property Law",
     "Tort and Personal Injury",
+    "Intellectual Property Law",
     "Antitrust"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Lord Wilberforce",
     "Lord Edmund-Davies",
-    "Lord Fraser of Tullybelton",
     "Lord Scarman",
+    "Lord Fraser of Tullybelton",
+    "Lord Wilberforce",
     "Lord Roskill"
   ],
   "representation": [
+    "C J Bannon Qc",
+    "S M P Reeves",
     "L J Priestley Qc",
-    "P G Hely .c J Bannon Qc",
-    "S M P Reeves"
+    "P G Hely"
   ],
   "originating_court": [
-    "",
     "Supreme Court of New South Wales"
   ],
-  "doc_id": "2eb40949-043c-4fa2-8cc7-a323b1fff4b1",
+  "doc_id": "1aa34605-c104-4320-bf22-9d466fc9a78b",
   "doctype": "Case",
   "parties": [
-    "Y Schweppes Property Limited and Others",
+    "Cadbury Schweppes Property Limited and Others",
     "Pub Squash Company Property Limited"
   ]
 }

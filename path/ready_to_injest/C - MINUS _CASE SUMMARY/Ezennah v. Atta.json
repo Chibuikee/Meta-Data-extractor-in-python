@@ -1,6 +1,6 @@
 {
   "case_title": "Ezennah v. Atta",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "27-2-2004",
   "year": "2004",
   "suit_number": "SCHINYEA.M.EZENNAH",
@@ -13,11 +13,21 @@
     "(2004)LPELR-SC.226/2000"
   ],
   "area_of_law": [
+    "Tort and Personal Injury",
+    "Healthcare and Law",
+    "Tort and Personal Injury Law",
     "Action",
-    "Appeal",
+    "Estate Administration",
     "Court",
+    "Appeal",
+    "Administrative and Government Law",
     "Pleadings",
-    "Words and Phrases"
+    "Children and Women Law",
+    "Commercial Law",
+    "Estate Administration",
+    "Words and Phrases",
+    "Real Estate and Property Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,33 +36,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sylvester Umaru Onu JSC",
-    "Presided",
-    "Anthony Ikechukwu Iguh JSC",
-    "Umaru Atu Kalgo JSC",
     "Niki Tobi JSC",
-    "Read the Lead Judgment",
-    "Ignatius Chukwudi Pats-Acholonu JSC"
+    "Umaru Atu Kalgo JSC",
+    "Ignatius Chukwudi Pats-Acholonu JSC",
+    "Sylvester Umaru Onu JSC",
+    "Anthony Ikechukwu Iguh JSC"
   ],
-  "representation_appellant": [
-    "J. O. Adesina",
+  "representation": [
+    "E. A. Kabiru",
     "O. A. R. Ogunde",
     "S. A. Akaua",
-    "E. A. Kabiru",
-    "Substantive Legal"
+    "J. O. Adesina"
   ],
-  "representation_respondent": [
-    "Policy Issues Commercial Law",
-    "Contract",
-    "Agreement to Marry",
-    "Elements of - How Inferred From Circumstances - Burden of Proof - on Whom Lies - When Deemed Breached - Whether",
-    "Duty",
-    "Tort"
-  ],
-  "doc_id": "14ed84d0-70a6-433a-ae91-25610882aa2b",
+  "doc_id": "dc5cc8a3-e9c5-410f-ab47-a15f2c5597f1",
   "doctype": "Case",
   "parties": [
-    "Hinye A. M. Ezennah",
+    "Miss Chinye A. M. Ezennah",
     "Alhaji Mahmoud I. Atta"
   ]
 }

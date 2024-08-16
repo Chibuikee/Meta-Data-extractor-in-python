@@ -1,6 +1,6 @@
 {
   "case_title": "Nigerian National Petroleum Corporation v. Lutin Investment Ltd",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-1-2006",
   "year": "2006",
   "suit_number": "S.C.57/2002",
@@ -10,17 +10,17 @@
     "(2006)1S.C.(PTIII)4"
   ],
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Commercial Law",
-    "Company and Corporate Law",
-    "Company and Corporate Law",
-    "Ethics",
     "Action",
-    "Appeal",
     "Court",
-    "Evidence",
+    "Alternative Dispute Resolution",
+    "Ethics",
+    "Appeal",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Company and Corporate Law",
+    "Company and Corporate Law",
+    "Commercial Law",
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,35 +29,36 @@
     "High Profile Case"
   ],
   "judge": [
-    "Idris Legbo Kutigi JSC",
-    "Umaru Atu Kalgo JSC",
-    "Dahiru Musdapher JSC",
     "Walter Samuel Nkanu Onnoghen JSC",
-    "Ikechi Francis Ogbuagu JSC"
+    "Umaru Atu Kalgo JSC",
+    "Idris Legbo Kutigi JSC",
+    "Ikechi Francis Ogbuagu JSC",
+    "Dahiru Musdapher JSC"
   ],
   "representation_appellant": [
-    "Solomom Asemota",
-    "S.A.n H.B. Abina"
+    "H.B. Abina",
+    "Solomom Asemota"
   ],
   "representation_respondent": [
-    "Kunle Ula",
-    "Uche Nwokedi John Erameh",
-    "First",
+    "John Erameh",
     "Babatunde Fagbohunlu",
-    "Second"
+    "First",
+    "Kunle Ula",
+    "Second",
+    "Uche Nwokedi"
   ],
   "originating_court": [
     "Court of Appeal, Lagos",
     "Federal High Court, Lagos Judicial Division (belgore, C. J., Presiding)",
     "Arbitral Proceedings (justice Uche Omo, (rtd.) Presiding)"
   ],
-  "doc_id": "a92bfb63-37f4-4875-8e60-9aef4430a280",
+  "doc_id": "3820bc4d-d9c7-498b-856d-c8b276f302a7",
   "doctype": "Case",
   "parties": [
-    "Nigerian National Petroleum Corporation",
     "Nnpc",
-    "Lutin Investment Ltd",
+    "Nigerian National Petroleum Corporation",
     "Honourable Justice Uche Omo",
+    "Lutin Investment Ltd",
     "Learned Arbitrator"
   ]
 }

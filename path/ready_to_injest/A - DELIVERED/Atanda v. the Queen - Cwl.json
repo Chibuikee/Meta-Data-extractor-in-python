@@ -1,6 +1,6 @@
 {
   "case_title": "Atanda v. the Queen - Cwl",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "16-1-1955",
   "year": "1955",
   "suit_number": "S.C.268/1957",
@@ -18,18 +18,18 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sir Stafford Foster-Sutton, F CJ",
+    "Myles John Abbott FJ",
     "MCNageon De Lestang FJ",
-    "Myles John Abbott FJ"
+    "Sir Stafford Foster-Sutton, F CJ"
   ],
   "representation": [
-    "Applicant",
-    "L. Brett"
+    "L. Brett",
+    "Applicant"
   ],
-  "doc_id": "54959b4d-09d8-4c8c-8e5b-47f95316e3b6",
+  "doc_id": "14b2d190-2f4b-4f80-911f-f872eb959863",
   "doctype": "Case",
   "parties": [
-    "Atanda",
+    "Salau Atanda",
     "The Queen"
   ]
 }

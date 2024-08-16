@@ -1,6 +1,6 @@
 {
   "case_title": "Cil Risk Asset Management Limited v. Ekiti State Government Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-3-2020",
   "year": "2020",
   "suit_number": "SC.990/2018",
@@ -10,21 +10,21 @@
     "(2020)LPELR-49565(SC)"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Administrative and Government Law",
-    "Administrattive and Government Law",
-    "Adminstrative and Government Law",
-    "Commercial Law",
-    "Constitutional Law",
-    "Constitutional Law and Human Rights",
-    "Hospitality and Law",
-    "Action",
-    "Appeal",
-    "Court",
     "Evidence",
+    "Words and Phrases",
+    "Hospitality and Law",
     "Interpretation of Statute",
-    "Word and Phrases",
-    "Words and Phrases"
+    "Action",
+    "Administrative and Government Law",
+    "Real Estate and Property Law",
+    "Constitutional Law",
+    "Commercial Law",
+    "Administrattive and Government Law",
+    "Court",
+    "Appeal",
+    "Constitutional Law and Human Rights",
+    "Adminstrative and Government Law",
+    "Word and Phrases"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -33,16 +33,16 @@
     "High Profile Case"
   ],
   "judge": [
+    "Chima Centus Nweze JSC",
     "Olabode Rhodes-Vivour JSC",
     "Mary Ukaego Peter-Odili JSC",
-    "Chima Centus Nweze JSC",
-    "Amina Adamu Augie JSC",
-    "Ejembi Eko JSC"
+    "Ejembi Eko JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "Peter Nwatu, Esq",
+    "Chioma Ezeobika Esq",
     "Michael Olawale, Esq",
-    "Chioma Ezeobika Esq"
+    "Peter Nwatu, Esq"
   ],
   "representation_respondent": [
     "O. Olatawura, Esq",
@@ -52,16 +52,16 @@
     "Ekiti State High Court [holden at Ado Ekiti, C. L Akintayo, J. Presiding]",
     "Court of Appeal [ado-ekiti Division, Coram: A. B. Belgore, F. O. Akinbami and P. O. Elechi Jjca)"
   ],
-  "doc_id": "ee410b0a-b959-486d-af1e-edecf5dba63e",
+  "doc_id": "54e56f9b-1b45-41b7-8de0-ee557c59a8df",
   "doctype": "Case",
   "parties": [
-    "Cil Risk",
     "Asset Management Limited",
+    "Cil Risk",
     "Ekiti State Government",
-    "Ministry of Lands",
-    "Housing and Urban Development",
     "Ekiti State",
-    "Attorney General of Ekiti State",
-    "Afe Babalola University"
+    "Housing and Urban Development",
+    "Ministry of Lands",
+    "Afe Babalola University",
+    "Attorney General of Ekiti State"
   ]
 }

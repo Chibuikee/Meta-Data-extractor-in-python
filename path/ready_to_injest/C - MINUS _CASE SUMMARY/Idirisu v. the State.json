@@ -1,6 +1,6 @@
 {
   "case_title": "Idirisu v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-1-1967",
   "year": "1967",
   "suit_number": "SC445/1966",
@@ -8,8 +8,8 @@
   "other_citations": "3PLR/1967/34(SC)",
   "area_of_law": [
     "Criminal Law and Procedure",
-    "Healthcare and Law",
-    "Children and Women Law"
+    "Children and Women Law",
+    "Healthcare and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,20 +19,21 @@
   ],
   "judge": [
     "Brett JSC",
+    "High Court, Minna, Northern",
     "Coker JSC",
+    "Nigeria",
     "Lewis JSC",
-    "Orignating Court",
-    "High Court, Minna, Northern Nigeria (hague, Ag J"
+    "Orignating Court"
   ],
   "representation": [
     "J. A. Cole",
     "M. B. Belgore",
     "Ag"
   ],
-  "doc_id": "91eaef04-27f1-4ccb-8b50-c0bd8e59c979",
+  "doc_id": "45924485-1f21-4bc6-bb0d-6d436e384ee8",
   "doctype": "Case",
   "parties": [
-    "Idirisu",
+    "Yahaya Idirisu",
     "The State"
   ]
 }

@@ -6,7 +6,12 @@
   "suit_number": "CANLIFEINSURANCECO.INC",
   "lex_citation": "LEX1972-LD/73/68",
   "other_citations": "3PLR/1972/13(HC)",
-  "area_of_law": "Pleadings",
+  "area_of_law": [
+    "Pleadings",
+    "Estate Administration",
+    "Children and Women",
+    "Insurance and Re"
+  ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
@@ -14,10 +19,10 @@
   ],
   "judge": "Taylor CJ",
   "representation": [
-    "Koku",
-    "Jaiyesimi"
+    "Jaiyesimi",
+    "Koku"
   ],
-  "doc_id": "863b3f27-198d-4872-aa6d-a9b1b8384a9e",
+  "doc_id": "55383496-e8bf-4547-8c43-1efe758e0c52",
   "doctype": "Case",
   "parties": [
     "Caroline O. Ajala",

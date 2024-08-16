@@ -1,23 +1,23 @@
 {
   "case_title": "Dec Oil Gas Limited v. Shell Nigeria Gas Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-7-2019",
   "year": "2019",
   "suit_number": "SC.333/2010",
-  "lex_citation": "LEX(2020)–SC.333/2010",
+  "lex_citation": "LEX(2020)-SC.333/2010",
   "other_citations": [
     "3PLR/2020/12(SC)",
     "(2019)LPELR-49347(SC)"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Constitutional and Human Right Law",
-    "Constitutional Law",
-    "Administrative and Government Law",
-    "Oil and Gas",
-    "Court",
     "Judgment and Order",
-    "Jurisdiction"
+    "Administrative and Government Law",
+    "Constitutional Law",
+    "Jurisdiction",
+    "Commercial Law",
+    "Court",
+    "Constitutional and Human Right Law",
+    "Oil and Gas"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,19 +26,18 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Ibrahim Tanko Muhammad JSC",
     "Olukayode Ariwoola JSC",
-    "John Inyang Okoro JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "John Inyang Okoro JSC"
   ],
   "representation_appellant": [
-    "J.T.o Ugboduma",
+    "C. I Igbenedion, Esq",
     "A. Ayogu, Esq",
-    "C. I Igbenedion, Esq"
+    "J.T.o Ugboduma"
   ],
   "representation_respondent": [
-    "MRS",
     "Abimbola Williams- Akinjide",
     "E. Osagie"
   ],
@@ -46,7 +45,7 @@
     "Court of Appeal (lagos Division)",
     "Federal High Court (lagos Division, Okeke J. Presiding)"
   ],
-  "doc_id": "f9bd1219-34ab-4b36-828d-d79a26cf4d46",
+  "doc_id": "e77c74d5-cf34-4457-b5f0-f6e182951813",
   "doctype": "Case",
   "parties": [
     "Dec Oil",

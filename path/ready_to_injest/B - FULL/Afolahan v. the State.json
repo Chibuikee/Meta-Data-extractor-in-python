@@ -1,18 +1,19 @@
 {
   "case_title": "Afolahan v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-12-2017",
   "year": "2017",
   "suit_number": "SC.447/2012",
   "lex_citation": "LEX(2017)-SC.447/2012",
   "other_citations": "3PLR/2017/29(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Interpretation of Statute",
+    "Words and Phrases",
     "Constitutional Law",
     "Ethics",
-    "Appeal",
     "Evidence",
-    "Interpretation of Statute"
+    "Appeal",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,21 +22,23 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olabode Rhodes-Vivour JSC",
-    "Mark Ukaego Peter-Odili JSC",
-    "Clara Bata Ogunbiyi JSC",
     "Amiru Sanusi JSC",
-    "Sidi Dauda Bage JSC"
+    "Clara Bata Ogunbiyi JSC",
+    "Sidi Dauda Bage JSC",
+    "Olabode Rhodes-Vivour JSC",
+    "Mark Ukaego Peter-Odili JSC"
   ],
   "representation": [
     "A. Olaleru",
+    "O. Afolabi",
+    "A. O. Oloriaje",
     "A. A. Afolabi"
   ],
   "originating_court": [
     "Court of Appeal, Akure Judicial Division",
     "High Court of Osun State Holden at Osogbo"
   ],
-  "doc_id": "2005396a-b800-4701-ac9e-9a7d2052e0a8",
+  "doc_id": "8a4e1944-955d-46f8-ae9e-63d014d489a5",
   "doctype": "Case",
   "parties": [
     "Akeem Afolahan",

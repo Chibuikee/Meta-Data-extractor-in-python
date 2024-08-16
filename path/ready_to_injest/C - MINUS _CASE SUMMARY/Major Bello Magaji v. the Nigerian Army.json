@@ -1,22 +1,23 @@
 {
   "case_title": "Major Bello Magaji v. the Nigerian Army",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "7-3-2008",
   "year": "2008",
   "suit_number": "S.C.204/2004",
   "lex_citation": "LEX(2008)-S.C.204/2004",
+  "other_citations": [],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Constitutional and Human Rights Law",
-    "Criminal Law",
-    "Military Law",
-    "Children and Women Law",
-    "Ethics",
     "Healthcare and Law",
+    "Constitutional and Human Rights Law",
+    "Children and Women Law",
     "Court",
-    "Evidence",
+    "Ethics",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Military Law",
+    "Criminal Law and Procedure",
+    "Criminal Law",
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,9 +27,9 @@
   ],
   "judge": [
     "Niki Tobi JSC",
+    "Ikechi Francis Ogbuagu JSC",
     "Sunday Akinola Akintan JSC",
     "Mahmud Mohammed JSC",
-    "Ikechi Francis Ogbuagu JSC",
     "Francis Fedode Tabai JSC"
   ],
   "representation": [
@@ -36,11 +37,10 @@
     "Jimoh Abdulkadir Adamu"
   ],
   "originating_court": [
-    "",
     "General Court Martial, Nigerian Army (convened by Brigadier-general P. N. Aziza)",
     "Court of Appeal, Lagos Judicial Division"
   ],
-  "doc_id": "8216374c-1adb-4dbd-b694-24b0791ad718",
+  "doc_id": "1f6aa922-9d4e-4b51-b40d-bf0a29c1dd9a",
   "doctype": "Case",
   "parties": [
     "Major Bello Magaji",

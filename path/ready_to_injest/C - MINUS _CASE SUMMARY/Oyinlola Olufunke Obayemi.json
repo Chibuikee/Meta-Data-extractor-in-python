@@ -1,18 +1,18 @@
 {
   "case_title": "Oyinlola Olufunke Obayemi",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "19-5-1967",
   "year": "1967",
   "suit_number": "SC346/1966",
   "lex_citation": "LEX(1967)-SC346/1966",
   "other_citations": "3PLR/1967/52(SC)",
   "area_of_law": [
-    "Family Law",
-    "Alternative Dispute Resolution",
-    "Children and Women Law",
     "Healthcare and Law",
+    "Alternative Dispute Resolution",
     "Appeal",
+    "Children and Women Law",
     "Court",
+    "Family Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -22,22 +22,26 @@
     "High Profile Case"
   ],
   "judge": [
-    "Lionel Brett, Ag CJN",
-    "George Baptist ACoker JSC",
-    "Ian Lewis JSC",
+    "Akure High Court",
     "Originating State",
-    "Akure High Court (beckley J"
+    "George Baptist ACoker JSC",
+    "Lionel Brett, Ag CJN",
+    "Ian Lewis JSC"
   ],
   "representation": [
+    "Husband",
     "J. O. B. Omotosho",
     "Wife",
-    "J. A. Adeyefa",
-    "Husband"
+    "J. A. Adeyefa"
   ],
-  "doc_id": "d5ee9c0b-9802-45aa-b46f-b6bf8de5ffec",
+  "originating_court": [
+    "State",
+    "Akure High Court (beckley, J.)"
+  ],
+  "doc_id": "13356fda-0b22-4329-b21b-b825e577a4b8",
   "doctype": "Case",
   "parties": [
-    "La Olufunke Obayemi",
+    "Oyinlola Olufunke Obayemi",
     "Samuel Adebayo Obayemi"
   ]
 }

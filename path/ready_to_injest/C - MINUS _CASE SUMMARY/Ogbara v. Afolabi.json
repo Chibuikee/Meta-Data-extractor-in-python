@@ -3,12 +3,12 @@
   "court": "High Court",
   "date": "15-3-1971",
   "year": "1971",
-  "suit_number": "(1971)-LD/436/1970",
+  "suit_number": "LD/436/1970",
   "lex_citation": "LEX(1971)-LD/436/1970",
   "other_citations": "3PLR/1971/62(HK-L)",
   "area_of_law": [
-    "Insurance and Reinsurance",
     "Tort and Personal Injury",
+    "Insurance and Reinsurance",
     "Action"
   ],
   "semantic_tags": [
@@ -21,12 +21,12 @@
     "Lukanmi",
     "Sofola"
   ],
-  "doc_id": "bf5509d5-aea7-44ea-a59d-7c1887816286",
+  "doc_id": "19822e33-6fdd-4e5d-8eb7-f64d222060af",
   "doctype": "Case",
   "parties": [
     "Risikatu James Y. Ogbara",
-    "Ganiyu Afolabi",
+    "The New India Assurance",
     "G.N. Ezimoren",
-    "The New India Assurance"
+    "Ganiyu Afolabi"
   ]
 }

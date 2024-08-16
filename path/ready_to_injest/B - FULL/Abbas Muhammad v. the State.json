@@ -1,6 +1,6 @@
 {
   "case_title": "Abbas Muhammad v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-4-2017",
   "year": "2017",
   "suit_number": "SC.141/2013",
@@ -10,11 +10,11 @@
     "(2017)LPELR-42098(SC)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Words and Phrases",
-    "Appeal",
     "Evidence",
-    "Judgment and Order"
+    "Appeal",
+    "Judgment and Order",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,15 +23,15 @@
     "High Profile Case"
   ],
   "judge": [
+    "Chima Centus Nweze JSC",
+    "Paul Adamu Galinje JSC",
     "Olukayode Ariwoola JSC",
     "Clara Bata Ogunbiyi JSC",
-    "Chima Centus Nweze JSC",
-    "Amina Adamu Augie JSC",
-    "Paul Adamu Galinje JSC"
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": "Nureni Jimoh",
   "representation_respondent": "Shuaibu Sule",
-  "doc_id": "48fb0586-bd55-485a-b13e-2b9dcf238ed6",
+  "doc_id": "849225e4-3be8-483c-a95a-7b7d4b321e09",
   "doctype": "Case",
   "parties": [
     "Abbas Muhammad",

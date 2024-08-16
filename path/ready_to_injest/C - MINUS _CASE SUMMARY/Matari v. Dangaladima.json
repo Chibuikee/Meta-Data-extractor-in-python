@@ -1,6 +1,6 @@
 {
   "case_title": "Matari v. Dangaladima",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "26-2-1993",
   "year": "1993",
   "suit_number": "SC.267/90",
@@ -10,15 +10,15 @@
     "(1993)3NWLR(PT.281)266"
   ],
   "area_of_law": [
-    "Real Estate and Property",
+    "Jurisdiction",
     "Agriculture and Food Law",
     "Court",
-    "Evidence",
-    "Judgment and Order",
-    "Jurisdiction",
-    "Maxim",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Maxim",
+    "Judgment and Order",
+    "Words and Phrases",
+    "Real Estate and Property",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,25 +29,26 @@
   "judge": [
     "Adolphus Godwin Karibi-Whyte JSC",
     "Saidu Kawu JSC",
-    "Salihu Modibbo Alfa Belgore JSC",
+    "Uche Omo JSC",
     "Philip Nnaemeka-Agu JSC",
-    "Uche Omo JSC"
+    "Salihu Modibbo Alfa Belgore JSC"
   ],
   "representation": [
-    "J.B. Dawodu",
-    "Uche",
     "Agonmuoh",
-    "Baba Amartey"
+    "Hadiza Amartey",
+    "Baba Amartey",
+    "J.B. Dawodu",
+    "Uche"
   ],
-  "doc_id": "428bee60-1d6d-4e9d-aae5-0ead04110d5c",
+  "doc_id": "2d030bbf-551f-4bd1-9083-d71c97064e4c",
   "doctype": "Case",
   "parties": [
-    "Alhaji Hashimu Garba Matari",
-    "Alhaji Musa Adamu",
-    "Danyaro Umaru",
     "Jumare Usman",
-    "Abdu Abubakar",
+    "Danyaro Umaru",
     "Alhassan Dantata",
+    "Alhaji Hashimu Garba Matari",
+    "Abdu Abubakar",
+    "Alhaji Musa Adamu",
     "Ahmadu Dangaladima",
     "Lawal Pate Maude"
   ]

@@ -7,9 +7,9 @@
   "lex_citation": "LEX(1954)-14W.A.C.A442",
   "other_citations": "3PLR/1954/13(WACA)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Children and Women Law",
     "Health Law",
+    "Criminal Law and Procedure",
     "Elders Law",
     "Religion and Law"
   ],
@@ -20,13 +20,13 @@
   ],
   "judge": "Foster-Sutton",
   "representation": [
-    "C. O. Madarikan",
-    "Crown"
+    "Crown",
+    "C. O. Madarikan"
   ],
-  "doc_id": "be2d031b-1bcf-47a9-acec-b4e8c1ffdc42",
+  "doc_id": "4646aa73-3467-47ef-8db6-34534570ba91",
   "doctype": "Case",
   "parties": [
-    "Edu Gadam",
+    "Muhammedu Gadam",
     "The Queen"
   ]
 }

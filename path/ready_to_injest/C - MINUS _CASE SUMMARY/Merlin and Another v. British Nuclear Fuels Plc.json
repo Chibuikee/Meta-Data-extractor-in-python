@@ -3,19 +3,19 @@
   "court": "Queen's Bench",
   "date": "2-4-1990",
   "year": "1990",
-  "suit_number": "(1990)-2ALLE.R.711",
+  "suit_number": "",
   "lex_citation": "LEX(1990)-2ALLE.R.711",
   "other_citations": "3PLR/1990/91(CA-E)",
   "area_of_law": [
-    "Environmental and Natural Resources Law",
+    "Science and Technology",
     "Healthcare and Law",
     "Real Estate and Land Law",
-    "Science and Technolgy",
-    "Science and Technology",
     "Tort and Personal Injury Law",
+    "Children and Women Law",
     "Transport and Infrastructure Law",
-    "Education and Law",
-    "Children and Women Law"
+    "Environmental and Natural Resources Law",
+    "Science and Technolgy",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,21 +24,21 @@
   ],
   "judge": "Gatehouse J",
   "representation": [
-    "Stephen Sedley Qc",
     "Matthias Kelly",
-    "Kenneth Rokison Qc",
-    "Antony Edwards-stuart",
-    "Emma Griffiths",
+    "K Mydeen Esq",
     "Leigh Day",
     "&",
-    "Co",
+    "Kenneth Rokison Qc",
     "Freshfields",
-    "K Mydeen Esq"
+    "Stephen Sedley Qc",
+    "Emma Griffiths",
+    "Co",
+    "Antony Edwards-stuart"
   ],
-  "doc_id": "53d18538-c0a0-40fe-b081-224754335b3a",
+  "doc_id": "44999622-376a-4a45-aa83-58e0f0b0dc46",
   "doctype": "Case",
   "parties": [
-    "And Another",
+    "Merlin and Another",
     "British Nuclear Fuels Plc"
   ]
 }

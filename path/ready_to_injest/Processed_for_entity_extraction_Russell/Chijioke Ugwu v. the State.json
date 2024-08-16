@@ -4,15 +4,15 @@
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.196/2015",
-  "lex_citation": "LEX(2021)–SC.196/2015",
+  "lex_citation": "LEX(2021)-SC.196/2015",
   "other_citations": [
     "3PLR/2020/7(SC)",
     "(2020)LPELR-49375(SC)"
   ],
   "area_of_law": [
-    "Ethics",
     "Appeal",
-    "Criminal Law and Procedure"
+    "Criminal Law and Procedure",
+    "Ethics"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,30 +22,28 @@
   ],
   "judge": [
     "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Olukayode Ariwoola JSC",
     "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC",
-    "Olukayode Ariwoola JSC"
+    "Uwani Musa Abba Aji JSC"
   ],
   "representation_appellant": [
     "T. E. Iyoha-osagie, Esq",
-    "DR",
     "B. E. Uwaokhonye, Esq",
     "O. B. Ajinola",
     "I.A. Akaraiwe Esq"
   ],
   "representation_respondent": [
+    "T. A. Ngene, Esq",
     "M. A. Eze",
     "U. D. Neboh, Esq",
-    "K.K. Odugu, Esq",
-    "Chief",
-    "T. A. Ngene, Esq"
+    "K.K. Odugu, Esq"
   ],
   "originating_court": [
     "Court of Appeal [enugu Division]",
     "Enugu State High Court [holden at Nsukka Judicial Division]"
   ],
-  "doc_id": "f271f44a-d149-41b6-8f99-f48147de28cd",
+  "doc_id": "f9b6d829-c455-4c08-8c5d-363b107e8cf8",
   "doctype": "Case",
   "parties": [
     "Chijioke Ugwu",

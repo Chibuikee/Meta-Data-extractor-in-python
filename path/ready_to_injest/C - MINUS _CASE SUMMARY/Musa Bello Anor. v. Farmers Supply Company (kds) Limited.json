@@ -10,11 +10,11 @@
     "(1998)10NWLRPART568PG.64"
   ],
   "area_of_law": [
-    "Commercial Law",
-    "Transportation and Logistics Law",
-    "Agriculture and Food Law",
     "International Trade",
-    "Practice and Procedure"
+    "Agriculture and Food Law",
+    "Practice and Procedure",
+    "Transportation and Logistics Law",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,23 +22,22 @@
     "Case"
   ],
   "judge": [
-    "Umaru Abdullahi JCA",
+    "Atinuke Omobonike Ige JCA",
     "James Ogenyi Ogebe JCA",
-    "Atinuke Omobonike Ige JCA"
+    "Umaru Abdullahi JCA"
   ],
   "representation": [
     "Emeka Ogbonaya",
     "Munala A. Yusuf"
   ],
   "originating_court": [
-    "",
     "High Court of Justice Kaduna"
   ],
-  "doc_id": "3e8546d6-7ca8-4e55-b2e3-f215a582e60e",
+  "doc_id": "f77560df-e92f-44d6-bc8b-d7ea0d806ec8",
   "doctype": "Case",
   "parties": [
-    "Alhaji Musa Bello",
     "United Overseas Merchants Limited - Appellants",
+    "Alhaji Musa Bello",
     "Farmers Supply Compnay",
     "Kds",
     "Limited - Respondents"

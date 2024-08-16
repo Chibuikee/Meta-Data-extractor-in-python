@@ -1,6 +1,6 @@
 {
   "case_title": "C.G.g v. Ogu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "18-2-2005",
   "year": "2005",
   "suit_number": "SC.303/2000",
@@ -10,10 +10,15 @@
     "(2005)8NWLR(PT.927)366"
   ],
   "area_of_law": [
+    "Environmental and Natural Resource Law",
+    "Science and Technology Law",
+    "Agriculture and Food Law",
     "Appeal",
+    "Oil and Gas",
+    "Children and Women Law",
     "Court",
-    "Jurisdiction",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Jurisdiction"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,25 +27,25 @@
     "High Profile Case"
   ],
   "judge": [
+    "Dahiru Musdapher JSC",
+    "Sunday Akinola Akintan JSC",
     "Akintola Olufemi Ejiwunmi JSC",
     "Niki Tobi JSC",
-    "Dahiru Musdapher JSC",
-    "George Adesola Oguntade JSC",
-    "Sunday Akinola Akintan JSC"
+    "George Adesola Oguntade JSC"
   ],
   "representation": [
-    "D.O. Ezaga Esq",
-    "Dejo Lamikanra Esq"
+    "Dejo Lamikanra Esq",
+    "D.O. Ezaga Esq"
   ],
   "originating_court": [
     "Court of Appeal",
     "Omoku High Court, Rivers State"
   ],
-  "doc_id": "30302df1-eb4e-4e74-9b7c-5012ad9e1d05",
+  "doc_id": "fdd9ca80-0205-4efe-946d-5d9eb622e149",
   "doctype": "Case",
   "parties": [
-    "C.G.g",
     "Nigeria",
+    "C.G.g",
     "Limited",
     "Chief Lawrence Ogu"
   ]

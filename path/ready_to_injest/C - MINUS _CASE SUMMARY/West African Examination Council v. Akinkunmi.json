@@ -10,10 +10,10 @@
     "28WRN13"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Administrative and Government Law",
+    "Interpretation of Statute",
     "Human Rights and Constitutional Law",
-    "Interpretation of Statute"
+    "Administrative and Government Law",
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,13 +26,13 @@
     "Christopher Mitchell Chukwuma-Eneh JCA"
   ],
   "representation": [
-    "Uche Ohadugha Esq",
-    "Jiti Ogunye Esq"
+    "Jiti Ogunye Esq",
+    "Uche Ohadugha Esq"
   ],
-  "doc_id": "87ed40ff-6c35-499e-9c9a-ae2eb5ee0f24",
+  "doc_id": "a9281ed4-6ced-4a2c-ad56-861bfb330d1a",
   "doctype": "Case",
   "parties": [
-    "Frican Examination Council",
+    "West African Examination Council",
     "Akinkunmi"
   ]
 }

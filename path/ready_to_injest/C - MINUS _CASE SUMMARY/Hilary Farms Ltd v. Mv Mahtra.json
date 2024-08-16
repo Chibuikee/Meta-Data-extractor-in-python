@@ -1,16 +1,16 @@
 {
   "case_title": "Hilary Farms Ltd v. Mv Mahtra",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "15-6-2007",
   "year": "2007",
   "suit_number": "S.C.43/2002",
   "lex_citation": "LEX(2007)-S.C.43/2002",
   "other_citations": "3PLR/2007/53(SC)",
   "area_of_law": [
-    "Admiralty and Shipping",
-    "Commercial Law",
-    "Transportation Law",
     "Appeal",
+    "Admiralty and Shipping",
+    "Transportation Law",
+    "Commercial Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -20,11 +20,11 @@
     "High Profile Case"
   ],
   "judge": [
+    "Ikechi Francis Ogbuagu JSC",
     "Sylvester Umaru Onu JSC",
-    "Dahiru Musdapher JSC",
     "Sunday Akinola Akintan JSC",
     "Mahmud Mohammed JSC",
-    "Ikechi Francis Ogbuagu JSC"
+    "Dahiru Musdapher JSC"
   ],
   "representation": [
     "Luis Nnamdi Mbanefo. San",
@@ -36,17 +36,17 @@
     "Federal High Court, (auta, J., Presiding)",
     "Court of Appeal, Lagos Judicial Division"
   ],
-  "doc_id": "dcd8dd04-4c97-478c-a2b4-98beefb0ae35",
+  "doc_id": "ac438259-1384-413b-a80a-efd445985ae3",
   "doctype": "Case",
   "parties": [
+    "Cobrex Industries Ltd",
+    "Brothers Ltd",
     "Hilary Farms Ltd",
     "Chrishill Obi",
-    "Brothers Ltd",
-    "Cobrex Industries Ltd",
-    "Mahtra",
-    "Sister Vessel to M",
     "Kadrina",
+    "Alraine Nigeria Ltd",
     "Estonia Shipping Company",
-    "Alraine Nigeria Ltd"
+    "Mahtra",
+    "Sister Vessel to M"
   ]
 }

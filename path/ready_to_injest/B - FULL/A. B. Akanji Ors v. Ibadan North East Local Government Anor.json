@@ -10,14 +10,14 @@
     "(2017)LPELR-42180(CA)"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
+    "Jurisdiction",
+    "Court",
     "Real Estate and Property Law",
+    "Action",
+    "Administrative and Government Law",
     "Ethics",
     "Statute",
-    "Action",
-    "Court",
     "Judgment and Order",
-    "Jurisdiction",
     "Pleadings"
   ],
   "semantic_tags": [
@@ -26,14 +26,14 @@
     "Case"
   ],
   "judge": [
+    "Chinwe Eugenia Iyizoba JSC",
     "Monica Bolna'an Dongban-Mensem JSC",
-    "Modupe Fasanmi JSC",
-    "Chinwe Eugenia Iyizoba JSC"
+    "Modupe Fasanmi JSC"
   ],
   "representation_appellant": "Oluwole Aluko",
   "representation_respondent": "Olatunde Erinoso",
   "originating_court": "High Court of Oyo State, Ibadan Judicial Division (ruling of Akinteye J.)",
-  "doc_id": "bb13c26e-626b-499a-a389-05e6de871eee",
+  "doc_id": "33fbe590-9e4f-4101-a3c3-e588928ae309",
   "doctype": "Case",
   "parties": [
     "A. B. Akanji",

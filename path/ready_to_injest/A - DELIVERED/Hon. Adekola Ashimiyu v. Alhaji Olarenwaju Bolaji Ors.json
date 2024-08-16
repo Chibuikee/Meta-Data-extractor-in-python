@@ -11,8 +11,8 @@
   ],
   "area_of_law": [
     "Ethics",
-    "Constitutional Law",
     "Action",
+    "Constitutional Law",
     "Court",
     "Judgment and Order"
   ],
@@ -28,18 +28,18 @@
   ],
   "representation_appellant": "Nkacha Chinwuba",
   "representation_respondent": [
-    "Dawodu",
     "Z. A. Folami",
+    "Dawodu",
     "T. Muyideen"
   ],
   "originating_court": "High Court of Lagos State, Ikeja Division",
-  "doc_id": "f7e79a97-a8af-4403-933b-fc75a7f0713e",
+  "doc_id": "e1c91c9e-98b2-4631-a08c-7acca40341dc",
   "doctype": "Case",
   "parties": [
     "Hon. Adekola Ashimiyu",
-    "Alhaji Olarenwaju Bolaji",
     "Woyitu Alayande",
     "Hannah Bakare Alayande",
-    "Alhaji Kudirat Shonire"
+    "Alhaji Kudirat Shonire",
+    "Alhaji Olarenwaju Bolaji"
   ]
 }

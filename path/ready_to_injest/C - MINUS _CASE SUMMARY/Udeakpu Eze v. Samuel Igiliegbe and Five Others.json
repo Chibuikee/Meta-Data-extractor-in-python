@@ -7,8 +7,8 @@
   "lex_citation": "LEX(1952)-14W.A.C.A.61",
   "other_citations": "2PLR/1952/18(WACA)",
   "area_of_law": [
-    "Real Estate",
-    "Food"
+    "Food",
+    "Real Estate"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -16,16 +16,18 @@
     "Case"
   ],
   "judge": [
-    "Stafford Foster-Sutton",
     "Maxime De Comarmond, Ag CJ",
-    "Nigeria",
-    "James Henley Coussey J"
+    "James Henley Coussey J",
+    "Stafford Foster-Sutton"
   ],
-  "representation": "G. C. M. Onyiuke . C. D. Onyeama",
-  "doc_id": "e7516adf-d1fb-4a9a-b21b-268268db4f12",
+  "representation": [
+    "G. C. M. Onyiuke",
+    "C. D. Onyeama"
+  ],
+  "doc_id": "321a4838-536a-4688-acca-42cec3c7c747",
   "doctype": "Case",
   "parties": [
-    "U Eze",
+    "Udeakpu Eze",
     "Samuel Igiliegbe and Five Others"
   ]
 }

@@ -1,16 +1,20 @@
 {
   "case_title": "National Employers Mutual General Insurance Association Ltd v. Martins",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "22-12-1969",
   "year": "1969",
   "suit_number": "S.C.74/1969",
   "lex_citation": "LEX(1969)-S.C.74/1969",
+  "other_citations": [
+    "OTHERCTIATIONS",
+    "2PLR/1969/76(SC)"
+  ],
   "area_of_law": [
     "Children and Women",
-    "Commercial Transactions",
-    "Insurance and Reinsurance",
     "Tort and Personal Injury Law",
-    "Judgment and Orders"
+    "Judgment and Orders",
+    "Insurance and Reinsurance",
+    "Commercial Transactions"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,16 +23,16 @@
     "High Profile Case"
   ],
   "judge": [
-    "George Baptist Acoker JSC",
+    "Atanda Fatayi-Williams JSC",
     "Charles Olusoji Madarikan JSC",
-    "Atanda Fatayi-Williams JSC"
+    "George Baptist Acoker JSC"
   ],
   "representation": [
     "Impey",
     "Oshodi"
   ],
   "originating_court": "The High Court, Lagos (lambo J., Presiding)",
-  "doc_id": "3158159e-b444-42bc-8500-3caa05048246",
+  "doc_id": "e49b3199-ab77-4550-bc72-4cb34023fde4",
   "doctype": "Case",
   "parties": [
     "National Employers Mutual General Insurance Association Ltd.",

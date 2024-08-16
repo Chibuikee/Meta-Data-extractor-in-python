@@ -4,24 +4,24 @@
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.428/2018",
-  "lex_citation": "LEX(2020)–SC.428/2018",
+  "lex_citation": "LEX(2020)-SC.428/2018",
   "other_citations": [
     "3PLR/2020/14(SC)",
     "(2020)LPELR-49387(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Appeal",
-    "Evidence",
-    "Immigration and Customs",
-    "Tort and Personal Injury Law",
-    "Criminal Law and Procedure",
-    "Words and Phrases",
     "Administrative and Government Law",
+    "Words and Phrases",
+    "Criminal Law and Procedure",
     "Jurisdiction",
-    "Constitutional Law and Human Rights",
+    "Immigration and Customs",
     "Pleadings",
-    "Action"
+    "Constitutional Law",
+    "Tort and Personal Injury Law",
+    "Action",
+    "Constitutional Law and Human Rights",
+    "Appeal",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -31,32 +31,32 @@
   ],
   "judge": [
     "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Olukayode Ariwoola JSC",
     "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC",
-    "Olukayode Ariwoola JSC"
+    "Uwani Musa Abba Aji JSC"
   ],
   "representation_appellant": [
-    "Legal Officer",
     "Efcc",
+    "Legal Officer",
     "Audu Esq"
   ],
   "representation_respondent": [
     "Hannatu Bahago Esq",
-    "Uche Amulu Esq",
     "Afam Osigwe Esq",
     "Ikechukwu Odanwu Esq",
+    "Uche Amulu Esq",
     "Abass Sanni Esq"
   ],
   "originating_court": [
     "Court of Appeal, Abuja Division (judgment Delivered on 26/1/2018)",
     "High Court of the Federal Capital Territory (fct) (judgment Delivered on 20/4/2016.)"
   ],
-  "doc_id": "15a4202a-3c99-46ec-a6fe-73d0ff59ba15",
+  "doc_id": "0d9834b5-cba8-4d69-a8e1-2eb27556f111",
   "doctype": "Case",
   "parties": [
-    "Economic and Financial Crimes Commission",
     "Efcc",
+    "Economic and Financial Crimes Commission",
     "Wolfgang Reinl"
   ]
 }

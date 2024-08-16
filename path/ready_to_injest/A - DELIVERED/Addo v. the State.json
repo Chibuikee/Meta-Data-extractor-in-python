@@ -7,12 +7,12 @@
   "lex_citation": "",
   "other_citations": "(2016)LPELR-40140(CA)",
   "area_of_law": [
+    "Evidence",
     "Criminal Law and Procedure",
-    "Children and Women Law",
     "Elders and Law",
-    "Healthcare and Law",
     "Religion and Law",
-    "Evidence"
+    "Children and Women Law",
+    "Healthcare and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,8 +21,8 @@
   ],
   "judge": [
     "Mojeed Adekunle Owoade JCA",
-    "Mohammed Ambi-Usi Danjuma JCA",
-    "James Shehu Abiriyi JCA"
+    "James Shehu Abiriyi JCA",
+    "Mohammed Ambi-Usi Danjuma JCA"
   ],
   "representation_appellant": [
     "R. A. Aladesanmi",
@@ -30,10 +30,9 @@
   ],
   "representation_respondent": "E. Kolade-oba",
   "originating_court": [
-    "High Court of Ondo State Sitting at Ondo [justice O. O. Akeredolu, Presiding)",
-    ""
+    "High Court of Ondo State Sitting at Ondo [justice O. O. Akeredolu, Presiding)"
   ],
-  "doc_id": "94c1e0dd-3201-48f1-a083-aca98d92b55d",
+  "doc_id": "7b7bc5c9-bc75-4131-9f43-b8bf2dc9b765",
   "doctype": "Case",
   "parties": [
     "Samuel Addo",

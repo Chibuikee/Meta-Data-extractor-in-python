@@ -1,6 +1,6 @@
 {
   "case_title": "Arum v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "16-11-1979",
   "year": "1979",
   "suit_number": "SC17/1978",
@@ -10,11 +10,11 @@
     "(1979)ALLN.L.R255"
   ],
   "area_of_law": [
-    "Criminal Law",
-    "Healthcare and Law",
-    "Children and Women Law",
+    "Evidence",
     "Religion and Law",
-    "Evidence"
+    "Children and Women Law",
+    "Healthcare and Law",
+    "Criminal Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,15 +23,23 @@
     "High Profile Case"
   ],
   "judge": [
-    "Atanda Fatai-Williams CJN",
     "Muhammed Bello JSC",
-    "Chukwuemeka Idigbe JSC",
+    "Anthony Nnaemeka Aniagolu JSC",
+    "Atanda Fatai-Williams CJN",
     "Andrews Otutu Obaseki JSC",
-    "Anthony Nnaemeka Aniagolu JSC"
+    "Chukwuemeka Idigbe JSC"
   ],
-  "doc_id": "e7863f7a-ea23-4822-9aa7-7c347183976d",
+  "representation": [
+    "State",
+    "Oguadi",
+    "Akande",
+    "Legal Adviser",
+    "Anambra State"
+  ],
+  "doc_id": "4ee7f038-240f-413d-8ef6-57576ca633c5",
   "doctype": "Case",
   "parties": [
+    "Ngene Arum",
     "The State"
   ]
 }

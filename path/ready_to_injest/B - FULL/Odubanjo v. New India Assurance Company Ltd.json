@@ -3,13 +3,13 @@
   "court": "High Court",
   "date": "19-9-1968",
   "year": "1968",
-  "suit_number": "(1968)-LD/303/68",
+  "suit_number": "LD/303/68",
   "lex_citation": "LEX(1968)-LD/303/68",
   "other_citations": "2PLR/1968/63(HC)",
   "area_of_law": [
-    "Tort and Personal Injury Law",
     "Insurance and Reinsurance Law",
-    "Action"
+    "Action",
+    "Tort and Personal Injury Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,13 +18,13 @@
   ],
   "judge": "Taylor CJ",
   "representation": [
-    "Agusto",
-    "Sofola"
+    "Sofola",
+    "Agusto"
   ],
-  "doc_id": "da0e0b77-0f02-4cd4-b78a-128294d58a5a",
+  "doc_id": "e3380a4c-7fd3-4e95-88d3-3a6e80419e08",
   "doctype": "Case",
   "parties": [
-    "Odubanjo",
+    "A. J. Odubanjo",
     "New India Assurance Company Ltd"
   ]
 }

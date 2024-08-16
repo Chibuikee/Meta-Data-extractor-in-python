@@ -10,8 +10,8 @@
     "47WRN145"
   ],
   "area_of_law": [
-    "Employment and Labour Law",
-    "Pleading"
+    "Pleadings",
+    "Employment and Labour Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,25 +19,24 @@
     "Case"
   ],
   "judge": [
-    "Muritala Aremu Okunola JCA",
     "Patrick Ibe Amaizu JCA",
+    "Muritala Aremu Okunola JCA",
     "Samuel Walter Nkanu Onnoghen JCA"
   ],
   "representation": [
-    "T.O.S. Gbadeyan",
-    "Lara Aluko & Lawrence Opoola",
     "R.A. Lawal Rabana",
     "Adedayo Adedeji",
-    "Lola Ak"
+    "T.O.S. Gbadeyan",
+    "Lola Akande",
+    "Lara Aluko & Lawrence Opoola"
   ],
   "originating_court": [
-    "",
     "Ilorin High Court (ibiwoye J., Presiding)"
   ],
-  "doc_id": "572c54c1-db48-4239-8ce8-9e2d5d4bb5f1",
+  "doc_id": "5456999a-05cc-466d-9cdd-fda402bb3504",
   "doctype": "Case",
   "parties": [
-    "O Adeniran",
+    "Adedapo Adeniran",
     "National Electric Power Authority"
   ]
 }

@@ -14,18 +14,19 @@
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": "De Comarmond, Ag CJ",
   "representation": [
-    "M. A. Odesanya",
     "Crown Counsel",
-    "Crown"
+    "Crown",
+    "M. A. Odesanya"
   ],
-  "doc_id": "e84711eb-a816-4c89-8a2d-23002d4554b5",
+  "doc_id": "ec52283d-d47d-4b90-9208-27d5bcafde43",
   "doctype": "Case",
   "parties": [
-    "M Echem",
+    "William Echem",
     "The Queen"
   ]
 }

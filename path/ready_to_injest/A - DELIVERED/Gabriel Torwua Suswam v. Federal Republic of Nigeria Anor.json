@@ -10,15 +10,15 @@
     "(2020)LPELR-49524(CA)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Administrative and Government Law",
     "Ethics",
-    "Constitutional Law and Human Right",
-    "Media and Law",
+    "Criminal Law and Procedure",
+    "Interpretation of Statute",
     "Action",
+    "Media and Law",
+    "Administrative and Government Law",
     "Court",
-    "Appeal",
-    "Interpretation of Statute"
+    "Constitutional Law and Human Right",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,31 +26,31 @@
     "Case"
   ],
   "judge": [
-    "Stephen Jonah Adah JCA",
     "Peter Olabisi Ige JCA",
-    "Emmanuel Akomaye Agim JCA"
+    "Emmanuel Akomaye Agim JCA",
+    "Stephen Jonah Adah JCA"
   ],
   "representation_appellant": [
-    "J.B. Daudu, San",
-    "D.k Lorhemba, San",
-    "A. Adedeji Esq",
     "M.J. Sule Esq",
+    "A. Adedeji Esq",
     "Emmanuel Oni Esq",
-    "K. F. Umenji Esq"
+    "K. F. Umenji Esq",
+    "D.k Lorhemba, San",
+    "J.B. Daudu, San"
   ],
   "representation_respondent": [
-    "O.A. Atolagbe, Esq",
+    "S. Gaduya Esq",
     "O.D. Mese Esq",
     "Raymond Ashikem Esq",
-    "Nabila",
-    "S. Gaduya Esq"
+    "O.A. Atolagbe, Esq",
+    "Nabila"
   ],
   "originating_court": "Federal High Court [holden in Abuja, O.E. Abang J. Presiding]",
-  "doc_id": "e233bd34-d0a6-4404-a82d-c24d0648c962",
+  "doc_id": "b3338cef-9f9a-45da-9083-c0ac4e7ec82c",
   "doctype": "Case",
   "parties": [
     "Gabriel Torwua Suswam",
-    "Federal Republic of Nigeria",
-    "Omodachi Okolobia"
+    "Omodachi Okolobia",
+    "Federal Republic of Nigeria"
   ]
 }

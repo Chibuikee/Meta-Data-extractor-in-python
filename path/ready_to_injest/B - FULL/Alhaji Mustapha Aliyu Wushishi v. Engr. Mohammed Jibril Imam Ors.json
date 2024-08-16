@@ -1,6 +1,6 @@
 {
   "case_title": "Alhaji Mustapha Aliyu Wushishi v. Engr. Mohammed Jibril Imam Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "3-3-2017",
   "year": "2017",
   "suit_number": "SC.123/2016",
@@ -10,9 +10,9 @@
     "(2017)LPELR-41906(SC)"
   ],
   "area_of_law": [
+    "Word and Phrases",
     "Electoral Matters",
-    "Action",
-    "Word and Phrases"
+    "Action"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,48 +21,49 @@
     "High Profile Case"
   ],
   "judge": [
-    "Walter Samuel Nkanu Onnoghen JSC",
-    "Mary Ukaego Peter-Odili JSC",
+    "Ejembi Eko JSC",
     "Kumai Bayang Aka'ahs JSC",
     "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
-    "Ejembi Eko JSC"
+    "Mary Ukaego Peter-Odili JSC",
+    "Walter Samuel Nkanu Onnoghen JSC"
   ],
   "representation": [
+    "C. C. Ifeneman",
+    "R. A. Ugbane",
+    "Yunus Ustaz Usman, San",
+    "B. M. Abubakar",
+    "W. Kuku",
+    "Mahmud Abubakar Magaji, San",
+    "J. A. Sambo",
+    "H.M. Tukur",
+    "A. Sani",
+    "T. M. Inuwa, Esq",
+    "Amina Zukogi",
     "M.N. Mohammed, Esq",
-    "Isaac Enamudu and Osita Obikwete - Yunus Ustaz Usman, San",
     "A. B. Mahmoud, Esq",
+    "S.P. Ashiekaa and Matanmi",
+    "M. Yahaya",
+    "C. K. Udeoyibo",
     "J. J. Usman, Esq",
     "A.O. Philip, Esq",
-    "M. K. Bielonwu, Esq",
-    "J. A. Sambo",
-    "C. C. Ifeneman",
-    "Mahmud Abubakar Magaji, San",
-    "C. K. Udeoyibo",
-    "Amina Zukogi",
-    "H.M. Tukur",
-    "M. Yahaya",
-    "S.P. Ashiekaa and Matanmi",
-    "T. M. Inuwa, Esq",
-    "R. A. Ugbane",
-    "A. Sani",
-    "W. Kuku",
+    "Isaac Enamudu and Osita Obikwete",
     "R. Aminu",
-    "B. M. Abubakar"
+    "M. K. Bielonwu, Esq"
   ],
   "originating_court": [
     "Court of Appeal, Abuja Judicial Division (judgment of the Court Delivered on the 4th Day of February, 2016)",
     "Federal High Court, Minna Judicial Division (delivered on the 25th Day of March, 2015)."
   ],
-  "doc_id": "4adcbdc6-3097-45d9-89cc-35f8cb210bdd",
+  "doc_id": "ecb89c4a-cf7e-4e1b-a62f-18e470c84e91",
   "doctype": "Case",
   "parties": [
     "Alhaji Mustapha Aliyu Wushishi",
-    "Engr. Mohammed Jibril Imam",
-    "All Progressive Congress",
-    "National Chairman",
-    "National Secretariat Wuse Ii",
+    "Inec",
     "Abuja",
-    "Independent National Electoral Commission",
-    "Inec"
+    "Engr. Mohammed Jibril Imam",
+    "National Secretariat Wuse Ii",
+    "National Chairman",
+    "All Progressive Congress",
+    "Independent National Electoral Commission"
   ]
 }

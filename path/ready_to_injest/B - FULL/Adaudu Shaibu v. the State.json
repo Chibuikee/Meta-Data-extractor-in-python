@@ -1,6 +1,6 @@
 {
   "case_title": "Adaudu Shaibu v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-4-2017",
   "year": "2017",
   "suit_number": "SC.287/2012",
@@ -10,10 +10,10 @@
     "(2017)LPELR-42100(SC)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Ethics",
     "Appeal",
-    "Evidence"
+    "Evidence",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,25 +22,25 @@
     "High Profile Case"
   ],
   "judge": [
+    "Kumai Bayang Aka'ahs JSC",
     "Ibrahim Tanko Muhammad JSC",
     "Mary Ukaego Peter-Odili JSC",
-    "Kumai Bayang Aka'ahs JSC",
-    "Amina Adamu Augie JSC",
-    "Sidi Dauda Bage JSC"
+    "Sidi Dauda Bage JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": "S.I. Dokubo",
   "representation_respondent": [
-    "P.H. Ogbole",
-    "Boniface Bassey",
-    "Okwudili Abanum",
     "A. A. Malik",
+    "Okwudili Abanum",
+    "Boniface Bassey",
+    "P.H. Ogbole",
     "N.L. Nta"
   ],
   "originating_court": [
     "Court of Appeal, Abuja Judicial Division",
     "High Court of Kogi State, Obangede"
   ],
-  "doc_id": "f096ead9-7768-4403-b9d2-86b2a05b40b1",
+  "doc_id": "9e558386-bcc0-4af1-b46e-1c877af13379",
   "doctype": "Case",
   "parties": [
     "Adaudu Shaibu",

@@ -13,13 +13,13 @@
     "ABIMBOLAOSARAGUEOBASEKI-ADEJUMO,JCA"
   ],
   "area_of_law": [
-    "Admiralty and Maritime",
-    "Debtor and Creditor",
-    "Commercial Law",
     "Constitutional Law",
+    "Admiralty and Maritime",
+    "Interpretation of Statute",
+    "Commercial Law",
     "Judgment and Order",
-    "Jurisdiction",
-    "Interpretation of Statute"
+    "Debtor and Creditor",
+    "Jurisdiction"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,24 +27,24 @@
     "Case"
   ],
   "judge": [
-    "Pact Manifold and Energy Services Limited",
-    "West Africa",
-    "Supply Vessels Services",
-    "Court of Appeal (lagos Division",
-    "Friday, 17 March",
-    "Lex (2014) - Ca",
-    "Other Citations",
-    "Beofre Their Lordship",
-    "Yargata Byenchit Nimpar JCA",
     "Biobele AGeorgewill JCA",
-    "Abimbola Osarague Obaseki-Adejumo JCA"
+    "Friday, 17 March",
+    "Abimbola Osarague Obaseki-Adejumo JCA",
+    "Supply Vessels Services",
+    "Lex- Ca",
+    "West Africa",
+    "Yargata Byenchit Nimpar JCA",
+    "Compact Manifold and Energy Services Limited",
+    "Court of Appeal",
+    "Beofre Their Lordship",
+    "Other Citations"
   ],
   "representation": [
     "I.O. Reju",
     "A.O. Ifoisili"
   ],
   "originating_court": "Federal High Court, Lagos Division (M.B. Idris J., Presiding)",
-  "doc_id": "1b27a05b-bdb3-42d3-8f80-922782c3095a",
+  "doc_id": "05b93a10-42b3-4af8-b0f5-bc484e2d4218",
   "doctype": "Case",
   "parties": [
     "Compact Manifold and Energy Services Limited",

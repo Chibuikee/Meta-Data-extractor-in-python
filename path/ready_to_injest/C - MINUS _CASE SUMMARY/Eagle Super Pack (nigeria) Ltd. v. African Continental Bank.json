@@ -1,24 +1,24 @@
 {
   "case_title": "Eagle Super Pack (nigeria) Ltd. v. African Continental Bank",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "8-12-2006",
   "year": "2006",
   "suit_number": "SC.86/1998",
   "lex_citation": "LEX(2006)-SC.86/1998",
   "other_citations": [
+    ":",
     "2PLR/2006/79",
     "(2006)19NWLR(PT.1013)20",
     "(2006)LPELR-SC.86/1998"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
     "International Law",
-    "International La",
-    "Commercial Law",
     "Appeal",
-    "Court",
     "Judgment and Order",
-    "Words and Phrases"
+    "Commercial Law",
+    "Court",
+    "Words and Phrases",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,27 +27,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Umaru Atu Kalgo JSC",
     "Niki Tobi JSC",
+    "Umaru Atu Kalgo JSC",
     "George Adesola Oguntade JSC",
     "Mahmud Mohammed JSC",
     "Francis Fedode Tabai JSC"
   ],
   "representation": [
-    "Pat Onegbedan",
-    "G. U. Onyiuke"
+    "G. U. Onyiuke",
+    "S. Ikezahu",
+    "Pat Onegbedan"
   ],
   "originating_court": [
-    "",
     "Court of Appeal, Port-harcourt Division",
     "High Court of Imo State, Orlu Judicial Division (ononuju, J., Presiding)"
   ],
-  "doc_id": "0f6a3547-1994-449a-96f5-19299e403f42",
+  "doc_id": "11aa4226-1de2-43cb-99ee-c0db31a6891f",
   "doctype": "Case",
   "parties": [
+    "Ltd.",
     "Eagle Super Pack",
     "Nig",
-    "Ltd",
     "African Continental Bank Plc"
   ]
 }

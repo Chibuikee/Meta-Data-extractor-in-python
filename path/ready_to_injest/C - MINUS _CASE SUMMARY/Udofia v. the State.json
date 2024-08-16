@@ -1,6 +1,6 @@
 {
   "case_title": "Udofia v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "27-11-1981",
   "year": "1981",
   "suit_number": "SC9/1979",
@@ -10,23 +10,23 @@
     "(1981)11-12S.C."
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Constitutional Law",
-    "Healthcare and Law",
-    "Children and Women Law",
-    "Practice and Procedure Issues",
-    "Evidence",
-    "Words and Phrases",
-    "Obaseki",
-    "T",
-    "H",
-    "A",
     "F",
-    "B",
+    "Healthcare and Law",
     "I",
+    "Constitutional Law",
     "M",
+    "Children and Women Law",
+    "B",
+    "T",
+    "A",
+    "H",
     "P",
-    "S"
+    "S",
+    "Obaseki",
+    "Criminal Law and Procedure",
+    "Practice and Procedure Issues",
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -35,18 +35,23 @@
     "High Profile Case"
   ],
   "judge": [
-    "George Sodeinde Sowemimo JSC",
     "Muhammed Bello JSC",
-    "Chinweike Idigbe JSC",
     "Andrews Otutu Obaseki JSC",
-    "Augustine Nnamani JSC"
+    "Augustine Nnamani JSC",
+    "George Sodeinde Sowemimo JSC",
+    "Chinweike Idigbe JSC"
   ],
-  "representation": "Sola Rhodes Tote E. Ekpe",
+  "representation": [
+    "Sola Rhodes",
+    "Tote E. Ekpe",
+    "Adeniyi",
+    "Fashola"
+  ],
   "originating_court": [
     "Federal Court of Appeal",
     "High Court of the Cross River State (umoh, J., Presiding)"
   ],
-  "doc_id": "980e72ed-e2e0-468c-9183-cf06d89b80fe",
+  "doc_id": "7acca280-8abe-4ff7-911d-5a38a91dccd4",
   "doctype": "Case",
   "parties": [
     "Effiong Udofia",

@@ -1,6 +1,6 @@
 {
   "case_title": "Adediran v. Interland Transport Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-12-1991",
   "year": "1991",
   "suit_number": "SC.119/1987",
@@ -10,17 +10,17 @@
     "[1991]9NWLR(PT.214)155"
   ],
   "area_of_law": [
-    "Environmental Law",
-    "Healthcare and Law",
-    "Tort and Personal Injury Law",
-    "Children and Women Law",
-    "Constitutional and Public Law",
-    "Real Estate",
     "Transportation and Logistics Law",
+    "Real Estate",
+    "Words and Phrases",
     "Action",
-    "Court",
+    "Children and Women Law",
+    "Tort and Personal Injury Law",
     "Jurisdiction",
-    "Words and Phrases"
+    "Healthcare and Law",
+    "Constitutional and Public Law",
+    "Court",
+    "Environmental Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,18 +29,23 @@
     "High Profile Case"
   ],
   "judge": [
-    "Muhammadu Lawal Uwais JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
-    "Salihu Modibbo Alfa Belgore",
+    "Muhammadu Lawal Uwais JSC",
     "Abubakar Bashir Wali",
-    "Olajide Olatawura"
+    "Olajide Olatawura",
+    "Salihu Modibbo Alfa Belgore"
   ],
   "representation": [
+    "U. Akpan",
+    "O.J. Fabunmi",
+    "T. Ivory",
+    "A. Olawoye",
+    "O.M. Ayeni",
     "Chief Afe Babalola",
-    "MRS",
-    "O.M. Ayeni"
+    "Akin Olujimi",
+    "T Oyewole"
   ],
-  "doc_id": "cdf45b30-214b-4c35-a0d4-7052d6b35475",
+  "doc_id": "0941a6cc-434f-4dc6-ad6d-f9a0a09f22bf",
   "doctype": "Case",
   "parties": [
     "J.A. Adediran",

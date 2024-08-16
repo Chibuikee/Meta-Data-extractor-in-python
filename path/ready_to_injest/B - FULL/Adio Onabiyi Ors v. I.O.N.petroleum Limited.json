@@ -10,9 +10,9 @@
     "(2017)LPELR-41922(CA)"
   ],
   "area_of_law": [
+    "Service of Court Process",
     "Appeal",
-    "Judgment and Order",
-    "Service of Court Process"
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,23 +20,23 @@
     "Case"
   ],
   "judge": [
-    "Mohammed Lawal Garba JCA",
+    "Ugochukwu Anthony Ogakwu JCA",
     "Joseph Shagbaor Ikyegh JCA",
-    "Ugochukwu Anthony Ogakwu JCA"
+    "Mohammed Lawal Garba JCA"
   ],
   "representation": "Ayo Orobowale",
   "originating_court": "High Court of Lagos State",
-  "doc_id": "96b938de-5c7f-4be4-a846-f9ce62b59e66",
+  "doc_id": "7e08dc9c-d5fd-4f04-8d57-40a4d2e9cd5b",
   "doctype": "Case",
   "parties": [
-    "Adio Onabiyi",
-    "Akanbi Onabiyi",
     "Olayiwola Onabiyi",
-    "Jonathan Onabiyi",
-    "Madam Alaba Onabiyi",
-    "Femi Onabiyi",
     "Gbenga Onabiyi",
+    "Madam Alaba Onabiyi",
     "For Themselves and Other Members of Onabiyi Family",
+    "Jonathan Onabiyi",
+    "Akanbi Onabiyi",
+    "Adio Onabiyi",
+    "Femi Onabiyi",
     "I.O.N.petroleum Limited"
   ]
 }

@@ -10,12 +10,12 @@
     "(2016)LPELR-40080(CA)"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Alternative Dispute Resolution",
     "Action",
+    "Alternative Dispute Resolution",
     "Appeal",
-    "Evidence",
-    "Judgment and Order"
+    "Judgment and Order",
+    "Real Estate and Property Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,25 +23,25 @@
     "Case"
   ],
   "judge": [
-    "Ignatus Igwe Agube JCA",
     "Ita George Mbaba JCA",
-    "Peter Olabisi Ige JCA"
+    "Peter Olabisi Ige JCA",
+    "Ignatus Igwe Agube JCA"
   ],
   "representation_appellant": "U. K. Ike",
   "representation_respondent": [
-    "E. N. Ichie Esq",
-    "K. O. Ahamba Esq"
+    "K. O. Ahamba Esq",
+    "E. N. Ichie Esq"
   ],
   "originating_court": "Abia State High Court, Umunneochi Judicial Division Holden at Nkwoagu Isuochi",
-  "doc_id": "d9a1e1ba-3c0b-449d-8042-9a5854469b48",
+  "doc_id": "cee5f8a6-28e9-4031-838a-1e619475b438",
   "doctype": "Case",
   "parties": [
+    "Ekeleme Ikwuagwu",
     "Chima Ume",
     "Iroabueke Ume",
-    "Ikechukwu Ume",
-    "Onyekwere Ume",
-    "Ekeleme Ikwuagwu",
     "Ezechie Okparaegbu",
+    "Onyekwere Ume",
+    "Ikechukwu Ume",
     "Christian Uchechukwu Ibe"
   ]
 }

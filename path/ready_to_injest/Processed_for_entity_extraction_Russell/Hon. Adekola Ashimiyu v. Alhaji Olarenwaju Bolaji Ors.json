@@ -10,11 +10,11 @@
     "(2020)LPELR-49529(CA)"
   ],
   "area_of_law": [
+    "Court",
+    "Ethics",
     "Constitutional Law",
     "Action",
-    "Judgment and Order",
-    "Ethics",
-    "Court"
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,24 +22,24 @@
     "Case"
   ],
   "judge": [
+    "Joseph Shagbaor Ikyegh JCA",
     "Mohammed Lawal Garba JCA",
-    "Tijjani Abubakar JCA",
-    "Joseph Shagbaor Ikyegh JCA"
+    "Tijjani Abubakar JCA"
   ],
   "representation_appellant": "Nkacha Chinwuba",
   "representation_respondent": [
-    "Dawodu",
     "Z. A. Folami",
-    "T. Muyideen"
+    "T. Muyideen",
+    "Dawodu"
   ],
   "originating_court": "High Court of Lagos State, Ikeja Division",
-  "doc_id": "e40b8ded-4fc2-41a4-9a95-85950503d1b1",
+  "doc_id": "50ab5beb-3b7a-472a-b32a-af1257066b60",
   "doctype": "Case",
   "parties": [
     "Hon. Adekola Ashimiyu",
+    "Alhaji Kudirat Shonire",
     "Alhaji Olarenwaju Bolaji",
-    "Woyitu Alayande",
     "Hannah Bakare Alayande",
-    "Alhaji Kudirat Shonire"
+    "Woyitu Alayande"
   ]
 }

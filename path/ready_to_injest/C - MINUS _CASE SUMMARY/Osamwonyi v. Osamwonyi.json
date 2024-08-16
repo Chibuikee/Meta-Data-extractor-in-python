@@ -1,6 +1,6 @@
 {
   "case_title": "Osamwonyi v. Osamwonyi",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "6-10-1972",
   "year": "1972",
   "suit_number": "SC295169",
@@ -10,7 +10,10 @@
     "(1972)ALLN.L.R792"
   ],
   "area_of_law": [
-    "Evidenc",
+    "Education and Law",
+    "Customary Law",
+    "Children and Women Law",
+    "Family Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -20,30 +23,18 @@
     "High Profile Case"
   ],
   "judge": [
-    "George Baptist ACoker JSC",
     "Atanda Fatai-Williams JSC",
-    "George Sodeinde Sowemimo JSC"
+    "George Sodeinde Sowemimo JSC",
+    "George Baptist ACoker JSC"
   ],
-  "representation_appellant": [
-    "MR. G. M. Boyo . MR. S. O. Edema-sillo",
-    "Substantive Legal"
-  ],
-  "representation_respondent": [
-    "Policy Issues Customary Law",
-    "Benin Customary",
-    "Whether",
-    "Family Law",
-    "Matrimonial",
-    "Petition",
-    "Need",
-    "Relevant",
-    "Education"
+  "representation": [
+    "MR. S. O. Edema-sillo",
+    "MR. G. M. Boyo"
   ],
   "originating_court": [
-    "",
     "Benin High Court"
   ],
-  "doc_id": "00587436-55fd-43ed-9637-f3161b485431",
+  "doc_id": "a28854db-e0e5-485c-af3f-030d01b38efc",
   "doctype": "Case",
   "parties": [
     "DR. Osadiaye Osamwonyi",

@@ -1,6 +1,6 @@
 {
   "case_title": "Grace Akinfe v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "26-7-1988",
   "year": "1988",
   "suit_number": "SC.172/1987",
@@ -10,12 +10,12 @@
     "(1988)3(PT.85)729"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Criminal Law",
-    "Children and Women Law",
-    "Religon and Law",
     "Healthcare and Law",
-    "Evidence Law"
+    "Constitutional Law",
+    "Evidence Law",
+    "Children and Women Law",
+    "Criminal Law",
+    "Religon and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,21 +25,21 @@
   ],
   "judge": [
     "Kayode Eso JSC",
-    "Augustine Nnamani JSC",
-    "Adolphus Godwin Karibi -Whyte JSC",
     "Saidu Kawu JSC",
-    "Philip Nnaemeka-Agu JSC"
+    "Adolphus Godwin Karibi -Whyte JSC",
+    "Philip Nnaemeka-Agu JSC",
+    "Augustine Nnamani JSC"
   ],
   "representation": [
-    "Shola Rhodes",
     "A. Adeniji",
     "A. Akenroye",
-    "Director of Public Prosecutions"
+    "Director of Public Prosecutions",
+    "Shola Rhodes"
   ],
-  "doc_id": "253d1394-781f-4545-9867-e20621cc163a",
+  "doc_id": "10aafb94-cce3-4a52-9852-5e160153d2eb",
   "doctype": "Case",
   "parties": [
-    "Akinfe",
+    "Grace Akinfe",
     "The State"
   ]
 }

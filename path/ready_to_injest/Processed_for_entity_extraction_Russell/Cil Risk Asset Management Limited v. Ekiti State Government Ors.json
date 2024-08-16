@@ -10,19 +10,19 @@
     "(2020)LPELR-49565(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Appeal",
-    "Court",
-    "Evidence",
-    "Real Estate and Property Law",
-    "Words and Phrases",
-    "Commercial Law",
     "Administrative and Government Law",
-    "Hospitality and Law",
-    "Constitutional Law and Human Rights",
-    "Interpretation of Statute",
+    "Court",
+    "Words and Phrases",
     "Word and Phrases",
-    "Action"
+    "Constitutional Law",
+    "Interpretation of Statute",
+    "Commercial Law",
+    "Action",
+    "Constitutional Law and Human Rights",
+    "Appeal",
+    "Hospitality and Law",
+    "Real Estate and Property Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -33,33 +33,33 @@
   "judge": [
     "Olabode Rhodes-Vivour JSC",
     "Amina Adamu Augie JSC",
-    "Chima Centus Nweze JSC",
     "Ejembi Eko JSC",
-    "Mary Ukaego Peter-Odili JSC"
+    "Mary Ukaego Peter-Odili JSC",
+    "Chima Centus Nweze JSC"
   ],
   "representation_appellant": [
+    "Michael Olawale, Esq",
     "Peter Nwatu, Esq",
-    "Chioma Ezeobika Esq",
-    "Michael Olawale, Esq"
+    "Chioma Ezeobika Esq"
   ],
   "representation_respondent": [
-    "O. Olatawura, Esq",
-    "Toyese Owoade, Esq"
+    "Toyese Owoade, Esq",
+    "O. Olatawura, Esq"
   ],
   "originating_court": [
     "Ekiti State High Court [holden at Ado Ekiti, C. L Akintayo, J. Presiding]",
     "Court of Appeal [ado-ekiti Division, Coram: A. B. Belgore, F. O. Akinbami and P. O. Elechi Jjca)"
   ],
-  "doc_id": "2e6c6357-8d91-4e01-8571-aa1bf6fae9f4",
+  "doc_id": "f4f0788b-4c86-425e-be14-76f8c9ba261f",
   "doctype": "Case",
   "parties": [
     "Cil Risk",
     "Asset Management Limited",
+    "Attorney General of Ekiti State",
+    "Housing and Urban Development",
     "Ekiti State Government",
     "Ministry of Lands",
-    "Housing and Urban Development",
-    "Ekiti State",
-    "Attorney General of Ekiti State",
-    "Afe Babalola University"
+    "Afe Babalola University",
+    "Ekiti State"
   ]
 }

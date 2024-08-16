@@ -3,17 +3,17 @@
   "court": "Court of Appeal",
   "date": "4-12-1985",
   "year": "1985",
-  "suit_number": "(1986)-2ALLE.R.619",
+  "suit_number": "",
   "lex_citation": "LEX(1986)-2ALLE.R.619",
   "other_citations": [
     "3PLR/1985/55(CA-E)",
     "[1986]2ALLE.R.619"
   ],
   "area_of_law": [
-    "Aviation Law",
+    "International Law",
     "Banking and Finance",
-    "Commercial Law",
-    "International Law"
+    "Aviation Law",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,7 +26,7 @@
     "Richard Methuen"
   ],
   "originating_court": "High Court",
-  "doc_id": "c53bcd1f-a0f9-4045-8d9b-fe26ae54aac2",
+  "doc_id": "6073c148-e982-43d2-a314-26c3bd98f3d9",
   "doctype": "Case",
   "parties": [
     "Mansouri",

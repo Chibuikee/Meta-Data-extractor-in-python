@@ -8,15 +8,15 @@
   "other_citations": "3PLR/2016/9(CA)",
   "area_of_law": [
     "Oil and Gas Law",
-    "Environmental and Natural Resources Law",
+    "Action",
     "Food and Agriculture Law",
     "Children and Women Law",
+    "Interpretation of Statute",
     "Jurisprudence and Public Law",
-    "Action",
+    "Environmental and Natural Resources Law",
     "Court",
-    "Evidence",
     "Jurisdiction",
-    "Interpretation of Statute"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,28 +24,27 @@
     "Case"
   ],
   "judge": [
-    "Raphael Chikwe Agbo JCA",
+    "Frederick OOho  JCA",
     "Peter Olabisi Ige JCA",
-    "Frederick OOho  JCA"
+    "Raphael Chikwe Agbo JCA"
   ],
   "representation_appellant": [
-    "O. O. Laniyan",
-    "C.C. Chikere"
+    "C.C. Chikere",
+    "O. O. Laniyan"
   ],
   "representation_respondent": "R. E. Osuiwu",
   "originating_court": [
-    "",
     "Imo State High Court, Oguta Judicial Division"
   ],
-  "doc_id": "9703c400-4161-4b65-b0f5-90ea0e198efd",
+  "doc_id": "1fed96e0-e41b-4f67-a734-827d8643b8de",
   "doctype": "Case",
   "parties": [
     "Chevron Nigeria Limted",
-    "Theophilus Nwuche",
-    "Chinedu Nwokoma",
     "Chamberline Duru",
+    "L.g",
+    "Chinedu Nwokoma",
     "Livinus Ugorji",
     "Longinus Oloko",
-    "L.g"
+    "Theophilus Nwuche"
   ]
 }

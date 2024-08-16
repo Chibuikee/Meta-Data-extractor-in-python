@@ -3,7 +3,7 @@
   "court": "Court of Appeal",
   "date": "20-1-1982",
   "year": "1982",
-  "suit_number": "(1982)-3ALLER15",
+  "suit_number": "",
   "lex_citation": "LEX(1982)-3ALLER15",
   "other_citations": [
     "[1984]2ALLER15",
@@ -25,20 +25,19 @@
   ],
   "representation": [
     "T L G Cullen Qc",
-    "Hazel Williamson",
-    "MR",
     "Carter",
-    "Ruck. Robert Wright Qc",
     "David Mabb",
-    "P F Carter-ruck",
-    "Oswald Hickson Collier &",
+    "Ruck. Robert Wright Qc",
+    "Diana Procter",
     "Co",
-    "Diana Procter"
+    "Oswald Hickson Collier &",
+    "P F Carter-ruck",
+    "Hazel Williamson"
   ],
-  "doc_id": "5eadf1e5-e8f8-4e45-b30c-83bb34e3650c",
+  "doc_id": "dbe4dfa7-7a63-4728-b31c-ef13743c4d3f",
   "doctype": "Case",
   "parties": [
-    "Hickson Collier and Co (a Firm",
+    "Oswald Hickson Collier and Co (a Firm",
     "Carter-ruck"
   ]
 }

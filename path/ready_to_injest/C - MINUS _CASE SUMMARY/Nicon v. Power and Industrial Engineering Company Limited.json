@@ -1,6 +1,6 @@
 {
   "case_title": "Nicon v. Power and Industrial Engineering Company Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "3-1-1986",
   "year": "1986",
   "suit_number": "SC194/1984",
@@ -10,16 +10,16 @@
     "(1986)NWLR(PT.14)1"
   ],
   "area_of_law": [
-    "Insurance and Reinsurance Law",
-    "Insurance and Reinsurance",
-    "Commercial Law",
-    "Admiralty and Shipping",
     "International Trade",
     "Agriculture and Food Law",
+    "Insurance and Reinsurance",
     "Ethics",
     "Practice and Procedure",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Admiralty and Shipping",
+    "Commercial Law",
+    "Words and Phrases",
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,21 +29,22 @@
   ],
   "judge": [
     "Andrews Otutu Obaseki JSC",
-    "Anthony Nnaemeka Aniagolu JSC",
+    "Chukwudifu Akunne Oputa JSC",
     "Muhammadu Lawal Uwais JSC",
     "Boonyamin Oladiran Kazeem JSC",
-    "Chukwudifu Akunne Oputa JSC"
+    "Anthony Nnaemeka Aniagolu JSC"
   ],
   "representation": [
-    "Chief E.A. Molajo",
+    "O. Agoro",
     "Kehinde Sofola",
+    "Chief E.A. Molajo",
     "C.F. Ogundare"
   ],
   "originating_court": "",
-  "doc_id": "51b41768-cbe0-4d7b-98fa-db38ac37ff7d",
+  "doc_id": "11db9626-217e-4789-8b36-74f3b1f20b48",
   "doctype": "Case",
   "parties": [
-    "Al Insurance Corporation of Nigeria",
+    "National Insurance Corporation of Nigeria",
     "Power & Industrial Engineering Company Limited"
   ]
 }

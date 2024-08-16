@@ -10,40 +10,42 @@
     "[1954]2ALLE.R.801"
   ],
   "area_of_law": [
+    "Health Law",
     "Criminal Law and Procedure",
-    "Children and Women Law",
-    "Health Law"
+    "Children and Women Law"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Lord Simonds Lc",
-    "Lord Porter",
     "Lord Goddard CJ",
-    "Lord Tucker and Lord Asquith of Bishopstone"
+    "Lord Tucker and Lord Asquith of Bishopstone",
+    "Lord Simonds Lc",
+    "Lord Porter"
   ],
   "representation_appellant": "Marshall Qc",
   "representation_respondent": [
+    "Crown",
     "O J V Kitson",
-    "Attorney General",
+    "C D Geach",
     "Elwes Qc",
     "Stimson",
-    "Crown",
-    "C D Geach",
-    "Leicester",
     "Director of Public Prosecutions",
+    "Leicester",
+    "Attorney General",
     "G a Kidner"
   ],
   "originating_court": [
     "Court of Criminal Appeal (hilbery, Cassels and Havers Jj)",
     "Leicester Assizes, (sellers J., Presiding)"
   ],
-  "doc_id": "454842a0-db68-45dd-b252-a31d57b0451e",
+  "doc_id": "ca06f37d-e192-4264-b631-26da8d09b60a",
   "doctype": "Case",
   "parties": [
+    "Bedder",
     "Director of Public Prosecutions"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "case_title": "Ukadike V.the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "27-6-1973",
   "year": "1973",
   "suit_number": "SC70/1973",
@@ -11,12 +11,12 @@
     "(1973)6S.C14"
   ],
   "area_of_law": [
-    "Criminal Law",
-    "Children and Women La",
     "Healthcare and Law",
+    "M",
+    "Children and Women Law",
+    "Criminal Law",
     "Religion and Law",
-    "Evidence",
-    "M"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,22 +25,20 @@
     "High Profile Case"
   ],
   "judge": [
-    "Elias CJN",
     "Fatai-Williams JSC",
-    "Ibekwe AG JSC"
+    "Ibekwe AG JSC",
+    "Elias CJN"
   ],
   "representation": [
-    "MR",
-    "F.O. Akinrele",
-    "MR",
-    "M.C. Ejiofor",
     "Principal State Counsel",
-    "East-central State"
+    "F.O. Akinrele",
+    "East-central State",
+    "M.C. Ejiofor"
   ],
-  "doc_id": "a01e8249-9665-47db-ab5c-007fc766eb01",
+  "doc_id": "b11cc9bc-6e98-4995-a374-ae1f522f625a",
   "doctype": "Case",
   "parties": [
-    "Ukadike",
+    "Silas Ukadike",
     "The State"
   ]
 }

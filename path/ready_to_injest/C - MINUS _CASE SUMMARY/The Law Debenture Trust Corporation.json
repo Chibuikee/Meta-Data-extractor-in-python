@@ -3,17 +3,18 @@
   "court": "High Court",
   "date": "9-10-2003",
   "year": "2003",
-  "suit_number": "(2003)-EWHC2297",
-  "lex_citation": "LEX(2003)-EWHC2297",
+  "suit_number": "",
+  "lex_citation": "",
   "other_citations": [
+    "NO.[2003]EWHC2297(COMM)",
     "LEX(2003)-EWHC2297(COMM)",
     "OTHERCITATIONS",
     "3PLR/2003/151(QB)"
   ],
   "area_of_law": [
-    "Action",
+    "Evidence",
     "Court",
-    "Evidence"
+    "Action"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,35 +23,35 @@
   ],
   "judge": "Colman J",
   "representation_appellant": [
-    "J. Flaux Qc",
-    "MR",
-    "Picken",
-    "Intervenors",
-    "G Vos Qc",
-    "MR",
-    "J. Lockey",
-    "MR",
-    "Davies",
-    "Jones",
-    "Isses From Cause of Action Commercial Law",
     "Contract",
-    "Complex Film Financing Projects",
-    "Contract of Insurance and Assurance Production of Films - Particulars",
+    "Contract",
+    "Isses From",
+    "Picken",
+    "Particulars",
     "Leisure",
+    "Entertainment",
+    "Complex Film Financing Projects",
+    "Jones",
+    "G Vos Qc",
+    "Davies",
+    "J. Flaux Qc",
+    "J. Lockey",
     "Hospitality",
-    "Entertainment"
+    "Cause",
+    "Of Action Commercial Law",
+    "Intervenors"
   ],
   "representation_respondent": [
     "Sports Law",
     "Complex Film Projects - Insurance and Reinsurance Components - Enforcement of - Relevant",
     "Insurance"
   ],
-  "doc_id": "0f6a3c0c-5dbc-4f70-bd3f-93c3472aaccf",
+  "doc_id": "ba24462b-6348-4aed-b3f0-bd04556eaf0d",
   "doctype": "Case",
   "parties": [
+    "Limited",
     "Law Debenture Trust Corporation",
     "Channel Islands",
-    "Limited",
     "Lexington Insurance Company and Others"
   ]
 }

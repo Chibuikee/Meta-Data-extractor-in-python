@@ -1,6 +1,6 @@
 {
   "case_title": "Kaycee (nig.) Ltd. v. Prompt Shipping Corporation Nigerian Ports Authority",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-1-1986",
   "year": "1986",
   "suit_number": "SC.90/1985",
@@ -11,8 +11,8 @@
   ],
   "area_of_law": [
     "Commercial Law",
-    "International Law",
-    "Shipping and Maritime Law"
+    "Shipping and Maritime Law",
+    "International Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,26 +22,26 @@
   ],
   "judge": [
     "Kayode Eso JSC",
-    "Augustine Nnamani JSC",
+    "Saidu Kawu JSC",
     "Muhammed Lawal Uwais JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
-    "Saidu Kawu JSC"
+    "Augustine Nnamani JSC"
   ],
   "representation": [
-    "Mbadiwe",
     "H. T. O. Coker",
-    "Senior Counsel"
+    "Senior Counsel",
+    "Mbadiwe"
   ],
   "originating_court": [
     "Court of Appeal (concurring: Adenekan Ademola, J.C.A., Uthman Mohammed, J.C.A.; Dissenting: Nnaemeka-agu, J.C.A.)",
     "[federal] High Court Lagos"
   ],
-  "doc_id": "7a3c511e-3a55-4ead-8690-876304fe2d15",
+  "doc_id": "13c22a21-ba0c-4329-8192-48a117fa95fc",
   "doctype": "Case",
   "parties": [
     "Kaycee",
-    "Nig",
     "Ltd",
+    "Nig",
     "Prompt Shipping Corporation Nigerian Ports Authority"
   ]
 }

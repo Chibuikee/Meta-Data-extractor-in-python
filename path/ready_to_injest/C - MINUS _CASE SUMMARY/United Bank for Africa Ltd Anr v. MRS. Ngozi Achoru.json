@@ -1,6 +1,6 @@
 {
   "case_title": "United Bank for Africa Ltd Anr v. MRS. Ngozi Achoru",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "5-10-1990",
   "year": "1990",
   "suit_number": "SC33/1988",
@@ -11,10 +11,10 @@
     "9-10S.C115"
   ],
   "area_of_law": [
-    "Appeal",
-    "Court",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Court",
+    "Words and Phrases",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,40 +23,41 @@
     "High Profile Case"
   ],
   "judge": [
-    "Andrew Otutu Obaseki JSC",
-    "Augustine Nnamani JSC",
-    "Adolphus Godwin Karibi-Whyte JSC",
     "Philip Nnaemeka-Agu JSC",
-    "Olajide Olatawura JSC"
+    "Olajide Olatawura JSC",
+    "Andrew Otutu Obaseki JSC",
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Augustine Nnamani JSC"
   ],
   "representation_appellant": [
-    "C. Obishai",
-    "Cross",
     "A. B. C. Iketuonye S. A. N",
     "A. Nwaiwu",
     "Cross",
-    "Issues From Cause of Determination",
-    "Tort"
+    "Tort",
+    "Of Determination",
+    "Cause",
+    "Issues From",
+    "C. Obishai"
   ],
   "representation_respondent": [
+    "Relevant",
     "Personal Injury Law",
     "Negligence",
-    "Rule",
-    "Relevant",
-    "Tort"
+    "Tort",
+    "Rule"
   ],
-  "doc_id": "fbf56433-e021-4a6b-9ec5-4a04d27eb449",
+  "doc_id": "6df7a6f2-c94c-4741-8525-6eecb705a479",
   "doctype": "Case",
   "parties": [
     "United Bank for Africa",
     "Ltd",
     "Ali Ismaila",
+    "Jj.c.a",
+    "Jos Judicial Division",
+    "High Court of Plateau State",
+    "Holden at Jos",
     "MRS. Ngozi Achoru",
     "Originaing Court",
-    "Court of Appeal",
-    "Jos Judicial Division",
-    "Jj.c.a",
-    "High Court of Plateau State",
-    "Holden at Jos"
+    "Court of Appeal"
   ]
 }

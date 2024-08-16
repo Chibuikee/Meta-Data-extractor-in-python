@@ -1,21 +1,21 @@
 {
   "case_title": "Ado v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "7-4-2017",
   "year": "2017",
   "suit_number": "SC.139/2013",
   "lex_citation": "LEX(2017)-SC.139/2013",
   "other_citations": "3PLR/2017/28(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Constitutional Law and Human Rights",
-    "Appeal",
-    "Court",
-    "Judgment and Order",
-    "Evidence",
-    "Judgment and Orders",
     "Jurisdiction",
-    "Interpretation of Statute"
+    "Court",
+    "Interpretation of Statute",
+    "Constitutional Law and Human Rights",
+    "Judgment and Orders",
+    "Evidence",
+    "Appeal",
+    "Judgment and Order",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,22 +24,28 @@
     "High Profile Case"
   ],
   "judge": [
-    "Walter Samuel Nkanu Onnoghen JSC",
     "MDattijo Muhammad JSC",
     "KMotonmori Olatokunbo Kekere-Ekun JSC",
-    "Ejembi Eko JSC",
-    "Sidi Dauda Bage JSC"
+    "Walter Samuel Nkanu Onnoghen JSC",
+    "Sidi Dauda Bage JSC",
+    "Ejembi Eko JSC"
   ],
   "representation": [
-    "Nureini Jimoh",
+    "Barbara Onwubiko",
+    "O. F. Osasona",
+    "A. A. Muhammad",
     "Amina Yusuf Yarrayo",
-    "Director Legal Services"
+    "Director Legal Services",
+    "Zubaida Ado Yau",
+    "Salisu Hamisu Danjidda",
+    "Nureini Jimoh",
+    "A. A. Abdulkareem and Saidat Abimbola"
   ],
   "originating_court": [
     "The Court of Appeal, Kaduna Judicial Division",
     "Kano State High Court"
   ],
-  "doc_id": "b1b90625-100e-4289-bece-f9d925238023",
+  "doc_id": "514b1617-a646-4c78-89a1-fbea898a2b89",
   "doctype": "Case",
   "parties": [
     "Sale Ado",

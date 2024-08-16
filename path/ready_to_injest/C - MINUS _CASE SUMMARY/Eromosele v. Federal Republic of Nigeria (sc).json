@@ -1,19 +1,26 @@
 {
   "case_title": "Eromosele v. Federal Republic of Nigeria (sc)",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "2-2-2018",
   "year": "2018",
   "suit_number": "SC.529/2016",
   "lex_citation": "LEX(2018)-SC.529/2016",
   "other_citations": [
+    ":",
     "3PLR/2018/05(SC)",
     "(2018)LPELR-SC.529/2016"
   ],
   "area_of_law": [
+    "Healthcare and Law",
+    "Science and Technology Law",
+    "Judgment and Orders",
+    "Food and Agriculture Law",
     "Appeal",
+    "Tort and Personal Injuriy Law",
+    "Intellectual Property",
+    "Criminal Law and Procedure",
     "Court",
-    "Evidence",
-    "Judgment and Orders"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,29 +29,25 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olukayode Ariwoola JSC",
+    "Paul Adamu Galinje JSC",
     "Kumai Bayang Aka'ahs JSC",
+    "Olukayode Ariwoola JSC",
     "Amina Adamu Augie JSC",
-    "Ejembi Eko JSC",
-    "Paul Adamu Galinje JSC"
+    "Ejembi Eko JSC"
   ],
-  "representation_appellant": [
-    "MR",
-    "Oghenero E.L. Ideh"
-  ],
+  "representation_appellant": "Oghenero E.L. Ideh",
   "representation_respondent": [
-    "Mike Ozekhome",
     "Godwin Iyinbor",
-    "Kasiemobi Oramigo",
+    "Mike Ozekhome",
     "Harrison Obi",
-    "Miss",
+    "Kasiemobi Oramigo",
     "Uche Oluchi Vivian"
   ],
   "originating_court": [
     "In the Court of Appeal Holden at Lagos",
     "Federal High Court, Lagos Division (okeke J., Presiding)"
   ],
-  "doc_id": "bfe2fd1c-bf29-4dfb-9129-f4e5a10b2f48",
+  "doc_id": "500ba2cf-b2bf-4aac-9bc9-006a513fc63c",
   "doctype": "Case",
   "parties": [
     "Egbele Austin Eromosele",

@@ -1,21 +1,21 @@
 {
   "case_title": "Gaumont-british Picture Corporation Ltd v. Alexander",
-  "court": "King's Bench Division",
+  "court": "",
   "date": "23-7-1936",
   "year": "1936",
-  "suit_number": "(1936)-2ALLER1686",
+  "suit_number": "",
   "lex_citation": "LEX(1936)-2ALLER1686",
   "other_citations": [
     "2PLR/1936/8(KB)",
     "[1936]2ALLER1686"
   ],
   "area_of_law": [
+    "Anti",
     "Alternative Dispute Resolution",
-    "Commercial Law",
-    "Children and Women Law",
     "Employment and Labour Law",
-    "Leisure and Entertainment Law",
-    "Anti"
+    "Children and Women Law",
+    "Commercial Law",
+    "Leisure and Entertainment Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,12 +24,12 @@
   ],
   "judge": "Lord Porter J",
   "representation": [
-    "M a Jacobs &",
     "Sons",
+    "M a Jacobs &",
     "Burton & Ramsden",
     "C St J Nicholson"
   ],
-  "doc_id": "ff1b1ac6-6ea9-4a64-8085-22f95ec1ef9a",
+  "doc_id": "7ba7f0dc-8bb7-4442-b03b-7edb13b2e022",
   "doctype": "Case",
   "parties": [
     "Gaumont-british Picture Corporation Ltd",

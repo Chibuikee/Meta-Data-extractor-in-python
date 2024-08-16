@@ -1,6 +1,6 @@
 {
   "case_title": "MR. Joel Etipetip Ukwuyok Ors v. Hrh. Festus Silas Ogbulu Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-7-2019",
   "year": "2019",
   "suit_number": "SC.319/2010",
@@ -10,9 +10,9 @@
     "(2019)LPELR-48741(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
+    "Appeal",
     "Court",
-    "Appeal"
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,36 +21,36 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Ibrahim Tanko Muhammad JSC",
     "Olukayode Ariwoola JSC",
-    "John Inyang Okoro JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "John Inyang Okoro JSC"
   ],
   "representation_appellant": "E.K. Saidu, Esq",
   "representation_respondent": [
-    "D.I. Iboroma",
-    "B. Iboroma"
+    "B. Iboroma",
+    "D.I. Iboroma"
   ],
   "originating_court": [
     "Court of Appeal",
     "High Court of Justice, Rivers State [holden at Port Harcourt (coram) W. A. Chechey, J]"
   ],
-  "doc_id": "5440c50c-dbcf-40af-aaf1-2a2bdf37189f",
+  "doc_id": "2c47e825-8ff1-4df9-b0e7-bf76cfc1c986",
   "doctype": "Case",
   "parties": [
+    "MR. Karibi Etipetip Ukwuyok",
+    "MR. David Etipetip Ukwuyok",
+    "MR. Joshua Etipetip Ukwuyok",
+    "MR. Frank David Etipetip",
+    "MR. Robinson Dike",
     "MR. Joel Etipetip Ukwuyok",
     "MR. Robinson Karibi Ukwuyok",
-    "MR. Joshua Etipetip Ukwuyok",
-    "MR. David Etipetip Ukwuyok",
-    "MR. Robinson Dike",
-    "MR. Frank David Etipetip",
-    "MR. Karibi Etipetip Ukwuyok",
     "Hrh. Festus Silas Ogbulu",
     "The Okan-ama of Ibotirem Town",
-    "Elder Ajebula W.D. Ogbulu",
-    "MR. John S. Eneyok",
     "MR. Jonah Okwa",
-    "Elder Joseph Joshua"
+    "MR. John S. Eneyok",
+    "Elder Joseph Joshua",
+    "Elder Ajebula W.D. Ogbulu"
   ]
 }

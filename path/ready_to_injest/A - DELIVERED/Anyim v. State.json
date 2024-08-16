@@ -1,16 +1,16 @@
 {
   "case_title": "Anyim v. State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-6-1983",
   "year": "1983",
   "suit_number": "SC.29/1982",
   "lex_citation": "LEX(1983)-SC.29/1982",
   "other_citations": "3PLR/1983/7(SC)",
   "area_of_law": [
+    "Religion",
     "Criminal Law and Procedure",
     "Children and Women Law",
-    "Healthcare and Law",
-    "Religion"
+    "Healthcare and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,24 +19,30 @@
     "High Profile Case"
   ],
   "judge": [
+    "Anthony Nnaemezie Aniagolu JSC",
+    "Muhammadu Lawal Uwais JSC",
     "Mohammed Bello JSC",
     "Chukwunweike Idigbe JSC",
-    "Kayode Eso JSC",
-    "Anthony Nnaemezie Aniagolu JSC",
-    "Muhammadu Lawal Uwais JSC"
+    "Kayode Eso JSC"
   ],
   "representation": [
-    "O. O. Jibowu . E. O. Awosusi",
-    "Deputy Director of Public Prosecutions Oyo State"
+    "Oyo State",
+    "Deputy Director of Public Prosecutions",
+    "O. O. Jibowu",
+    "Ass",
+    "Him",
+    "D. P. P",
+    "E. O. Awosusi",
+    "L. O. Olakanmi"
   ],
   "originating_court": [
     "Federal Court of Appeal",
     "High Court of Oyo State, Ilesha Judicial Division (y. O. Adio, J. Presiding)"
   ],
-  "doc_id": "2fc35de1-c83f-4cce-a31d-45df32945c13",
+  "doc_id": "7e23b3dd-22f7-4548-b29b-3fd3bc14b89b",
   "doctype": "Case",
   "parties": [
-    "Anyim",
+    "James Anyim",
     "The State"
   ]
 }

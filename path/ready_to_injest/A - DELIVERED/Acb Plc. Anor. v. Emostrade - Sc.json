@@ -12,12 +12,12 @@
     "(2002)JELR44543(SC)"
   ],
   "area_of_law": [
-    "Company Law",
-    "Company",
-    "Commercial Law",
+    "Evidence",
     "Action",
+    "Company",
     "Appea",
-    "Evidence"
+    "Commercial Law",
+    "Company Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,20 +26,20 @@
     "High Profile Case"
   ],
   "judge": [
+    "Emmanuel Olayinka Ayoola JSC",
     "Uthman Mohammed JSC",
-    "Aloysius Iyorgyer Katsina-Alu JSC",
-    "Umaru Atu Kalgo JSC",
     "Samson Odemwingie Uwaifo JSC",
-    "Emmanuel Olayinka Ayoola JSC"
+    "Umaru Atu Kalgo JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
   "representation": [
     "O. A. Obianwu",
     "Victor Ndoma-egba"
   ],
-  "doc_id": "12c2948a-a9c8-4f29-bb28-1486eb572d04",
+  "doc_id": "ac0cc1fc-3b7c-41f1-b561-102311312177",
   "doctype": "Case",
   "parties": [
-    "C. & Anor",
+    "Acb Plc. & Anor",
     "Emostrade Ltd"
   ]
 }

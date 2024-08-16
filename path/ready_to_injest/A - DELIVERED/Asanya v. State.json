@@ -1,21 +1,21 @@
 {
   "case_title": "Asanya v. State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "19-4-1991",
   "year": "1991",
   "suit_number": "S.C.43/1990",
   "lex_citation": "LEX(1991)-SC.43/1990",
   "other_citations": "3PLR/1991/51(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Constitutional Law",
-    "Ethics",
-    "Children and Women Law",
-    "Healthcare and Law",
-    "Appeal",
-    "Court",
     "Evidence",
-    "Interpretation of Statute"
+    "Ethics",
+    "Criminal Law and Procedure",
+    "Interpretation of Statute",
+    "Children and Women Law",
+    "Constitutional Law",
+    "Healthcare and Law",
+    "Court",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,22 +24,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Mohammed Bello CJN",
-    "Andrews Otutu Obaseki JSC",
-    "Adolphus Godwin Karibi-Whyte JSC",
     "Saidu Kawu JSC",
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Mohammed Bello CJN",
     "Salihu Modibbo Alfa Belgore JSC",
     "Philip Nnaemeka-Agu JSC",
+    "Andrews Otutu Obaseki JSC",
     "Olajide Olatawura JSC"
   ],
   "representation": [
     "Bankole Aluko",
     "Modupe Fasanmi"
   ],
-  "doc_id": "ea2a2d8f-a621-4641-bf78-7b0be04c9dea",
+  "doc_id": "31717aae-0d7c-4aa9-83a2-c83fea82256b",
   "doctype": "Case",
   "parties": [
-    "S Asanya",
+    "Francis Asanya",
     "The State"
   ]
 }

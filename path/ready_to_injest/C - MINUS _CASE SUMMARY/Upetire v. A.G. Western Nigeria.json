@@ -1,18 +1,18 @@
 {
   "case_title": "Upetire v. A.G. Western Nigeria",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "9-4-1964",
   "year": "1964",
   "suit_number": "S.C.156/1964",
   "lex_citation": "LEX(1964)-F.S.C.156/1964",
   "other_citations": "3PLR/1964/58(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Healthcare and Law",
     "Children and Women Law",
-    "Education and Law",
+    "Interpretation of Statutes",
+    "Criminal Law and Procedure",
     "Religion and Law",
-    "Interpretation of Statutes"
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,19 +21,19 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adetokunbo Ademola CJN",
     "John Idowu Conrad Taylor JSC",
-    "Vahe Robert Bairamian JSC"
+    "Vahe Robert Bairamian JSC",
+    "Adetokunbo Ademola CJN"
   ],
   "representation": [
-    "J. A. Cole . C. O. O. Bada",
-    "Senior State Counsel"
+    "Senior State Counsel",
+    "J. A. Cole",
+    "C. O. O. Bada"
   ],
   "originating_court": [
-    "",
     "High Court of the Western Region of Nigeria Holden at Akure"
   ],
-  "doc_id": "508f9d25-4c93-4b54-a45e-4924fd063f5c",
+  "doc_id": "9e973f6d-d0bc-4408-8572-195a3a5177fd",
   "doctype": "Case",
   "parties": [
     "Phillip Upetire",

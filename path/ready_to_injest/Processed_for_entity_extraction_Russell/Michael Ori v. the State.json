@@ -4,14 +4,14 @@
   "date": "10-3-2020",
   "year": "2020",
   "suit_number": "CA/OW/188C/2015",
-  "lex_citation": "LEX(2020)–CA/OW/188C/2015",
+  "lex_citation": "LEX(2020)-CA/OW/188C/2015",
   "other_citations": [
     "3PLR/2020/30(CA)",
     "(2020)LPELR-49554(CA)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Word and Phrases",
+    "Criminal Law and Procedure",
     "Evidence"
   ],
   "semantic_tags": [
@@ -20,13 +20,13 @@
     "Case"
   ],
   "judge": [
-    "Ibrahim Ali Andenyangtso JCA",
     "Ita George Mbaba JCA",
-    "Ayobode Olujimi Lokulo-Sodipe JCA"
+    "Ayobode Olujimi Lokulo-Sodipe JCA",
+    "Ibrahim Ali Andenyangtso JCA"
   ],
   "representation": "P.C. Onuoha",
   "originating_court": "High Court of Justice, Owerri Judicial Division [hon. Justice A.O.H. Ukachukwu Presiding]",
-  "doc_id": "b62c4879-b573-47ab-b48f-4bf736b8ad0f",
+  "doc_id": "bed3a421-fe1d-41a5-b3b5-d289165ec17e",
   "doctype": "Case",
   "parties": [
     "Michael Ori",

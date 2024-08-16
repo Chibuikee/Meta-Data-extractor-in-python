@@ -1,17 +1,17 @@
 {
   "case_title": "Mackam v. the Queen",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "4-8-1959",
   "year": "1959",
   "suit_number": "S.C.69/1959",
   "lex_citation": "LEX(1959)-FSC69/1959",
   "other_citations": "2PLR/1959/76(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Children and Women",
     "Ethics",
-    "Religion and Law",
-    "Court"
+    "Criminal Law and Procedure",
+    "Court",
+    "Religion and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,19 +20,19 @@
     "High Profile Case"
   ],
   "judge": [
-    "Myles John Abbott, AgF CJ",
     "Louis Nwachukwu Mbanefo FJ",
-    "Alexander William Bellamy, Ag FJ"
+    "Alexander William Bellamy, Ag FJ",
+    "Myles John Abbott, AgF CJ"
   ],
   "representation": [
-    "Applicant",
+    "Crown Counsel",
     "MR. M. Bello",
-    "Crown Counsel"
+    "Applicant"
   ],
-  "doc_id": "c4d8915d-bb43-487e-a4b5-114913782c12",
+  "doc_id": "a8d51b84-7a4f-4232-888b-ff9770bfdad7",
   "doctype": "Case",
   "parties": [
-    "Mackam",
+    "Dabit Mackam",
     "The Queen"
   ]
 }

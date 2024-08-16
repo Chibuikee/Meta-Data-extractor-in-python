@@ -1,6 +1,6 @@
 {
   "case_title": "Allied Bank of (nig) Ltd v. Akubueze(ca)",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-6-1997",
   "year": "1997",
   "suit_number": "SC.80/1995",
@@ -11,12 +11,14 @@
     "(1997)LPELR-SC.80/1995"
   ],
   "area_of_law": [
-    "Appeal",
-    "Court",
-    "Evidence",
+    "Banking Law",
     "Judgment",
+    "Appeal",
+    "Commercial Law",
     "Pleadings",
-    "Words and Phrases"
+    "Court",
+    "Words and Phrases",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,10 +27,10 @@
     "High Profile Case"
   ],
   "judge": [
-    "Abubakar Bashir Wali JSC",
-    "Idris Legbo Kutigi JSC",
-    "Emanuel Obioma Ogwuegbu JSC",
     "Uthman Mohammed JSC",
+    "Emanuel Obioma Ogwuegbu JSC",
+    "Idris Legbo Kutigi JSC",
+    "Abubakar Bashir Wali JSC",
     "Anthony Ikechukwu Iguh JSC"
   ],
   "representation": [
@@ -36,10 +38,9 @@
     "A. C. Emengo"
   ],
   "originating_court": [
-    "",
     "High Court of Former Anambra State of Nigeria,"
   ],
-  "doc_id": "90b78c7d-cee8-40af-92a7-4246b77285db",
+  "doc_id": "b433bd11-81a1-4fe8-a17d-616871a76be4",
   "doctype": "Case",
   "parties": [
     "Allied Bank of Nigeria Limited",

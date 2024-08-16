@@ -1,23 +1,23 @@
 {
   "case_title": "Liman v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "2-7-1976",
   "year": "1976",
   "suit_number": "SC277/1975",
-  "lex_citation": "LEX(1976)–SC.277/1976",
+  "lex_citation": "LEX(1976)-SC.277/1976",
   "other_citations": [
     "3PLR/1976/80(SC)",
     "(1976)7S.C.(REPRINT)36."
   ],
   "area_of_law": [
-    "Criminal Law",
-    "Criminal Law and Procedure",
-    "Children and Women Law",
-    "Constitutional Law and Human Rights",
     "Healthcare and Law",
+    "Constitutional Law and Human Rights",
+    "Children and Women Law",
     "Ethics",
+    "Interpretation of Statute",
     "Judgment and Order",
-    "Interpretation of Statute"
+    "Criminal Law and Procedure",
+    "Criminal Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,18 +26,19 @@
     "High Profile Case"
   ],
   "judge": [
-    "George Sodeinde Sowemimo JSC",
     "Muhammed Bello JSC",
+    "George Sodeinde Sowemimo JSC",
     "Andrews Otutu Obaseki JSC"
   ],
   "representation": [
-    "L. C. Anolieto",
     "A. Ogiri",
-    "Senior State - Counsel"
+    "Senior State - Counsel",
+    "L. C. Anolieto"
   ],
-  "doc_id": "d794bd9d-fd77-450d-b9ff-7c16aab442a2",
+  "doc_id": "2255e6c7-8e36-4a2f-bced-2fbeacfdbd1c",
   "doctype": "Case",
   "parties": [
+    "Delu Liman",
     "The State"
   ]
 }

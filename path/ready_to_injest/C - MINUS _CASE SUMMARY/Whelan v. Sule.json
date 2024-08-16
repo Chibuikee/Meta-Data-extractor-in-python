@@ -1,20 +1,20 @@
 {
   "case_title": "Whelan v. Sule",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "8-10-1965",
   "year": "1965",
   "suit_number": "SC194/1965",
   "lex_citation": "LEX(1965)-FSC194/1965",
   "other_citations": "2PLR/1965/70(SC)",
   "area_of_law": [
-    "Commercial Law",
-    "Children and Women Law",
-    "Debtor and Creditor Law",
-    "Education and Law",
-    "Religion and Law",
     "Tort and Personal Injury Law",
+    "Court",
     "Transportation and Law",
-    "Court"
+    "Debtor and Creditor Law",
+    "Children and Women Law",
+    "Commercial Law",
+    "Religion and Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,17 +23,15 @@
     "High Profile Case"
   ],
   "judge": [
-    "Lionel Brett JSC",
     "Dahunsi Olugbeni Coker JSC",
-    "Chukwunwike Idigbe JSC"
+    "Chukwunwike Idigbe JSC",
+    "Lionel Brett JSC"
   ],
   "representation": [
-    "MR",
     "G. Impey",
-    "MR",
     "C. D. Orike"
   ],
-  "doc_id": "8d3ab7d4-5f4c-492f-a0f8-409e0a046533",
+  "doc_id": "30bae15e-8479-469a-a822-022a8abe1e5b",
   "doctype": "Case",
   "parties": [
     "Kathleen Whelan",

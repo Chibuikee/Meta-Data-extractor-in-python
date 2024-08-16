@@ -10,12 +10,12 @@
     "(2014)LPELR-22574(CA)"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
-    "Commercial Law",
     "Appeal",
-    "Court",
     "Judgment and Order",
-    "Words and Phrases"
+    "Commercial Law",
+    "Court",
+    "Words and Phrases",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,20 +24,19 @@
   ],
   "judge": [
     "Monica Bolna'an Dongban-Mensem JCA",
-    "Chidi Nwaoma Uwa JCA",
-    "Haruna Simon Tsammani JCA"
+    "Haruna Simon Tsammani JCA",
+    "Chidi Nwaoma Uwa JCA"
   ],
   "representation_appellant": "Wale Taiwo",
   "representation_respondent": [
-    "Muyiwa Obanewa",
     "N. Anyaogu",
-    "O. Sonaike"
+    "O. Sonaike",
+    "Muyiwa Obanewa"
   ],
   "originating_court": [
-    "",
     "Ogun State High Court of Justice, Holden at Sagamu Judicial Division (justice N. I. Saula., Prsiding)"
   ],
-  "doc_id": "240aaf5b-4222-432f-9f81-26c9b72ad17f",
+  "doc_id": "c177e109-948c-490e-a825-4a51acb3f284",
   "doctype": "Case",
   "parties": [
     "Wema Bank Plc",

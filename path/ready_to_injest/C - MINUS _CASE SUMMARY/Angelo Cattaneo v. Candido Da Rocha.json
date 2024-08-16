@@ -1,10 +1,10 @@
 {
   "case_title": "Angelo Cattaneo v. Candido Da Rocha",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "11-11-1932",
   "year": "1932",
-  "suit_number": "SCN11/11",
-  "lex_citation": "LEX(1932)–SCN11/11",
+  "suit_number": "",
+  "lex_citation": "LEX(1932)-SCN11/11",
   "other_citations": "2PLR/1932/1(SCN-LC)",
   "area_of_law": "Employment and Labour Law",
   "semantic_tags": [
@@ -14,16 +14,15 @@
     "High Profile Case"
   ],
   "judge": [
-    "Kingdon CJ(dissenting Opinion",
-    "Berkeley J",
-    "Lead Judgment",
-    "Butler Lloyd J"
+    "Kingdon CJ",
+    "Butler Lloyd J",
+    "Berkeley J"
   ],
   "representation": [
     "E. Moore",
     "A. Alakija"
   ],
-  "doc_id": "4dfe8959-d78e-4314-a607-e88f7f641016",
+  "doc_id": "b142bc9c-a8ff-456e-8135-4ffedaeec8ff",
   "doctype": "Case",
   "parties": [
     "Angelo Cattaneo",

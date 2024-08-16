@@ -4,16 +4,16 @@
   "date": "13-3-2020",
   "year": "2020",
   "suit_number": "SC.662/2016",
-  "lex_citation": "LEX(2020)–SC.662/2016",
+  "lex_citation": "LEX(2020)-SC.662/2016",
   "other_citations": [
     "3PLR/2020/18(SC)",
     "(2020)LPELR-49564(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
     "Appeal",
-    "Criminal Law and Procedure",
-    "Children and Young Persons"
+    "Constitutional Law",
+    "Children and Young Persons",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,21 +23,21 @@
   ],
   "judge": [
     "Olabode Rhodes-Vivour JSC",
-    "Chima Centus Nweze JSC",
     "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Ejembi Eko JSC"
+    "Ejembi Eko JSC",
+    "Chima Centus Nweze JSC"
   ],
   "representation_appellant": "G. O. Adih",
   "representation_respondent": [
-    "Ibrahim Angulu Esq",
-    "Nureni Usman"
+    "Nureni Usman",
+    "Ibrahim Angulu Esq"
   ],
   "originating_court": [
     "Court of Appeal, Federal Capital Territory, Abuja Division",
     "High Court of the Federal Capital Territory, Fct"
   ],
-  "doc_id": "dfe46d9a-da7a-4ec6-81d3-178f5c140954",
+  "doc_id": "d8deff2e-0442-40eb-b442-e1260ee7d55c",
   "doctype": "Case",
   "parties": [
     "Eyong Idam",

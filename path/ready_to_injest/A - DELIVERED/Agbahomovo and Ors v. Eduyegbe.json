@@ -1,6 +1,6 @@
 {
   "case_title": "Agbahomovo and Ors v. Eduyegbe",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "19-2-1999",
   "year": "1999",
   "suit_number": "SC.183/1999",
@@ -10,10 +10,10 @@
     "(1999)3NWLR(PT.594)170S"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Human Rights",
     "Evidence",
-    "Pleadings"
+    "Pleadings",
+    "Real Estate and Property Law",
+    "Human Rights"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,40 +22,38 @@
     "High Profile Case"
   ],
   "judge": [
-    "MLUwais CJN",
-    "SMABelgore JSC",
-    "ILKutigi JSC",
     "SUOnu JSC",
-    "AIIguh JSC"
+    "MLUwais CJN",
+    "ILKutigi JSC",
+    "AIIguh JSC",
+    "SMABelgore JSC"
   ],
   "representation": "B. O. Olokor",
   "originating_court": [
     "Defunct Bendel State High Court Sitting in Oleh (akpiroroh, J. Presiding)",
     "Court of Appeal, Benin Division Sitting at Benin City"
   ],
-  "doc_id": "01cc6a91-e4b4-4548-93e4-6346edf831bd",
+  "doc_id": "93f89537-b2b3-43ae-b50b-313a6c1f56ee",
   "doctype": "Case",
   "parties": [
     "Joseph Agbahomovo",
-    "Raleigh Okpozo",
-    "Augustine Akpughe",
-    "For Themselves and on Behalf of Esaledho Family of Esaledho Street",
     "Oleh",
-    "Apata Eduyegbe",
-    "William Akpata",
-    "David Elbe",
-    "Odemeregwa Edwala",
-    "Sunday Apata",
-    "Joshua Egbe",
-    "Silver Ogba",
-    "Between",
-    "Apata Eduyegbe",
-    "William Akpata",
-    "Ukoh Uwefoh",
-    "And",
-    "Joseph Agbahomovo",
-    "Raleigh Okpozo",
+    "For Themselves and on Behalf of Esaledho Family of Esaledho Street",
     "Augustine Akpughe",
-    "Samson Akpughe"
+    "Raleigh Okpozo",
+    "Between",
+    "David Elbe",
+    "Joseph Agbahomovo",
+    "Sunday Apata",
+    "And",
+    "Joshua Egbe",
+    "Raleigh Okpozo",
+    "Samson Akpughe",
+    "Odemeregwa Edwala",
+    "Apata Eduyegbe",
+    "Augustine Akpughe",
+    "William Akpata",
+    "Silver Ogba",
+    "Ukoh Uwefoh"
   ]
 }

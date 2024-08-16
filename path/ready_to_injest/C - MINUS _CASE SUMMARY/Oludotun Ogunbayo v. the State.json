@@ -1,22 +1,22 @@
 {
   "case_title": "Oludotun Ogunbayo v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "9-3-2007",
   "year": "2007",
-  "suit_number": "SC",
-  "lex_citation": "",
+  "suit_number": "SC.272/2005",
+  "lex_citation": "LEX(2007)-SC.272/2005",
   "other_citations": "3PLR/2007/86(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Healthcare and Law",
     "Constitutional Law",
     "Children and Women Law",
-    "Healthcare and Law",
-    "Education and Law",
     "Appeal",
-    "Court",
     "Evidence",
     "Interpretation of Statute",
-    "Words and Phrase"
+    "Words and Phrase",
+    "Criminal Law and Procedure",
+    "Court",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,25 +25,25 @@
     "High Profile Case"
   ],
   "judge": [
-    "Idris Legbo Kutigi CJN",
-    "Aloysius Iyorgyer Katina-Alu JSC",
     "Niki Tobi JSC",
+    "Idris Legbo Kutigi CJN",
+    "Ikechi Francis Ogbuagu JSC",
     "George Adesola Oguntade JSC",
-    "Ikechi Francis Ogbuagu JSC"
+    "Aloysius Iyorgyer Katina-Alu JSC"
   ],
   "representation": [
+    "D.P.P. Ministry of Justice",
+    "Ogun State",
+    "Emeka Okpala",
     "Oladipo Okpeseyi",
     "Ngozi Onwuka",
-    "Emeka Okpala",
-    "A. A. Babawale",
-    "D.P.P. Ministry of Justice",
-    "Ogun State"
+    "A. A. Babawale"
   ],
   "originating_court": [
     "Court of Appeal, Ibadan Division,",
     "High Court of Ogun State, Holden at Abeokuta (somolu, J., Presiding)"
   ],
-  "doc_id": "8dadccdd-72ba-48ea-95ba-febb82e0208b",
+  "doc_id": "4053befb-de07-4215-b7f3-db16fd489b5f",
   "doctype": "Case",
   "parties": [
     "Oludotun Ogunbayo - Appellant",

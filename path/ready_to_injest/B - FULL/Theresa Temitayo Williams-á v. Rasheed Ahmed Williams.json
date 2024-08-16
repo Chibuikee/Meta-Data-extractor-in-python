@@ -1,6 +1,6 @@
 {
   "case_title": "Theresa Temitayo Williams-á v. Rasheed Ahmed Williams",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "3-4-1987",
   "year": "1987",
   "suit_number": "SC.117/1985",
@@ -10,18 +10,18 @@
     "(1987)NWLR(PT.54)66"
   ],
   "area_of_law": [
-    "Family Law",
-    "Education and Law",
-    "Healthcare and Law",
-    "Children and Women Law",
-    "Action",
-    "Court",
-    "Judgment and Order",
-    "Interpretation of Statute",
     "Word and Phrases",
+    "Court",
     "Notable Pronouncemen",
     "T",
-    "F"
+    "Action",
+    "Children and Women Law",
+    "Healthcare and Law",
+    "F",
+    "Interpretation of Statutes",
+    "Family Law",
+    "Education and Law",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,21 +29,27 @@
     "Case",
     "High Profile Case"
   ],
-  "judge": "Andrews Otutu Obaseki JSC(presided and Read the Lead Judgment)augustine NnamaniJSCAdolphus Godwin Karibi-Whyte, JSCsaidu Kawu, JSCchukwudifu Akunne Oputa JSC",
+  "judge": [
+    "Saidu Kawu JSC",
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Augustine Nnamani JSC",
+    "Andrews Otutu Obaseki JSC",
+    "Chukwudifu Akunne Oputa JSC"
+  ],
   "representation": [
+    "A.O. Aniagolu",
+    "S. A. Abayomi",
     "H. A. Lardner",
-    "MR",
     "Kehinde Sofola"
   ],
   "originating_court": [
-    "",
     "Lagos State High Court (oladipo Williams, J., Presiding)",
     "Court of Appeal, Lagos Judicial Division"
   ],
-  "doc_id": "2712b2ff-ee72-4928-a10f-a17f0197176e",
+  "doc_id": "f3e98a47-bae1-45c9-926a-de6157bf96d5",
   "doctype": "Case",
   "parties": [
-    "A Temitayo Williams",
+    "Theresa Temitayo Williams",
     "Rasheed Ahmed Williams"
   ]
 }

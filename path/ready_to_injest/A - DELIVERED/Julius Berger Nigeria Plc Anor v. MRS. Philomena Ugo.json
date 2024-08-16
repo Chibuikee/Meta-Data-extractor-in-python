@@ -10,10 +10,10 @@
     "(2020)LPELR-49544(CA)"
   ],
   "area_of_law": [
-    "Constitutional and Human Rights Law",
     "Ethics",
-    "Action",
-    "Appeal"
+    "Constitutional and Human Rights Law",
+    "Appeal",
+    "Action"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,26 +21,26 @@
     "Case"
   ],
   "judge": [
-    "Ayobode Olujimi Lokulo-Sodipe JCA",
+    "Ibrahim Ali Andenyangtso JCA",
     "Ita George Mbaba JCA",
-    "Ibrahim Ali Andenyangtso JCA"
+    "Ayobode Olujimi Lokulo-Sodipe JCA"
   ],
   "representation_appellant": [
-    "Abisola Aarinola",
-    "Olujare O. Ogunnaike Esq"
+    "Olujare O. Ogunnaike Esq",
+    "Abisola Aarinola"
   ],
   "representation_respondent": [
-    "Emeka Ozoani Esq San",
-    "Chika S. Obaraechi Esq",
+    "G.W. Manufor Esq",
     "Nneoma Iwu",
-    "G.W. Manufor Esq"
+    "Emeka Ozoani Esq San",
+    "Chika S. Obaraechi Esq"
   ],
   "originating_court": "Imo State High Court [justice K. A. Ojiako, Presiding]",
-  "doc_id": "abe94620-c808-4cef-87fa-8c1ee25fa1bd",
+  "doc_id": "3e2e026b-a48e-49ae-beec-5c1ac55eb9a1",
   "doctype": "Case",
   "parties": [
-    "Julius Berger Nigeria Plc",
     "Godwin Obado",
+    "Julius Berger Nigeria Plc",
     "MRS. Philomena Ugo"
   ]
 }

@@ -7,13 +7,13 @@
   "lex_citation": "LEX(1991)-CA/J/8/90",
   "other_citations": "3PLR/1991/44(CA)",
   "area_of_law": [
-    "Family Law",
+    "Evidence",
     "Children and Women Law",
-    "Healthcare and Law",
-    "Appeal",
-    "Court",
     "Pleadings",
-    "Evidence"
+    "Healthcare and Law",
+    "Court",
+    "Family Law",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,18 +21,18 @@
     "Case"
   ],
   "judge": [
+    "Obinnaya Anunobi Okezie JCA",
     "Aloma Mariam Mukhtar JCA",
-    "Yekini Olayiwola Adjo JCA",
-    "Obinnaya Anunobi Okezie JCA"
+    "Yekini Olayiwola Adjo JCA"
   ],
   "representation": [
-    "V.T.E. Nweke",
-    "A. Olatunde"
+    "A. Olatunde",
+    "V.T.E. Nweke"
   ],
-  "doc_id": "089f1270-d295-4f73-9a0a-098abe27cfb6",
+  "doc_id": "9c6abcd6-1461-4ff3-83a9-1e8c37aaee37",
   "doctype": "Case",
   "parties": [
-    "E Emenike Anagbado",
+    "Justine Emenike Anagbado",
     "Esther Ifebube Anagbado"
   ]
 }

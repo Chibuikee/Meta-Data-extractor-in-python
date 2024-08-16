@@ -1,21 +1,23 @@
 {
   "case_title": "Akahall Sons Limited v. N.D.I.C.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-1-2017",
   "year": "2017",
   "suit_number": "SC.302/2006",
   "lex_citation": "LEX(2017)-SC.302/2006",
-  "other_citations": "2PLR/2017/33(SC)",
+  "other_citations": [
+    "2PLR/2017/33(SC)"
+  ],
   "area_of_law": [
-    "Administrative Law and Government",
-    "Banking and Finance",
-    "Company Law",
-    "Debtor and Creditor Law",
-    "Action",
-    "Court",
-    "Judgment",
     "Jurisdiction",
-    "Interpretation of Statute"
+    "Court",
+    "Interpretation of Statute",
+    "Judgment",
+    "Action",
+    "Debtor and Creditor Law",
+    "Company Law",
+    "Banking and Finance",
+    "Administrative Law and Government"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,39 +27,40 @@
   ],
   "judge": [
     "Ibrahim Tanko Muhammad JSC",
+    "Amiru Sanusi JSC",
     "Olukayode Ariwoola JSC",
-    "Kumai Bayang Aka’ahs JSC",
     "Chima Centus Nweze JSC",
-    "Amiru Sanusi JSC"
+    "Kumai Bayang Akaahs JSC"
   ],
   "representation": [
-    "Chief Chris Uche San",
-    "Effiong Esu",
-    "James Odiba",
-    "Emmanuel Okorie",
-    "Uzoma Nwosu-iheme",
     "Isaac Nwachukwu",
-    "Adobi Eziokwu",
-    "Emike Imuekheme",
-    "Angel Uche",
-    "Moses Udoh",
     "James Ebbi",
     "Francis Nsiegbynam",
+    "Adobi Eziokwu",
+    "Angel Uche",
+    "James Odiba",
     "Chiamaka Agu",
-    "Ikani Agabi"
+    "Uzoma Nwosu-iheme",
+    "Effiong Esu",
+    "Chief Chris Uche San",
+    "Moses Udoh",
+    "Ikani Agabi",
+    "Nzube Ezidi",
+    "Emike Imuekheme",
+    "Emmanuel Okorie"
   ],
   "originating_court": [
     "Court of Appeal, Calabar Judicial Division",
     "Federal High Court, Uyo Judicial Division"
   ],
-  "doc_id": "2acdf08f-3fd5-42f2-9182-f2fa942a5819",
+  "doc_id": "3b80fd1e-b17c-4fb9-b981-10ab251679e0",
   "doctype": "Case",
   "parties": [
     "Akahall",
     "Sons Limited",
     "Nigeria Deposit Insurance Corporation",
     "Receiver",
-    "Liquidator of Allied Bank of Nigeria",
-    "Plc"
+    "Plc",
+    "Liquidator of Allied Bank of Nigeria"
   ]
 }

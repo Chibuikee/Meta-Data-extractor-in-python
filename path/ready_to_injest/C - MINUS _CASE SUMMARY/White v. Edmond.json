@@ -3,12 +3,14 @@
   "court": "Chancery",
   "date": "19-invalid-1901",
   "year": "1901",
-  "suit_number": "(1901)-1CH.570",
+  "suit_number": "",
   "lex_citation": "LEX(1901)-1CH.570",
-  "other_citations": "1900W.4755",
+  "other_citations": [
+    "1900W.4755"
+  ],
   "area_of_law": [
-    "Healthcare and Law",
     "Children and Women Law",
+    "Healthcare and Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -19,17 +21,17 @@
   "judge": "Buckley J",
   "representation": [
     "H. Terrell",
-    "James Bacon",
     "Hornell",
+    "Bow",
+    "James Bacon",
     "Keddey Fletcher & Fry",
     "Philbrick & Co",
-    "Haynes & Co",
-    "Bow"
+    "Haynes & Co"
   ],
-  "doc_id": "c184c02e-2aec-41db-bec9-11622afaf16e",
+  "doc_id": "d46f0860-a21f-4130-bb16-fa9bd39cdf4c",
   "doctype": "Case",
   "parties": [
-    "Edmond",
-    "Chancery Division"
+    "White",
+    "Edmond"
   ]
 }

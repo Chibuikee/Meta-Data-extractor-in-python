@@ -1,6 +1,6 @@
 {
   "case_title": "MR. Sunday Adegbite Taiwo v. Serah Adegboro Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-5-2011",
   "year": "2011",
   "suit_number": "SC.96/2002",
@@ -10,13 +10,13 @@
     "(2011)11NWLR(PART.1259)562"
   ],
   "area_of_law": [
-    "Debtor and Creditor Law",
-    "Banking and Finance Law",
-    "Children and Women Law",
     "Action",
-    "Evidence",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Debtor and Creditor Law",
+    "Children and Women Law",
+    "Words and Phrases",
+    "Banking and Finance Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,31 +27,31 @@
   "judge": [
     "Aloma Mariam Mukhtar JSC",
     "Walter Samuel Nkanu Onnoghen JSC",
-    "Francis Fedode Tabai JSC",
     "Ibrahim Tanko Muhammad JSC",
-    "Bode Rhodes-Vivour JSC"
+    "Bode Rhodes-Vivour JSC",
+    "Francis Fedode Tabai JSC"
   ],
   "representation_appellant": [
-    "O. Idowu",
-    "E. Nkenika"
+    "E. Nkenika",
+    "O. Idowu"
   ],
   "representation_respondent": [
+    "L. Alawayi",
     "S. Ibiwoye",
-    "T. Okunte S. Olowolafe",
-    "L. Alawayi"
+    "T. Okunte S. Olowolafe"
   ],
   "originating_court": [
     "Kaduna Division of the Court of Appeal.",
     "High Court of Kwara State"
   ],
-  "doc_id": "95699236-3d1d-4ffd-9fb7-50857514e7d5",
+  "doc_id": "ea216506-ec13-4430-9a49-58e1a46a2410",
   "doctype": "Case",
   "parties": [
     "MR. Sunday Adegbite Taiwo",
     "Serah Adegboro",
     "Societe General Bank",
     "Nig",
-    "Ltd",
-    "Alhaji Tijani Ashiru"
+    "Alhaji Tijani Ashiru",
+    "Ltd"
   ]
 }

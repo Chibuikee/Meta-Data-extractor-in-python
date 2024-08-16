@@ -3,15 +3,17 @@
   "court": "High Court",
   "date": "28-2-1972",
   "year": "1972",
-  "suit_number": "(1972)-AD/70/70",
+  "suit_number": "",
   "lex_citation": "LEX(1972)-AD/70/70",
-  "other_citations": "3PLR/1972/83(HC)",
+  "other_citations": [
+    "3PLR/1972/83(HC)"
+  ],
   "area_of_law": [
-    "Family Law",
-    "Education and Law",
+    "Pleadings and Matrimonial Causes",
     "Children and Women Law",
     "Court",
-    "Pleadings and Matrimonial Cause"
+    "Family Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,7 +22,7 @@
   ],
   "judge": "Odesanya J",
   "representation": "Somade",
-  "doc_id": "ab002b66-45f2-460d-932b-9d39dbdb18ac",
+  "doc_id": "7dc57cbf-b042-4d0e-898e-a7cda4db0203",
   "doctype": "Case",
   "parties": [
     "Morrison A. Labode",

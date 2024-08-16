@@ -1,17 +1,17 @@
 {
   "case_title": "Amadi v. Attorney-general of Imo State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-2-2017",
   "year": "2017",
   "suit_number": "SC.515/2012",
   "lex_citation": "LEX(2017)-SC.515/2012",
   "other_citations": "2PLR/2017/41(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Constitutional Law",
-    "Appeal",
+    "Judgment and Orders",
     "Evidence",
-    "Judgment and Orders"
+    "Appeal",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,22 +21,23 @@
   ],
   "judge": [
     "Ibrahim Tanko Muhammad JSC",
-    "Mary Ukaego Peter-Odili JSC",
+    "Ejembi Eko JSC",
     "Olukayode Ariwoola JSC",
     "Amina Adamu Augie JSC",
-    "Ejembi Eko JSC"
+    "Mary Ukaego Peter-Odili JSC"
   ],
   "representation": [
-    "D. O. Agbo",
-    "K. C. Nwokorie",
     "Assistant Director",
+    "M. O. Akoh",
+    "K. C. Nwokorie",
+    "D. O. Agbo",
     "Imo State"
   ],
   "originating_court": [
     "Court of Appeal, Owerri Judicial Division (judgment of the Court Delivered on 18 May, 2012)",
     "High Court of Imo State, Owerri Judicial Division (delivered on 28 September 2006 with A. O. H. Ukachukwu J., Presiding)."
   ],
-  "doc_id": "3464d97b-79da-4813-81a9-f3bcec908f10",
+  "doc_id": "bf951f9a-2358-472d-a3c5-2d0cfb23dece",
   "doctype": "Case",
   "parties": [
     "David Amadi",

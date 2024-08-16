@@ -10,16 +10,16 @@
     "(1998)2NWLR(PT.536)19"
   ],
   "area_of_law": [
-    "Banking and Finance",
+    "Evidence",
+    "Words and Phrases",
+    "Appeal",
+    "Action",
+    "Jurisdiction",
     "Banking and Finance Law",
     "Commercial Law",
     "Company Law",
     "Tort and Personal Injury",
-    "Action",
-    "Appeal",
-    "Evidence",
-    "Jurisdiction",
-    "Words and Phrases"
+    "Banking and Finance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,18 +27,21 @@
     "Case"
   ],
   "judge": [
-    "Akpabio JCA",
     "Ubaezonu JCA",
+    "Akpabio JCA",
     "Salami JCA"
   ],
   "representation": [
+    "Ebri",
+    "A B Chiafor",
     "R. O Ulasi",
     "Richard",
-    "Ebri"
+    "Shinema Binga"
   ],
-  "doc_id": "4f2a9f1b-d207-4e93-8d13-eca2efb11d66",
+  "doc_id": "153d0079-7933-490b-a986-4bea5f009f45",
   "doctype": "Case",
   "parties": [
+    "Acb Plc",
     "Emostrade Ltd"
   ]
 }

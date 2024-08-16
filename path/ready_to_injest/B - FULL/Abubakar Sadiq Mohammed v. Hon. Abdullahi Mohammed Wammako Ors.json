@@ -1,6 +1,6 @@
 {
   "case_title": "Abubakar Sadiq Mohammed v. Hon. Abdullahi Mohammed Wammako Ors",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-7-2017",
   "year": "2017",
   "suit_number": "SC.788/2016",
@@ -11,9 +11,9 @@
   ],
   "area_of_law": [
     "Election Petition",
-    "Action",
     "Appeal",
-    "Evidence"
+    "Evidence",
+    "Action"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,55 +22,54 @@
     "High Profile Case"
   ],
   "judge": [
-    "Walter Samuel Nkanu Onnoghen JSC",
-    "Clara Bata Ogunbiyi JSC",
+    "Chima Centus Nweze JSC",
     "Kumai Bayang Aka'ahs JSC",
+    "Clara Bata Ogunbiyi JSC",
     "Kudirat Motonmori Olatokunbo Kekere-Ekun  JSC",
-    "Chima Centus Nweze JSC"
+    "Walter Samuel Nkanu Onnoghen JSC"
   ],
   "representation_appellant": [
-    "A.U. Mustapha, Esq",
     "Mustapha",
-    "B. Tafarki, Esq",
-    "Ossy Ehikio, Esq",
-    "C. E. Igbokwe, Esq",
-    "M. Mohammed, Esq",
     "M.I. Ezeani, Esq",
+    "Ossy Ehikio, Esq",
     "Sulaman Saleh, Esq",
-    "J. A. Atanawhenera"
+    "A.U. Mustapha, Esq",
+    "B. Tafarki, Esq",
+    "C. E. Igbokwe, Esq",
+    "J. A. Atanawhenera",
+    "M. Mohammed, Esq"
   ],
   "representation_respondent": [
-    "J. S. Okutepa, Esq",
-    "Elizabeth",
-    "O. Ifedayo, Esq",
-    "Ojonimi",
-    "S. Apeh, Esq",
-    "MRS",
     "Joy",
-    "E. Ameloko",
+    "Alex Ejesieme, Esq",
     "Khadijah Danfulani",
-    "Miss Helen John Apeh",
+    "Elizabeth",
     "Miss Abodia",
-    "O. Okutepa",
     "Enejo Godwin Awlu, Esq",
-    "Christiana",
-    "E. Sagay",
     "O.s Achem, Esq",
+    "J. S. Okutepa, Esq",
     "&",
-    "Alex Ejesieme, Esq"
+    "E. Ameloko",
+    "Ojonimi",
+    "Christiana",
+    "O. Okutepa",
+    "Miss Helen John Apeh",
+    "O. Ifedayo, Esq",
+    "S. Apeh, Esq",
+    "E. Sagay"
   ],
   "originating_court": [
     "Court of Appeal Sokotto Judicial Division(?)",
     "Federal High High Court, Sokoto"
   ],
-  "doc_id": "b884db10-1f8d-439d-b091-b9f8f731d921",
+  "doc_id": "551bf995-1d31-4a1d-9077-7d5cd6416b90",
   "doctype": "Case",
   "parties": [
     "Abubakar Sadiq Mohammed",
+    "Inec",
+    "Apc",
     "Hon. Abdullahi Mohammed Wammako",
     "All Progressive Congress",
-    "Apc",
-    "Independent National Electoral Commission",
-    "Inec"
+    "Independent National Electoral Commission"
   ]
 }

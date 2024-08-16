@@ -8,11 +8,11 @@
   "other_citations": "2PLR/2017/19(SC)",
   "area_of_law": [
     "Real Estate and Property Law",
-    "Commercial Law",
+    "Words and Phrases",
     "Action",
+    "Commercial Law",
     "Evidence",
-    "Pleadings",
-    "Words and Phrases"
+    "Pleadings"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,13 +20,16 @@
     "Case"
   ],
   "judge": [
+    "Jamilu Yammama Tukur JCA",
     "Samuel Chukwudumebi Oseji JCA",
-    "Abimbola Osarugue Obaseki-Adejumo JCA",
-    "Jamilu Yammama Tukur JCA"
+    "Abimbola Osarugue Obaseki-Adejumo JCA"
   ],
-  "representation": "N. J. Nwogun - Elu Eric Osamene Esq",
+  "representation": [
+    "N. J. Nwogun",
+    "Elu Eric Osamene Esq"
+  ],
   "originating_court": "High Court of Lagos State (r. I. B. Adebiyi J., Presiding)",
-  "doc_id": "8c0a71a7-2744-4b97-8f53-6d465429c65f",
+  "doc_id": "b6b110ee-2c5e-4062-81ab-15c50862117d",
   "doctype": "Case",
   "parties": [
     "Emankhu Addeh",

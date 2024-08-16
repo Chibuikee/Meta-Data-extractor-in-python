@@ -1,6 +1,6 @@
 {
   "case_title": "Badejo v. Federal Minister of Education",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "20-9-1996",
   "year": "1996",
   "suit_number": "SC.196/1990",
@@ -10,15 +10,15 @@
     "(1996)8NWLR(PT.464)15"
   ],
   "area_of_law": [
-    "Constitutional Law and Human Rights",
-    "Education and Law",
-    "Children and Women Law",
     "Action",
-    "Court",
+    "Constitutional Law and Human Rights",
     "Evidence",
-    "Judgment and Order",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Judgment and Order",
+    "Children and Women Law",
+    "Court",
+    "Words and Phrases",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,39 +27,38 @@
     "High Profile Case"
   ],
   "judge": [
-    "Idris Legbo Kutigi JSC",
-    "Michael Ekundayo Ogundare JSC",
-    "Emanuel Obioma Ogwuegbu JSC",
     "Uthman Mohammed JSC",
+    "Emanuel Obioma Ogwuegbu JSC",
+    "Michael Ekundayo Ogundare JSC",
+    "Idris Legbo Kutigi JSC",
     "Sylvester Umaru Onu JSC"
   ],
   "representation": [
-    "S.A. Olugbemi",
+    "General",
     "Tochukwu Onwugbufor",
-    "General of Federation",
-    "F.M. Molokwu",
-    "Director of Civil Litigation",
-    "Federal Ministry of Justice",
+    "Legal Officer",
+    "S.A. Olugbemi",
+    "Federation",
     "Lilian Dike",
-    "Principal Legal Officer",
     "Federal Ministry of Justice",
     "C.I. Okpoko",
-    "Legal Officer",
-    "Federal Ministry of Justice"
+    "Principal Legal Officer",
+    "Director of Civil Litigation",
+    "F.M. Molokwu"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Judicial Division",
     "High Court of Lagos State"
   ],
-  "doc_id": "7eb5bc93-4555-4f08-acbd-656e93bf3d14",
+  "doc_id": "a643566f-6f8e-4eee-9dea-c4fd6bcc02a2",
   "doctype": "Case",
   "parties": [
+    "Babafemi Badejo",
     "Adeyinka Abosede Badejo",
     "Miss",
-    "Babafemi Badejo",
-    "Federal Minister of Education",
     "Director-general",
-    "Federal Ministry of Education",
-    "Attorney-general of the Federation"
+    "Attorney-general of the Federation",
+    "Federal Minister of Education",
+    "Federal Ministry of Education"
   ]
 }

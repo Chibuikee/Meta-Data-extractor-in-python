@@ -10,11 +10,16 @@
     "OTHERCITATIONS"
   ],
   "area_of_law": [
-    "Appeal",
-    "Court",
-    "Interpretation of Statutes",
+    "Words and Phrases",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Education and Law",
+    "Children and Women Law",
+    "Constitutional Law",
+    "Administrative and Government Law",
+    "Constitutional Law and Jurisprudence",
+    "Court",
+    "Appeal",
+    "Interpretation of Statutes"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,17 +32,18 @@
     "Braimah Amen Omosun JCA"
   ],
   "representation": [
+    "C.C. Elechi",
     "Robert Clark",
-    "C.O. Akpamgbo",
-    "Responundefineddent"
+    "Respon",
+    "C.O. Akpamgbo"
   ],
-  "doc_id": "883c44ce-38fa-4746-af8f-8909e0a9e22e",
+  "doc_id": "0f49efae-4de1-43a7-833b-5ff6087e9bf0",
   "doctype": "Case",
   "parties": [
     "Olu S. Adekunle",
+    "Dozie Ufondu",
     "Toma A. Udandoma",
     "Cyril O. Agbe-davies",
-    "Dozie Ufondu",
     "University of Port Harcourt"
   ]
 }

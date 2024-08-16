@@ -1,6 +1,6 @@
 {
   "case_title": "Ohamuo v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "25-2-1966",
   "year": "1966",
   "suit_number": "S.C.677/1965",
@@ -18,8 +18,9 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sir Adetokunbo Ademola CJN",
-    "George Baptist Ayodola Coker, JSCChukwunweike Idigbe JSC"
+    "Chukwunweike Idigbe JSC",
+    "George Baptist Ayodola Coker JSC",
+    "Sir Adetokunbo Ademola CJN"
   ],
   "representation": [
     "J.A. Cole",
@@ -27,10 +28,10 @@
     "State Counsel"
   ],
   "originating_court": "Na",
-  "doc_id": "5009d929-3049-41b3-83f6-b14d401938bf",
+  "doc_id": "54a42d7f-ac0b-49ad-9a47-b58b35da198e",
   "doctype": "Case",
   "parties": [
-    "Ine Ohamuo",
+    "Augustine Ohamuo",
     "The State"
   ]
 }

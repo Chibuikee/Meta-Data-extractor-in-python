@@ -10,15 +10,15 @@
     "(2020)LPELR-49521(CA)"
   ],
   "area_of_law": [
-    "Debtor and Creditor",
-    "Alternative Dispute Resolution",
-    "Commercial Law",
-    "Constitutional Law",
-    "Constitutional and Human Rights Law",
-    "Ethics",
     "Evidence",
-    "Judgment and Order",
-    "Word and Phrases"
+    "Ethics",
+    "Alternative Dispute Resolution",
+    "Constitutional Law",
+    "Commercial Law",
+    "Constitutional and Human Rights Law",
+    "Word and Phrases",
+    "Debtor and Creditor",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -31,12 +31,12 @@
     "Tijjani Abubakar JCA"
   ],
   "representation_appellant": [
-    "K. Isola-osobu",
-    "A. Toba"
+    "A. Toba",
+    "K. Isola-osobu"
   ],
   "representation_respondent": "Bayo Yusuff",
   "originating_court": "High Court of Lagos State, Ikeja Division, Lagos",
-  "doc_id": "59591de9-cefc-46ee-8262-f5f6efa27580",
+  "doc_id": "bb95d73f-b42e-4737-b6f4-f19e5f836f17",
   "doctype": "Case",
   "parties": [
     "Aims Foods Limited",

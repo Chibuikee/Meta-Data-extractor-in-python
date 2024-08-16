@@ -1,6 +1,6 @@
 {
   "case_title": "A.C.B. Ltd v. Yesufu",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-2-1978",
   "year": "1978",
   "suit_number": "SC288/1976",
@@ -10,14 +10,14 @@
     "(1978)2S.C.93"
   ],
   "area_of_law": [
+    "Tort and Personal Injury Law",
     "Agriculture and Food Law",
-    "Banking and Finance",
+    "Words and Phrases",
+    "Interpretation of Statute",
     "Commercial Law",
     "Debtor and Creditor",
-    "Tort and Personal Injury Law",
-    "Evidence",
-    "Interpretation of Statute",
-    "Words and Phrases"
+    "Banking and Finance",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -31,16 +31,13 @@
     "Muhammed Bello JSC"
   ],
   "representation": [
-    "MR",
     "M. A. Agbamuche",
-    "DR",
     "M. Odje"
   ],
   "originating_court": [
-    "",
     "High Court of Benin City"
   ],
-  "doc_id": "ceae4a99-7c26-4502-9f84-a850e762bb9a",
+  "doc_id": "f017e54c-e55f-4159-8b23-6ad5b9b5e552",
   "doctype": "Case",
   "parties": [
     "African Continental Bank Limited",

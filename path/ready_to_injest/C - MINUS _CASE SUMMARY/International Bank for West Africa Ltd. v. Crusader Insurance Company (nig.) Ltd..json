@@ -3,16 +3,16 @@
   "court": "High Court",
   "date": "13-5-1976",
   "year": "1976",
-  "suit_number": "(1976)-PHC/97/75",
+  "suit_number": "",
   "lex_citation": "LEX(1976)-PHC/97/75",
   "other_citations": "3PLR/1976/65(HC)",
   "area_of_law": [
-    "Commercial Law",
     "Constitutional Law",
+    "Action",
     "Insurance and Re",
-    "Insurance and Reinsurance Law",
+    "Commercial Law",
     "Real Estate and Property Law",
-    "Action"
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,10 +24,10 @@
     "Assissi Bell-gam",
     "Balogun"
   ],
-  "doc_id": "9165d2b1-3920-4fa9-9b87-a8e0f128dce6",
+  "doc_id": "55b144fa-aaa8-45cd-9358-bae10c7a4b7e",
   "doctype": "Case",
   "parties": [
-    "Ational Bank for West Africa Ltd",
+    "International Bank for West Africa Ltd",
     "Crusader Insurance Company (nig.) Ltd"
   ]
 }

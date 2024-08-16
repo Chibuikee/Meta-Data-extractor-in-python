@@ -1,6 +1,6 @@
 {
   "case_title": "Arehia v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "29-4-1982",
   "year": "1982",
   "suit_number": "SC81/1981",
@@ -10,14 +10,14 @@
     "(1982)4SC78"
   ],
   "area_of_law": [
-    "Criminal Law",
-    "Criminal Law and Procedure",
-    "Children and Women Law",
-    "Education and Law",
-    "Ethics",
-    "Transport and Infrastructure Law",
     "Evidence",
-    "Interpretation of Statute"
+    "Ethics",
+    "Criminal Law and Procedure",
+    "Interpretation of Statute",
+    "Education and Law",
+    "Children and Women Law",
+    "Transport and Infrastructure Law",
+    "Criminal Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,26 +26,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Ayo Gabriel Irikefe JSC",
-    "Kayode Eso JSC",
-    "Anthony Nnaemeka Aniagolu JSC",
     "Muhammwed Bello JSC",
-    "Mohammed Lawal Uwais JSC"
+    "Anthony Nnaemeka Aniagolu JSC",
+    "Ayo Gabriel Irikefe JSC",
+    "Mohammed Lawal Uwais JSC",
+    "Kayode Eso JSC"
   ],
   "representation": [
-    "P.E. Okode",
     "S. Osime",
-    "G.E. Edokpayi",
-    "Deputy -general Bendel State"
+    "General Bendel State",
+    "P.E. Okode",
+    "Deputy",
+    "G.E. Edokpayi"
   ],
   "originating_court": [
     "Federal Court of Appeal",
     "Bendel State High Court (holden at Ubiaja)"
   ],
-  "doc_id": "ced8eb69-b4a7-4569-ae8f-05092421df16",
+  "doc_id": "8079f92f-2385-4d84-8c78-243f5ce375d6",
   "doctype": "Case",
   "parties": [
-    "Opher Arehia & Anor",
+    "Christopher Arehia & Anor",
     "The State"
   ]
 }

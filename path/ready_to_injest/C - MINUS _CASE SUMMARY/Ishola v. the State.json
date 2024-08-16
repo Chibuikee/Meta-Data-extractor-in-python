@@ -1,6 +1,6 @@
 {
   "case_title": "Ishola v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "26-10-1978",
   "year": "1978",
   "suit_number": "SC8/1977",
@@ -10,12 +10,12 @@
     "(1978)9-10S.C.(REPRINT)59"
   ],
   "area_of_law": [
-    "Criminal Law",
-    "Criminal Law and Procedure",
-    "Children and Women Law",
     "Healthcare and Law",
-    "Evidenc",
-    "Interpretation of Statute"
+    "Children and Women Law",
+    "Interpretation of Statute",
+    "Criminal Law and Procedure",
+    "Criminal Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,31 +24,30 @@
     "High Profile Case"
   ],
   "judge": [
+    "Chukwunwike Idigbe JSC",
     "Damley Arthur Alexander CJN",
-    "Atanda Fatai-Williams JSC",
-    "Ayo Gabriel Irikefe JSC",
     "Muhamme Bello JSC",
-    "Chukwunwike Idigbe JSC"
+    "Atanda Fatai-Williams JSC",
+    "Ayo Gabriel Irikefe JSC"
   ],
   "representation": [
     "Sobo Sowemimo",
-    "R. I. Clarke",
-    "G. P. Alatishe . S. O. Ilori",
-    "D.P.P. Lagos State",
+    "S. O. Ilori",
     "B. O. Olowu",
     "S.C. Lagos State",
-    "Miss",
-    "C. Uweia",
-    "S.C. Lagos State"
+    "D.P.P. Lagos State",
+    "G. P. Alatishe",
+    "R. I. Clarke",
+    "C. Uweia"
   ],
   "originating_court": [
     "Federal Court of Appeal",
     "High Court of Lagos State"
   ],
-  "doc_id": "9cfc4bc9-ad41-4815-a76c-1f7904f24b81",
+  "doc_id": "74a104b5-6fb4-47a4-9417-4c035f4ec875",
   "doctype": "Case",
   "parties": [
-    "Ishola (alias Ejigbadero",
+    "Jimoh Ishola (alias Ejigbadero",
     "The State"
   ]
 }

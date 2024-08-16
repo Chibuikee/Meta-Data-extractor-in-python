@@ -1,6 +1,6 @@
 {
   "case_title": "J. Adjarho v. MRS G. Aghoghovwia and Others",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "1-4-1985",
   "year": "1985",
   "suit_number": "SC153/1984",
@@ -10,11 +10,11 @@
     "[1985]1NSCC376"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Children and Women Law",
+    "Food and Agriculture Law",
     "Customary Law",
+    "Children and Women Law",
     "Commercial Law",
-    "Food and Agriculture Law"
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,21 +23,21 @@
     "High Profile Case"
   ],
   "judge": [
-    "Mohammed Bello JSC",
-    "Kayode Eso JSC",
-    "Dahunsi Olugbeni Coker JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
-    "Saidu Kawu JSC"
+    "Dahunsi Olugbeni Coker JSC",
+    "Saidu Kawu JSC",
+    "Mohammed Bello JSC",
+    "Kayode Eso JSC"
   ],
   "representation": [
     "J.B. Iyare",
-    "G.C. Akoro",
-    "T.J.O. Okpoko"
+    "T.J.O. Okpoko",
+    "G.C. Akoro"
   ],
-  "doc_id": "b4a759ec-7d99-4345-95cb-a52405c82b95",
+  "doc_id": "8f4eca45-b0dc-4d28-9ed9-4520014a5f08",
   "doctype": "Case",
   "parties": [
-    "Djarho and Anor",
+    "J.J. Adjarho and Anor",
     "MRS G. Aghoghovwia and Others"
   ]
 }

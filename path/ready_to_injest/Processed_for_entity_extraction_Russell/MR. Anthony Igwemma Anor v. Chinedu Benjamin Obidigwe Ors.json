@@ -10,10 +10,10 @@
     "(2019)LPELR-48112(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Words and Phrases",
     "Election Law",
+    "Words and Phrases",
     "Jurisdiction",
+    "Constitutional Law",
     "Judgment and Order"
   ],
   "semantic_tags": [
@@ -23,44 +23,44 @@
     "High Profile Case"
   ],
   "judge": [
+    "Olukayode Ariwoola JSC",
     "Amiru Sanusi JSC",
     "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Olukayode Ariwoola JSC",
     "John Inyang Okoro JSC"
   ],
   "representation_appellant": [
     "D.O. Okoli, Esq",
+    "P.I. Chukwudebele, Esq",
     "O. M. Madukonje, Esq",
-    "Ifeanyi Obiakor, Esq",
     "Nnamdi Anagor, Esq",
-    "P.I. Chukwudebele, Esq"
+    "Ifeanyi Obiakor, Esq"
   ],
   "representation_respondent": [
-    "E. E. Mmeru, Esq",
-    "E. N. Onyibor, Esq",
-    "I. E. Inyang, Esq",
     "A. I. Idris, Esq",
-    "O. P. Okonkwu, Esq",
-    "P. T. Soje, Esq",
-    "O.U. Nwaeze, Esq",
+    "E. J. Effiong, Esq",
+    "E. E. Mmeru, Esq",
     "M. I. Balogun, Esq",
+    "O.U. Nwaeze, Esq",
+    "P. T. Soje, Esq",
+    "E. N. Onyibor, Esq",
     "S. E. Aruwa, Esq",
-    "Roy",
-    "E. J. Effiong, Esq"
+    "I. E. Inyang, Esq",
+    "O. P. Okonkwu, Esq",
+    "Roy"
   ],
   "originating_court": [
     "Court of Appeal, Enugu Division, Enugu State",
     "Federal High Court Awka, Anambra State"
   ],
-  "doc_id": "6f03d21a-275a-4fd7-b90b-da5963f59fa0",
+  "doc_id": "dd5c5ab4-a4f9-469f-ac97-9928d5e38b6d",
   "doctype": "Case",
   "parties": [
     "MR. Anthony Igwemma",
     "Hon. Victor Jideofor Okoye",
-    "Chinedu Benjamin Obidigwe",
-    "All Progressives Grand Alliance",
     "Independent National Electoral Commission",
-    "Inec"
+    "Chinedu Benjamin Obidigwe",
+    "Inec",
+    "All Progressives Grand Alliance"
   ]
 }

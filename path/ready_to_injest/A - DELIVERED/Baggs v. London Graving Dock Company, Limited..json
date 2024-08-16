@@ -3,17 +3,17 @@
   "court": "Court of Appeal",
   "date": "25-invalid-1943",
   "year": "1943",
-  "suit_number": "(1943)-K.B.291",
+  "suit_number": "",
   "lex_citation": "LEX(1943)-K.B.291",
   "other_citations": [
     "3PLR/1943/1(CA-E)",
     "[1943]K.B.291"
   ],
   "area_of_law": [
-    "Employment and Labour Law",
     "Alternative Dispute Resolution",
+    "Evidence",
     "Administrative and Government Law",
-    "Evidence"
+    "Employment and Labour Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,16 +22,16 @@
   ],
   "judge": "Scott, Goddard and Du Parcq L JJ",
   "representation": [
-    "Lynskey K.c",
+    "Ogilvie Jones",
     "W. H. Duckworth",
-    "Ogilvie Jones"
+    "Lynskey K.c"
   ],
   "originating_court": "Judge of Bow County Court Sitting as an Arbitrator Under the Workmen's Compensation Acts.",
-  "doc_id": "3d7d77f4-6aab-454e-b527-653a67354284",
+  "doc_id": "e0aeb26a-251b-4c00-9b55-df703f112ce8",
   "doctype": "Case",
   "parties": [
     "Baggs",
-    "London Graving Dock Company",
-    "Limited"
+    "Limited",
+    "London Graving Dock Company"
   ]
 }

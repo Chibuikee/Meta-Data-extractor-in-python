@@ -10,13 +10,13 @@
     "(2017)LPELR-42309(CA)"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
-    "Admiralty and Maritime",
-    "Constitutional Law",
-    "Criminal Law",
-    "Criminal Law and Procedure",
     "Oil and Gas Law",
-    "Interpretation of Statute"
+    "Constitutional Law",
+    "Admiralty and Maritime",
+    "Interpretation of Statute",
+    "Administrative and Government Law",
+    "Criminal Law and Procedure",
+    "Criminal Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,22 +24,21 @@
     "Case"
   ],
   "judge": [
-    "Joseph Shagbaor Ikyegh JCA",
+    "Biobele Abraham Georgewill JCA",
     "Tijjani Abubakar JCA",
-    "Biobele Abraham Georgewill JCA"
+    "Joseph Shagbaor Ikyegh JCA"
   ],
   "representation_appellant": [
-    "B. Koku",
     "C. Uguejio",
-    "F. Falade",
-    "A. A. Omokaye"
+    "B. Koku",
+    "A. A. Omokaye",
+    "F. Falade"
   ],
   "representation_respondent": "I.r Oyedepo",
   "originating_court": [
-    "",
     "Federal High Court Lagos"
   ],
-  "doc_id": "e1b908c9-3749-4440-aede-11feedb617f2",
+  "doc_id": "b9a0f1b6-6fe8-416d-b5bf-36b8e4364240",
   "doctype": "Case",
   "parties": [
     "Patro Christian",

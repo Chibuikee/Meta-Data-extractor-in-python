@@ -1,6 +1,6 @@
 {
   "case_title": "Ugochukwu v. Cooperative and Commerce Bank (nigeria) Limited",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "2-7-1996",
   "year": "1996",
   "suit_number": "SC.24/1993",
@@ -10,12 +10,12 @@
     "(1996)6NWLR(PT.456)524"
   ],
   "area_of_law": [
-    "Administrative and Government Act",
     "Banking and Finance",
-    "Real Estate and Property Law",
+    "Judgment and Order",
+    "Administrative and Government Act",
     "Court",
-    "Evidence",
-    "Judgment and Order"
+    "Real Estate and Property Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,28 +24,28 @@
     "High Profile Case"
   ],
   "judge": [
-    "Salihu Modibbo Alfa Belgore JSC",
-    "Idris Legbo Kutigi JSC",
-    "Michael Ekundayo Ogundare JSC",
     "Uthman Mohammed JSC",
-    "Yekini Olayiwola Adio JSC"
+    "Michael Ekundayo Ogundare JSC",
+    "Idris Legbo Kutigi JSC",
+    "Yekini Olayiwola Adio JSC",
+    "Salihu Modibbo Alfa Belgore JSC"
   ],
   "representation_appellant": "U. N. Udechukwu",
   "representation_respondent": [
-    "Mgbemena",
-    "J. C. Ifebun"
+    "J. C. Ifebunandu",
+    "Mgbemena"
   ],
   "originating_court": [
     "Court of Appeal, Port Harcourt Judicial Division.",
     "High Court, Holden at Aba"
   ],
-  "doc_id": "7e6b3d6b-9911-404a-a781-a509dbe70a71",
+  "doc_id": "a8d9f0c7-bfc1-403b-9b65-a085d52aa745",
   "doctype": "Case",
   "parties": [
     "Chief Belonwu Ugochukwu",
-    "Cooperative",
-    "Commerce Bank",
     "Nigeria",
-    "Limited"
+    "Cooperative",
+    "Limited",
+    "Commerce Bank"
   ]
 }

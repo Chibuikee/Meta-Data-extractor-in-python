@@ -4,18 +4,18 @@
   "date": "10-7-1968",
   "year": "1968",
   "suit_number": "",
-  "lex_citation": "LEX(1969)–1ALLE.R13",
+  "lex_citation": "LEX(1969)-1ALLE.R13",
   "other_citations": [
     "2PLR/1969/50(SC)",
     "[1969]1ALLER13"
   ],
   "area_of_law": [
-    "Tort and Personal Injuries La",
+    "Tort and Personal Injuries Law",
+    "Interpretation of Statutes",
     "Transport and Motor Vehicle Law",
     "Children and Women Law",
-    "Education and Law",
-    "Interpretation of Statutes",
-    "Words and Phrase"
+    "Words and Phrases",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,15 +24,16 @@
   ],
   "judge": "Lord Paull J",
   "representation": [
-    "Lovell",
     "White & King",
+    "Lovell",
     "W.m Easton",
-    "& Sons K Diana Phillips"
+    "K Diana Phillips",
+    "& Sons"
   ],
-  "doc_id": "49aceea4-fa03-46c1-8498-6dd3e913872d",
+  "doc_id": "99e7719f-9045-4eaf-abc7-962a86a66a53",
   "doctype": "Case",
   "parties": [
-    "Bryant",
-    "Lex (1969) – 1 All E.r"
+    "Hewer",
+    "Bryant"
   ]
 }

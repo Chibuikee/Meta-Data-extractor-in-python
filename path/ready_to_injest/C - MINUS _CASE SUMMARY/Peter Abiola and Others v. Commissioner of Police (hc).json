@@ -3,13 +3,13 @@
   "court": "High Court",
   "date": "23-10-1961",
   "year": "1961",
-  "suit_number": "(1961)-HC-W23/61",
+  "suit_number": "",
   "lex_citation": "LEX(1961)-HC-W23/61",
   "other_citations": "3PLR/1961/19(HC-W)",
   "area_of_law": [
     "Criminal Law",
-    "Education and the Law",
     "Children and Women",
+    "Education and the Law",
     "Appeal"
   ],
   "semantic_tags": [
@@ -19,15 +19,16 @@
   ],
   "judge": "Samuel Okai Quashie-Idun CJ",
   "representation": [
-    "Haastrup",
+    "Crown Counsel",
+    "Apala",
     "Awofolaju",
-    "Crown Counsel"
+    "Haastrup"
   ],
   "originating_court": "Gomes, Magistrate at Ife",
-  "doc_id": "57d497de-5c0f-4ae3-ba5a-6af98a3a42b1",
+  "doc_id": "d64a4e15-f4f6-4899-bce1-c1dde484e0ca",
   "doctype": "Case",
   "parties": [
-    "Abiola and Others",
+    "Peter Abiola and Others",
     "Commissioner of Police"
   ]
 }

@@ -7,14 +7,14 @@
   "lex_citation": "LEX(2000)-CA/I/132/93",
   "other_citations": "3PLR/2000/181(CA)",
   "area_of_law": [
-    "Real Estate",
+    "Action",
     "Agriculture and Food Law",
     "Ethics",
+    "Real Estate",
+    "Pleadings",
     "Children and Women Law",
-    "Action",
-    "Evidence",
     "Judgment and Order",
-    "Pleadings"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,15 +22,15 @@
     "Case"
   ],
   "judge": [
-    "Aloma Mariam Mukhtar JCA",
     "Moronkeji Onalaja JCA",
-    "Dalhatu Adamu JCA"
+    "Dalhatu Adamu JCA",
+    "Aloma Mariam Mukhtar JCA"
   ],
   "representation": [
-    "Peter Ade Ogunleye",
-    "Soji Oyebadejo"
+    "Soji Oyebadejo",
+    "Peter Ade Ogunleye"
   ],
-  "doc_id": "53d5012d-7a01-45b0-86f5-fc197e546f35",
+  "doc_id": "966f6797-91c2-49c0-808a-cc02cc1a1024",
   "doctype": "Case",
   "parties": [
     "MRS. Folasade Oyewole",

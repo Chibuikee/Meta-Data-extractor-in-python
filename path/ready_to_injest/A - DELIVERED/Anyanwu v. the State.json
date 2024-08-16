@@ -1,6 +1,6 @@
 {
   "case_title": "Anyanwu v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "28-6-2002",
   "year": "2002",
   "suit_number": "SC.328/2001",
@@ -18,25 +18,29 @@
     "High Profile Case"
   ],
   "judge": [
-    "Muhammadu Lawal Uwais JSC",
-    "Idris Legbo Kutigi JSC",
-    "Michael Ekundayo Ogundare JSC",
     "Uthman Mohammed JSC",
-    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "Idris Legbo Kutigi JSC",
+    "Akintola Olufemi Ejiwunmi JSC",
     "Umaru Atu Kalgo JSC",
-    "Akintola Olufemi Ejiwunmi JSC"
+    "Michael Ekundayo Ogundare JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC",
+    "Muhammadu Lawal Uwais JSC"
   ],
   "representation_appellant": "B. E. I. Nwofor",
   "representation_respondent": [
-    "J. T. U. Nnodum",
     "Attorney-general of Imo State",
-    "Issues From Cause of Issues Criminal Law"
+    "Issues From",
+    "J. T. U. Nnodum",
+    "C. N. Akowundu",
+    "Of Issues Criminal Law",
+    "Cause",
+    "Senior State Counsel"
   ],
   "originating_court": [
     "Court of Apppeal [coram: Akpiroroh, J.C.A. Ogebe J.C.a and Pats-acholonu, J.C.A. ]",
     "High Court of Imo State"
   ],
-  "doc_id": "a4f3356e-2217-444b-8c51-44fec1f79aea",
+  "doc_id": "7736c60f-f662-4334-acbd-de4a043b09bb",
   "doctype": "Case",
   "parties": [
     "Godwin Anyanwu",

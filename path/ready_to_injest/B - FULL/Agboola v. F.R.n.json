@@ -7,12 +7,12 @@
   "lex_citation": "LEX(2017)-CA/IL/C85/2015",
   "other_citations": "2PLR/2017/31(CA)",
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Transportation and Logistic Law",
-    "Appeal",
     "Court",
+    "Words and Phrases",
+    "Transportation and Logistic Law",
     "Evidence",
-    "Words and Phrases"
+    "Appeal",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,16 +21,17 @@
   ],
   "judge": [
     "Chidi Nwaoma Uwa JCA",
-    "Hamma Akawu Barka JCA",
-    "Boloukuromo Moses Ugo JCA"
+    "Boloukuromo Moses Ugo JCA",
+    "Hamma Akawu Barka JCA"
   ],
   "representation": [
-    "Adeyi Isaiah",
+    "Pls Ndlea",
     "M. O. Adeleye",
-    "Pls Ndlea"
+    "Adeyi Isaiah",
+    "R. O Garba"
   ],
   "originating_court": "Federal High Court, Ilorin Judicial Division (judgment of the Court Delivered on 27 April 2015).",
-  "doc_id": "3c422068-93d6-45cf-8da7-b9ef9f1b9bcd",
+  "doc_id": "f04655f3-9c3f-4098-bf91-c23ce14eeb3a",
   "doctype": "Case",
   "parties": [
     "Abiodun Agboola",

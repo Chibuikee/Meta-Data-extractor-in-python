@@ -1,6 +1,6 @@
 {
   "case_title": "Suraju Olanrewaju v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-3-2020",
   "year": "2020",
   "suit_number": "SC.335/2016",
@@ -10,9 +10,9 @@
     "(2020)LPELR-49569(SC)"
   ],
   "area_of_law": [
+    "Evidence",
     "Criminal Law and Procedure",
-    "Children and Women Law",
-    "Evidence"
+    "Children and Women Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,27 +21,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olabode Rhodes-Vivour JSC",
     "Chima Centus Nweze JSC",
-    "Amina Adamu Augie JSC",
+    "Olabode Rhodes-Vivour JSC",
+    "Paul Adamu Galumje JSC",
     "Ejembi Eko JSC",
-    "Paul Adamu Galumje JSC"
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "Prince Abioye",
-    "A. Oloyode-asanike"
+    "A. Oloyode-asanike",
+    "Prince Abioye"
   ],
   "representation_respondent": [
-    "Dapo Adeniji, Esq",
-    "Attorney-general",
+    "K. Adekilekun Tijani, Esq",
     "Osun State",
-    "K. Adekilekun Tijani, Esq"
+    "Dapo Adeniji, Esq",
+    "Attorney-general"
   ],
   "originating_court": [
     "Court of Appeal, Akure Division",
     "High Court of Osun State of Nigeria"
   ],
-  "doc_id": "55e1784c-da40-4ae6-b90e-30960ac76a1a",
+  "doc_id": "33e43b5c-9eba-475e-a453-fb0a2d1f18cb",
   "doctype": "Case",
   "parties": [
     "Suraju Olanrewaju",

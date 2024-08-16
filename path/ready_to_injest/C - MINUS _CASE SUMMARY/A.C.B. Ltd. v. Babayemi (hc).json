@@ -3,17 +3,17 @@
   "court": "High Court",
   "date": "3-11-1969",
   "year": "1969",
-  "suit_number": "(1969)NCLE363",
+  "suit_number": "",
   "lex_citation": "LEX(1969)-LD(130/68",
   "other_citations": [
     "3PLR/1969/1(HC-L)",
     "(1969)NCLE363"
   ],
   "area_of_law": [
-    "Banking and Finance",
-    "Commercial Law",
     "Company and Corporate Law",
+    "Commercial Law",
     "Debtor and Creditor",
+    "Banking and Finance",
     "Evidence"
   ],
   "semantic_tags": [
@@ -23,7 +23,7 @@
   ],
   "judge": "Dosumu J",
   "representation": "Representation Not Found",
-  "doc_id": "9d87ab14-c6a8-42b4-bc75-40a9eb9912de",
+  "doc_id": "6e95ae63-0489-4e0b-94ac-4edac6c4c991",
   "doctype": "Case",
   "parties": [
     "A.C.B. Ltd. V Babayemi",

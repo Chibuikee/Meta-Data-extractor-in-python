@@ -10,15 +10,15 @@
     "(2013)LPELR-19957(CA)"
   ],
   "area_of_law": [
-    "Admiralty and Maritime Law",
-    "Commercial Law",
-    "Ethics",
-    "Insurance and Reinsurance",
     "International Trade",
+    "Insurance and Reinsurance",
+    "Ethics",
     "Appeal",
     "Judgment and Order",
+    "Admiralty and Maritime Law",
     "Interpretation of Statute",
-    "Word and Phrases"
+    "Word and Phrases",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -30,18 +30,26 @@
     "Chinwe Eugenia Iyizoba JCA",
     "Fatima Omoro Akinbami JCA"
   ],
-  "representation_appellant": "L. N. Mbanefo San B. Orekyeh",
-  "representation_respondent": [
-    "Prof. J. N. Mbadugha",
-    "Emeka Okpoko Esq Ifeyinwa Emesibe-ene"
+  "representation_appellant": [
+    "L. N. Mbanefo San",
+    "B. Orekyeh"
   ],
-  "doc_id": "94d42b67-1b37-4aff-8bcb-033b00a3ffcb",
+  "representation_respondent": [
+    "Ifeyinwa Emesibe-ene",
+    "Prof. J. N. Mbadugha",
+    "Emeka Okpoko Esq"
+  ],
+  "originating_court": [
+    "State",
+    "Federal High Court, Lagos Judicial Division (abutu J., Presiding)"
+  ],
+  "doc_id": "5a20fc01-62f8-4fb6-8994-fbe7a834531b",
   "doctype": "Case",
   "parties": [
     "Ingosstrakh Insurance Company Ltd",
+    "Starview Nigeria Ltd",
     "Fiogret Limited",
     "Mv Tahoma Reefer",
-    "Tahoma Enterprises Ltd",
-    "Starview Nigeria Ltd"
+    "Tahoma Enterprises Ltd"
   ]
 }

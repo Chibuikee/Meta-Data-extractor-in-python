@@ -1,6 +1,6 @@
 {
   "case_title": "Apostle Peter Ekweozor Ors v. the Registered Trustees of the Saviour S Apostolic Church of Nigeria",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-3-2020",
   "year": "2020",
   "suit_number": "SC.416/2014",
@@ -10,15 +10,15 @@
     "(2020)LPELR-49568(SC)"
   ],
   "area_of_law": [
-    "Company Law",
-    "Nonprofit Law",
-    "Real Estate and Property Law",
-    "Religion and Law",
-    "Action",
-    "Appeal",
-    "Court",
     "Evidence",
-    "Jurisdiction"
+    "Appeal",
+    "Action",
+    "Religion and Law",
+    "Real Estate and Property Law",
+    "Jurisdiction",
+    "Nonprofit Law",
+    "Court",
+    "Company Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,17 +27,17 @@
     "High Profile Case"
   ],
   "judge": [
+    "Chima Centus Nweze JSC",
     "Olabode Rhodes-Vivour JSC",
     "Mary Ukaego Peter-Odili JSC",
-    "Chima Centus Nweze JSC",
-    "Amina Adamu Augie JSC",
-    "Ejembi Eko JSC"
+    "Ejembi Eko JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
-    "Ogwu James Onoja, San",
+    "Mimi Ayua, Esq",
     "Noah Abdul, Esq",
     "M.A. Ebuke, Esq",
-    "Mimi Ayua, Esq"
+    "Ogwu James Onoja, San"
   ],
   "representation_respondent": [
     "Ikechukwu Onuoma, Esq",
@@ -47,14 +47,14 @@
     "Lower Appellate Court: Court of Appeal, Enugu Division [decision Dated 30th June, 2014, Coram: Massoud Abdulrahman Oredola, Emmanuel Akomaye Agim, Misitura Omodere Bolaji-yusuf J.C.A.]",
     "Trial: High Court of Justice, Awka Judicial Division [in the Then Anambra State of Nigeria Vide a Writ of Summons Dated 16th December, 1986. by the Further Amended Statement of Claim Dated 27th June, 2001]"
   ],
-  "doc_id": "977087e4-d970-4995-91ed-bd64c2daf126",
+  "doc_id": "cd0944ca-8fd5-4d07-852e-81cd15e67e8c",
   "doctype": "Case",
   "parties": [
-    "Apostle Peter Ekweozor",
-    "Rev. K. Oyema",
-    "The Registered Trustees of the Saviour",
     "S Apostolic Church",
+    "Apostle Peter Ekweozor",
     "The Registered Trustees of the Saviour",
-    "S Apostolic Church of Nigeria"
+    "Rev. K. Oyema",
+    "S Apostolic Church of Nigeria",
+    "The Registered Trustees of the Saviour"
   ]
 }

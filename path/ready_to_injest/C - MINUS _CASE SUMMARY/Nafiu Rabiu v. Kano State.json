@@ -1,6 +1,6 @@
 {
   "case_title": "Nafiu Rabiu v. Kano State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "21-11-1980",
   "year": "1980",
   "suit_number": "SC.49/1980",
@@ -10,20 +10,20 @@
     "(1980)8-11S.C.(REPRINT)85"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Constitutional Law and Jurisprudence",
-    "Constitutional Law",
     "Healthcare and Law",
+    "Constitutional Law",
     "Children and Women Law",
+    "Judgment",
+    "Notable Pronouncement",
     "Ethics",
     "Appeal",
-    "Court",
-    "Evidence",
-    "Judgment",
     "Interpretation of Statutes",
     "Interpretation of Statute",
+    "Criminal Law and Procedure",
+    "Court",
     "Words and Phrases",
-    "Notable Pronouncement"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -32,21 +32,30 @@
     "High Profile Case"
   ],
   "judge": [
-    "Udo Udoma JSC",
-    "Ayo Gabriel Irikefe JSC",
-    "Chukwunweike Idigbe JSC",
-    "Andrews Otutu Obaseki JSC",
     "Kayode Eso JSC",
-    "Augustine Nnamani JSC",
-    "Muhammadu Lawal Uwais JSC"
+    "Chukwunweike Idigbe JSC",
+    "Ayo Gabriel Irikefe JSC",
+    "Udo Udoma JSC",
+    "Muhammadu Lawal Uwais JSC",
+    "Andrews Otutu Obaseki JSC",
+    "Augustine Nnamani JSC"
   ],
-  "representation_appellant": "F. R. A. Williams",
-  "representation_respondent": "Kehinde Sofola",
+  "representation_appellant": [
+    "J. A. Kester",
+    "F. R. A. Williams",
+    "O. J. Idigbe",
+    "B. Kehinde"
+  ],
+  "representation_respondent": [
+    "O. Ogundipe",
+    "O. Sofola",
+    "Kehinde Sofola"
+  ],
   "originating_court": [
     "Federal Court of Appeal, Holden at Kaduna (coram: Nasir P., Kazeem and Nnaemeka-agu, Jjca.,)",
     "High Court of Kano State (jones, Cj.,)"
   ],
-  "doc_id": "0bd9405f-e2ea-46d0-96b3-814e2a664324",
+  "doc_id": "9de8a5ed-a4c4-4273-8a42-d70f754fd6a0",
   "doctype": "Case",
   "parties": [
     "Nafiu Rabiu",

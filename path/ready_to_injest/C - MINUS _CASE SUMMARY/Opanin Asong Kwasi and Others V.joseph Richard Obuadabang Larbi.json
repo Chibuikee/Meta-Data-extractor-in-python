@@ -5,30 +5,34 @@
   "year": "1952",
   "suit_number": "CA76",
   "lex_citation": "LEX(1952)-VIIIWACA76",
-  "other_citations": "2PLR/1956/22(PC)",
+  "other_citations": [
+    "2PLR/1956/22(PC)"
+  ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Alternative Dispute Resolution",
     "Practice and Procedure Issues",
-    "C"
+    "Alternative Dispute Resolution",
+    "C",
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Lord Normand",
+    "Lord Cohen",
     "Lord Macdermott",
-    "Lord Cohen"
+    "Lord Normand"
   ],
+  "representation": "Representation Not Found",
   "originating_court": [
     "West African Court of Appeal",
     "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court",
     "Native Appeal Court of Akyem Abuakwa",
-    "Native Court \"b\" Adonten, Akyem Abuakwa."
+    "Native Court “b“ Adonten, Akyem Abuakwa."
   ],
-  "doc_id": "5af3a799-2f67-4c72-9168-701a6fba8b30",
+  "doc_id": "280e7582-6673-441d-82cc-858fdb1aae41",
   "doctype": "Case",
   "parties": [
     "Opanin Asong Kwasi and Others",

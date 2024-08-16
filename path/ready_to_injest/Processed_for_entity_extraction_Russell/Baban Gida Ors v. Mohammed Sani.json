@@ -10,15 +10,15 @@
     "(2020)LPELR-49487(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Evidence",
+    "Court",
     "Religion and Law",
-    "Real Estate and Property Law",
-    "Alternative Dispute Resolution",
     "Jurisdiction",
     "Ethics",
+    "Constitutional Law",
     "Customary Law",
-    "Court"
+    "Alternative Dispute Resolution",
+    "Real Estate and Property Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,9 +26,9 @@
     "Case"
   ],
   "judge": [
-    "Mudashiru Nasiru Oniyangi JCA",
+    "Adzira Gana Mshelia JCA",
     "Boloukuromo Moses Ugo JCA",
-    "Adzira Gana Mshelia JCA"
+    "Mudashiru Nasiru Oniyangi JCA"
   ],
   "representation_appellant": "Zanna Hamza",
   "representation_respondent": [
@@ -40,12 +40,12 @@
     "Upper Sharia Court 1 Maiduguri. Bornu State (which Reversed the Judgment of the Sharia Court)",
     "Sharia Court of Appeal, Borno State in Appeal No: Bos/sca/cv/09/2005"
   ],
-  "doc_id": "95319173-f603-459a-93e3-ad47c750efd7",
+  "doc_id": "8b4cac8f-7418-427e-b68b-48b18260b872",
   "doctype": "Case",
   "parties": [
     "Baban Gida",
-    "Dan Lami",
     "Habibu",
+    "Dan Lami",
     "Mohammed Sani"
   ]
 }

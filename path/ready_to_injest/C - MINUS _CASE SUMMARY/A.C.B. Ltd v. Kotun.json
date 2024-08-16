@@ -3,13 +3,17 @@
   "court": "High Court",
   "date": "1-12-1969",
   "year": "1969",
-  "suit_number": "(1969)-LD/119/68",
+  "suit_number": "LD/119/68",
   "lex_citation": "LEX(1969)-LD/119/68",
+  "other_citations": [
+    "OTHERCITSTIONS",
+    "2PLR/1969/2(HC-L)"
+  ],
   "area_of_law": [
-    "Banking and Finance",
+    "Interpretation of Statutes",
     "Children and Women Law",
     "Commercial Law",
-    "Interpretation of Statutes"
+    "Banking and Finance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -17,15 +21,15 @@
     "Case"
   ],
   "judge": "Kassim J",
-  "representation_appellant": "Debo Ak",
-  "representation_respondent": [
+  "representation": [
+    "Debo Akande",
     "Plaintiffs",
-    "Y.A.O. Ak"
+    "Y.A.O. Akande"
   ],
-  "doc_id": "beaa2f54-0ace-4e62-8480-40e0c00843c4",
+  "doc_id": "79692ccc-c9b6-4d4f-9ac4-b59efe88fc18",
   "doctype": "Case",
   "parties": [
-    "N Continental Bank Ltd",
+    "African Continental Bank Ltd",
     "Bintu Kotun"
   ]
 }

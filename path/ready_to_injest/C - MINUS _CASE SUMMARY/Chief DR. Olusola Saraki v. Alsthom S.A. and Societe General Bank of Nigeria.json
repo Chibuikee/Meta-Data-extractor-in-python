@@ -1,18 +1,18 @@
 {
   "case_title": "Chief DR. Olusola Saraki v. Alsthom S.A. and Societe General Bank of Nigeria",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "7-1-2005",
   "year": "2005",
   "suit_number": "SOCIETEGENERALBANKOFNIGERIA.",
   "lex_citation": "LEX(2005)-SC.120/1996",
   "other_citations": "2PLR/2005/9(SC)",
   "area_of_law": [
-    "Banking and Finance Law",
-    "Debtor and Creditor Law",
-    "Children and Women Law",
     "Action",
     "Appeal",
-    "Court"
+    "Debtor and Creditor Law",
+    "Children and Women Law",
+    "Court",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,20 +21,21 @@
     "High Profile Case"
   ],
   "judge": [
-    "Idris Legbo Kutigi JSC",
-    "Aloysius Iyorgyer Katsina-Alu JSC",
     "Akintola Olufemi Ejiwunmi JSC",
     "Dahiru Musdapher JSC",
-    "Sunday Aklnola Akintan JSC"
+    "Idris Legbo Kutigi JSC",
+    "Sunday Aklnola Akintan JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
   "representation": [
-    "O. Shasore A. Ademola . A.B. Kasunmu San",
-    "MRS",
     "O. T Adekoya",
-    "Cross"
+    "A. Ademola",
+    "Cross",
+    "A.B. Kasunmu San",
+    "O. Shasore"
   ],
   "originating_court": "High Court of Lagos State, Lagos Judicial Division [adeniji J. Presiding]",
-  "doc_id": "9c329af7-167c-42d9-b398-42e6b5167d5c",
+  "doc_id": "61b5a78a-c6cf-42ce-9c0e-776ba2625e46",
   "doctype": "Case",
   "parties": [
     "Chief DR. Olusola Saraki",

@@ -10,15 +10,15 @@
     "(2001)2NWLR(PT750)73"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Children and Women Law",
-    "Healthcare and Law",
-    "Transport and Logistics Law",
-    "Court",
     "Evidence",
-    "Appeal",
+    "Criminal Law and Procedure",
+    "Words and Phrases",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Children and Women Law",
+    "Transport and Logistics Law",
+    "Healthcare and Law",
+    "Court",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,19 +26,18 @@
     "Case"
   ],
   "judge": [
-    "Moronkeji Omotayo Onalaja JCA",
+    "Olufunlola Oyelola Adekeye JCA",
     "Francis Fedode Tabai JCA",
-    "Olufunlola Oyelola Adekeye JCA"
+    "Moronkeji Omotayo Onalaja JCA"
   ],
   "representation": [
-    "A. A. Aribisala",
     "A. O. Adenuga",
-    "MRS"
+    "A. A. Aribisala"
   ],
-  "doc_id": "36360ff6-6d7c-47d7-9859-c2cb477a7cd6",
+  "doc_id": "617158d2-3082-434f-91fe-f85306be88e8",
   "doctype": "Case",
   "parties": [
-    "E Amusa",
+    "Adeboye Amusa",
     "The State"
   ]
 }

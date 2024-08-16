@@ -1,6 +1,6 @@
 {
   "case_title": "Orisakwe v. State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "28-5-2004",
   "year": "2004",
   "suit_number": "SC.235/2002",
@@ -10,16 +10,16 @@
     "(2004)12NWLR(PT.887)258"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Court",
+    "Interpretation of Statute",
+    "Practice and Procedure Issue",
+    "Words and Phrases",
+    "Action",
     "Children and Women Law",
     "Healthcare and Law",
-    "Practice and Procedure Issue",
-    "Action",
     "Evidence",
     "Appeal",
-    "Court",
-    "Words and Phrases",
-    "Interpretation of Statute"
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,24 +28,24 @@
     "High Profile Case"
   ],
   "judge": [
-    "Muhammadu Lawal Uwais CJN",
-    "Uthman Mohammed JSC",
+    "Samson Odemwingie Uwaifo JSC",
     "Sylvester Umaru Onu JSC",
+    "Uthman Mohammed JSC",
     "Aloysius Iyorgyer Katsina-Alu JSC",
-    "Samson Odemwingie Uwaifo JSC"
+    "Muhammadu Lawal Uwais CJN"
   ],
   "representation": [
-    "C. A. B. Akparauta",
-    "R. M. Emem",
-    "L. C. Azuama",
     "Asst",
     "Director of Public Prosecution",
-    "Imo State"
+    "L. C. Azuama",
+    "Imo State",
+    "C. A. B. Akparauta",
+    "R. M. Emem"
   ],
-  "doc_id": "1a53f353-7d36-4f90-b6a9-916ee3a5c931",
+  "doc_id": "2c95cc9b-9474-4021-8328-228d5c981455",
   "doctype": "Case",
   "parties": [
-    "Orisakwe",
+    "Peter Orisakwe",
     "The State"
   ]
 }

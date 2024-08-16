@@ -3,14 +3,16 @@
   "court": "High Court",
   "date": "15-12-1966",
   "year": "1966",
-  "suit_number": "(1966)-M/232/66",
+  "suit_number": "M/232/66",
   "lex_citation": "LEX(1966)-M/232/66",
-  "other_citations": "3PLR/1966/91(HC-L)",
+  "other_citations": [
+    "3PLR/1966/91(HC-L)"
+  ],
   "area_of_law": [
-    "Insurance and Reinsurance",
+    "Interpretation of Statute",
     "Alternative Dispute Resolution",
-    "Appeal",
-    "Interpretation of Statute"
+    "Insurance and Reinsurance",
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,8 +20,11 @@
     "Case"
   ],
   "judge": "Ikpeazu J",
-  "representation": "Burke - Applicant Solanke",
-  "doc_id": "eb1205a9-c7db-4239-b1b0-48734b138f68",
+  "representation": [
+    "Burke",
+    "Applicant Solanke"
+  ],
+  "doc_id": "0df405eb-a311-43cd-b1ce-8d512564fab8",
   "doctype": "Case",
   "parties": [
     "Messrs. Century Insurance Co. Ltd.",

@@ -10,17 +10,17 @@
     "(2017)LPELR-42323(CA)"
   ],
   "area_of_law": [
-    "Adminsitrative and Governmenbt Law",
-    "Admiralty and Maritime",
-    "Constitutional Law",
-    "Criminal Law and Procdure",
-    "Criminal Law and Procedure",
-    "International Law",
-    "Oil and Gas",
-    "Action",
     "Jurisdiction",
+    "Interpretation of Statute",
+    "Adminsitrative and Governmenbt Law",
+    "Action",
+    "Criminal Law and Procdure",
+    "Oil and Gas",
+    "Constitutional Law",
+    "International Law",
     "Pleadings",
-    "Interpretation of Statute"
+    "Admiralty and Maritime",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -34,14 +34,13 @@
   ],
   "representation_appellant": [
     "B. Koku",
-    "San C",
-    "Uguejiofor",
+    "A. A. Omokaye",
     "F. Falade",
-    "A. A. Omokaye"
+    "C. Uguejiofor"
   ],
   "representation_respondent": "I. R. Oyedepo",
   "originating_court": "Federal High Court, Lagos.",
-  "doc_id": "ed7f00a1-3e19-4092-ad10-06c44b0b668d",
+  "doc_id": "58ca329e-4513-4c1e-9906-2cd7e075e5d5",
   "doctype": "Case",
   "parties": [
     "Alcayde Joel",

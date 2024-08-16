@@ -3,8 +3,8 @@
   "court": "Privy Council",
   "date": "Invalid Date Format",
   "year": "No Year",
-  "suit_number": "(1864)5",
-  "lex_citation": "LEX(1924)–22K.B.300",
+  "suit_number": "",
+  "lex_citation": "LEX(1924)-22K.B.300",
   "other_citations": [
     "3PLR/1924/4(CCA-E)",
     "[1924]2K.B.300"
@@ -17,26 +17,28 @@
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
+    "John Sankey J",
     "Lord Gordon Hewart CJ",
-    "Horace Edmund Avory J",
-    "John Sankey J"
+    "Horace Edmund Avory J"
   ],
   "representation": [
     "S. R. C. Bosanquet",
-    "Hon",
+    "Crown",
+    "J. H. Thorpe",
     "Sir Reginald Coventry",
-    "J. H. Thorpe Crown"
+    "Hon"
   ],
   "originating_court": [
-    "",
     "Monmouth Assizes Before Rowlatt J"
   ],
-  "doc_id": "1409d911-0566-4ac6-a740-c03584226984",
+  "doc_id": "c53ddc4d-a426-4373-81e6-2584cdfef5c1",
   "doctype": "Case",
   "parties": [
+    "The King",
     "Bailey"
   ]
 }

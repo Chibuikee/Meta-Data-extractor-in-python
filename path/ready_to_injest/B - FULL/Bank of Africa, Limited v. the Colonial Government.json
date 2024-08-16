@@ -3,39 +3,39 @@
   "court": "Privy Council",
   "date": "18-invalid-1888",
   "year": "1888",
-  "suit_number": "(1888)-PC07/88",
+  "suit_number": "",
   "lex_citation": "LEX(1888)-PC07/88",
   "other_citations": "3PLR/1888/1(PC-E)",
   "area_of_law": [
-    "Administrative and Government Law",
-    "Banking and Finance"
+    "Banking and Finance",
+    "Administrative and Government Law"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Lord Watson",
-    "Lord Hobhouse",
+    "Sir Barnes Peacock, and Sir Richard Couch",
     "Lord Macnaghten",
-    "Sir Barnes Peacock, and Sir Richard Couch"
+    "Lord Hobhouse",
+    "Lord Watson"
   ],
   "representation_appellant": "Rigby",
   "representation_respondent": [
     "Arbuthnot",
-    "Attorney-general",
-    "Wright"
+    "Wright",
+    "Attorney-general"
   ],
   "originating_court": [
-    "",
     "Supreme Court of the Cape of Good Hope"
   ],
-  "doc_id": "be791c8d-e8f8-4b34-89e2-058168c4a06f",
+  "doc_id": "2b2bf834-ef53-4135-9d9c-32053c057724",
   "doctype": "Case",
   "parties": [
-    "Bank of Africa",
     "Limited Defendant",
+    "Bank of Africa",
     "The Colonial Government Plaintiff"
   ]
 }

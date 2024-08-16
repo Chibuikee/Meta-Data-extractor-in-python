@@ -5,12 +5,14 @@
   "year": "1951",
   "suit_number": "CA243",
   "lex_citation": "LEX(1956)-VIIIWACA243",
-  "other_citations": "3PLR/1956/16(WACA)",
+  "other_citations": [
+    "3PLR/1956/16(WACA)"
+  ],
   "area_of_law": [
-    "Real Estate and Property Law",
+    "Jurisdiction",
     "Food and Agriculture Law",
     "Practice and Procedure Issues",
-    "Jurisdiction"
+    "Real Estate and Property Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,21 +20,21 @@
     "Case"
   ],
   "judge": [
+    "Morgan J",
     "Verity",
-    "Lewey J",
-    "Morgan J"
+    "Lewey J"
   ],
   "representation": [
+    "Benjamin",
     "Siriboe",
-    "Hayfron",
-    "Benjamin"
+    "Hayfron"
   ],
-  "doc_id": "cab58be9-21aa-4326-95a4-66b0ceb5ba96",
+  "doc_id": "ab8e45a1-0c46-4c65-826a-08e9091c5959",
   "doctype": "Case",
   "parties": [
     "Chief Kofi Akrasi",
     "For Himself and as Representing the Stool and People of Nyaboe",
-    "Chief Osei Kojo",
-    "For and on Behalf of the Patriensa Stool"
+    "For and on Behalf of the Patriensa Stool",
+    "Chief Osei Kojo"
   ]
 }

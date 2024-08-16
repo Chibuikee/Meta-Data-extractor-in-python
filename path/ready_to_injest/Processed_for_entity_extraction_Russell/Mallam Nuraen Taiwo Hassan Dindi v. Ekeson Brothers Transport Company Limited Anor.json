@@ -4,17 +4,17 @@
   "date": "21-2-2020",
   "year": "2020",
   "suit_number": "CA/A/323/2015",
-  "lex_citation": "LEX(2020)–CA/A/323/2015",
+  "lex_citation": "LEX(2020)-CA/A/323/2015",
   "other_citations": [
     "3PLR/2020/28(CA)",
     "(2020)LPELR-49523(CA)"
   ],
   "area_of_law": [
-    "Tort and Personal Injuries",
-    "Appeal",
     "Tort and Personal Injury",
-    "Tort and Personal Injury Law",
+    "Tort and Personal Injuries",
     "Transportation Law",
+    "Tort and Personal Injury Law",
+    "Appeal",
     "Employment and Labour Law"
   ],
   "semantic_tags": [
@@ -30,7 +30,7 @@
   "representation_appellant": "Adekola Mustapha",
   "representation_respondent": "A.O. Edmond-okeke",
   "originating_court": "High Court of the Federal Capital Territory [olukayode A. Adeniyi J. Presiding]",
-  "doc_id": "af147293-1ff8-4af3-95c3-2730b65a8314",
+  "doc_id": "b240bbea-2bb4-4804-b7d5-caeab510e84e",
   "doctype": "Case",
   "parties": [
     "Mallam Nuraen Taiwo Hassan Dindi",

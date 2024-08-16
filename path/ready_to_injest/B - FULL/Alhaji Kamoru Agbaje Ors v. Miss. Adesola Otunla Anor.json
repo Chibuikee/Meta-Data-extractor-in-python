@@ -10,12 +10,12 @@
     "(2017)LPELR-42382(CA)"
   ],
   "area_of_law": [
+    "Word and Phrases",
     "Real Estate and Property Law",
-    "Estate Administration and Planning",
     "Action",
+    "Estate Administration and Planning",
     "Appeal",
-    "Judgment and Order",
-    "Word and Phrases"
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,22 +23,23 @@
     "Case"
   ],
   "judge": [
-    "Chinwe Eugenia Iyizoba JCA",
+    "Nonyerem Okoronkwo JCA",
     "Haruna Simon Tsammani JCA",
-    "Nonyerem Okoronkwo JCA"
+    "Chinwe Eugenia Iyizoba JCA"
   ],
+  "representation": "Representation Not Found",
   "originating_court": "Oyo State High Court, Sitting at Ibadan (ruling Delivered on the 25th Day of September, 2012 with M. F. Oladeinde, J., Presiding)",
-  "doc_id": "67748b17-9a40-4ef4-9364-c85da9a2f6ab",
+  "doc_id": "ce69728f-f37d-4873-abb3-d70188de8ebe",
   "doctype": "Case",
   "parties": [
-    "Alhaji Kamoru Agbaje",
-    "MR. Muniru Owolabi",
     "MR. Samson Alao",
-    "MR. Safiu Dada",
-    "MR. Oderinde",
-    "MR. Olufemi",
     "MR. E. O. Dada",
+    "Alhaji Kamoru Agbaje",
     "MR. Basiru Popoola",
+    "MR. Olufemi",
+    "MR. Oderinde",
+    "MR. Muniru Owolabi",
+    "MR. Safiu Dada",
     "Miss. Adesola Otunla",
     "MR. Femi Otunla"
   ]

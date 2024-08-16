@@ -10,16 +10,15 @@
     "[2000]22WRN117"
   ],
   "area_of_law": [
-    "Tort and Personal Injury Law",
-    "Tort and Personal Injury La",
-    "Children and Women Law",
-    "Constitutional Law",
-    "Employment and Labour Laws",
     "Healthcare and Law",
+    "Tort and Personal Injury Law",
+    "Constitutional Law",
     "Action",
+    "Interpretation of Statutes",
+    "Employment and Labour Laws",
+    "Children and Women Law",
     "Court",
-    "Jurisdiction",
-    "Interpretation of Statutes"
+    "Jurisdiction"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,18 +27,17 @@
   ],
   "judge": [
     "Muritala Aremu Okunola JCA",
-    "Patrick Ibe Amaizu JCA",
-    "Walter Samuel Nkanu Onnoghen JCA"
+    "Walter Samuel Nkanu Onnoghen JCA",
+    "Patrick Ibe Amaizu JCA"
   ],
   "representation": [
-    "K.I. Adam",
-    "Dayo Akinlaja"
+    "Dayo Akinlaja",
+    "K.I. Adam"
   ],
   "originating_court": [
-    "",
     "Kwara State High Court, Ilorin Division (gbadeyan J., Presiding)"
   ],
-  "doc_id": "c380113b-6ca0-4c95-8833-656ba09c43ec",
+  "doc_id": "7cc6bd60-9189-4587-a9f1-bab6019cf388",
   "doctype": "Case",
   "parties": [
     "University of Ilorin Teaching Hospital",

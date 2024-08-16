@@ -11,14 +11,14 @@
     "(2014)11NWLRPART1418PG.384"
   ],
   "area_of_law": [
+    "Court",
+    "Criminal Law",
+    "Children and Women Law",
     "Constitutional and Human Rights Law",
     "Family Law",
+    "Evidence",
     "Estate Planning and Administration",
-    "Children and Women Law",
-    "Criminal Law",
-    "Appeal",
-    "Court",
-    "Evidence"
+    "Appeal"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,11 +27,11 @@
     "High Profile Case"
   ],
   "judge": [
-    "Walter Samuel Nkanu Onnoghen JSC",
     "Olabode Rhodes- Vivour JSC",
+    "John Inyang Okoro JSC",
+    "Walter Samuel Nkanu Onnoghen JSC",
     "Clara Bata Ogunbiyi JSC",
-    "Kumai Bayang Aka'ahs JSC",
-    "John Inyang Okoro JSC"
+    "Kumai Bayang Aka'ahs JSC"
   ],
   "representation": [
     "A. A. Ibikunle Awopetu",
@@ -42,7 +42,7 @@
     "Court of Appeal, Lagos Division",
     "Lagos High Court (fafiade J., Presiding)"
   ],
-  "doc_id": "9521d8b8-b2d1-40f2-8f51-668cd9205cd7",
+  "doc_id": "4d073417-5580-47c4-ad72-e3ff6d032a1d",
   "doctype": "Case",
   "parties": [
     "MRS. Lois Chituru Ukeje",

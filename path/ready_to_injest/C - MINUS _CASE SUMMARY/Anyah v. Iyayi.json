@@ -1,6 +1,6 @@
 {
   "case_title": "Anyah v. Iyayi",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-9-1993",
   "year": "1993",
   "suit_number": "S.C.52/1988",
@@ -10,14 +10,14 @@
     "(1993)7NWLR(PT.305)290"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
-    "Employment and Labour Law",
-    "Education and Law",
     "Action",
-    "Court",
-    "Jurisdiction",
     "Interpretation of Statutes",
-    "Words and Phrases"
+    "Employment and Labour Law",
+    "Administrative and Government Law",
+    "Court",
+    "Words and Phrases",
+    "Jurisdiction",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,29 +26,29 @@
     "High Profile Case"
   ],
   "judge": [
-    "Adolphus Godwin Karibi-Whyte JSC",
-    "Salihu Modibbo Alfa Belgore JSC",
-    "Olajide Olatawura JSC",
+    "Uthman Mohammed JSC",
     "Idris Legbo Kutigi JSC",
-    "Uthman Mohammed JSC"
+    "Olajide Olatawura JSC",
+    "Adolphus Godwin Karibi-Whyte JSC",
+    "Salihu Modibbo Alfa Belgore JSC"
   ],
   "representation": [
-    "Mudiaga Odje",
+    "Femi Falana",
     "Carol Ajie",
-    "Femi Falana"
+    "Mudiaga Odje"
   ],
   "originating_court": [
     "Court of Appeal",
     "Benin High Court"
   ],
-  "doc_id": "6d511d37-d865-4658-8b0e-744b24b5739b",
+  "doc_id": "fafb1d01-0cf5-49e6-90fc-9c5af5aa19c3",
   "doctype": "Case",
   "parties": [
-    "Hon. Justice Kalu Anyah",
-    "Professor Grace Alele-williams",
-    "The Council",
     "University of Benin",
     "The University of Benin",
+    "The Council",
+    "Professor Grace Alele-williams",
+    "Hon. Justice Kalu Anyah",
     "DR. Festus Iyayi"
   ]
 }

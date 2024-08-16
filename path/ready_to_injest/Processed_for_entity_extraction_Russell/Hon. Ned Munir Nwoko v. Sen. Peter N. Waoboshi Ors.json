@@ -10,8 +10,8 @@
     "(2019)LPELR-49202(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Election Law"
+    "Election Law",
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,40 +23,40 @@
     "Amiru Sanusi JSC",
     "Amina Adamu Augie JSC",
     "Ejembi Eko JSC",
-    "Uwani Musa Abba Aji JSC",
-    "John Inyang Okoro JSC"
+    "John Inyang Okoro JSC",
+    "Uwani Musa Abba Aji JSC"
   ],
   "representation_appellant": [
-    "Ahmed Raji San",
-    "Mubarak Imam",
+    "Onyeka Nwokolo",
     "Adeola Adedipe",
+    "Ahmed Raji San",
     "Dolapo Kehinde",
-    "Onyeka Nwokolo"
+    "Mubarak Imam"
   ],
   "representation_respondent": [
-    "George Ogbemie",
-    "Party Interested",
-    "N.N. Asobinuakwu",
-    "S.n Anicheve",
     "A.i Idigbe",
-    "A. Fanokun",
-    "Chief Robert Clarke",
+    "N.N. Asobinuakwu",
     "DR.frank Nwugo",
-    "Emmanuel Enodim",
-    "Orji Nwafor Orize",
+    "Chief Robert Clarke",
+    "George Ogbemie",
+    "A. Fanokun",
+    "S.m Danbaba",
     "Wendy Kuku",
-    "S.m Danbaba"
+    "S.n Anicheve",
+    "Party Interested",
+    "Emmanuel Enodim",
+    "Orji Nwafor Orize"
   ],
   "originating_court": [
     "S",
     "High Court of the Federal Capital Territory",
     "Court of Appeal, Abuja Division"
   ],
-  "doc_id": "db7c5f55-7988-4f2d-a5e1-f2f92f844283",
+  "doc_id": "72e87949-ca29-4181-898c-fe829fcec7a9",
   "doctype": "Case",
   "parties": [
     "Hon. Ned Munir Nwoko",
-    "Sen. Peter N. Waoboshi",
-    "Ors"
+    "Ors",
+    "Sen. Peter N. Waoboshi"
   ]
 }

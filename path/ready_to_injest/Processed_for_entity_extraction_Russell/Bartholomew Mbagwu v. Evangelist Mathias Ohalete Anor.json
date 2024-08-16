@@ -10,13 +10,13 @@
     "(2020)LPELR-49543(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Appeal",
-    "Evidence",
-    "Real Estate and Property Law",
+    "Court",
     "Jurisdiction",
+    "Constitutional Law",
     "Customary Law",
-    "Court"
+    "Appeal",
+    "Real Estate and Property Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,9 +24,9 @@
     "Case"
   ],
   "judge": [
-    "Ita George Mbaba JSC",
     "Ayobode Olujimi Lokulo-Sodipe JSC",
-    "Ibrahim Ali Andenyangtso JSC"
+    "Ibrahim Ali Andenyangtso JSC",
+    "Ita George Mbaba JSC"
   ],
   "representation_appellant": [
     "Kingsley Elegalam O",
@@ -38,13 +38,13 @@
   ],
   "originating_court": [
     "Trial Court:- Customary Court",
-    "Lower Appellate Court – Customary"
+    "Lower Appellate Court - Customary"
   ],
-  "doc_id": "6a9c729c-11da-4b12-8471-8f5fb94e1f0a",
+  "doc_id": "6cb8de2e-16b4-4415-84c4-bb7a6597098c",
   "doctype": "Case",
   "parties": [
     "Bartholomew Mbagwu",
-    "Evangelist Mathias Ohalete",
-    "Godwin Ohalete"
+    "Godwin Ohalete",
+    "Evangelist Mathias Ohalete"
   ]
 }

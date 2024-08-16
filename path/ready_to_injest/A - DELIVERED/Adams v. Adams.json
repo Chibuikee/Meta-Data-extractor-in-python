@@ -3,15 +3,15 @@
   "court": "High Court",
   "date": "29-3-1971",
   "year": "1971",
-  "suit_number": "",
+  "suit_number": "M/196/1970",
   "lex_citation": "LEXM/196/1970",
   "other_citations": "3PLR/1970/75(HC-E)",
   "area_of_law": [
-    "Family Law",
+    "Education and Law",
     "Children and Women Law",
-    "Education and La",
     "Healthcare and Law",
-    "Immigration Law"
+    "Immigration Law",
+    "Family Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,15 +19,18 @@
     "Case"
   ],
   "judge": "Lambo J",
-  "representation_appellant": "Impey",
+  "representation_appellant": [
+    "Adesina",
+    "Impey"
+  ],
   "representation_respondent": [
-    "Chief",
+    "Akesode",
     "Williams"
   ],
-  "doc_id": "5b381ac2-99b6-4409-a155-f280a3c8e601",
+  "doc_id": "22358344-5519-4f02-99e2-28de3c6b1f3f",
   "doctype": "Case",
   "parties": [
-    "Ine Ann Adams",
+    "Christine Ann Adams",
     "Derek Humphrey Adams"
   ]
 }

@@ -3,7 +3,7 @@
   "court": "Queen's Bench",
   "date": "6-2-1968",
   "year": "1968",
-  "suit_number": "(1968)-2ALLE.R305",
+  "suit_number": "",
   "lex_citation": "LEX(1968)-2ALLE.R305",
   "other_citations": [
     "2PLR/1968/28(QB)",
@@ -20,18 +20,18 @@
   ],
   "judge": "Roskill J",
   "representation": [
-    "Edwin J. Prince",
+    "Forsyte",
     "Lessors",
+    "Michael Gardner",
+    "Law",
     "Robert J. Southan",
     "Lessees Representation",
+    "Edwin J. Prince",
     "Fremont & Co",
-    "Forsyte",
     "Kerman & Phillips",
-    "Reported",
-    "Michael Gardner",
-    "Law"
+    "Reported"
   ],
-  "doc_id": "ee8ad2f6-d16f-455d-89b2-3d163f7655ab",
+  "doc_id": "6a4e961b-0cd9-4ebf-9484-bf7ffbd2be5f",
   "doctype": "Case",
   "parties": [
     "Bandar Property Holdings Ltd.",

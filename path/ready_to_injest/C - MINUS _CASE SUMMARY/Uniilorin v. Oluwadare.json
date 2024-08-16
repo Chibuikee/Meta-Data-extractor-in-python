@@ -1,6 +1,6 @@
 {
   "case_title": "Uniilorin v. Oluwadare",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "14-7-2006",
   "year": "2006",
   "suit_number": "SC.165/2003",
@@ -10,17 +10,17 @@
     "(2006)6-7S.C.154"
   ],
   "area_of_law": [
-    "Government and Administrative Law",
-    "Education and Law",
-    "Constitutional Law and Human Rights",
-    "Constitutional Law",
-    "Action",
-    "Court",
-    "Judgment and Order",
-    "Judgment and Orer",
     "Jurisdiction",
+    "Judgment and Orer",
+    "Action",
+    "Constitutional Law",
+    "Constitutional Law and Human Rights",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Judgment and Order",
+    "Court",
+    "Words and Phrases",
+    "Government and Administrative Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,20 +29,19 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sylvester Umaru Onu JSC",
-    "Umaru Atu Kalgo JSC",
+    "Francis Fedode Tabai JSC",
     "Mahmud Mohammed JSC",
-    "Ikechi Francis Ogbuagu JSC",
-    "Francis Fedode Tabai JSC"
+    "Umaru Atu Kalgo JSC",
+    "Sylvester Umaru Onu JSC",
+    "Ikechi Francis Ogbuagu JSC"
   ],
   "representation": [
     "Olatunji Arosanyin",
     "Waheed Gbadamosi"
   ],
-  "doc_id": "a7b9060e-c3e6-4d28-9b80-7dbc2293df82",
+  "doc_id": "f7531209-8317-499f-87d5-e850ab54f8e4",
   "doctype": "Case",
   "parties": [
-    "University of Ilorin",
     "The Vice Chancellor",
     "University of Ilorin",
     "Idowu Oluwadare"

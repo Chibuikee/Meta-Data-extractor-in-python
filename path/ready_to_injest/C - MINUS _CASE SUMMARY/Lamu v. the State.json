@@ -1,18 +1,18 @@
 {
   "case_title": "Lamu v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "17-3-1967",
   "year": "1967",
   "suit_number": "SC748/1966",
   "lex_citation": "LEX(1967)-SC748/1966",
   "other_citations": "3PLR/1967/42(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
     "Healthcare and Law",
-    "Children and Women Law",
     "Religion and the Law",
-    "Evidence",
-    "Interpretation of Statutes"
+    "Children and Women Law",
+    "Interpretation of Statutes",
+    "Criminal Law and Procedure",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,23 +21,24 @@
     "High Profile Case"
   ],
   "judge": [
-    "Lionel Brett JSC",
+    "Ian Lewis JSC",
     "Michael Oguejiofo Ajegbo JSC",
-    "Ian Lewis JSC"
+    "Lionel Brett JSC"
   ],
   "representation_appellant": [
-    "J. A. Cole",
-    "Mallam",
     "M. B. Belgore",
+    "J. A. Cole",
     "North",
-    "Connected Areas of Practice Criminal Law",
-    "Children"
+    "Mallam",
+    "Children",
+    "Connected Areas of Practice Criminal Law"
   ],
   "representation_respondent": "Women Law",
   "originating_court": "High Court of Northern Region of Nigeria (jones, J.., Presiding)",
-  "doc_id": "311f450a-4cda-409e-b49d-3570bdb487a6",
+  "doc_id": "a254f59d-ad98-4417-858e-8cb2c934bb7f",
   "doctype": "Case",
   "parties": [
+    "Useni Lamu",
     "The State"
   ]
 }

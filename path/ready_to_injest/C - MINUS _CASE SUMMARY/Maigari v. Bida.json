@@ -10,14 +10,14 @@
     "(2001)1NWLR(PT747)138"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
-    "Religion and Law",
-    "Food and Agriculture Law",
-    "Constitutional Law",
-    "Action",
-    "Evidence",
     "Jurisdiction",
-    "Words and Phrases"
+    "Real Estate and Property Law",
+    "Action",
+    "Constitutional Law",
+    "Food and Agriculture Law",
+    "Words and Phrases",
+    "Religion and Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,22 +25,25 @@
     "Case"
   ],
   "judge": [
-    "Dahiru Musdapher JCA",
     "MSMCoomassie JCA",
-    "Dalhatu Adamu JCA"
+    "Dalhatu Adamu JCA",
+    "Dahiru Musdapher JCA"
   ],
-  "representation": "J.B. Daudu . Mohammed Awal Bida",
+  "representation": [
+    "J.B. Daudu",
+    "Mohammed Awal Bida"
+  ],
   "originating_court": [
     "High Court of Niger State, Holden at Minna.",
     "Upper Area Court, Agaie",
     "Area Court, Agaie"
   ],
-  "doc_id": "539f40bb-ae51-4237-b353-b96dfb42aa5b",
+  "doc_id": "fa8581e4-4d72-4edd-af9c-16cc4cbc7d47",
   "doctype": "Case",
   "parties": [
-    "Mamman Maigari",
-    "Mohammadu Tsadu",
     "Alhaji Gana",
+    "Mohammadu Tsadu",
+    "Mamman Maigari",
     "Alhaji Tswashagi Raba Bida"
   ]
 }

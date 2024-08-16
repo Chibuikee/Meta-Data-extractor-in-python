@@ -1,31 +1,42 @@
 {
   "case_title": "Lloyds Bank Plc v. Ronald George Doidge and Another",
-  "court": "",
-  "date": "Invalid Date Format",
-  "year": "No Year",
+  "court": "Court of Appeal",
+  "date": "28-11-1996",
+  "year": "1996",
   "suit_number": "",
   "lex_citation": "",
-  "other_citations": [
-    "2PLR/1996/71(PC)",
-    "-",
-    "-",
-    "-",
-    "BANKINGANDFINANCE:-BANKER-CUSTOMERRELATIONS-UNDUEINFLUENCE-ESSENTIALSOF-UNFAIRADVANTAGE-WHETHERAMOUNTSTO",
-    "BANKINGANDFINANCE:-BANKER-CUSTOMERRELATIONS-UNDUEINFLUENCE-ACTUALORPRESUMED-HOWPROVED",
-    "BANKINGANDFINANCE:-BANKER-CUSTOMERRELATIONS-UNDUEINFLUENCE-FAILUREOFBANKTOPROVIDENECESSARYADVICEOREXPLANATION-WHENWILLNOTAMOUNTTOMISREPRESENTATIONORUNDUEINFLUENCE",
-    "BANKINGANDFINANCE:-BANKER-CUSTOMERRELATIONS-BANKINGANDFINANCE-EDUCATIONANDLAW:-COMMERCIALTRANSACTIONS-LITERATEADULTPLEADINGNONESTFACTUM-WHENDEFENCENOTOPEN",
-    ""
+  "other_citations": "2PLR/1996/71(PC)",
+  "area_of_law": [
+    "Action",
+    "Children and Women Law",
+    "Commercial Law",
+    "Elders Law",
+    "Debtor and Creditor",
+    "Banking and Finance",
+    "Education and Law"
   ],
-  "area_of_law": "Banking and Finance",
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
     "Case"
   ],
-  "doc_id": "156b4455-1de6-4798-8d08-966f2ac7f1d0",
+  "judge": [
+    "Lord Justice Potter",
+    "Sir Christopher Slade"
+  ],
+  "representation": [
+    "MR N Wood",
+    "Applicant"
+  ],
+  "originating_court": [
+    "On Appeal From Eastbourne County Court, (judge Kennedy Qc., Presiding)",
+    "Royal Courts of Justice, Strand, London Wc2"
+  ],
+  "doc_id": "fd51c64a-fd8c-4c2d-8290-fe20bc576561",
   "doctype": "Case",
   "parties": [
-    "Er Citations",
-    "Banking and Finance"
+    "Lloyds Bank Plc",
+    "Ronald George Doidge",
+    "Gwendoline Ann Doidge"
   ]
 }

@@ -10,12 +10,12 @@
     "ALLFWLR.(PT.210)1292"
   ],
   "area_of_law": [
+    "Appeal",
     "Commercial Law",
     "Children and Women Law",
-    "Education and Law",
     "Court",
-    "Appeal",
-    "Jurisdiction"
+    "Jurisdiction",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,23 +23,22 @@
     "Case"
   ],
   "judge": [
+    "Albert Gbadebo Oduyemi JCA",
     "George Adesola Oguntade JCA",
-    "Zainab Adamu Bulkachuwa JCA",
-    "Albert Gbadebo Oduyemi JCA"
+    "Zainab Adamu Bulkachuwa JCA"
   ],
   "representation": [
     "Isaac Okpanachi",
     "C.F. Nwokocha"
   ],
   "originating_court": [
-    "",
     "High Court of the Federal Capital Territory, Abuja (muktar J., Presiding)"
   ],
-  "doc_id": "996af127-4bab-432f-997b-667924130323",
+  "doc_id": "fd0285e4-1061-45a4-923d-4b464eafe52e",
   "doctype": "Case",
   "parties": [
-    "Loreto Nwakasi",
     "Trading Under the Name and Alias Maulora Machie",
+    "Loreto Nwakasi",
     "Christy Chidi Nwachukwu"
   ]
 }

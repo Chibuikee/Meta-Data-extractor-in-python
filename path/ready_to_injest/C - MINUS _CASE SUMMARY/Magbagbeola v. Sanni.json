@@ -1,6 +1,6 @@
 {
   "case_title": "Magbagbeola v. Sanni",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "29-4-2005",
   "year": "2005",
   "suit_number": "SC.330/2001",
@@ -10,14 +10,14 @@
     "(2005)11NWLR(PT.936)239"
   ],
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Debtor and Creditor Law",
     "Company Law",
+    "Alternative Dispute Resolution",
     "Commercial Law",
+    "Debtor and Creditor Law",
     "Court",
-    "Evidence",
+    "Words and Phrases",
     "Jurisdiction",
-    "Words and Phrases"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -26,22 +26,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Muhammadu Lawal Uwais CJN",
-    "Salihu Modibbo Alfa Belgore JSC",
     "Idris Legbo Kutigi JSC",
+    "Dahiru Musdapher JSC",
     "Aloysius Iyorgyer Katsina-Alu JSC",
-    "Dahiru Musdapher JSC"
+    "Muhammadu Lawal Uwais CJN",
+    "Salihu Modibbo Alfa Belgore JSC"
   ],
   "representation": [
-    "Kunle Ogunba",
+    "O.F. Efonkoma",
     "G.C. Duru",
-    "O.F. Efonkoma"
+    "Kunle Ogunba"
   ],
   "originating_court": [
     "Court of Appeal, Lagos Judicial Division",
     "Lagos State High Court"
   ],
-  "doc_id": "3ec02a66-81ec-42ad-aac0-fc9d61b9b14d",
+  "doc_id": "c6b33856-1398-4173-9dd3-83686b16b6fc",
   "doctype": "Case",
   "parties": [
     "MR. Adeoye Magbagbeola",

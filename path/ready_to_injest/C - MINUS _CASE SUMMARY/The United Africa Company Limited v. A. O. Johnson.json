@@ -3,12 +3,12 @@
   "court": "Divisional Court",
   "date": "6-8-1935",
   "year": "1935",
-  "suit_number": "(1935)-DCCPL06/08",
+  "suit_number": "",
   "lex_citation": "LEX(1935)-DCCPL06/08",
   "other_citations": "3PLR/1935/1(DC-CPL)",
   "area_of_law": [
-    "Employment and Labour Law",
-    "Food and Agriculture Law"
+    "Food and Agriculture Law",
+    "Employment and Labour Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -17,13 +17,13 @@
   ],
   "judge": "Sir Donald Kingdon CJ",
   "representation": [
-    "S. P. Thomas",
-    "Chris Johnson"
+    "Chris Johnson",
+    "S. P. Thomas"
   ],
-  "doc_id": "c194e3f6-b529-42ac-bafb-5ed87ffd7af5",
+  "doc_id": "045f658b-ebfb-414a-8e1d-cbcc1161dff2",
   "doctype": "Case",
   "parties": [
-    "Ited Africa Company Limited",
+    "The United Africa Company Limited",
     "A. O. Johnson"
   ]
 }

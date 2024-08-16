@@ -1,15 +1,15 @@
 {
   "case_title": "Azukemu v. Nnajuba",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "30-12-1957",
   "year": "1957",
   "suit_number": "S.C.24/1957",
   "lex_citation": "LEX(1957)-F.S.C.24/1957",
   "other_citations": "3PLR/1957/22(SC)",
   "area_of_law": [
+    "Children and Women Law",
     "Tort and Personal Injury Law",
-    "Insurance and Reinsurance Law",
-    "Children and Women Law"
+    "Insurance and Reinsurance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,8 +18,8 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sir Stafford Foster-Sutton, F CJ",
     "MCNageon De Lestang FJ",
+    "Sir Stafford Foster-Sutton, F CJ",
     "Myles John Abbott FJ"
   ],
   "representation": [
@@ -27,15 +27,13 @@
     "A. C. Nwapa"
   ],
   "originating_court": [
-    "",
     "High Court, Eastern Region of Nigeria"
   ],
-  "doc_id": "4c898ef6-f421-4992-9472-816b2e405cc1",
+  "doc_id": "36fb7c7e-283c-49c6-8bc4-0a1120e89d43",
   "doctype": "Case",
   "parties": [
     "Evelyn Azukemu",
     "Daniel Nnajuba",
-    "Northern Assurance Company Ltd",
     "Northern Assurance Company Ltd"
   ]
 }

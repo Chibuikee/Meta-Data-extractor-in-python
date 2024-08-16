@@ -1,6 +1,6 @@
 {
   "case_title": "Ojo v. Gharoro",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-3-2006",
   "year": "2006",
   "suit_number": "SC.251/2001",
@@ -10,13 +10,12 @@
     "(2006)10NWLR(PT.987)173"
   ],
   "area_of_law": [
-    "T",
     "Healthcare and Law",
-    "Children and Women Law",
+    "Tort and Personal Injuries",
     "Ethics",
-    "E",
+    "Children and Women Law",
     "Words and Phrases",
-    "W"
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,26 +24,26 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sylvester Umaru Onu JSC",
-    "Aloysius Iyorgyer Katsina-Alu JSC",
     "Niki Tobi JSC",
+    "Ikechi Francis Ogbuagu JSC",
     "George Adesola Oguntade JSC",
-    "Ikechi Francis Ogbuagu JSC"
+    "Sylvester Umaru Onu JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
   "representation": [
-    "P.O. Oseminwenkha",
     "H.O. Ogbodu",
     "Originating State",
+    "Benin",
+    "P.O. Oseminwenkha",
     "Court of Appeal",
-    "High Court of Edo State",
-    "Benin"
+    "High Court of Edo State"
   ],
-  "doc_id": "4a18e610-b59f-4601-a23b-7d8f50c19ea5",
+  "doc_id": "8270e2a8-2dcc-43a8-ad37-aa3fb91cc7fd",
   "doctype": "Case",
   "parties": [
     "Miss Felicia Osagiede Ojo",
-    "DR. Gharoro",
+    "DR. S.A. Ejide",
     "University of Benin Teaching Hospital Management Board",
-    "DR. S.A. Ejide"
+    "DR. Gharoro"
   ]
 }

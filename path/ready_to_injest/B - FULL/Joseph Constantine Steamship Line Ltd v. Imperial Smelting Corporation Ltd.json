@@ -3,46 +3,46 @@
   "court": "House of Lords",
   "date": "20-2-1941",
   "year": "1941",
-  "suit_number": "(1941)-2ALLE.R.165",
+  "suit_number": "",
   "lex_citation": "LEX(1941)-2ALLE.R.165",
   "other_citations": [
     "3PLR/1941/1(HL)",
     "[1941]2ALLE.R.165"
   ],
   "area_of_law": [
-    "Commercial Law",
+    "Transportation and Logistic Law",
     "Admiralty and Shipping Law",
-    "Transportation and Logistic Law"
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
     "Viscount Simon Lc",
     "Viscount Maugham",
-    "Lord Russell of Killowen",
-    "Lord Wright and Lord Porter"
+    "Lord Wright and Lord Porter",
+    "Lord Russell of Killowen"
   ],
   "representation": [
-    "Robert Aske Kc",
-    "Patrick a Devlin . G St Clair Pilcher Kc",
-    "H G Robertson",
-    "Holman Fenwick & Willan",
+    "G St Clair Pilcher Kc",
     "Parker Garrett & Co",
+    "Patrick a Devlin",
     "C St",
     "Nicholson",
-    "Esq - Barrister"
+    "Robert Aske Kc",
+    "Holman Fenwick & Willan",
+    "H G Robertson"
   ],
   "originating_court": [
-    "",
     "Court of Appeal (sir Wilfrid Greene MR, Scott and Goddard Ljj), Dated 18 June 1940, and Reported [1940] 3 All Er 211, Reversing a Decision of the High Court (atkinson J., Presiding) Dated 1 March 1940, and Reported [1940] 2 All Er 46 Which Sat Over a Special Case Referred From an Arbitration Proceeding."
   ],
-  "doc_id": "67bfa4e9-68cc-40ed-9878-c3af92bf5d0d",
+  "doc_id": "df8f7a34-0c47-4b5c-9f05-0e46f27b53da",
   "doctype": "Case",
   "parties": [
-    "Constantine Steamship Line Ltd",
+    "Joseph Constantine Steamship Line Ltd",
     "Imperial Smelting Corporation Ltd"
   ]
 }

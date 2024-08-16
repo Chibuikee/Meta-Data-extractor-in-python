@@ -1,6 +1,6 @@
 {
   "case_title": "DR. Oladipo Kaja v. Alhaji Salawu Oke",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "1-2-2013",
   "year": "2013",
   "suit_number": "SC.34/2004",
@@ -10,14 +10,14 @@
     "(2013)LPELR-19908(SC)"
   ],
   "area_of_law": [
-    "Tort and Personal Injury Law",
     "Tort and Personal Injury",
     "Healthcare and Law",
+    "Tort and Personal Injury Law",
     "Ethics",
-    "Elders Law",
-    "Children and Women Law",
     "Appeal",
-    "Court"
+    "Children and Women Law",
+    "Court",
+    "Elders Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,25 +27,25 @@
   ],
   "judge": [
     "Walter Samuel Nkanu Onnoghen JSC",
-    "Christopher Mitchell Chukwuma-Eneh JSC",
-    "Musa Dattijo Muhammad JSC",
     "Clara Bata Ogunbiyi JSC",
-    "Stanley Shenko Alagoa JSC"
+    "Stanley Shenko Alagoa JSC",
+    "Christopher Mitchell Chukwuma-Eneh JSC",
+    "Musa Dattijo Muhammad JSC"
   ],
   "representation_appellant": [
     "Rotimi Seriki",
     "Oladeji Omotosho"
   ],
   "representation_respondent": [
-    "Ademola Bakare",
-    "A. I. Soremi",
-    "Seyi Soyemi",
+    "Lagos State High Court",
     "Originating State",
-    "Court of Appeal",
+    "Seyi Soyemi",
     "Lagos Division",
-    "Lagos State High Court"
+    "Ademola Bakare",
+    "Court of Appeal",
+    "A. I. Soremi"
   ],
-  "doc_id": "c9f75dce-368c-4b72-931f-a0b016b3ca22",
+  "doc_id": "f7125531-6d53-47f1-bda5-fc56e990b449",
   "doctype": "Case",
   "parties": [
     "DR. Oladipo Kaja",

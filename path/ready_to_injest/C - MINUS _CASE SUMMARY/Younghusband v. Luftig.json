@@ -3,7 +3,7 @@
   "court": "Divisional Court",
   "date": "9-5-1949",
   "year": "1949",
-  "suit_number": "(1949)-2K.B354",
+  "suit_number": "",
   "lex_citation": "LEX(1949)-2K.B354",
   "other_citations": "3PLR/1949/4(DC)",
   "area_of_law": [
@@ -17,27 +17,25 @@
     "Case"
   ],
   "judge": [
-    "Lord Goddard CJ",
-    "Oliver, Birkett, Lynskey and Sellers JJ"
+    "Oliver, Birkett, Lynskey and Sellers JJ",
+    "Lord Goddard CJ"
   ],
   "representation": [
+    "Hempsons",
+    "&",
+    "D. Edgar Rodwell",
     "C. R. Havers K.c",
     "Harold Brown",
-    "D. E. Evans",
-    "Hempsons",
-    "D. Edgar Rodwell",
-    "&",
-    "Co"
+    "Co",
+    "D. E. Evans"
   ],
   "originating_court": [
-    "",
-    "Justices for the County Borough of Brighton (case Cited)",
-    ""
+    "Justices for the County Borough of Brighton (case Cited)"
   ],
-  "doc_id": "f66c3108-b46c-4f92-81f1-93ce190908c1",
+  "doc_id": "b7ae7f69-a160-45d4-90f7-9773fdad40a5",
   "doctype": "Case",
   "parties": [
-    "Usband",
+    "Younghusband",
     "Luftig"
   ]
 }

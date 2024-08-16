@@ -8,13 +8,13 @@
   "other_citations": "3PLR/2001/139(CA)",
   "area_of_law": [
     "Constitutional Law",
+    "Court",
     "Customary Law",
+    "Private International Law and Jurisprudence",
     "Children and Women Law",
     "Criminal Law",
     "Estate Planning and Administration",
     "Family Law",
-    "Private International Law and Jurisprudence",
-    "Court",
     "Evidence"
   ],
   "semantic_tags": [
@@ -23,25 +23,24 @@
     "Case"
   ],
   "judge": [
-    "George Adesola Oguntade JCA",
     "Suleiman Galadima JCA",
+    "George Adesola Oguntade JCA",
     "Pius Olayiwola Aderemi JCA"
   ],
   "representation": [
-    "G.O.K. Ajayi San",
+    "N.C. Njoku",
+    "A.O. Idigbe San",
     "M.N. Onyuike",
     "M.A. Akinwale",
-    "A.O. Idigbe San. N.C. Njoku"
+    "G.O.K. Ajayi San"
   ],
   "originating_court": "Lagos State High Court [monifafiade J., Presiding]",
-  "doc_id": "cb5818fe-d921-4276-8918-3ac86cfd86ef",
+  "doc_id": "23351129-5d12-4573-bb34-79a8541bb249",
   "doctype": "Case",
   "parties": [
     "Miss Gladys Ada Ukeje",
     "MRS Lois Chituru Ukeje",
     "L.O.",
-    "Enyinnaya Lazarus Ukeje",
-    "L.O.",
-    "L.O."
+    "Enyinnaya Lazarus Ukeje"
   ]
 }

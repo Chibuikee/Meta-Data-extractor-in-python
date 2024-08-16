@@ -1,6 +1,6 @@
 {
   "case_title": "Linus Okereke v. Nwankwo",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "11-4-2003",
   "year": "2003",
   "suit_number": "SC.11/1999",
@@ -10,12 +10,12 @@
     "(2003)9NWLR(PT.826)592"
   ],
   "area_of_law": [
-    "Real Estate and Property Law",
     "Constitutional Law",
     "Alternative Dispute Resolution",
-    "Children and Women Law",
     "Ethics",
     "Appeal",
+    "Children and Women Law",
+    "Real Estate and Property Law",
     "Evidence"
   ],
   "semantic_tags": [
@@ -25,29 +25,29 @@
     "High Profile Case"
   ],
   "judge": [
-    "Idris Legbo Kutigi JSC",
-    "Michael Ekundayo Ogundare JSC",
-    "Uthman Mohammed JSC",
     "Niki Tobi JSC",
-    "Dennis Onyejife Edozie JSC"
+    "Idris Legbo Kutigi JSC",
+    "Dennis Onyejife Edozie JSC",
+    "Uthman Mohammed JSC",
+    "Michael Ekundayo Ogundare JSC"
   ],
   "representation": [
+    "Jnr",
     "Chima Uche",
     "Chuka Nnadi",
-    "Z.O. E. Nwosu",
-    "Jnr"
+    "Z.O. E. Nwosu"
   ],
   "originating_court": [
     "Court of Appeal, Port Harcourt Division",
     "Customary Court of Appeal, Imo State Holding at Owerri",
     "Customary Court Ideato, Sitting at Urualla Imo State"
   ],
-  "doc_id": "9a89b95d-8448-42cb-ba2c-9aea165a5977",
+  "doc_id": "017ebf2d-c99f-4eed-9c55-bb5959ea63e4",
   "doctype": "Case",
   "parties": [
+    "Ogbonna Okereke",
     "Chinyere Nwankwo",
     "Linus Okereke",
-    "Ogbonna Okereke",
     "Chinyere Nwankwo",
     "Mgbekeocha Nwankwo"
   ]

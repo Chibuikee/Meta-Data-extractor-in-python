@@ -3,7 +3,7 @@
   "court": "House of Lords",
   "date": "10-4-2003",
   "year": "2003",
-  "suit_number": "CACIV1140",
+  "suit_number": "",
   "lex_citation": "",
   "other_citations": [
     "3PLR/2003/48(HL)",
@@ -16,40 +16,39 @@
     "LORDRODGEROFEARLSFERRY"
   ],
   "area_of_law": [
-    "Family Law",
     "Healthcare and Law",
     "Jurisprudence",
     "International Law and Human Rights",
     "Children and Women Law",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Family Law"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Linger",
-    "Bellinger",
-    "House of Lords",
-    "Session 2002-03 on",
-    "Thursday 10 April",
-    "Other Citations",
-    "The Appellate Committee Comprised",
-    "Lord Nicholls of Birkenhead",
+    "Lord Rodger of Earlsferry",
     "Lord Hope of Craighead",
     "Lord Hobhouse of Woodborough",
+    "The Appellate Committee Comprised",
+    "Lord Nicholls of Birkenhead",
+    "Session 2002-03 on",
+    "Bellinger",
     "Lord Scott of Foscote",
-    "Lord Rodger of Earlsferry"
+    "House of Lords",
+    "Thursday 10 April",
+    "Other Citations"
   ],
   "originating_court": [
-    "",
     "Appeal From: [2001] Ewca Civ 1140"
   ],
-  "doc_id": "0c9b5aff-6ce8-43f8-947b-ba20d440e180",
+  "doc_id": "f609ec2a-86ef-4c08-b5be-803fdb41d39a",
   "doctype": "Case",
   "parties": [
-    "Ger (fc",
+    "Bellinger (fc",
     "Bellinger"
   ]
 }

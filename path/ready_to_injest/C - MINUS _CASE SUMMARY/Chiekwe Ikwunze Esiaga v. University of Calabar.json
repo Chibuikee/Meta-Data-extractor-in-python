@@ -1,6 +1,6 @@
 {
   "case_title": "Chiekwe Ikwunze Esiaga v. University of Calabar",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "2-4-2004",
   "year": "2004",
   "suit_number": "SC.52/1999",
@@ -10,15 +10,15 @@
     "18NSCQR1"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
-    "Education and Law",
     "Constitutional Law and Human Rights",
-    "Human Rights",
-    "Court",
+    "Notable Pronouncement",
     "Judgment and Order",
-    "Words and Phrases",
+    "Human Rights",
+    "Administrative and Government Law",
     "Word and Phrases",
-    "Notable Pronouncement"
+    "Court",
+    "Words and Phrases",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -27,27 +27,27 @@
     "High Profile Case"
   ],
   "judge": [
-    "Salihu Modibbo Alfa Belgore JSC",
-    "Umaru Atu Kalgo JSC",
-    "Dahiru Musdapher JSC",
     "Dennis Onyejife Edozie JSC",
-    "Ignatius Chukwudi Pats-Acholonu JSC"
+    "Dahiru Musdapher JSC",
+    "Umaru Atu Kalgo JSC",
+    "Ignatius Chukwudi Pats-Acholonu JSC",
+    "Salihu Modibbo Alfa Belgore JSC"
   ],
   "representation": [
-    "Chief O. Ugolo",
-    "Chief Assam E. Assam"
+    "Chief Assam E. Assam",
+    "C. E. Ibomesi",
+    "Chief O. Ugolo"
   ],
   "originating_court": [
     "Court of Appeal",
     "Calabar High Court Division (ita, J., Presiding)"
   ],
-  "doc_id": "07be3e39-b3ae-47a2-b89d-f09ee81b77cc",
+  "doc_id": "04078b57-de1e-4452-8b9f-c2dc773b4d63",
   "doctype": "Case",
   "parties": [
     "Chiekwe Ikwunze Esiaga",
-    "University of Calabar",
     "M. E. Uya",
-    "MRS",
+    "University of Calabar",
     "MR. E. E. Akpan"
   ]
 }

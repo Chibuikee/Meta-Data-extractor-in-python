@@ -3,12 +3,13 @@
   "court": "High Court",
   "date": "4-2-1972",
   "year": "1972",
-  "suit_number": "(1972)-HD/88/70",
+  "suit_number": "HD/88/70",
   "lex_citation": "LEX(1972)-HD/88/70",
   "other_citations": "3PLR/1972/43(HC)",
   "area_of_law": [
-    "Education and Law",
-    "Children and Women Law"
+    "Children and Women Law",
+    "Family Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,10 +21,10 @@
     "Olagbegi",
     "Nicol"
   ],
-  "doc_id": "48e28c11-8785-430e-92ed-4c500a4e8725",
+  "doc_id": "90f2dd39-44e6-487d-9446-16286d8ce4ed",
   "doctype": "Case",
   "parties": [
-    "Bolanle",
+    "Amos G. Bolanle",
     "Olusola B. Bolanle"
   ]
 }

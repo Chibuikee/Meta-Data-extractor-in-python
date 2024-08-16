@@ -7,19 +7,19 @@
   "lex_citation": "LEX(2011)-CA/A/298/2010",
   "other_citations": "3PLR/2012/8(CA)",
   "area_of_law": [
+    "Criminal Law",
+    "Action",
+    "Corporate and Company Law",
+    "Court",
+    "Appeal",
+    "Evidence",
+    "Interpretation of Statute",
     "Employment and Labour Law",
     "Administrative and Government Law",
     "Children and Women Law",
     "Commercial Law",
-    "Corporate and Company Law",
-    "Criminal Law",
-    "Education and Law",
-    "Action",
-    "Appeal",
-    "Court",
-    "Evidence",
-    "Interpretation of Statute",
-    "Words and Phrases"
+    "Words and Phrases",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,29 +28,28 @@
   ],
   "judge": [
     "Mohammed Lawal Garba JCA",
-    "Paul Adamu Galinje JCA",
-    "Regina Obiageli Nwodo JCA"
+    "Regina Obiageli Nwodo JCA",
+    "Paul Adamu Galinje JCA"
   ],
   "representation_appellant": "Philip Olusola",
   "representation_respondent": [
-    "Rotimi Ojo",
-    "Isaac Folorunso"
+    "Isaac Folorunso",
+    "Rotimi Ojo"
   ],
   "originating_court": "Federal High Court, Holden at Minna",
-  "doc_id": "2407d529-4eed-4598-be79-87d242e7b3f5",
+  "doc_id": "a15c3628-dcd3-48e3-b889-535e91bbd1c0",
   "doctype": "Case",
   "parties": [
+    "Registrar",
+    "Minna",
+    "F.U.T. Minna",
+    "F.U.t",
     "Federal University of Technology",
+    "Vice Chancellor",
     "Minna",
     "Prof. M.S. Audu",
-    "Vice Chancellor",
-    "F.U.T. Minna",
     "DR. M.D. Usman",
-    "Registrar",
-    "F.U.t",
-    "Minna",
     "DR",
-    "MRS",
     "Adaeze G.N.C. Okoli"
   ]
 }

@@ -10,11 +10,11 @@
     "(2020)LPELR-49161(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Evidence",
-    "Commercial Law",
     "Jurisdiction",
-    "Judgment and Order"
+    "Constitutional Law",
+    "Commercial Law",
+    "Judgment and Order",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,9 +22,9 @@
     "Case"
   ],
   "judge": [
-    "Chidi Nwaoma Uwa JCA",
+    "Abdullahi Mahmud Bayero JCA",
     "James Shehu Abiriyi JCA",
-    "Abdullahi Mahmud Bayero JCA"
+    "Chidi Nwaoma Uwa JCA"
   ],
   "representation_appellant": "M.J. Ifegwu",
   "representation_respondent": "C.K. Atiman",
@@ -32,11 +32,11 @@
     "Adamawa State Upper Area Court",
     "Adamawa State Upper Area Court No. 2"
   ],
-  "doc_id": "9b74bc5e-3344-447c-98af-d8a63f1b75ce",
+  "doc_id": "dd3219dd-b9e1-4d0d-a139-5d9838f31c59",
   "doctype": "Case",
   "parties": [
-    "Christopher Okoye",
     "Moslac Nig. Ltd.",
+    "Christopher Okoye",
     "Markus Elisha Mbaya"
   ]
 }

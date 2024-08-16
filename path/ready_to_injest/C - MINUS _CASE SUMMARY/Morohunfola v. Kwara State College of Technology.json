@@ -1,6 +1,6 @@
 {
   "case_title": "Morohunfola v. Kwara State College of Technology",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "6-7-1990",
   "year": "1990",
   "suit_number": "SC.170/1987",
@@ -11,8 +11,12 @@
   ],
   "area_of_law": [
     "Action",
+    "Employment and Labour",
+    "Judgment and Orders",
+    "Ethics",
     "Evidence",
-    "Judgment and Orders"
+    "Employment and Labour Law",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,25 +25,20 @@
     "High Profile Case"
   ],
   "judge": [
-    "Andrews Otutu Obaseki JSC",
-    "Muhammadu Lawal Uwais JSC",
     "Adolphus Godwin Karibi-Whyte JSC",
+    "Andrews Otutu Obaseki JSC",
+    "Nnaemeka-Agu JSC",
     "Salisu Modibo Alfa Belgore JSC",
-    "Nnaemeka-Agu JSC"
+    "Muhammadu Lawal Uwais JSC"
   ],
-  "representation_appellant": [
-    "J. O. Ijaodola",
+  "representation": [
     "Wole Olanipekun",
-    "Substantive Legal"
+    "J. O. Ijaodola"
   ],
-  "representation_respondent": [
-    "Policy Issues",
-    "Employment"
-  ],
-  "doc_id": "156a0cc2-cbba-4f0c-9b06-670bce995bd3",
+  "doc_id": "0ed554c4-a2fd-420f-b4c6-6ccc9b4ddd75",
   "doctype": "Case",
   "parties": [
-    "Morohunfola",
+    "B. A. Morohunfola",
     "Kwara State College of Technology"
   ]
 }

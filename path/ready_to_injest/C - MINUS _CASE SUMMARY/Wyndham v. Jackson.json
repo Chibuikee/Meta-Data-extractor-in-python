@@ -1,18 +1,18 @@
 {
   "case_title": "Wyndham v. Jackson",
-  "court": "King's Bench Division",
+  "court": "Court of Appeal",
   "date": "1-7-1937",
   "year": "1937",
-  "suit_number": "(1937)-3ALLE.R.677",
+  "suit_number": "",
   "lex_citation": "LEX(1937)-3ALLE.R.677",
   "other_citations": [
     "3PLR/1937/3(KB.D)",
     "[1937]3ALLE.R.677"
   ],
   "area_of_law": [
-    "Alternative Dispute Resolution",
+    "Children and Women Law",
     "Debtor and Creditor",
-    "Children and Women Law"
+    "Alternative Dispute Resolution"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,14 +21,14 @@
   ],
   "judge": "Goddard J",
   "representation": [
-    "Constantine Gallop",
-    "John Busse",
     "Lazarus Son & L a Hart",
+    "John Busse",
     "Samuel Tonkin Booth & Co",
+    "Constantine Gallop",
     "J Macgillivray Asher"
   ],
   "originating_court": "Chancery Division",
-  "doc_id": "1c122036-362b-4625-81c5-849fa66cb383",
+  "doc_id": "11e4a6a1-7bfe-4573-8169-5a3a48f03378",
   "doctype": "Case",
   "parties": [
     "Wyndham",

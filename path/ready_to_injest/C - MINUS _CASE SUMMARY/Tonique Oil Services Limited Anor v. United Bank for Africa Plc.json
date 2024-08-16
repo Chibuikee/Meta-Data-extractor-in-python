@@ -10,9 +10,9 @@
     "(2016)LPELR-40071(CA)"
   ],
   "area_of_law": [
-    "Banking and Finance Law",
+    "Action",
     "Debtor and Creditor Law",
-    "Action"
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,17 +20,21 @@
     "Case"
   ],
   "judge": [
-    "Chinwe Eugenia Iyizoba JCA",
     "Yargata Byenchit Nimpar JCA",
-    "Abimbola Osarugue Obaseki-Adejumo JCA"
+    "Abimbola Osarugue Obaseki-Adejumo JCA",
+    "Chinwe Eugenia Iyizoba JCA"
   ],
-  "representation": [
-    "Oluyinka Onamade",
+  "representation_appellant": [
+    "O.M. Akinwande",
     "R. Okafor",
-    "O.M. Akinw"
+    "Oluyinka Onamade"
+  ],
+  "representation_respondent": [
+    "Eniola Irinoye",
+    "Gloria A. Opeyokun"
   ],
   "originating_court": "High Court Lagos",
-  "doc_id": "fb778e59-1017-4452-b0ba-17520b2e8dbd",
+  "doc_id": "3c120289-72ce-4db7-a6b9-a2432cf268b5",
   "doctype": "Case",
   "parties": [
     "Tonique Oil Services Limited",

@@ -1,19 +1,19 @@
 {
   "case_title": "A.P.c v. Nduul",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "19-5-2017",
   "year": "2017",
   "suit_number": "SC.332/2016",
   "lex_citation": "LEX(2017)-SC.332/2016",
   "other_citations": "3PLR/2017/3(SC)",
   "area_of_law": [
-    "Electoral Matters",
+    "Jurisdiction",
     "Election Matters",
+    "Service of Processes",
+    "Electoral Matters",
     "Constitutional Law and Human Rights Law",
     "Appeal",
-    "Judgment and Order",
-    "Jurisdiction",
-    "Service of Processes"
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,32 +24,39 @@
   "judge": [
     "Mary Ukaego Peter-Odili JSC",
     "Olukayode Ariwoola JSC",
+    "Sidi Dauda Bage JSC",
     "Kumai Bayang Akaahs JSC",
-    "Paul Adamu Galinje JSC",
-    "Sidi Dauda Bage JSC"
+    "Paul Adamu Galinje JSC"
   ],
   "representation": [
-    "MR",
+    "And Adeola Adedipe Esq",
+    "P. D. Adi Esq",
     "S. A. Akpehe Esq",
-    "MR",
+    "Uchenna",
     "Alex Ejesieme Esq",
-    "MR",
+    "Benjamin Wayo Esq",
     "G. T. Yango Esq",
-    "MR",
-    "Ahmed Raji"
+    "Ahmed Raji",
+    "I. R. Adekwagh Esq",
+    "Tunde Babalola Esq",
+    "C. N.udengwu Esq",
+    "V. T. Uji Esq",
+    "J. T. Damsa Esq",
+    "Prosperity Nwachukwu Esq",
+    "C. Oparaugo Esq"
   ],
   "originating_court": [
     "The Court of Appeal, Makurdi Division, Benue State (an Interlocutory Ruling Delivered on 13 April 2016)",
     "Federal High Court, Makurdi, Benue State"
   ],
-  "doc_id": "6919e1f3-cbe2-4410-ad5d-b504a740ba6d",
+  "doc_id": "0c402a22-bf55-437a-b126-f44c5a131b1e",
   "doctype": "Case",
   "parties": [
     "All Progressives Congress",
     "Apc",
-    "Engineer George T. A. Nduul",
+    "Inec",
     "Barr. Benjamin Wayo",
-    "Independent National Electoral Commission",
-    "Inec"
+    "Engineer George T. A. Nduul",
+    "Independent National Electoral Commission"
   ]
 }

@@ -22,27 +22,26 @@
     "Case"
   ],
   "judge": [
-    "Amina Adamu Augie JSC",
     "Joseph Shagbaor Ikyegh JSC",
+    "Amina Adamu Augie JSC",
     "Chinwe Eugenia Iyizoba JSC"
   ],
   "representation_appellant": "O. A. Olugasa",
   "representation_respondent": [
-    "Adekunle Adeniyi",
-    "S. Y. Kolawole"
+    "S. Y. Kolawole",
+    "Adekunle Adeniyi"
   ],
   "originating_court": [
-    "",
     "High Court of Lagos State, Ikeja Judicial Division (onyeabo J., Presiding)"
   ],
-  "doc_id": "580e0ab0-4f68-4dfd-aed5-0af0097694cc",
+  "doc_id": "f958babd-fc06-4c0a-a0df-1e17813271dc",
   "doctype": "Case",
   "parties": [
     "Biosola Nigeria Limited",
     "Eluwole Dosu Eluyemi",
-    "Mainstreet Bank Limited",
-    "Registrar of Titles Lagos State",
     "Attorney General Lagos State",
-    "Governor of Lagos State"
+    "Governor of Lagos State",
+    "Registrar of Titles Lagos State",
+    "Mainstreet Bank Limited"
   ]
 }

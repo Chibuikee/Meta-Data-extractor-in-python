@@ -7,14 +7,14 @@
   "lex_citation": "LEX(1994)-CA/I/241/90",
   "other_citations": "3PLR/1994/96(CA)",
   "area_of_law": [
-    "Insurance and Reinsurance",
-    "Commercial Law",
-    "Ethics",
     "Healthcare and Law",
     "Tort and Personal Injury Law",
-    "Court",
     "Action",
-    "Interpretation of Statute"
+    "Court",
+    "Insurance and Reinsurance",
+    "Ethics",
+    "Interpretation of Statute",
+    "Commercial Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,20 +22,21 @@
     "Case"
   ],
   "judge": [
-    "George Adesola Oguntade JCA",
     "Isa Ayo Salami JCA",
+    "George Adesola Oguntade JCA",
     "Sylvanus Adiewere Nsofor JCA"
   ],
   "representation": [
     "G. Olawoyin",
-    "B.E. Nbagwu"
+    "B.E. Nbagwu",
+    "K. Bisi"
   ],
-  "doc_id": "fd860ffa-146c-4780-a42b-f751ac429e19",
+  "doc_id": "f4a7f324-f3fb-467a-9da4-c6284c327b70",
   "doctype": "Case",
   "parties": [
-    "Unity Life",
     "Fire Insurance Co. Ltd.",
-    "D.A. Ladega",
-    "Ors."
+    "Unity Life",
+    "Ors.",
+    "D.A. Ladega"
   ]
 }

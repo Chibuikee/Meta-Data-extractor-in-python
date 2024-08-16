@@ -10,8 +10,8 @@
     "(2020)LPELR-49507(CA)"
   ],
   "area_of_law": [
-    "Appeals",
-    "Pleadings"
+    "Pleadings",
+    "Appeals"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,24 +19,24 @@
     "Case"
   ],
   "judge": [
-    "Chidi Nwaoma Uwa JCA",
     "James Shehu Abiriyi JCA",
-    "Abdullahi Mahmud Bayero JCA"
+    "Abdullahi Mahmud Bayero JCA",
+    "Chidi Nwaoma Uwa JCA"
   ],
   "representation_appellant": "F. R. Baiyo",
   "representation_respondent": [
-    "G. E. Akpanamasi",
-    "V. N. Eze"
+    "V. N. Eze",
+    "G. E. Akpanamasi"
   ],
   "originating_court": "[not Available]",
-  "doc_id": "3813d206-3799-4ad8-b731-3c1b0fb56d34",
+  "doc_id": "242b3b66-0201-4713-8734-2ff60b90bd76",
   "doctype": "Case",
   "parties": [
     "Nemuel Paron Samari",
-    "Eron Bulus",
-    "Aziz Jibrillah",
     "John Christopher",
-    "Barr. Ifeoluwa David Fawoye",
-    "Nigeria Security and Civil Defence Corps"
+    "Aziz Jibrillah",
+    "Eron Bulus",
+    "Nigeria Security and Civil Defence Corps",
+    "Barr. Ifeoluwa David Fawoye"
   ]
 }

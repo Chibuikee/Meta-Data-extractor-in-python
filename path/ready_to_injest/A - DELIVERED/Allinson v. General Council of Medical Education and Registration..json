@@ -10,11 +10,11 @@
     "[1894]1Q.B.750"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
     "Ethics",
-    "Healthcare Law",
-    "Action",
     "B",
+    "Action",
+    "Healthcare Law",
+    "Administrative and Government Law",
     "T"
   ],
   "semantic_tags": [
@@ -24,25 +24,31 @@
   ],
   "judge": [
     "Lord Esher",
-    "Lopes and Davey, L JJ",
-    "Originating Tribunal",
     "High Court of England",
+    "Originating Tribunal",
+    "Lopes and Davey, L JJ",
     "General Council of Medical Education and Registration"
   ],
   "representation": [
-    "Coleridge",
-    "Schultess Young",
-    "Reid",
-    "Muir Mackenzie",
-    "Francis Miller",
-    "Co",
     "Warren",
+    "Muir Mackenzie",
+    "Reid",
+    "Miller",
+    "Co",
+    "Francis Miller",
+    "Coleridge",
     "Murton",
-    "Miller"
+    "Schultess Young"
   ],
-  "doc_id": "352bb60f-5859-4853-b84a-2d75d214faf7",
+  "originating_court": [
+    "Tribunal",
+    "High Court of England",
+    "General Council of Medical Education and Registration"
+  ],
+  "doc_id": "eda4aa11-7a89-4398-bf97-44a9882b52f4",
   "doctype": "Case",
   "parties": [
+    "Allinson",
     "General Council of Medical Education and Registration"
   ]
 }

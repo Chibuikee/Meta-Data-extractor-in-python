@@ -1,15 +1,15 @@
 {
   "case_title": "Hongkong and Shanghai Banking Corp v. Kloeckner Co Ag",
-  "court": "Queen's Bench",
+  "court": "Queen’s Bench Division",
   "date": "8-3-1989",
   "year": "1989",
-  "suit_number": "(1989)-QBD03/89",
+  "suit_number": "",
   "lex_citation": "LEX(1989)-QBD03/89",
   "other_citations": "3PLR/1989/7(QB)",
   "area_of_law": [
-    "Banking and Finance Law",
     "Commercial Law",
-    "Oil and Gas Law"
+    "Oil and Gas Law",
+    "Banking and Finance Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -18,20 +18,20 @@
   ],
   "judge": "Hirst J",
   "representation": [
-    "David Donaldson Qc",
-    "Richard Hacker",
-    "Bank",
     "Mark Havelock-allan",
-    "Kloeckner",
     "Stephenson Harwood",
-    "Middleton Potts . K Mydeen"
+    "Middleton Potts",
+    "Richard Hacker",
+    "Kloeckner",
+    "Bank",
+    "David Donaldson Qc",
+    "Mydeen"
   ],
-  "doc_id": "752d8bf7-07ec-4531-bd81-b695967d4b5a",
+  "doc_id": "16b6f20d-4b29-4a15-b201-b436b58a1334",
   "doctype": "Case",
   "parties": [
     "Hongkong and Shanghai Banking Corp",
     "The Bank",
-    "Kloeckner",
     "Co Ag",
     "Kloeckner"
   ]

@@ -4,18 +4,18 @@
   "date": "18-3-2020",
   "year": "2020",
   "suit_number": "CA/L/956/2015",
-  "lex_citation": "LEX(2020)–CA/L/956/2015",
+  "lex_citation": "LEX(2020)-CA/L/956/2015",
   "other_citations": [
     "3PLR/2020/29(CA)",
     "(2020)LPELR-49539(CA)"
   ],
   "area_of_law": [
-    "Appeal",
-    "Evidence",
-    "Real Estate and Property Law",
     "Words and Phrases",
     "Commercial Law",
-    "Action"
+    "Action",
+    "Appeal",
+    "Real Estate and Property Law",
+    "Evidence"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,26 +23,26 @@
     "Case"
   ],
   "judge": [
-    "Jamilu Yammama Tukur JCA",
     "Mohammed Lawal Garba JCA",
-    "Ugochukwu Anthony Ogakwu JCA"
+    "Ugochukwu Anthony Ogakwu JCA",
+    "Jamilu Yammama Tukur JCA"
   ],
   "representation": [
-    "S. A. Obafemi, Esq",
-    "Oladipo Yeye, Esq"
+    "Oladipo Yeye, Esq",
+    "S. A. Obafemi, Esq"
   ],
   "originating_court": "High Court of Lagos State",
-  "doc_id": "0fcb71a7-c825-464c-8ed6-2590378f9368",
+  "doc_id": "0c98e591-7abc-43b6-8475-1be468940bc2",
   "doctype": "Case",
   "parties": [
     "Maureen Otigbah",
-    "Ejimofor Otigbah",
-    "Ekene Otigbah",
-    "Ngozi Otigbah",
     "Uchenna Otigbah",
+    "Ejimofor Otigbah",
+    "Ngozi Otigbah",
     "Onochie Otigbah",
+    "Ekene Otigbah",
     "Agatha Adetutu Uwanaka",
-    "Otigbah",
-    "George Ifeanyi Otigbah"
+    "George Ifeanyi Otigbah",
+    "Otigbah"
   ]
 }

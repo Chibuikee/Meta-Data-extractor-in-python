@@ -1,6 +1,6 @@
 {
   "case_title": "Diamond Bank Ltd. v. Partnership Investment Co. Ltd Anor",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "18-12-2009",
   "year": "2009",
   "suit_number": "SC.26/2002",
@@ -11,11 +11,11 @@
     "(2009)18NWLR(PT.1172)67S.C."
   ],
   "area_of_law": [
+    "Tort and Personal Injury",
     "Banking Law",
     "Appeal",
-    "Court",
     "Judgment and Order",
-    "Tort and Personal Injury",
+    "Court",
     "Words and Phrases"
   ],
   "semantic_tags": [
@@ -25,22 +25,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Aloysius Iyorgyer Katsina-Alu JSC",
-    "Mahmud Mohammed JSC",
-    "Ikechi Francis Ogbuagu JSC",
     "Christopher Mitchell Chukwuma-Eneh JSC",
-    "Mohammad Saifullah Muntaka-Coomassie JSC"
+    "Ikechi Francis Ogbuagu JSC",
+    "Mohammad Saifullah Muntaka-Coomassie JSC",
+    "Mahmud Mohammed JSC",
+    "Aloysius Iyorgyer Katsina-Alu JSC"
   ],
   "representation_appellant": "Olumide Aju",
   "representation_respondent": [
     "Funke Agbor",
     "Dayo Ayoola-johnson"
   ],
-  "doc_id": "2d66511a-5ec1-45be-a1cc-abc7391660ff",
+  "doc_id": "b7ff3272-3014-4b6f-b637-533541082b5b",
   "doctype": "Case",
   "parties": [
     "Diamond Bank Ltd.",
-    "Partnership Investment Co. Ltd",
-    "Gamji Bank Ltd."
+    "Gamji Bank Ltd.",
+    "Partnership Investment Co. Ltd"
   ]
 }

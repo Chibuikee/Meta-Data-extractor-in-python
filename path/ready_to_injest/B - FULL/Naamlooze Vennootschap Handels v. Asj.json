@@ -3,8 +3,8 @@
   "court": "House of Lords",
   "date": "22-2-1938",
   "year": "1938",
-  "suit_number": "(1705)4",
-  "lex_citation": "LEX(1938)–2ALLE.R.152",
+  "suit_number": "",
+  "lex_citation": "LEX(1938)-2ALLE.R.152",
   "other_citations": [
     "2PLR/1914/5(HL)",
     "[1938]2ALLE.R.152",
@@ -16,31 +16,46 @@
     "LORDMACMILLAN"
   ],
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Shipping and Admiralty Law"
+    "Shipping and Admiralty Law",
+    "Alternative Dispute Resolution"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
+  ],
+  "judge": [
+    "Citations",
+    "Lord Atkin",
+    "Ludwig Mowinckels Rederi",
+    "Lord Thankerton",
+    "February, 17 March",
+    "House of Lords",
+    "Lord Russell of Killowen",
+    "Naamlooze Vennootschap Handels-En-Transport Maatschappi J \"vulcaan",
+    "Lord Macmillan",
+    "Lord Maugham Lc",
+    "A/s J"
   ],
   "representation": [
     "H U Willink Kc",
-    "C T Miller . Robert Aske Kc",
+    "C T Miller",
+    "Sinclair Roche & Temperley",
+    "Robert Aske Kc",
+    "Richards Butler Stokes & Woodham Smith",
     "J V Naisby",
-    "Richards Butler Stokes & Woodham Smith Sinclair Roche",
-    "& Temperley Michael Marcus",
-    "Barrister"
+    "Michael Marcus"
   ],
   "originating_court": [
     "Court of Appeal",
     "High Court",
     "Arbitration Panel"
   ],
-  "doc_id": "582ee988-ce24-482d-a075-8c75634cc02e",
+  "doc_id": "9da74620-3e90-4e2c-8f99-8eaad8a20e2c",
   "doctype": "Case",
   "parties": [
-    "Oze Vennootschap Handels-en-transport Maatschappij \"vulcaan",
+    "Naamlooze Vennootschap Handels-en-transport Maatschappij \"vulcaan",
     "A/s J Ludwig Mowinckels Rederi"
   ]
 }

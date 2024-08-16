@@ -1,6 +1,6 @@
 {
   "case_title": "Adelekan v. Ecu-line Nv",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-5-2006",
   "year": "2006",
   "suit_number": "SC.358/2001",
@@ -10,11 +10,11 @@
     "(2006)12NWLR(PT.993)33"
   ],
   "area_of_law": [
+    "Appeal",
+    "Judgment and Order",
     "Admiralty and Shipping",
     "Commercial Law",
-    "Appeal",
     "Court",
-    "Judgment and Order",
     "Jurisdiction"
   ],
   "semantic_tags": [
@@ -24,26 +24,29 @@
     "High Profile Case"
   ],
   "judge": [
-    "Sylvester Umaru Onu JSC",
-    "Akintola Olufemi Ejiwunmi JSC",
-    "Dahiru Musdapher JSC",
     "Walter Samuel Nkanu Onnoghen JSC",
-    "Ikechi Francis Ogbuagu JSC",
     "Originating State",
-    "Court of Appeal Sitting at Ibadan",
     "Federal High Court, Ibadan",
+    "Akintola Olufemi Ejiwunmi JSC",
+    "Ikechi Francis Ogbuagu JSC",
+    "Sylvester Umaru Onu JSC",
+    "Dahiru Musdapher JSC",
+    "Court of Appeal Sitting at Ibadan",
     "Oyo State"
   ],
   "representation": [
-    "No",
     "Cross",
-    "Ayo Olorunfemi",
-    "Cross"
+    "No",
+    "Ayo Olorunfemi"
   ],
-  "doc_id": "d00a9c62-3a8d-4051-a672-dd705603c974",
+  "originating_court": [
+    "Court of Appeal Sitting at Ibadan",
+    "Federal High Court, Ibadan, Oyo State"
+  ],
+  "doc_id": "b58b5e34-e5c2-4de7-9668-4fd489a54f89",
   "doctype": "Case",
   "parties": [
-    "Ctor Adelekan",
+    "MR. Victor Adelekan",
     "Ecu-line Nv"
   ]
 }

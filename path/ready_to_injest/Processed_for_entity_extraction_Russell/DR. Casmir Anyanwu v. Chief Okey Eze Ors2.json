@@ -4,16 +4,16 @@
   "date": "12-7-2019",
   "year": "2019",
   "suit_number": "SC.626/2019",
-  "lex_citation": "LEX(2020)–SC.625/2019",
+  "lex_citation": "LEX(2020)-SC.625/2019",
   "other_citations": [
     "3PLR/2020/13(SC)",
     "(2019)LPELR-48740(SC)"
   ],
   "area_of_law": [
-    "Constitutional Law",
+    "Action",
     "Electoral Matters",
     "Appeal",
-    "Action"
+    "Constitutional Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -22,43 +22,43 @@
     "High Profile Case"
   ],
   "judge": [
+    "Olukayode Ariwoola JSC",
     "Amiru Sanusi JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC",
-    "Olukayode Ariwoola JSC",
-    "Mary Ukaego Peter-Odili JSC"
+    "Mary Ukaego Peter-Odili JSC",
+    "Uwani Musa Abba Aji JSC"
   ],
   "representation_appellant": [
     "Chukwudi Adiukwu, Esq",
+    "C.B. Okoroafor",
     "Fernandez Marcus-obiene and Jacinta Azuatalam",
-    "Ikechukwu Uwanna",
-    "C.B. Okoroafor"
+    "Ikechukwu Uwanna"
   ],
   "representation_respondent": [
-    "R.A. Lawal-rabana, San",
-    "M.C. Arnanze, Esq",
+    "B. Okoroafor, Esq",
+    "Peter Abang",
     "Michael Nwamu, Esq",
     "Ikechukwu Uwanna, Esq",
     "Inec",
-    "B. Okoroafor, Esq",
-    "Fernandez Marcus-obiene, Esq",
-    "Peter Abang",
-    "Chinedu",
+    "M.C. Arnanze, Esq",
+    "R.A. Lawal-rabana, San",
+    "A. I. Nwachukwu, Esq",
     "Izito Zuoke, Esq",
-    "A. I. Nwachukwu, Esq"
+    "Fernandez Marcus-obiene, Esq",
+    "Chinedu"
   ],
   "originating_court": [
     "Court of Appeal, Owerri Division, Owerri, Imo State, Nigeria",
     "Federal High Court, Owerri, Imo State, Nigeria"
   ],
-  "doc_id": "02abf6a5-d94e-40f5-88c1-bd9e05007c2c",
+  "doc_id": "67daef3c-e6ff-40f6-ad78-a72ce9704f07",
   "doctype": "Case",
   "parties": [
     "DR. Casmir Anyanwu",
-    "Chief Okey Eze",
     "Social Democratic Party",
-    "Sdp",
     "Independent National Electoral Commission",
-    "Inec"
+    "Inec",
+    "Chief Okey Eze",
+    "Sdp"
   ]
 }

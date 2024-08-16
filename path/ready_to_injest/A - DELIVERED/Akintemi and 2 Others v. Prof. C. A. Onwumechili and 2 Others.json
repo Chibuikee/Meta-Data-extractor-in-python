@@ -4,19 +4,19 @@
   "date": "18-1-1985",
   "year": "1985",
   "suit_number": "SC65/1983",
-  "lex_citation": "LEX(1985)–SC65/1983",
+  "lex_citation": "LEX(1985)-SC65/1983",
   "other_citations": [
     "3PLR/1985/14(SC)",
     "(1985)1NWLR(PT.378)393"
   ],
   "area_of_law": [
-    "Administrative Law and Government",
+    "Interpretation of Statute",
+    "Education and Law",
     "Administrative Law",
     "Children and Women Law",
     "Constitutional Law",
     "Constitutional and Public Law",
-    "Education and Law",
-    "Interpretation of Statute"
+    "Administrative Law and Government"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,23 +25,25 @@
     "High Profile Case"
   ],
   "judge": [
-    "Ayo Gabriel Irikefe JSC",
-    "Andrews Otutu Obaseki JSC",
-    "Boonyamin Oladiran Kazeem JSC",
+    "Saidu Kawu JSC",
     "Dahunsi Olugbemi Coker JSC",
-    "Saidu Kawu JSC"
+    "Ayo Gabriel Irikefe JSC",
+    "Boonyamin Oladiran Kazeem JSC",
+    "Andrews Otutu Obaseki JSC"
   ],
   "representation": [
+    "A.A. Adeniyi",
     "Afe Babalola",
+    "B. Aribido",
     "Olisa Chukura",
-    "Y. Abiose",
-    "A.A. Adeniyi"
+    "S.A. Adesanya",
+    "Y. Abiose"
   ],
   "originating_court": "High Court of Oyo State (ibadan Judicial Division)",
-  "doc_id": "33ffb518-51fd-44aa-a250-edf2c266af93",
+  "doc_id": "a9ac5a63-d00d-4fa4-b2ab-e5d6d43c3e35",
   "doctype": "Case",
   "parties": [
-    "A. Akintemi and 2 Ors",
+    "Miss O. A. Akintemi and 2 Ors",
     "Prof. C.A. Onwumechili and 2 Ors"
   ]
 }

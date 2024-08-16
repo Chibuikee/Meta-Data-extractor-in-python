@@ -1,6 +1,6 @@
 {
   "case_title": "Ani v. Effiok",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-2-2017",
   "year": "2017",
   "suit_number": "SC.634/2013",
@@ -8,8 +8,8 @@
   "other_citations": "2PLR/2017/44(SC)",
   "area_of_law": [
     "Constitutional Law",
-    "Appeal",
     "Practice and Procedure",
+    "Appeal",
     "Words and Phrases"
   ],
   "semantic_tags": [
@@ -19,36 +19,35 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olabode Rhodes-Vivour JSC",
-    "Clara Bata Ogunbiyi JSC",
     "Amiru Sanusi JSC",
+    "Clara Bata Ogunbiyi JSC",
+    "Olabode Rhodes-Vivour JSC",
     "Amina Adamu Augie JSC",
     "Paul Adamu Galinje JSC"
   ],
-  "representation_appellant": [
+  "representation": [
+    "Daniella Ikeokwu",
+    "Olubola Olusegun",
     "O. F. Ekengba",
-    "Nella"
-  ],
-  "representation_respondent": [
-    "Rabana",
+    "Peter O. Abang",
     "Ladi Rotimi Williams",
-    "Daniella Ikeokwu"
+    "Nella Andem-rabana"
   ],
   "originating_court": "Court of Appeal, Calabar Judicial Division (judgment of the Court Delivered on 4 July 2013).",
-  "doc_id": "a5e314f2-6b3a-4798-90dc-096464024081",
+  "doc_id": "b05b5f0e-f8d4-4c1a-84b5-b23743080bb7",
   "doctype": "Case",
   "parties": [
-    "Etubom",
     "DR",
-    "Anthony Asuquo Ani",
-    "Etinyin Okon Effiong Offiong",
     "Chief Offiong Eyo Offiong",
-    "Chief Emmanuel Eniang Offiong",
+    "Etubom",
     "Anthony Eniang Offiong",
+    "Chief Emmanuel Eniang Offiong",
+    "Etinyin Okon Effiong Offiong",
+    "Anthony Asuquo Ani",
+    "Etubom Ekpo Okon Abasi Otu",
+    "Etubom Out Efa Out",
     "Etubom Essien Ekpenyong Effiok",
     "Etubom Okon Asuquo",
-    "Etubom Micah Archibong",
-    "Etubom Ekpo Okon Abasi Otu",
-    "Etubom Out Efa Out"
+    "Etubom Micah Archibong"
   ]
 }

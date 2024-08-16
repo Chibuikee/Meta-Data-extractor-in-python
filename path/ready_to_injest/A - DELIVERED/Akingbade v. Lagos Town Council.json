@@ -1,23 +1,22 @@
 {
   "case_title": "Akingbade v. Lagos Town Council",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-10-1955",
   "year": "1955",
-  "suit_number": "(1955)-21/NLR/90",
+  "suit_number": "",
   "lex_citation": "LEX(1955)-21/NLR/90",
   "other_citations": [
     "3PLR/1955/6(SC)",
-    "(1995)21NLR90",
-    ""
+    "(1995)21NLR90"
   ],
   "area_of_law": [
-    "Taxation and Revenue Law",
+    "Interpretation of Statute",
+    "Agriculture and Food Law",
     "Government and Administrative Law",
     "Administrative and Government Law",
     "Healthcare and Law",
-    "Agriculture and Food Law",
-    "Interpretation of Statute",
-    "T"
+    "T",
+    "Taxation and Revenue Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -30,7 +29,7 @@
     "Lambo",
     "David"
   ],
-  "doc_id": "b0cb47a7-42fc-4900-a26b-86570db9f2c0",
+  "doc_id": "19ddd15f-1bea-4b63-9022-65910cb5b152",
   "doctype": "Case",
   "parties": [
     "Oloyode Akingbade",

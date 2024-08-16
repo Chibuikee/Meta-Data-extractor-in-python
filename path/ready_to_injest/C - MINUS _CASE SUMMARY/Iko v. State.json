@@ -1,6 +1,6 @@
 {
   "case_title": "Iko v. State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "13-7-2001",
   "year": "2001",
   "suit_number": "SC.177/2000",
@@ -10,16 +10,16 @@
     "(2001)14NWLR(PT.732)195"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Healthcare and Law",
     "Children and Women Law",
     "Ethics",
-    "Education and Law",
-    "Healthcare and Law",
     "Transportation and Logistics",
     "Appeal",
     "Evidence",
     "Interpretation of Statute",
-    "Words and Phrases"
+    "Criminal Law and Procedure",
+    "Words and Phrases",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -28,24 +28,24 @@
     "High Profile Case"
   ],
   "judge": [
-    "Emanuel Obioma Ogwuegbu JSC",
-    "Anthony Ikechukwu Iguh JSC",
-    "Aloysius Iyorgyer Katsina Alu JSC",
     "Umaru Atu Kalgo JSC",
-    "Akintola Olufemi Ejiwunmi JSC"
+    "Aloysius Iyorgyer Katsina Alu JSC",
+    "Akintola Olufemi Ejiwunmi JSC",
+    "Anthony Ikechukwu Iguh JSC",
+    "Emanuel Obioma Ogwuegbu JSC"
   ],
   "representation": [
     "O. R. Ulasi",
     "C.J. Udoh",
-    "Senior State Counsel",
+    "Akwa-ibom State Uyo",
     "Ministry of Justice",
-    "Akwa-ibom State Uyo"
+    "Senior State Counsel"
   ],
   "originating_court": [
     "Court of Appeal, Calabar Judicial Division",
     "Cross Rivers State High Court, Uyo Judicial Division (nkop J. Presiding)"
   ],
-  "doc_id": "85e8ffd8-f594-4de2-a2cd-315dcf6efc41",
+  "doc_id": "fd338bbf-797c-49b7-8068-9ea582e00812",
   "doctype": "Case",
   "parties": [
     "Edet Okon Iko",

@@ -3,46 +3,48 @@
   "court": "House of Lords",
   "date": "19-5-1914",
   "year": "1914",
-  "suit_number": "(1856)5H.L.C.811",
+  "suit_number": "",
   "lex_citation": "",
   "other_citations": [
     "2PLR/1915/4(HL)",
     "[1915]1A.C.499"
   ],
   "area_of_law": [
-    "Insurance and Reinsurance",
-    "Alternative Dispute Resolution"
+    "Alternative Dispute Resolution",
+    "Insurance and Reinsurance"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Viscount Haldane",
     "Lord Dunedin",
     "Lord Atkinson",
+    "Lord Parmoor",
     "Lord Parker of Waddington",
-    "Lord Parmoor"
+    "Viscount Haldane"
   ],
-  "representation_appellant": [
+  "representation": [
+    "Fielder",
     "Gordon Hewart",
     "J. B. Matthews",
-    "Fielder",
-    "Jones & Harrison",
-    "C. T. Rhodes",
+    "W. A. Barton",
+    "Andrews",
     "& Son",
-    "Halifax"
-  ],
-  "representation_respondent": [
-    "Rews",
-    "Ogilvie & Fisher"
+    "C. T. Rhodes",
+    "D. Owen Evans",
+    "Ogilvie & Fisher",
+    "Halifax",
+    "Jones & Harrison",
+    "Silvain Mayer"
   ],
   "originating_court": [
     "Court of Appeal",
     "High Court (darling J., Presiding)"
   ],
-  "doc_id": "8eaabf68-c1ba-4c62-a30f-a3919cfd84f2",
+  "doc_id": "82d939d8-d447-49eb-a1ad-6a7432995e22",
   "doctype": "Case",
   "parties": [
     "Jureidini",

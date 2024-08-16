@@ -10,17 +10,17 @@
     "(2013)LPELR-21916(CA)"
   ],
   "area_of_law": [
-    "Constitutional Law",
-    "Constitutional and Public Law",
-    "Employment and Labour Law",
-    "Administrative and Government Law",
     "Public Law and Jurisprudence",
-    "Education and Law",
+    "Constitutional and Public Law",
+    "Constitutional Law",
     "Action",
     "Appeal",
-    "Court",
     "Evidence",
-    "Jurisdiction"
+    "Employment and Labour Law",
+    "Administrative and Government Law",
+    "Court",
+    "Jurisdiction",
+    "Education and Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -32,21 +32,19 @@
     "Jummai Hanatu Sankey JCA",
     "Peter Olabisi Ige JCA"
   ],
-  "representation_appellant": [
-    "MR",
-    "N. Balan Malam"
+  "representation_appellant": "N. Balan Malam",
+  "representation_respondent": "S. O. D. Wurno",
+  "originating_court": [
+    "State",
+    "Bauchi State: High Court (h. M. Tsammani J- Presiding)"
   ],
-  "representation_respondent": [
-    "MR",
-    "S. O. D. Wurno"
-  ],
-  "doc_id": "77a18f45-d6bb-4c94-a39c-618f6d2e471c",
+  "doc_id": "33ad6039-094f-4ad0-8062-cf017a708a2e",
   "doctype": "Case",
   "parties": [
+    "Bauchi",
     "Federal Polytechnic Bauchi",
     "The Governing Council",
     "Federal Polytechnic",
-    "Bauchi",
     "Abdulfattah Aboaba",
     "Isiaku Nda Eluja"
   ]

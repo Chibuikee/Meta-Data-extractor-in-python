@@ -10,12 +10,12 @@
     "(2017)LPELR-42313(CA)"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
-    "Admiralty and Maritime",
     "Constitutional Law",
-    "Criminal Law and Procedure",
+    "Admiralty and Maritime",
+    "Interpretation of Statute",
     "Oil and Gas",
-    "Interpretation of Statute"
+    "Administrative and Government Law",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,22 +23,21 @@
     "Case"
   ],
   "judge": [
-    "Joseph Shagbaor Ikyegh JCA",
+    "Biobele Abraham Georgewill JCA",
     "Tijjani Abubakar JCA",
-    "Biobele Abraham Georgewill JCA"
+    "Joseph Shagbaor Ikyegh JCA"
   ],
   "representation_appellant": [
-    "B. Koku",
-    "C. Uguejiofor",
     "F. Falade",
-    "A. A. Omokaye"
+    "B. Koku",
+    "A. A. Omokaye",
+    "C. Uguejiofor"
   ],
   "representation_respondent": "I. R Oyedepo",
   "originating_court": [
-    "",
     "Federal High Court, Lagos"
   ],
-  "doc_id": "9b4dfe0e-9b29-40ab-af4b-b6eb285cb4fe",
+  "doc_id": "911b991b-1e88-4d4d-bd53-0bff97860376",
   "doctype": "Case",
   "parties": [
     "Arthur Pakhladzhian",

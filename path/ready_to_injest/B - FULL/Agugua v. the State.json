@@ -1,6 +1,6 @@
 {
   "case_title": "Agugua v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "10-2-2017",
   "year": "2017",
   "suit_number": "SC.322/2014",
@@ -10,11 +10,11 @@
     "(2017)LPELR-42021(SC)"
   ],
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Appeal",
     "Court",
+    "Words and Phrases",
     "Evidence",
-    "Words and Phrases"
+    "Appeal",
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,11 +23,11 @@
     "High Profile Case"
   ],
   "judge": [
+    "Olukayode Ariwoola JSC",
+    "Ejembi Eko JSC",
     "Ibrahim Tanko Muhammad JSC",
     "Mary Ukaego Peter-Odili JSC",
-    "Olukayode Ariwoola JSC",
-    "Amina Adamu Augie JSC",
-    "Ejembi Eko JSC"
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
     "Ebenezer Obeya",
@@ -36,15 +36,15 @@
   "representation_respondent": [
     "Suleiman Usman",
     "Mohammed Mohammed",
+    "Sunmayya Aminu Anka",
     "Abubakar Moyi",
-    "G.c Udeh",
-    "Sunmayya Aminu Anka"
+    "G.c Udeh"
   ],
   "originating_court": [
     "Court of Appeal, Sokoto Judicial Division",
     "Sokoto State High Court (malami Umar .j., Presiding)"
   ],
-  "doc_id": "b450c55d-5391-424f-b63e-6561509e207c",
+  "doc_id": "448c53d5-9b88-426c-9141-cee37c0187f8",
   "doctype": "Case",
   "parties": [
     "Chukwuemeka Agugua",

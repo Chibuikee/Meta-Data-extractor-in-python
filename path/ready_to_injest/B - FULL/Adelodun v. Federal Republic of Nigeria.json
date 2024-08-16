@@ -7,11 +7,11 @@
   "lex_citation": "LEX(2017)-CA/IL/C.23/2016",
   "other_citations": "2PLR/2017/24(CA)",
   "area_of_law": [
-    "Criminal Law and Procedure",
-    "Appeal",
+    "Interpretation of Statute",
     "Evidence",
+    "Appeal",
     "Judgment and Order",
-    "Interpretation of Statute"
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,18 +19,18 @@
     "Case"
   ],
   "judge": [
-    "Mojeed Adekunle Owoade JCA",
+    "Chidi Nwaoma Uwa JCA",
     "Hamma Akawu Barka JCA",
-    "Chidi Nwaoma Uwa JCA"
+    "Mojeed Adekunle Owoade JCA"
   ],
   "representation": [
-    "Wahab Ismail",
+    "Rotimi Oyedepo",
     "Ganiat",
     "Jimoh Cook",
-    "Rotimi Oyedepo"
+    "Wahab Ismail"
   ],
   "originating_court": "High Court of Justice, Kwara State (judgment of M. Abdul Gafar J., Presiding)",
-  "doc_id": "f9bbaed6-56bc-4ca8-aa1b-6b638cbf4a92",
+  "doc_id": "6096f4ee-a172-417a-9400-7c313b6c67b2",
   "doctype": "Case",
   "parties": [
     "Adelodun",

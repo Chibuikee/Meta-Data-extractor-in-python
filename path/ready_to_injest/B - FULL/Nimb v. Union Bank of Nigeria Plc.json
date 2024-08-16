@@ -1,21 +1,21 @@
 {
   "case_title": "Nimb v. Union Bank of Nigeria Plc",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "23-4-2004",
   "year": "2004",
   "suit_number": "SC.246/2000",
   "lex_citation": "LEX(2004)-SC.246/2000",
   "other_citations": "3PLR/2004/78(SC)",
   "area_of_law": [
-    "Debtor and Creditor",
-    "Agriculture and Food Law",
-    "Banking and Finance Law",
-    "Commercial Law",
-    "Ethics",
-    "Action",
+    "Jurisdiction",
     "Court",
-    "Judgment and Order",
-    "Jurisdiction"
+    "Action",
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Banking and Finance Law",
+    "Ethics",
+    "Agriculture and Food Law",
+    "Judgment and Order"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -24,21 +24,22 @@
     "High Profile Case"
   ],
   "judge": [
-    "Ignatius Chukwudi Pats-Acholonu JSC",
+    "Dahiru Musdapher JSC",
     "Uthman Mohammed JSC",
-    "Aloysius Iyorger Katsina-Alu JSC",
     "Akintola Olufemi Ejiwummi JSC",
-    "Dahiru Musdapher JSC"
+    "Ignatius Chukwudi Pats-Acholonu JSC",
+    "Aloysius Iyorger Katsina-Alu JSC"
   ],
   "representation": [
     "Ayo Ajayi",
-    "Abidemi Oladigbolu . Adebayo Adenipekun",
-    "T.C. Eze"
+    "T.C. Eze",
+    "Adebayo Adenipekun",
+    "Abidemi Oladigbolu"
   ],
-  "doc_id": "74d2c7f4-65cf-4560-b7d3-2236fa5dfb99",
+  "doc_id": "58385db8-cdbd-409f-8ca9-0f16b938c635",
   "doctype": "Case",
   "parties": [
-    "A Intercontinental Merchant Bank, Nimb",
+    "Nigeria Intercontinental Merchant Bank, Nimb",
     "Union Bank of Nigeria Plc"
   ]
 }

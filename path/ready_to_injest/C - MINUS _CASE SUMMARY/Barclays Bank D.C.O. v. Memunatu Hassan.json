@@ -3,18 +3,18 @@
   "court": "High Court",
   "date": "9-11-1961",
   "year": "1961",
-  "suit_number": "(1961)-AB/4/61",
+  "suit_number": "",
   "lex_citation": "LEX(1961)-AB/4/61",
   "other_citations": "2PLR/1961/27(HC-W)",
   "area_of_law": [
-    "Banking and Finance",
-    "Commercial Law",
     "Children and Women",
-    "Debtor and Creditor",
-    "Real Estate",
     "Court",
     "Pleading",
-    "Interpretation of Statutes"
+    "Interpretation of Statutes",
+    "Real Estate",
+    "Commercial Law",
+    "Debtor and Creditor",
+    "Banking and Finance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,13 +23,13 @@
   ],
   "judge": "Charles J",
   "representation": [
-    "O. A. Okenla",
-    "Aiyeola"
+    "Aiyeola",
+    "O. A. Okenla"
   ],
-  "doc_id": "04138a5e-a2bc-4f36-971a-36c847749b52",
+  "doc_id": "28658f83-3e4d-4823-949f-539dd1a1c587",
   "doctype": "Case",
   "parties": [
-    "Ys Bank D. C. O",
+    "Barclays Bank D. C. O",
     "Memunatu Hassan"
   ]
 }

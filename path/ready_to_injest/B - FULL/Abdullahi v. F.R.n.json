@@ -1,17 +1,17 @@
 {
   "case_title": "Abdullahi v. F.R.n",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "23-6-2017",
   "year": "2017",
   "suit_number": "SC.844/2015",
   "lex_citation": "LEX(2017)-SC.844/2015",
   "other_citations": "3PLR/2017/7(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Interpretation of Statute",
     "Constitutional Law and Human Rights",
     "Courts",
     "Evidence",
-    "Interpretation of Statute"
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -20,17 +20,18 @@
     "High Profile Case"
   ],
   "judge": [
-    "Olabode Rhodes-Vivour JSC",
+    "Amiru Sanusi JSC",
     "Musa Dattijo Muhammad JSC",
     "Chima Centus Nweze JSC",
-    "Amiru Sanusi JSC",
+    "Olabode Rhodes-Vivour JSC",
     "Paul Adamu Galinje JSC"
   ],
+  "representation": "Representation Not Found",
   "originating_court": [
     "Court of Appeal, Jos Judicial Division",
     "Federal High Court Holden at Jos"
   ],
-  "doc_id": "7f35985d-4f55-42b8-9368-48cd92a2a88d",
+  "doc_id": "50c432a6-0371-48b4-8571-7ad514bb0d04",
   "doctype": "Case",
   "parties": [
     "Auwal Abdullahi",

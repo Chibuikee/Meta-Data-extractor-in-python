@@ -7,14 +7,10 @@
   "lex_citation": "LEX(1996)-QBCMF95/0668",
   "other_citations": "3PLR/1996/46(SCJ)",
   "area_of_law": [
-    "Lex",
-    "Befor",
-    "Glencore International Ag",
-    "Portman",
-    "Admiralty and Maritime",
-    "Insurance and Reinsurance",
     "International Trade",
-    "Oil and Gas"
+    "Admiralty and Maritime",
+    "Oil and Gas",
+    "Insurance and Reinsurance"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -23,23 +19,25 @@
     "High Profile Case"
   ],
   "judge": [
-    "Lord Justice Leggatt",
     "Lord Justice Hutchison",
+    "Lord Justice Leggatt",
     "Lord Justice Waller"
   ],
   "representation": [
-    "MR G Kealey Qc MR D Edwards",
-    "MR T Saloman Qc MR C Priday"
+    "MR G Kealey Qc",
+    "MR D Edwards",
+    "MR C Priday",
+    "MR T Saloman Qc"
   ],
   "originating_court": "On Appeal From the High Court of Justice (MR Justice Longmore) Royal Courts of Justice, Strand, London Wc2",
-  "doc_id": "4b722c43-4d77-46cb-9e37-949dc603907f",
+  "doc_id": "e31b5fd9-e9bc-40d9-8798-efffe3ac5db9",
   "doctype": "Case",
   "parties": [
-    "Glencore International Ag",
-    "Anr - Plaintiffs",
     "Appellants",
-    "Portman",
+    "Anr - Plaintiffs",
+    "Glencore International Ag",
+    "Respondents",
     "Ors - Defendants",
-    "Respondents"
+    "Portman"
   ]
 }

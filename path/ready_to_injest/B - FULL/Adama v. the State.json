@@ -1,18 +1,18 @@
 {
   "case_title": "Adama v. the State",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "5-5-2017",
   "year": "2017",
   "suit_number": "SC.69/2014",
   "lex_citation": "LEX(2017)-SC.69/2014",
   "other_citations": "3PLR/2017/15(SC)",
   "area_of_law": [
-    "Criminal Law and Procedure",
+    "Jurisdiction",
     "Action",
+    "Statute",
     "Appeal",
     "Judgment and Order",
-    "Jurisdiction",
-    "Statute"
+    "Criminal Law and Procedure"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -21,30 +21,31 @@
     "High Profile Case"
   ],
   "judge": [
-    "Mary Ukaego Peter-Odili JSC",
     "Olukayode Ariwoola JSC",
-    "Kumai Bayang Aka’ahs JSC",
+    "Mary Ukaego Peter-Odili JSC",
     "Amina Adamu Augie JSC",
-    "Sidi Dauda Bage JSC"
+    "Sidi Dauda Bage JSC",
+    "Kumai Bayang Akaahs JSC"
   ],
   "representation": [
-    "Fred Onuobia",
     "Joseph",
-    "O. Abang",
-    "Peter",
-    "S. Bisong",
     "S.B. Tateh",
-    "M. Inyam",
-    "Bajie Ayuk",
     "J. Opiah",
+    "Fred Onuobia",
+    "Peter",
+    "M. Inyam",
+    "O. Abang",
+    "B. Agim",
+    "Solomon Ezike",
     "Frank",
-    "B. Agim"
+    "S. Bisong",
+    "Bajie Ayuk"
   ],
   "originating_court": [
     "Court of Appeal, Calabar Judicial Division",
     "High Court of Cross River State Sitting at Ogoja"
   ],
-  "doc_id": "c07d5b0a-8fb7-417e-b391-e2afbf4039a4",
+  "doc_id": "70896b93-0659-4498-be1b-59c7bc068877",
   "doctype": "Case",
   "parties": [
     "Oko Ogar Adama",

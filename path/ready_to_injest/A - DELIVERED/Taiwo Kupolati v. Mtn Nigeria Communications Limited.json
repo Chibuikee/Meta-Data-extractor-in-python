@@ -10,9 +10,9 @@
     "(2020)LPELR-49538(CA)"
   ],
   "area_of_law": [
-    "Telecommunication Law",
-    "Commercial Law",
     "Appeal",
+    "Commercial Law",
+    "Telecommunication Law",
     "Judgment and Order"
   ],
   "semantic_tags": [
@@ -21,12 +21,12 @@
     "Case"
   ],
   "judge": [
+    "Jamilu Yammama Tukur JCA",
     "Mohammed Lawal Garba JCA",
-    "Ugochukwu Anthony Ogakwu JCA",
-    "Jamilu Yammama Tukur JCA"
+    "Ugochukwu Anthony Ogakwu JCA"
   ],
   "originating_court": "High Court of Lagos State",
-  "doc_id": "7871e467-720f-4b61-89d4-34716cef9451",
+  "doc_id": "83aacd4a-d27e-46fd-b36b-7299aa03eaeb",
   "doctype": "Case",
   "parties": [
     "Taiwo Kupolati",

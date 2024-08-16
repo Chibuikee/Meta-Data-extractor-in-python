@@ -1,8 +1,8 @@
 {
   "case_title": "James Albert De Gregory Appellant and General Medical Council",
   "court": "",
-  "date": "Invalid Date Format",
-  "year": "No Year",
+  "date": "19-7-1961",
+  "year": "1961",
   "suit_number": "CALCOUNCIL",
   "lex_citation": "LEX(1961)-9671",
   "other_citations": [
@@ -10,15 +10,10 @@
     "[1961]9571A.C."
   ],
   "area_of_law": [
-    "Lex",
-    "Lord Morris of Borth",
     "James Albert De Gregory",
     "General Medical Council",
-    "Andrew Rankin",
-    "John Hobson Q",
-    "Children and Women Law",
-    "Ethics",
-    "Healthcare and Law"
+    "Lex",
+    "Lord Morris of Borth"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -29,8 +24,29 @@
     "Lord Denning",
     "Lord Morris of Borth-Y-Gest and Lord Guest"
   ],
+  "representation_appellant": [
+    "Peter Boydell",
+    "Andrew Rankin",
+    "Of Actiion",
+    "John Hobson Q.c",
+    "Somerset Jones",
+    "Cause",
+    "Issues From",
+    "Children"
+  ],
+  "representation_respondent": [
+    "Whether",
+    "Professional Ethics",
+    "Ethics",
+    "Justice Administration - Doctor and Patient - Duty of Male Doctor Towards Married Women Patients - Whether",
+    "Medical Practitioner",
+    "Healthcare",
+    "Women Law",
+    "Women and Healthcare",
+    "Family Doctor - Infamous Conduct in Professional Respect - Improper Association - High Standard of Conduct Required of Doctor in Professional and Social Settings - Duty"
+  ],
   "originating_court": "Appeal From the Disciplinary Committee of the General Medical Council",
-  "doc_id": "a5a94977-abe7-4f13-bebf-b96327eec1fd",
+  "doc_id": "269dcc0d-b2d6-42ff-9750-8f57d3f18905",
   "doctype": "Case",
   "parties": [
     "James Albert De Gregory - Appellant",

@@ -3,8 +3,8 @@
   "court": "House of Laord",
   "date": "3-7-1908",
   "year": "1908",
-  "suit_number": "(1887)12APP.CAS.484",
-  "lex_citation": "LEX(1908)–A.C.406",
+  "suit_number": "",
+  "lex_citation": "LEX(1908)-A.C.406",
   "other_citations": [
     "2PLR/1908/2(HL.E)",
     "[1908]A.C.406",
@@ -15,33 +15,41 @@
     "LORDDUNEDIN."
   ],
   "area_of_law": [
-    "Atkin",
-    "J",
-    "S",
-    "Banking and Finance",
-    "International Law",
     "Shipping and Admiralty Law",
-    "Transportation and Logistics"
+    "Transportation and Logistics",
+    "Banking and Finance",
+    "International Law"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
     "Case"
   ],
+  "judge": [
+    "Tillmanns",
+    "Lord James of Hereford",
+    "Lord Macnaghten",
+    "Lord Loreburn",
+    "Citation",
+    "House of Lords",
+    "Lord Dunedin",
+    "House of Laord",
+    "SsKnutsford, Limited"
+  ],
   "representation": [
-    "Atkin",
     "Lewis Noad",
-    "J. A. Hamilton",
-    "Adair Roche",
     "William A. Crump",
+    "Atkin",
+    "Adair Roche",
     "& Son",
-    "Botterell & Roche"
+    "Botterell & Roche",
+    "J. A. Hamilton"
   ],
   "originating_court": "Court of Appeal",
-  "doc_id": "12c774e2-4a67-4aa1-bd4e-97bf1e09d802",
+  "doc_id": "bdde0f6f-1a72-4a6f-b8f3-850f854b007b",
   "doctype": "Case",
   "parties": [
-    "Utsford, Limited",
+    "Ss. Knutsford, Limited",
     "Tillmanns and Co"
   ]
 }

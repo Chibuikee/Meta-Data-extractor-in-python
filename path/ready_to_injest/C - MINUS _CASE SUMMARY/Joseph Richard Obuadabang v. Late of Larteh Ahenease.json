@@ -3,15 +3,15 @@
   "court": "Court of Appeal",
   "date": "1-6-1950",
   "year": "1950",
-  "suit_number": "(1950)-VIIIWACA81",
+  "suit_number": "",
   "lex_citation": "LEX(1950)-VIIIWACA81",
   "other_citations": [
     "3PLR/1956/5(WACA)",
     "[1956]VIIIWACA81"
   ],
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Court"
+    "Court",
+    "Alternative Dispute Resolution"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -19,28 +19,27 @@
     "Case"
   ],
   "judge": [
-    "Blackall",
     "Smith, Ag CJ",
-    "Gold Coast",
+    "Blackall",
     "Lewey J"
   ],
   "representation": [
-    "Larbi",
     "Akudo",
+    "Larbi",
     "Addo"
   ],
   "originating_court": [
     "High Court (quashie-idun, J., Presiding)",
     "Native Appeal Court of Akim Abuakwa",
-    "Native Court \"b\" Customary Arbitration Panel"
+    "Native Court “b” Customary Arbitration Panel"
   ],
-  "doc_id": "6b50151e-7ecf-4fea-83cb-74e636e70b3a",
+  "doc_id": "2c79916d-42f6-4535-85bb-dbc5996939ec",
   "doctype": "Case",
   "parties": [
-    "Joseph Richard Obuadabang Larbi and Kwasi Prince as Joint Successors to Kwaku Asagye",
     "Late of Larteh Ahenease",
-    "Opanin Asong Kwasi",
+    "Joseph Richard Obuadabang Larbi and Kwasi Prince as Joint Successors to Kwaku Asagye",
+    "All of Mfrano Anum-apapam",
     "Odame Kwasi and Obese Kwasi",
-    "All of Mfrano Anum-apapam"
+    "Opanin Asong Kwasi"
   ]
 }

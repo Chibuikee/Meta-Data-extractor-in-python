@@ -1,27 +1,27 @@
 {
   "case_title": "Economic and Financial Crimes Commission (efcc) v. Wolfgang Reinl",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "24-1-2020",
   "year": "2020",
   "suit_number": "SC.428/2018",
-  "lex_citation": "LEX(2020)–SC.428/2018",
+  "lex_citation": "LEX(2020)-SC.428/2018",
   "other_citations": [
     "3PLR/2020/14(SC)",
     "(2020)LPELR-49387(SC)"
   ],
   "area_of_law": [
-    "Administrative and Government Law",
-    "Criminal Law and Procedure",
-    "Constitutional Law and Human Rights",
-    "Constitutional Law",
-    "Immigration and Customs",
-    "Tort and Personal Injury Law",
-    "Action",
-    "Appeal",
     "Evidence",
-    "Jurisdiction",
+    "Criminal Law and Procedure",
+    "Words and Phrases",
+    "Action",
     "Pleadings",
-    "Words and Phrases"
+    "Constitutional Law",
+    "Administrative and Government Law",
+    "Tort and Personal Injury Law",
+    "Immigration and Customs",
+    "Jurisdiction",
+    "Appeal",
+    "Constitutional Law and Human Rights"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -30,11 +30,11 @@
     "High Profile Case"
   ],
   "judge": [
+    "Uwani Musa Abba Aji JSC",
     "Olukayode Ariwoola JSC",
-    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
-    "Amina Adamu Augie JSC",
     "Paul Adamu Galumje JSC",
-    "Uwani Musa Abba Aji JSC"
+    "Kudirat Motonmori Olatokunbo Kekere-Ekun JSC",
+    "Amina Adamu Augie JSC"
   ],
   "representation_appellant": [
     "Audu Esq",
@@ -42,21 +42,21 @@
     "Efcc"
   ],
   "representation_respondent": [
-    "Afam Osigwe Esq",
-    "Ikechukwu Odanwu Esq",
-    "Uche Amulu Esq",
     "Abass Sanni Esq",
-    "Hannatu Bahago Esq"
+    "Hannatu Bahago Esq",
+    "Afam Osigwe Esq",
+    "Uche Amulu Esq",
+    "Ikechukwu Odanwu Esq"
   ],
   "originating_court": [
     "Court of Appeal, Abuja Division (judgment Delivered on 26/1/2018)",
     "High Court of the Federal Capital Territory (fct) (judgment Delivered on 20/4/2016.)"
   ],
-  "doc_id": "bccc5774-2d73-4abc-8af4-25707a3cf761",
+  "doc_id": "3c605735-6b00-478d-9d77-a78e8e4a9a1a",
   "doctype": "Case",
   "parties": [
-    "Economic and Financial Crimes Commission",
     "Efcc",
+    "Economic and Financial Crimes Commission",
     "Wolfgang Reinl"
   ]
 }

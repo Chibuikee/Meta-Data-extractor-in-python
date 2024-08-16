@@ -1,6 +1,6 @@
 {
   "case_title": "Grover v. International Textile Industries (nig) Ltd.",
-  "court": "Supreme Court",
+  "court": "Supreme Court of Nigeria",
   "date": "12-11-1976",
   "year": "1976",
   "suit_number": "SC15/1976",
@@ -10,12 +10,12 @@
     "(1976)11S.C.(REPRINT)13"
   ],
   "area_of_law": [
-    "Alternative Dispute Resolution",
-    "Commercial Law",
-    "Employment and Labour Law",
-    "Immigration and International Law",
     "Action",
-    "Appeal"
+    "Alternative Dispute Resolution",
+    "Appeal",
+    "Employment and Labour Law",
+    "Commercial Law",
+    "Immigration and International Law"
   ],
   "semantic_tags": [
     "Caselaw",
@@ -25,19 +25,19 @@
   ],
   "judge": [
     "Atanda Fatai-Williams JSC",
-    "Ayo Gaabriel Irikefe JSC",
-    "Charles Olusoji Madarikan JSC"
+    "Charles Olusoji Madarikan JSC",
+    "Ayo Gaabriel Irikefe JSC"
   ],
   "representation": [
-    "A. Adekoya",
-    "MR",
-    "J. A. Cole"
+    "A.M. Osomo",
+    "J. A. Cole",
+    "A. Adekoya"
   ],
   "originating_court": "High Court of Lagos State",
-  "doc_id": "441016e9-a950-4d70-853e-4582b21b4185",
+  "doc_id": "fd64166c-ad02-4963-943d-181921b95817",
   "doctype": "Case",
   "parties": [
-    "Lal Grover",
+    "Amrit Lal Grover",
     "International Textile Industries (nig.) Ltd"
   ]
 }

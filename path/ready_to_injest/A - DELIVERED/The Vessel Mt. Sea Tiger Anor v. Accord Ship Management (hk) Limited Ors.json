@@ -5,12 +5,15 @@
   "year": "2020",
   "suit_number": "CA/L/1127/2017",
   "lex_citation": "LEX(2020)-CA/L/1127/2017",
-  "other_citations": "3PLR/2020/46(SC)(2020)LPELR-49498(CA)",
+  "other_citations": [
+    "3PLR/2020/46(SC)",
+    "(2020)LPELR-49498(CA)"
+  ],
   "area_of_law": [
-    "Shipping and Admiralty",
+    "Action",
     "Alternative Dispute Resolution",
     "Constitutional Law",
-    "Action",
+    "Shipping and Admiralty",
     "Appeal",
     "Judgment and Order"
   ],
@@ -27,15 +30,15 @@
   "representation_appellant": "J. I. Ajad",
   "representation_respondent": "Ebuka Ibenegbu",
   "originating_court": "Federal High Court [holden at Lagos State]",
-  "doc_id": "0b177dd7-ebc6-4022-9cb8-1aaf085adf1c",
+  "doc_id": "f3b2214f-a75b-4aed-8428-11553e044147",
   "doctype": "Case",
   "parties": [
     "The Vessel Mt. Sea Tiger",
     "Sea Tiger Tankers S.A.",
-    "Accord Ship Management",
-    "Hk",
-    "Ltd",
     "Crowley Accord Ship Management Ltd",
-    "Crowley Maritime Corporation"
+    "Crowley Maritime Corporation",
+    "Hk",
+    "Accord Ship Management",
+    "Ltd"
   ]
 }

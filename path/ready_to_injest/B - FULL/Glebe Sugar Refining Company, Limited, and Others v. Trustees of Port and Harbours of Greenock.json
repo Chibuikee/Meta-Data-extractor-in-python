@@ -3,64 +3,61 @@
   "court": "House of Lords",
   "date": "19-5-1921",
   "year": "1921",
-  "suit_number": "(1921)-2A.C.86",
+  "suit_number": "",
   "lex_citation": "LEX(1921)-2A.C.86",
   "other_citations": [
     "2PLR/1922/4(HL-C)",
     "[1921]2A.C.66"
   ],
   "area_of_law": [
-    "Administrative Law and Government",
-    "Agriculture and Food Law",
-    "Real Estate and Property Law",
-    "Shipping and Admiralty",
     "Transport and Logistics Law",
-    "Court"
+    "Real Estate and Property Law",
+    "Court",
+    "Shipping and Admiralty",
+    "Administrative Law and Government",
+    "Agriculture and Food Law"
   ],
   "semantic_tags": [
     "Caselaw",
     "Legal Document",
-    "Case"
+    "Case",
+    "High Profile Case"
   ],
   "judge": [
-    "Lord Birkenhead",
     "Viscount Finlay",
-    "Lord Dunedin",
     "Lord Atkinson",
-    "Lord Shaw of Dunfermline"
+    "Lord Birkenhead",
+    "Lord Shaw of Dunfermline",
+    "Lord Dunedin"
   ],
-  "representation_appellant": "Condie S",
-  "representation_respondent": [
-    "Eman K.c",
+  "representation": [
+    "Clerk & Murray",
+    "Wm. B. Rainnie",
+    "Condie Sandeman K.c",
+    "Hugh Patten",
     "John Simon K.c",
-    "H. P. Macmillan K.c",
-    "Agents",
-    "Ward",
-    "Bowie & Co",
+    "Thos. A. Gentles",
+    "Writers",
     "Patten & Prentice",
     "Greenock",
-    "Hugh Patten",
-    "Edinburgh",
-    "Agents",
     "Beveridge & Co",
     "Neill",
-    "Clerk & Murray",
-    "Writers",
-    "Greenock",
-    "Wm. B. Rainnie",
-    "Edinburgh"
+    "Bowie & Co",
+    "Agents",
+    "Ward",
+    "Edinburgh",
+    "H. P. Macmillan K.c"
   ],
   "originating_court": [
-    "",
     "Interlocutors of the Lord Ordinary",
     "First Division of the Court of Session in Scotland"
   ],
-  "doc_id": "0d0f153b-1b6c-414c-8580-ba8339e0ae6c",
+  "doc_id": "b8824e38-f685-4cdc-828d-e4b12a6c81cf",
   "doctype": "Case",
   "parties": [
+    "And Others",
     "Glebe Sugar Refining Company",
     "Limited",
-    "And Others",
     "Trustees of Port and Harbours of Greenock"
   ]
 }
