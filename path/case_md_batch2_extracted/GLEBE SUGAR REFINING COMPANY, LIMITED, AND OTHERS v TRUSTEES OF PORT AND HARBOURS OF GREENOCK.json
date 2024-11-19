@@ -1,0 +1,36 @@
+{
+    "case_title": "Glebe sugar refining company, limited, and others v trustees of port and harbours of Greenock",
+    "area_of_law": "Administrative Law",
+    "subject_matter": [
+        "Port Authority Powers",
+        "Leasing Rights",
+        "Ultra Vires Acts"
+    ],
+    "summary": "The case concerned a challenge to a lease granted by the Trustees of Port and Harbours of Greenock to James and Henry Lithgow for the exclusive use of the Garvel Graving Dock. The lease was for 10 years with an option to extend for another 10 years. The appellants, who were port users and rate payers, challenged the validity of this lease. While the case initially focused on whether the trustees had power under Section 109 of the Greenock Port and Harbours Consolidation Act 1913 to grant such a lease, the House of Lords ultimately decided the case based on Section 23 of the Harbours, Docks and Piers Clauses Act 1847. This section, which was incorporated into the 1913 Act, limited such leases to a maximum term of three years. The House found the lease void as it exceeded this statutory limit.",
+    "outcome": "The House of Lords reversed the lower court decisions and ordered reduction (invalidation) of the lease as it exceeded the three-year statutory limit.",
+    "ratios": [
+        "The graving dock must be taken as having been, at the date of the impeached lease, provided as a convenience for the purposes of the Act of 1913 within the meaning of s. 23 of the Act of 1847, although it was originally constructed under the Act of 1866",
+        "It would be quite irrational to hold that a lease of a warehouse for five years was invalid because warehouses were specifically mentioned in s. 23, but that a lease of a tollhouse, for instance, for five years was valid because tollhouses were not specifically mentioned in it"
+    ],
+    "counsel_precedents": [],
+    "precedents": [
+        {
+            "name": "section 23 Harbours, Docks and Piers Clauses Act 1847",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "The undertakers may lease or grant the use or occupation of any warehouses, buildings, wharfs, yards, cranes, machines, or other conveniences provided by them for the purposes of this or the special Act, at such rents and upon such terms and conditions as shall be agreed upon between the undertakers and the persons taking the same, provided that no such lease be granted for a longer term than three years."
+        },
+        {
+            "name": "section 109 Greenock Port and Harbours Consolidation Act 1913",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "The trustees may from time to time and at any time appropriate for ships or grant the exclusive right to use any of their quays, wharves, berths, warehouses, sheds, quayage space, timber yards and timber ponds and any of their other works and conveniences to any corporation, company or person on such terms and conditions as the trustees think fit."
+        },
+        {
+            "name": "section 8 Greenock Port and Harbours Act 1866",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "Authorized the construction of the graving dock"
+        }
+    ]
+}

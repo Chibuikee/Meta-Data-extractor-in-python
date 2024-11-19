@@ -1,0 +1,104 @@
+{
+    "case_title": "Addeh v. Onakomaiya",
+    "area_of_law": [
+        "Contract Law",
+        "Property Law"
+    ],
+    "subject_matter": [
+        "Property Rental Agreement",
+        "Property Renovation",
+        "Contract Formation",
+        "Recovery of Rent",
+        "Counterclaim for Renovation Expenses"
+    ],
+    "summary": "The case concerns a dispute over a property rental and renovation agreement. The claimant (Onakomaiya) sought N1.2 million in rent for two years at N600,000 per year for property at 3 Ricketts Close, Akoka Lagos, plus N200,000 in legal fees. The defendant (Addeh) counterclaimed N1,845,000 for renovation expenses. The core dispute centered on whether there was a valid agreement regarding the property's renovation and subsequent rental arrangements. The claimant argued there was an agreement for subsidized rent at N100,000 per flat for six flats, while the defendant maintained that the agreement was incomplete as the renovation costs and indemnity were not finalized. The lower court ruled in favor of the claimant, but on appeal, the Court of Appeal found that no conclusive agreement had been reached between the parties as essential terms were still under negotiation.",
+    "outcome": "The Court of Appeal allowed the appeal in part, setting aside the lower court's judgment regarding the main claim but upheld the dismissal of the defendant's counterclaim. The court found that no conclusive agreement had been reached between the parties, and the claimant failed to prove her case. However, the defendant also failed to prove his counterclaim for renovation expenses.",
+    "ratios": [
+        "Where a contract is made subject to the fulfilment of certain specific terms and conditions, the contract is not formed and not binding unless and until these terms and conditions are complied with or fulfilled",
+        "A counterclaim is a separate and independent action which has to be instituted in accordance with the rules of the court",
+        "Pleading is not evidence upon which the court may rely on to give judgment in favour of a party unless such pleadings requires no further proof, for instance, in case of admission",
+        "Evidence which is at variance with the pleadings goes to no issue, and should be rejected and if admitted should be expunged from the record"
+    ],
+    "precedents": [
+        {
+            "name": "Anyah v. African Newspapers Of Nig. Ltd (1992) 6 NWLR (Pt. 247) 319",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It must be appreciated that there cannot be a better notice of the case a party intends to make than his pleading. It is a mere notice and cannot be substituted for the evidence required in proof of the facts pleaded, subject however to an admission made by the other party unless a party through skilful cross-examination"
+        },
+        {
+            "name": "American Cynamid Co. v. Vitality Pharmaceuticals Ltd (1991) 2 NWLR (Pt. 171) 15",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "See also American Cynamid Co. v. Vitality Pharmaceuticals Ltd (1991) 2 NWLR (Pt. 171) 15; ACB Ltd v. Obmiami Brick & Stone (Nig.) Ltd (1992) 3 NWLR (Pt. 229) 377."
+        },
+        {
+            "name": "Bamgboye v. University Of Ilorin & Anor. (1999) 10 NWLR (Pt. 622) 290",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Bamgboye v. University Of Ilorin & Anor. (1999) 10 NWLR (Pt. 622) 290, the apex court per Onu JSC, held that 'issues, it must be emphasized, are joined in the pleadings and not in the evidence.'"
+        },
+        {
+            "name": "Best (Nig.) Ltd v. Black Wood Hodge (Nig.) Ltd",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is noteworthy that a contract of sale of this nature is guided by the basic rules of contract where a contract is made subject to the fulfilment of certain specific terms and conditions, the contract is not formed and not binding unless and until these terms and conditions are complied with and fulfilled"
+        },
+        {
+            "name": "Dabup v. Kolo (1993) NWLR (Pt. 317) 254",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The law is very clear on the point. There are numerous authorities that say that a counterclaim is in the same position as an action being itself a cross-action and subject to the same rules of court as regards pleadings."
+        },
+        {
+            "name": "Joseph Ifeta v. Shell Petroleum Development Company of Nigeria Limited (2006) All FWLR (Pt. 314) 305",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is noted that pleading cannot constitute evidence and a defendant as in the instant case, who does not give evidence in support of this pleading or in challenge of the evidence of the plaintiff, is deemed to have accepted and rested his case on the facts adduced by the plaintiff notwithstanding his general traverse. In other words, averments in pleading on which no evidence is adduced, are deemed to have been abandoned as mere averment, without proof of facts pleaded and does not constitute proof of such facts unless such facts are admitted."
+        },
+        {
+            "name": "Felix Nwoye Adim v. Nigerian Bottling Co. Ltd & Anor. (2010) All FWLR (Pt. 527) 690",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is improper for a court to award special damages on incomplete and inconclusive facts given from memory which have not been documented. See Agbaje v. James (1967) NWLR 49; Agunwa v. Onukwe (1962) 1 All NLR 537. The particularity of the pleading and the evidence must be such that the losses are exactly known and accurately measured."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Omega Bank Nigeria Plc. v. O. B. C. Ltd. (2005) All FWLR (Pt. 249) 1964",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Agbeje v. Ajibola (2002) FWLR (Pt. 92) 1677",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nsirim v. Nsirim (2002) 3 NWLR (Pt. 785) 697",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Fortune International Bank Plc. v. Pegasus Trading Office (2004) All FWLR (Pt. 199) 1312",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Okoebor v. Police Council (2003) FWLR (Pt. 164) 189",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Asafa Foods Factory v. Alraine (Nig.) Ltd (2002) 12 NWLR (Pt. 781) 353",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Oyegbola v. Esso West Africa Incorp (1966) 1 All NLR 162",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Tayo Oyetibo & Co. v. Ajose Adeogun (1996) 16 NWLR (Pt. 452) 29",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Total Nigeria Plc v. Morkah (2002) 9 NWLR (Pt. 773) 492",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

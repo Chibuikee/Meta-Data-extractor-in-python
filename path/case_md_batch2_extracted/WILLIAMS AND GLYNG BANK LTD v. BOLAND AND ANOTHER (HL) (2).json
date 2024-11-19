@@ -1,0 +1,111 @@
+{
+    "case_title": "Williams and Glyng Bank Ltd v. Boland and another",
+    "area_of_law": [
+        "Land Law",
+        "Property Law",
+        "Land Registration Law"
+    ],
+    "subject_matter": [
+        "Overriding interests in registered land",
+        "Rights of occupation",
+        "Beneficial interests in matrimonial homes",
+        "Mortgage enforcement"
+    ],
+    "summary": "This case concerned whether a spouse with a beneficial interest in a matrimonial home, derived from contributing to its purchase price but whose partner is the legal and registered owner, has an 'overriding interest' binding on a mortgagee who claims possession under a mortgage granted by the legal owner alone. The wives had contributed substantial sums toward the purchase of their matrimonial homes, making them equitable tenants in common. The houses were registered in their husbands' names, who later mortgaged them to the appellant bank without the wives' knowledge. When the bank sought possession following default, the court had to determine whether the wives' beneficial interests constituted overriding interests under Section 70(1)(g) of the Land Registration Act 1925. The House of Lords held that the wives' actual occupation of the properties, combined with their beneficial interests, created overriding interests that took priority over the bank's mortgage.",
+    "outcome": "The House of Lords dismissed the bank's appeals, holding that the wives' beneficial interests coupled with their actual occupation constituted overriding interests under Section 70(1)(g) of the Land Registration Act 1925, which took priority over the bank's mortgage. However, Mr. Boland's separate appeal regarding possession was dismissed.",
+    "ratios": [
+        "Legal dispositions of registered land take effect subject to overriding interests, regardless of notice actual or constructive",
+        "The words 'actual occupation' in Section 70(1)(g) are to be given their ordinary meaning of physical presence, not requiring any additional qualification",
+        "The presence of the vendor in occupation does not exclude the possibility of occupation by others",
+        "Where a person has both actual occupation and beneficial rights in the property, those rights can constitute an overriding interest under Section 70(1)(g)",
+        "The fact of occupation enables the protection of overriding interests to extend to what would otherwise be minor interests"
+    ],
+    "precedents": [
+        {
+            "name": "Taylor v. Stibbert (1794) 2 Ves 437",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "These words are ordinary words of plain English, and should, in my opinion, be interpreted as such. Historically they appear to have emerged in the judgment of Lord Loughborough LC in Taylor v. Stibbert (1794) 2 Ves 437 at 440, 30 ER 713 at 714 in a passage which repays quotation: '… whoever purchases an estate from the owner, knowing it to be in possession of tenants, is bound to inquire into the estates, those tenants have. It has been determined that a purchaser being told, particular parts of the estate were in possession of a tenant, without any information as to his interest, and taking if for granted it was only from year to year, was bound by a lease, that tenant had, which was a surprise upon him.'"
+        },
+        {
+            "name": "Barnhart v. Greenshields (1853) 9 Moo PC 18",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "They were taken up in the judgment of the Privy Council in Barnhart v. Greenshields (1853) 9 Moo PC 18, 14 ER 204. The purpose for which they were used, in that case, was evidently to distinguish the case of a person who was in some kind of legal possession, as by receipt of the rents and profits, from that of a person actually in occupation as tenant."
+        },
+        {
+            "name": "Re Warren, Warren v Warren [1932] 1 Ch 42",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Bull v. Bull [1955] 1 All ER 253, [1955] 1 QB 234 it was held by the Court of Appeal, applying Re Warren, Warren v Warren [1932] 1 Ch 42, [1931] All ER Rep 702, that the conversion of these legal estates into equitable interests by the Law of Property Act 1925 should not affect the mutual rights of the owners."
+        },
+        {
+            "name": "Bull v. Bull [1955] 1 QB 234",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "Denning LJ, in a judgment which I find most illuminating, there held, in a factual situation similar to that of the instant cases, that 'when there are two equitable tenants in common, then, until the place is sold, each of them is entitled concurrently with the other to the possession of the land and to the use and enjoyment of it in a proper manner'"
+        },
+        {
+            "name": "Bridges v. Mees [1957] Ch 475",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Bridges v. Mees [1957] 2 All ER 577, [1957] Ch 475 Harman J decided that a purchaser of land under a contract for sale, who had paid the price and so was entitled to the land in equity, could acquire an overriding interest by virtue of actual occupation"
+        },
+        {
+            "name": "Hodgson v. Marks [1971] Ch 892",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "There are observations which suggest the contrary in the unregistered land case of Caunce v. Caunce [1969] 1 All ER 722, but I agree with the disapproval of these and with the assertion of the proposition I have just stated by Russell LJ in Hodgson v. Marks [1971] 2 All ER 684 at 690, [1971] Ch 892 at 934–935"
+        },
+        {
+            "name": "Daniels v. Davison (1809) 16 Ves 249",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "These decisions (following the law as it undoubtedly existed before 1925: see Barnhart v. Greenshields (1853) 9 Moo PCC 18 at 32, 14 ER 204 at 209, Daniels v. Davison (1809) 16 Ves 249, 33 ER 978, Allen v. Anthony (1816) 1 Mer 282 at 284, 35 ER 679 per Lord Eldon LC)"
+        },
+        {
+            "name": "Allen v. Anthony (1816) 1 Mer 282",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "These decisions (following the law as it undoubtedly existed before 1925: see Barnhart v. Greenshields (1853) 9 Moo PCC 18 at 32, 14 ER 204 at 209, Daniels v. Davison (1809) 16 Ves 249, 33 ER 978, Allen v. Anthony (1816) 1 Mer 282 at 284, 35 ER 679 per Lord Eldon LC)"
+        },
+        {
+            "name": "National Provincial Bank Ltd v. Ainsworth [1965] AC 1175",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In relation to rights connected with occupation, it has been said that the purpose and effect of s 70(1)(g) of the Land Registration Act 1925 was to make applicable to registered land the same rule as previously had been held to apply to unregistered land (see National Provincial Bank Ltd v. Ainsworth, [1964] 1 All ER 688 at 697, [1964] Ch 665 at 689 (per Lord Denning MR) and [1965] 2 All ER 472 at 501–502, [1965] AC 1175 at 1259 (in this House))."
+        },
+        {
+            "name": "Elias v. Mitchell [1972] Ch 652",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "As Lord Denning MR points out, to describe the interests of spouses in a house jointly bought to be lived in as a matrimonial home as merely an interest in the proceeds of sale, or rents and profits until sale, is just a little unreal; see also Elias v. Mitchell [1972] 2 All ER 153, [1972] Ch 652 per Pennycuick V-C, with whose analysis I agree"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Caunce v. Caunce [1969] 1 WLR 286",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Bird v. Syme Thomson [1979] 1 WLR 440",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Cedar Holdings Ltd v. Green [1979] 3 WLR 31",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "National Provincial Bank Ltd v. Ainsworth [1965] AC 1175",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Bridges v. Mees [1957] Ch 475",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Hodgson v. Marks [1971] Ch 892",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

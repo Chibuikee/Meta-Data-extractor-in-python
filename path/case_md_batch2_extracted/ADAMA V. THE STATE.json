@@ -1,0 +1,123 @@
+{
+    "case_title": "Adama v. The state",
+    "area_of_law": [
+        "Criminal Law",
+        "Constitutional Law",
+        "Criminal Procedure"
+    ],
+    "subject_matter": [
+        "Conspiracy",
+        "Unlawful Assembly",
+        "Malicious Damage",
+        "Stealing",
+        "No-case Submission",
+        "Criminal Jurisdiction",
+        "Fair Trial Rights"
+    ],
+    "summary": "The appellant, Oko Ogar Adama, along with 13 others, appealed against the Court of Appeal's ruling which affirmed the High Court's decision to overrule their no-case submission. They were charged with conspiracy, unlawful assembly, malicious damage, and stealing contrary to sections 20(6), 70, 541 and 390(9) of the Laws of Cross River State. The case stemmed from events on May 10, 2010, where the accused allegedly destroyed property and stole items from Oganode Awoko Ipuole's compound. The prosecution called five witnesses, after which the defense made a no-case submission. Both the trial court and Court of Appeal found that the prosecution had established a prima facie case requiring the accused to enter their defense. The Supreme Court dismissed the appeal, finding no merit in the appellant's arguments regarding jurisdiction, arraignment validity, and fair hearing rights.",
+    "outcome": "The Supreme Court dismissed the appeal and affirmed the concurrent decisions of the lower courts, ruling that the appellant has a case to answer and must enter his defense.",
+    "ratios": [
+        "When a court is giving consideration to a submission of no case, it is not necessary at that stage of the trial for the learned trial judge to determine if the evidence is sufficient to justify conviction. The trial court only has to be satisfied that there is a prima facie case requiring at least some explanation from the accused person.",
+        "A prima facie case in a criminal trial is one that has proceeded up to where it will support findings if evidence to the contrary is disregarded, and prima facie evidence means evidence, which on the face of it, is sufficient to sustain the charge against the accused.",
+        "When a submission of no prima facie case is made on behalf of an accused, the trial court is not thereby called upon at that stage to express any opinion on the evidence before it. The court is called upon to note and rule accordingly to that which is before the court, no legally admissible evidence linking the accused person with the commission of the offence he is charged.",
+        "The Supreme Court will not interfere with concurrent findings of facts made by the trial court and the Court of Appeal unless such findings are perverse; or are not supported by the evidence; or are reached as a result of a wrong approach to the evidence; or as a result of a wrong application of any principle of substantive law or procedure."
+    ],
+    "precedents": [
+        {
+            "name": "Madukolu v. Nkemdilim (1962) 2 SCNLR 341",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The reason being that a court will not have the competence and jurisdiction to entertain an action placed before it, unless the case comes before the court initiated by due process of law and upon fulfillment of any condition precedent to the exercise of jurisdiction"
+        },
+        {
+            "name": "Alhaji Tsoho Dan Amale v. Sokoto Local Government (2012) All FWLR (Pt. 618) 833",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It has been stated by this court in Oloba v. Akereja (1988) 3 NWLR (Pt. 84) 508 at 528 per Obaseki JSC, that the issue of jurisdiction being a fundamental issue, can be raised at any stage of the proceedings in the court of first instance or in the appeal courts. This issue can be raised by any of the parties or by the court itself suo motu. Where there are sufficient facts ex facie on the record establishing want of competence or jurisdiction in the court, it is the duty of a judge or justice to raise the issue suo motu if the parties fail to draw the court's attention to it"
+        },
+        {
+            "name": "Daboh v. State (1977) 5 SC 122",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "When a submission of no prima facie case is made on behalf of an accused, the trial court is not thereby called upon at that stage to express any opinion on the evidence before it. The court is called upon to note and rule accordingly to that which is before the court, no legally admissible evidence linking the accused person with the commission of the offence he is charged. If the submission is based on discredited evidence such discredit must be on face of the record"
+        },
+        {
+            "name": "Abogede v. The State (1996) 5 NWLR (Pt. 448) 270",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "When a court is giving consideration to a submission of no case, it is not necessary at that stage of the trial for the learned trial judge to determine if the evidence is sufficient to justify conviction. The trial court only has to be satisfied that there is a prima facie case requiring at least some explanation from the accused person"
+        },
+        {
+            "name": "Ogunye v. State (1999) 5 NWLR (Pt. 604) 548",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "For there to be a valid arraignment of an accused person. These steps are (a) the accused person must be placed before the court unfettered unless the court shall see cause otherwise to order; (b) the charge or information must be read over and explained to the accused to the satisfaction of the court by the registrar or other officer of the court; and (c) the accused must be called upon to plead thereto, unless there exists any valid reason to do otherwise such as objection to want of service, where the accused is entitled by law to service of a copy of the information and the court is satisfied that he has in fact not been duly served therewith"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Benson Agbule v. Warri Refinery & Petrochemical Co. Ltd (2012) LPELR 2062",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Alhaji Tsoho Dan Amale v. Sokoto Local Government (2012)",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Madukolu v. Nkemdilim (1962) 2 SCNLR 341",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ogunye v. State (1999) 5 NWLR (Pt. 604) 548",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Okolie v. State (2012) All FWLR (Pt. 607) 770",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ogolo & Ors. v. Fubara & Ors. (2003) FWLR (Pt. 169) 1285",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Sapo & Anor. v. Sunmonu (2010) All FWLR (Pt. 531) 1408",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Garuba & Ors. v. Omokhodion & Ors. (2013) All FWLR (Pt. 596) 537",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Longe v. F.B.N. Plc (2010) All FWLR (Pt. 525) 258",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Durwode v. State (2000) 15 NWLR (Pt. 69) 467",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Nnakwe v. State (2014) 10 NCC 189",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Golden Derbie v. State (2007) 3 SC (Pt. 1) 76",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Eyisi & Ors. v. State (2000) 4 NSCQR 60",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Abikake v. Police (1966) 1 All NLR 132",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Fagoruwa v. State (2014) 10 NCC 309",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "State v. Audu (1986) 1 QLRN 220",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

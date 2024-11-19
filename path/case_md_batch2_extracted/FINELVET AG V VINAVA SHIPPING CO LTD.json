@@ -1,0 +1,89 @@
+{
+    "case_title": "Finelvet AG v Vinava Shipping Co Ltd",
+    "area_of_law": [
+        "Maritime Law",
+        "Contract Law"
+    ],
+    "subject_matter": [
+        "Commercial Frustration",
+        "Time Charter",
+        "War Risk",
+        "Arbitration Appeal"
+    ],
+    "summary": "The case concerned an appeal from an arbitration award regarding a charterparty dispute between Vinava Shipping Co Ltd (shipowners) and Finelvet AG (charterers). The vessel Chrysalis was trapped in the Shatt al-Arab river during the Iran-Iraq conflict. The key issue was determining the precise date when the charterparty became frustrated due to the war. The arbitrator had determined a specific date of frustration, which the charterers challenged. The court examined whether the arbitrator's decision on the date of frustration was legally sound, ultimately dismissing the appeal and upholding the arbitrator's determination.",
+    "outcome": "The appeal was dismissed. The court held that the arbitrator's decision on the date of frustration was within the permissible range of conclusions and showed no error of law.",
+    "ratios": [
+        "Except in cases of supervening illegality arising from trading with an enemy, a declaration of war does not automatically prevent the performance of a contract; it is the acts done in furtherance of the war which may or may not prevent performance, depending on individual circumstances",
+        "If there is any presumption at all, it relates to the duration of the state of war, not to the effects which the war may have on the performance of the contract",
+        "Any presumption as to the indefinite duration of the war is capable of being rebutted",
+        "The court retains supervisory control to ensure the arbitrator's reaction to the problem is not based on a false premise of law, but beyond this it must not go"
+    ],
+    "precedents": [
+        {
+            "name": "Geipel v Smith (1872) LR 7 QB 404",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "'But it would be monstrous to say that in such a case the parties must wait—for the obligation must be mutual—till the restraint be taken off—the shipper with cargo, which might be perishable, or its market value destroyed—the shipowner with his ship lying idle, possibly rotting—the result of which might be to make the contract ruinous. At all events it must be taken that the restraint must cease within a reasonable time, and that the duty of the defendants was to wait only a reasonable time prepared to carry out their contract should the restraint be removed.'"
+        },
+        {
+            "name": "Horlock v Beal [1916] 1 AC 486",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "'Without fault on the part of either party to the contract of service, law and force combined to stop the prosecution of this voyage; and the adventure was consequently lost. In my humble opinion that stoppage and loss, having arisen from a declaration of war, must be considered to have been caused for a period of indefinite duration, and so to have effected a solution of the contract arrangements for and dependent upon the completion or further continuance of the adventure.'"
+        },
+        {
+            "name": "Bank Line Ltd v Arthur Capel & Co [1919] AC 435",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "'Rights ought not to be left in suspense or to hang on the chances of subsequent events. The contract binds or it does not bind, and the law ought to be that the parties can gather their fate then and there. What happens afterwards may assist in showing what the probabilities really were, if they had been reasonably forecasted, but when the causes of frustration have operated so long or under such circumstances as to raise a presumption of inordinate delay, the time has arrived at which the fate of the contract falls to be decided.'"
+        },
+        {
+            "name": "Pioneer Shipping Ltd v BTP Tioxide Ltd (The Nema) [1981] 2 All ER 1030",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The case was cited in context of explaining that 'quite different considerations apply to the question whether, in the exercise of its discretion, the court should grant leave to appeal under s 3 of the 1979 Act from those which are material when the court comes to hear the appeal itself.'"
+        },
+        {
+            "name": "Kodros Shipping Corp v Empresa Cubana de Fletes (The Evia) [1982] 3 All ER 350",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The decision 'has greatly narrowed the area of potential dispute. It is now quite clear that the warranty of safety contained in these and other charters does not extend so far as to put the charterer in breach simply because the ship is overtaken by misfortune such as the one which happened to the ships trapped in the Shatt al-Arab.'"
+        },
+        {
+            "name": "Davis Contractors Ltd v Fareham UDC [1956] 2 All ER 145",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Referenced by the arbitrator in restating the principle of frustration, though specific quotation not provided in judgment."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Denny Mott & Dickson Ltd v James B Fraser & Co Ltd [1944] 1 All ER 678",
+            "cited_by": "Counsel to Charterers"
+        },
+        {
+            "name": "Taylor v Caldwell (1863) 3 B & S 826",
+            "cited_by": "Counsel to Charterers"
+        },
+        {
+            "name": "Melville v De Wolf (1855) 4 E & B 844",
+            "cited_by": "Counsel to Charterers"
+        },
+        {
+            "name": "Anglo-Northern Trading Co Ltd v Emlyn Jones & Williams [1917] 2 KB 78",
+            "cited_by": "Referenced in Argument"
+        },
+        {
+            "name": "International Sea Tankers Inc v Hemisphere Shipping Co Ltd (The Wenjiang (No 2)) [1983] 1 Lloyd's Rep 400",
+            "cited_by": "Referenced in Argument"
+        },
+        {
+            "name": "Uni-Ocean Lines Pte Ltd v C-Trade SA (The Lucille) [1983] 1 Lloyd's Rep 387",
+            "cited_by": "Referenced in Argument"
+        },
+        {
+            "name": "Akties Nord-Osterso Rederiet v E A Casper Edgar & Co Ltd (1923) 14 Ll L Rep 203",
+            "cited_by": "Referenced in Argument"
+        }
+    ]
+}

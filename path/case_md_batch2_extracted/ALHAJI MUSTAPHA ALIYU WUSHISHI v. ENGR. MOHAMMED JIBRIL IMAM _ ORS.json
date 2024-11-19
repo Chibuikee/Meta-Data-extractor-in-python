@@ -1,0 +1,102 @@
+{
+    "case_title": "Alhaji Mustapha Aliyu Wushishi v. Engr. Mohammed Jibril Imam & Ors",
+    "area_of_law": [
+        "Electoral Law",
+        "Constitutional Law"
+    ],
+    "subject_matter": [
+        "Pre-election matters",
+        "Party primaries",
+        "Locus standi",
+        "Political party's internal affairs"
+    ],
+    "summary": "The case involved a pre-election dispute where the appellant, a member of the All Progressive Congress (APC), challenged the outcome of the party's primary election for the Niger State Governorship election of 2015. The appellant claimed he was wrongfully excluded from participating in the primary election despite paying required fees and obtaining necessary forms. The appellant did not participate in the primary election but filed suit seeking various declarations including nullification of the primary election. The trial court struck out the case for lack of locus standi, holding that nomination of candidates is an internal party affair. The Court of Appeal affirmed this decision, leading to a further appeal to the Supreme Court.",
+    "outcome": "The Supreme Court dismissed the appeal, holding that the appellant lacked locus standi to challenge the primary election as he did not participate in it. The Court affirmed that only aspirants who actually participated in a primary election have standing to challenge its outcome under Section 87(9) of the Electoral Act 2010.",
+    "ratios": [
+        "For a party/person to qualify or have the locus to institute an action on a matter arising from the nomination of a party's candidate for an election, he must have participated in the nomination exercise of the party and failed irrespective of whether nomination is a process or an event.",
+        "Where a party did not participate in the primary election of the political party for the nomination of a candidate for an election, he cannot sue on the processes leading to and including the actual primary election because by the provisions of the said Section 87(9) supra the Court will have no jurisdiction to hear and determine the action.",
+        "The nomination and sponsorship of a candidate for election is a political matter within the sole discretion of the political party, an internal affair which is not a matter for the public domain being pre-election and therefore domestic."
+    ],
+    "precedents": [
+        {
+            "name": "Lado v. CPC (2011) 18 NWLR (Pt. 1279) 689",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The power of an aggrieved aspirant who is not satisfied with the conduct of the primaries by his party to elect a candidate must bring himself within the purview of Section 87 (b) (ii); and (9) of the Electoral Act 2010 (as amended) supra. It is only if he can come within the provisions of those Sub-sections that his complaints can be justiciable as the Courts cannot still decide as between two or more contending parties which of them is the nominated candidate of a political party; that power still resides in the political parties to exercise."
+        },
+        {
+            "name": "Daniel v. INEC (2015) 9 NWLR (Pt. 1463) 113",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "An admission, clearly and unequivocally made is the best against the person making it. Paragraphs 26 and 30 are conclusive evidence that the appellant did not participate in the re-run primaries conducted by P.D.P. on the 15th January, 2011. They are clear admissions by the appellant. Since the appellant did not participate in the re-run primaries there was no way he could complain about the conduct of the primaries and so had no locus standi to institute an action as provided by Section 87(9) of the Electoral Act."
+        },
+        {
+            "name": "APGA v. Anyanwu (2014) 7 NWLR (Pt. 1407) 541",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Since the sponsorship of candidates is the prerogative of the political party, it would be absurd to interpret the provisions of Section 31(5) above as permitting members of the same political party to challenge the party's choice in Court."
+        },
+        {
+            "name": "Inakoju v. Adeleke (2007) 7 NWLR (Pt. 1025) 502",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "To have a locus standi to sue, the plaintiff must show sufficient interest in the suit. One criterion of sufficient interest is whether the party could have been joined as a party to the suit. Another criterion is whether the party seeking the redress or remedy will suffer some injury or hardship from the litigation. If the Court is satisfied that he will suffer, then he must be heard as he is entitled to be heard."
+        },
+        {
+            "name": "PDP v. Sylva (2012) 13 NWLR (Pt. 1316) 85",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The party has a right to exclude a candidate from participating in primaries even after he has been screened and cleared to contest the primaries and the candidate so excluded has no legal remedy against the action taken by the party."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Ukachukwu v. PDP (2014) 17 NWLR (Pt. 1435) 201",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "PDP v. Sylva (2012) 13 NWLR (Pt. 1316) 85",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Nobis-Elendu v. INEC (2015) 6 SCM 117",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Uzodinma v. Izunaso (2011) 17 NWLR (Pt. 1275) 60",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Gwede v. INEC (2014) 18 NWLR (Pt. 1438) 56",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "James v. INEC (2015) 12 NWLR (Pt. 1474) 538",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Jang v. INEC (2003) LRECN 299",
+            "cited_by": "Counsel to 1st and 2nd Respondents"
+        },
+        {
+            "name": "Dalhatu v. Turaki (2003) 15 NWLR (Pt. 843) 310",
+            "cited_by": "Counsel to 1st and 2nd Respondents"
+        },
+        {
+            "name": "Onuoha v. Okafor (1983) 2 SCNLR 244",
+            "cited_by": "Counsel to 1st and 2nd Respondents"
+        },
+        {
+            "name": "Uwazurike v. Nwachukwu (2013) 3 NWLR (Pt. 1342) 503",
+            "cited_by": "Cited in Judgment"
+        },
+        {
+            "name": "Lado v. CPC (2012) All FWLR (Pt. 607) 598",
+            "cited_by": "Cited in Judgment"
+        },
+        {
+            "name": "A-G Federation v. Atiku Abubakar 32 NSCQR 1",
+            "cited_by": "Counsel to 3rd Respondent"
+        }
+    ]
+}

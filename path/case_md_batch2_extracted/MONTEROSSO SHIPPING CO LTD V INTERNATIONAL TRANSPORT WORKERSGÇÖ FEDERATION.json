@@ -1,0 +1,63 @@
+{
+    "case_title": "Monterosso shipping co ltd v international transport workers federation",
+    "area_of_law": [
+        "Contract law",
+        "Employment law",
+        "International maritime law"
+    ],
+    "subject_matter": [
+        "Trade union agreements",
+        "Maritime employment contracts",
+        "International shipping",
+        "Collective bargaining",
+        "Choice of law"
+    ],
+    "summary": "The case concerned a dispute between Monterosso Shipping Co Ltd and the International Transport Workers' Federation (ITF) over a special agreement regarding crew employment on the vessel Rosso. The vessel, registered in Malta but managed by a Norwegian firm, employed Spanish crews at lower wages. The ITF initially granted a 'blue certificate' allowing worldwide trading, but when the vessel began regular runs between Swedish ports, the Swedish seamen's union objected. The ITF attempted to require the inclusion of a special clause mandating Swedish crews for Swedish port runs. When Spanish union representatives signed a new agreement without this clause, the ITF disowned it, leading to the vessel being 'blacked' in Sweden. The shipowners sued for damages, leading to a preliminary issue regarding whether English or Spanish law governed the agreement.",
+    "outcome": "The Court of Appeal dismissed the appeal and held that Spanish law was the proper law of the special agreement, as it had the closest and most real connection with Spain.",
+    "ratios": [
+        "Where the actual intention of parties regarding the governing law is not expressly stated and cannot be inferred, the proper law is that system of law with which the transaction has its closest and most real connection",
+        "Section 18 of the Trade Union and Labour Relations Act 1974 is not merely procedural but has substantive effect, rendering collective agreements without specific enforceability provisions as non-contracts rather than merely unenforceable contracts",
+        "The enforceability or unenforceability of an agreement under a particular system of law is not relevant when objectively deciding which system of law has the closest and most real connection to the transaction"
+    ],
+    "precedents": [
+        {
+            "name": "Compagnie d'Armement Maritime SA v Compagnie Tunisienne de Navigation SA [1971] AC 572",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "That is a matter of substance, not of procedure. It depends on discovering what is the country or system of law with which the contract has the closest and most real connection: see Compagnie d'Armement Maritime SA v. Compagnie Tunisienne de Navigation SA [1970] 3 All ER 71,[1971] AC 572."
+        },
+        {
+            "name": "Coast Lines Ltd v Hudig & Veder Chartering NV [1972] 2 QB 34",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "In Coast Lines Ltd v. Hudig & Veder Chartering NV [1972] 1 All ER 451,[1972] 2 QB 34, where the court was similarly faced with the choice between two possible systems of law, namely English law on the one hand and Netherlands law on the other, under the first of which an exemption clause in the relevant charter party would have been valid, but invalid under the second, Lord Denning MR in his judgment expressed the view that this was a pointer to the proper law of the charterparty in that case on the basis of the principle expressed by the Latin maxim ut res magis valeat quam pereat."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Huber v Steiner (1835) 2 Bing NC 202",
+            "cited_by": "Counsel to ITF",
+            "context": "Counsel for the ITF referred to these cases: Huber v. Steiner (1835) 2 Bing NC 202,[1835–42] All ER Rep 159"
+        },
+        {
+            "name": "Leroux v Brown (1852) 12 CB 801",
+            "cited_by": "Counsel to ITF",
+            "context": "Leroux v. Brown (1852) 12 CB 801, 138 ER 1119"
+        },
+        {
+            "name": "Harris v Quine (1869) LR 4 QB 653",
+            "cited_by": "Counsel to ITF",
+            "context": "Harris v. Quine (1869) LR 4 QB 653"
+        },
+        {
+            "name": "Maddison v Alderson (1883) 8 App Cas 467",
+            "cited_by": "Counsel to ITF",
+            "context": "Maddison v. Alderson (1883) 8 App Cas 467,[1881–5] All ER Rep 742"
+        },
+        {
+            "name": "Black-Clawson International Ltd v Papierwerke Waldhof-Aschaffenburg AG [1975] AC 591",
+            "cited_by": "Counsel to ITF",
+            "context": "Black-Clawson International Ltd v. Papierwerke Waldhof-Aschaffenburg AG [1975] 1 All ER 810,[1975] AC 591"
+        }
+    ]
+}

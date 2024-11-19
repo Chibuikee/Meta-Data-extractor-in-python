@@ -1,0 +1,61 @@
+{
+    "case_title": "Mansouri v Singh",
+    "area_of_law": "Banking and Finance Law",
+    "subject_matter": [
+        "Exchange Control Regulations",
+        "Bills of Exchange",
+        "International Monetary Law",
+        "Bretton Woods Agreements"
+    ],
+    "summary": "The case involved an Iranian national, Mr. Mansouri, who sought to recover £33,334 on a post-dated cheque drawn by Mr. Singh on Midland Bank in Harrow. The transaction was part of a scheme to transfer funds from Iran to England using air tickets as a mechanism to circumvent Iranian exchange controls. The defendant stopped payment on the cheque and raised defenses including lack of consideration and violation of Bretton Woods Agreements. The Court of Appeal focused on whether enforcing payment of the cheque would effectively enforce an exchange contract contrary to Iranian exchange control regulations and thus be unenforceable under Article VIII Section 2(b) of the Bretton Woods Agreements. While the court determined that enforcing the cheque would give effect to an unenforceable exchange contract, it ordered a retrial on specific aspects of the Bretton Woods defense due to insufficient evidence regarding Iranian exchange control regulations.",
+    "outcome": "The Court of Appeal ordered a retrial specifically on matters related to the Bretton Woods defense, including determining the precise nature of the agreement, the applicable Iranian exchange control regulations, and whether these regulations were maintained consistently with the Bretton Woods Agreements.",
+    "ratios": [
+        "Once a Section 2(b) point arises, the court has two tasks to perform: (a) to identify any monetary transaction, whether concealed or not, which constitutes a relevant exchange contract; (b) to refuse to enforce the monetary transaction or any linked transaction or contract which if enforced would give effect to the monetary transaction.",
+        "Where parties to an English cheque are the same parties as to the exchange contract, and where the cheque was intended to carry out obligations under the exchange contract, the court is obliged to refuse to enforce payment of the cheque if the exchange contract is unenforceable under the Bretton Woods Agreements.",
+        "The term 'exchange contracts' in Section 2(b) of Article VIII is to be interpreted narrowly, confined to contracts to exchange the currency of one country for the currency of another."
+    ],
+    "precedents": [
+        {
+            "name": "Sharif v Azad [1966] 3 All ER 785, [1967] 1 QB 605",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "In Sharif v. Azad both Diplock and Russell LJJ appear to have treated the autonomous obligation under the English cheque as being unaffected by the underlying and associated exchange contract. Diplock LJ said: 'The plaintiff is not suing on [the exchange] contract, however, whether it was bi-partite or tri-partite. He is suing on the cheque which was issued by the defendant in performance of this contract. A cheque issued in performance of an agreement which is merely unenforceable is not 'affected by illegality...' And Russell LJ said: 'An English resident sues an English resident on two sterling cheques totalling £300 drawn in favour of the former by the latter in England on an English bank. To defend such an action the defendant must show either that there was no consideration for the cheque or that it was tainted by illegality in English law...'"
+        },
+        {
+            "name": "United City Merchants (Investments) Ltd v Royal Bank of Canada [1982] 2 All ER 720, [1983] 1 AC 168",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Lord Diplock used these words to emphasise the autonomous nature of the contract between the confirming bank and the sellers: 'The whole commercial purpose for which the system of confirmed irrevocable documentary credits has been developed in international trade is to give the seller an assured right to be paid before he parts with control of the goods and that does not permit of any dispute with the buyer as to the performance of the contract of sale being used as a ground for non-payment or reduction or deferment of payment.'"
+        },
+        {
+            "name": "Wilson Smithett & Cope Ltd v Terruzzi [1976] 1 All ER 817, [1976] QB 683",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The term 'exchange contracts' in s 2(b) of art VIII is to be interpreted narrowly. The term is confined to contracts to exchange the currency of one country for the currency of another: it does not include contracts entered into in connection with sales of goods which require the conversion by the buyer of one currency into another in order to enable him to pay the purchase price. The House of Lords approved the interpretation based on the term by the Court of Appeal in Wilson Smithett & Cope Ltd v. Terruzzi"
+        },
+        {
+            "name": "Basra v Ebrahim [1982] 2 Lloyds 11",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The House of Lords approved the statement by Lord Denning MR in Basra v. Ebrahim as to the effect which should be given by English courts to the word 'unenforceable'."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Batra v Ebrahim (1977) [1982] 2 Lloyd's Rep 11",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "United City Merchants (Investments) Ltd v Royal Bank of Canada [1979] 2 Lloyd's Rep 498",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Wilson Smithett & Cope Ltd v Terruzzi [1975] 2 All ER 649, [1976] QB 683",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Sharif v Azad [1966] 3 All ER 785, [1967] 1 QB 605",
+            "cited_by": "Counsel to Appellant"
+        }
+    ]
+}

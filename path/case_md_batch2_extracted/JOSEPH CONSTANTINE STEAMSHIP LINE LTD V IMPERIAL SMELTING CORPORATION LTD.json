@@ -1,0 +1,57 @@
+{
+    "case_title": "Joseph Constantine Steamship Line Ltd v Imperial Smelting Corporation Ltd",
+    "area_of_law": [
+        "Contract Law",
+        "Maritime Law"
+    ],
+    "subject_matter": [
+        "Frustration of Contract",
+        "Burden of Proof",
+        "Maritime Contracts",
+        "Charter Party Agreements"
+    ],
+    "summary": "The case concerned a charterparty dated August 5, 1936, where the appellants (shipowners) chartered the vessel Kingswood to carry ore cargo from Port Pirie to Europe. On January 3, 1937, while anchored but before becoming an 'arrived ship', an unprecedented explosion occurred in the auxiliary boiler, causing extensive damage that made the vessel unable to perform the contract. The shipowners claimed frustration of the contract, while the charterers demanded damages. The key legal issue was whether the shipowners had to prove affirmatively that the explosion occurred without their fault to rely on the doctrine of frustration, or whether the charterers had to prove the shipowners' fault to defeat the frustration defense. The House of Lords held that the burden of proving fault lay with the party alleging it, not with the party claiming frustration.",
+    "outcome": "The House of Lords allowed the appeal, restoring Atkinson J's judgment. They held that a party relying on frustration does not need to prove affirmatively that the frustrating event occurred without their fault; rather, the party alleging fault must prove it.",
+    "ratios": [
+        "The doctrine of frustration operates automatically to bring a contract to an end when a frustrating event occurs, irrespective of the parties' intentions or opinions",
+        "When a supervening event destroys the subject matter essential to the contract's performance, the contract is frustrated unless fault is proved against the party claiming frustration",
+        "The burden of proving fault lies on the party alleging it, not on the party claiming frustration",
+        "The words 'without default of either party' qualify the doctrine of frustration but do not impose a burden of proof on the party seeking to rely on it"
+    ],
+    "precedents": [
+        {
+            "name": "Taylor v Caldwell",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The principle seems to us to be that in contracts in which the performance depends on the continued existence of a given person or thing, a condition is implied that the impossibility of performance arising from the perishing of the person or thing shall excuse the performance"
+        },
+        {
+            "name": "Bank Line Ltd v Capel (Arthur) & Co",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "I think it is now well settled that the principle of frustration of an adventure assumes that the frustration arises without blame or fault on either side. Reliance cannot be placed on a self-induced frustration"
+        },
+        {
+            "name": "Maritime National Fish Ltd v Ocean Trawlers Ltd",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "The essence of frustration is that it should not be due to the act or election of the party"
+        },
+        {
+            "name": "Hirji Mulji v Cheong Yue SS Co",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Frustration brings the contract to an end forthwith and automatically"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Paradine v Jane",
+            "cited_by": "Counsel for Respondents"
+        },
+        {
+            "name": "Atkinson v Ritchie",
+            "cited_by": "Counsel for Respondents"
+        }
+    ]
+}

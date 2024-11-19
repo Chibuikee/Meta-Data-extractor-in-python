@@ -1,0 +1,93 @@
+{
+    "case_title": "Ukeje v. Ukeje",
+    "area_of_law": [
+        "Constitutional Law",
+        "Succession Law",
+        "Customary Law"
+    ],
+    "subject_matter": [
+        "Inheritance rights",
+        "Gender discrimination",
+        "Constitutional rights",
+        "Letters of administration",
+        "Paternity"
+    ],
+    "summary": "The case involved a dispute over inheritance rights where the respondent, Gladys Ada Ukeje, claimed entitlement to share in her deceased father L.O. Ukeje's estate. The respondent provided evidence of her paternity through birth certificates, divorce proceedings documents, and photographs. The appellants challenged her paternity and right to inherit based on Igbo customary law which disentitles female children from inheriting. The Court of Appeal affirmed the lower court's decision, holding that the respondent had proven her paternity and that the Igbo customary law barring female children from inheritance was unconstitutional as it violated Sections 39(1)(a) and 39(2) of the 1979 Constitution (now Sections 42(1) and (2) of the 1999 Constitution). The court also applied the lex situs principle, ruling that Yoruba customary law governed the distribution of the deceased's immovable properties in Lagos.",
+    "outcome": "The Court of Appeal dismissed the appeal, affirmed the lower court's judgment, and awarded costs of N5,000 to the respondent. The court declared the respondent entitled to share in her father's estate and held that the Igbo customary law disentitling females from inheritance was void for being unconstitutional.",
+    "ratios": [
+        "The circumstances of birth should not constitute a disadvantage to any citizen of Nigeria in view of Section 39(2) of the 1979 Constitution",
+        "Succession to immovable property is governed by the law of the place where the property is situated (lex situs)",
+        "Any customary law that sanctions the breach of fundamental rights provisions guaranteed in the Constitution is barbarous and should not be enforced by courts",
+        "When a man dies intestate under Yoruba native law and custom, his properties devolve on all his children who share same equally and the eldest child assumes the position of head of family and manager of estate"
+    ],
+    "precedents": [
+        {
+            "name": "Sanusi v. Amayogun (1992) 4 NWLR (Pt. 257) p.527",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is further contended that the trial Judge did not follow the principles of a proper decision making process in her judgment as out-lined in the case of Sanusi v. Amayogun (1992) 4 NWLR (Pt. 257) p.527 at 547-548. The three pronged approach which must be followed in a proper decision making process as outlined in by Nnaemeka-Agu JSC in that case involves the following considerations. Firstly, the consideration of the evidence led by the plaintiff to discover whether the plaintiff has led evidence on all the material issues that needed to be proved. The second step involves the evaluation of the evidence adduced by the parties bearing in mind on whom the onus of proof always lies. The third consideration involves the placing of the evidence adduced by both parties on an imaginary scale and weighing them together."
+        },
+        {
+            "name": "Seismograph Nigeria Ltd. v. Ogbeni (1976) NSCC 132",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "D.W.8's evidence demonstrated that it is possible to superimpose pictures. This evidence is speculative. D.W.8 expressed this opinion as an expert witness as a photo analyst. But where an expert evidence is discredited, then the court will have to cautiously accept or rely on such expert evidence. See Seismograph Nigeria Ltd. v. Ogbeni (1976) NSCC 132."
+        },
+        {
+            "name": "U.T.B. v. Awanzigana Ent. Ltd (1994) 6 NWLR (pt. 384) 56",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "When court are faced with the opinion of expert witnesses they should exercise great and due care in accepting wholly as 'gospel truth' the opinion of such experts. It cannot just abandon its responsibility 'and leave the fortunes of the case to the expert witness.' See U.T.B. v. Awanzigana Ent. Ltd (1994) 6 NWLR (pt. 384) 56 at 63."
+        },
+        {
+            "name": "Olowu v. Olowu (1985) 3 NWLR (Pt 372)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Olowu v. Olowu (1985) 3 NWLR (Pt 372) at 375, it was held that the immovable properties of the deceased being situated in Benin city, their distribution must be determined according to the Customary law of the Benin."
+        },
+        {
+            "name": "Duncan v. Lawson (1989) 41 Ch.D344",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "In Duncan v. Lawson (1989) 41 Ch.D344 it was held as follows: 'Accordingly where the owner of immovables dies intestate the order of descent or distribution prescribed by lex situs is applied by English court.'"
+        },
+        {
+            "name": "Mojekwu v. Mojekwu (1997) 7 NWLR (Pt.512) p. 288",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "This court has expressed similar opinion in Mojekwu v. Mojekwu (1997) 7 NWLR (Pt.512) p. 288 thus: 'Lex situs simply means the law of the place where the property is situate or is situated. The general state of the law is that the lands or immovables are governed by the lex situs.'"
+        },
+        {
+            "name": "Agbai v. Okogbue (1991) 7 NWLR (Pt.204) 391",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "See Agbai v. Okogbue (1991) 7 NWLR (Pt.204) 391 where Wali JSC said: 'I have no hesitation in coming to the conclusion that any customary law that sanctions the breach of an aspect of the rule of law as contained in the fundamental rights provisions guaranteed to a Nigerian in the Constitution is barbarous and should not be enforced by our court.'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "George v. Dominion Floor Mills (1989) 1 All NLR 71",
+            "cited_by": "Appellants' Counsel"
+        },
+        {
+            "name": "Onamade v. A.C.B. Ltd (1997) 1 NWLR (Pt. 480) 123",
+            "cited_by": "Court in response to Appellants' arguments"
+        },
+        {
+            "name": "Aina v. Jinadu (1992) 4 NWLR (Pt.233) 91",
+            "cited_by": "Court in response to Appellants' arguments"
+        },
+        {
+            "name": "Solomon Ojo v. Egbon Edoh (1964) M-W (NLR 12)",
+            "cited_by": "Appellants' Counsel"
+        },
+        {
+            "name": "Omoregbe v. Lawani (1980) NSCC. 164",
+            "cited_by": "Respondent's Counsel"
+        },
+        {
+            "name": "Udensi v. Mogbo (1976) SC1",
+            "cited_by": "Court"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "case_title": "Adeyemi v. The state",
+    "area_of_law": [
+        "Criminal Law"
+    ],
+    "subject_matter": [
+        "Criminal Conspiracy",
+        "Armed Robbery"
+    ],
+    "summary": "The appellant, Ibrahim Adeyemi, along with Olabisi Olakunle and two others at large (Olaniyi and Taiye), were charged with criminal conspiracy and armed robbery. On October 13, 2011, they committed armed robberies at Ojomo Estate Offa Garage and Pipeline Road in Ilorin, Kwara State. The victims were Adegbenle Olawale and Mrs. Bunmi Afolayan. During the robberies, they were armed with guns and stole personal items including vehicles. The appellant was arrested when police intercepted one of the stolen vehicles. At trial, the prosecution called five witnesses while the appellant testified alone in his defense. The High Court convicted the appellant and sentenced him to death by hanging. The Court of Appeal affirmed this decision, leading to this appeal to the Supreme Court. The Supreme Court dismissed the appeal, affirming both the conviction and death sentence.",
+    "outcome": "The Supreme Court dismissed the appeal and upheld both the conviction and death sentence imposed by the lower courts.",
+    "ratios": [
+        "The prosecution is not expected to prove that conspirators met before carrying out their activities; rather the offence of conspiracy is sustained by evidence from which the court can discern or infer criminal acts done in pursuance of apparent criminal purpose common between conspirators",
+        "To establish conspiracy, the prosecution only needs to prove the inchoate nature of the offence and inference of meeting of minds; direct communication between conspirators is not necessary",
+        "For armed robbery under section 1(2) of the Robbery and Firearms Act, the prosecution must prove: that there was a robbery, that it was an armed robbery, and that the accused took part in the robbery",
+        "An alibi must be raised at the earliest opportunity to allow police investigation; raising it for the first time during trial testimony renders it ineffective"
+    ],
+    "precedents": [
+        {
+            "name": "State v. Salawu (2010) All FWLR (Pt. 614) 1",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In the matter of the offence of criminal conspiracy levelled against the appellant, it is to be reiterated that to sustain the charge which is pursuant to section 6(b) of the Robbery and Firearms Act, Cap. R11, Laws of the Federation of Nigeria, 2004, the prosecution has the bounden duty to establish the following essential elements which are thus:- (i) An agreement between two or more persons to do or cause to be done, some illegal act or some act which is not illegal by illegal means. (ii) Where the agreement is other than an agreement to commit an offence, that some acts besides the agreement was done by one or more of the parties in furtherance of the argument. (iii) Specifically, that each of the accused individually participated in the conspiracy. See State v. Salawu (2010) All FWLR (Pt. 614) 1 at page 29"
+        },
+        {
+            "name": "Iwuneve v. The State (2000) 5 NWLR (Pt. 658) 550",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "Of note in the duty to establish the offence of conspiracy is the fact that the prosecution is not expected to prove that the conspirators met before carrying out their activities which are seen as criminal, rather the offence of conspiracy is sustained by the prosecution leading evidence from which the court can discern or infer the criminal acts of the accused person done in pursuance of the apparent criminal purpose common between or among the conspirators. Again, to be said is that to establish conspiracy, all that is expected of the prosecution is to prove the inchoate or rudimentary nature of the offence and the inference from which the meeting of the minds of the accused persons, nor is it necessary to establish that the conspirators had been in any direct communication one with the other or others as the case may be. There is no hard and fast rule as to how to infer conspiracy, as even the mere evidence of complicity is sufficient. I place reliance on Iwuneve v. The State (2000) 5 NWLR (Pt. 658) 550 at 560 - 561"
+        },
+        {
+            "name": "Osondu v. F.R.N. (2000) 12 NWLR (Pt. 682) 483",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Of note in the duty to establish the offence of conspiracy is the fact that the prosecution is not expected to prove that the conspirators met before carrying out their activities which are seen as criminal, rather the offence of conspiracy is sustained by the prosecution leading evidence from which the court can discern or infer the criminal acts of the accused person done in pursuance of the apparent criminal purpose common between or among the conspirators... I place reliance on Osondu v. F.R.N. (2000) 12 NWLR (Pt. 682) 483 at 501 - 502"
+        },
+        {
+            "name": "Onyeye v. The State (2012) 15 NWLR (Pt.1324) 586",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "On this matter of inference and the near impossibility of direct evidence being available with which the offence of conspiracy can be established, this court as in numerous occasions stated the guideline and I shall refer to Onyeye v. The State (2012) 15 NWLR (Pt.1324) 586 wherein it was held as follows: 'Conspiracy can be inferred from the acts of doing things towards a common end where there is no direct evidence in support of an agreement between the accused persons. The conspirators need not know themselves and need not have agreed to commit the offence at the same time. The courts tackle the offence of conspiracy as a matter of inference to be adduced from certain criminal acts or inactions of the parties'"
+        },
+        {
+            "name": "Okudo v. The State (2011) 3 NWLR (Pt. 1234) 209",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Again, to be said is that to establish the offence contrary to section 1(2) of the Armed Robbery and Firearms Act, Cap. R.11, Laws of the Federation of Nigeria, 2004, the prosecution has to establish the following: 1. That there was a robbery. 2. That the robbery was an armed robbery, and 3. That the accused person took part in the robbery. I rely on the cases of Okudo v. The State (2011) 3 NWLR (Pt. 1324) 209 at 233"
+        },
+        {
+            "name": "Udobre v. State (2001) FWLR (Pt. 59) 1244",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The reason is that an alibi is to be raised at the earliest opportunity because of the role the prosecution has to play in it after the accused has furnished the prosecution with the details of his where about at the relevant time. It is with those particulars that the prosecution would then set about investigating the alibi to produce one or the other result that is either the alibi affirmed or debunked. Therefore, the accused/appellant in this case raising the alibi at this late stage, the effect is akin to a still-birth and the alibi so raised comes to naught. See Udobre v. The State (2001) FWLR (Pt. 59) 1244 at 1258 - 1259"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Eke v. The State (2011) All FWLR (Pt. 566) 430",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Bello v. The State (2007) All FWLR (Pt. 396) 702",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Amadi v. State (1993) 8 NWLR (Pt. 314) 644",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Paul Onyia v. The State (2006) 11 NWLR (Pt. 991) 267",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Aituma v. State (2006) All FWLR (Pt. 318) 671",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nnunukwe v. State (2003) 14 NWLR (Pt. 840) 219",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Azeez v. State (2005) 8 NWLR (Pt. 927) 312",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Yau v. State (2005) 5 NWLR (Pt. 917) 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Namsoh v. State (1993) 5 NWLR (Pt. 292) 129",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "State v. Salawu (2010) All FWLR (Pt. 614) 1",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Adekunle v. The State (1989) 12 SCNJ 184",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Nwosu v. State (2004) All FWLR (Pt. 218) 916",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Iwuneve v. The State (2000) 5 NWLR (Pt. 658) 550",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Osondu v. F.R.N. (2000) 12 NWLR (Pt. 682) 483",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

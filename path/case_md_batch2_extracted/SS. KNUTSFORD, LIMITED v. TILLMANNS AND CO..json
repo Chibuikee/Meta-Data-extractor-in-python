@@ -1,0 +1,36 @@
+{
+    "case_title": "SS. Knutsford, Limited v. Tillmanns and Co.",
+    "area_of_law": [
+        "Maritime Law",
+        "Contract Law",
+        "Commercial Law"
+    ],
+    "subject_matter": [
+        "Bill of Lading",
+        "Port Accessibility",
+        "Shipping Contract Obligations",
+        "Cargo Delivery"
+    ],
+    "summary": "This case involved a vessel that was contracted to deliver cargo to Vladivostock but encountered ice obstacles about forty miles from the port. After attempting to navigate through the ice for three days, the captain decided to return to Nagasaki and discharge the cargo there. The court had to determine whether this action was justified under the bill of lading's provisions regarding port inaccessibility and safety. The key issue was whether a three-day delay due to ice constituted the port being 'inaccessible' in a commercial sense. The court held that such a short delay on a long journey did not amount to 'inordinate delay' that would justify deviation from the contract.",
+    "outcome": "The appeal was dismissed with costs, finding that the shipowners had breached their contract by not delivering the cargo to Vladivostock as agreed.",
+    "ratios": [
+        "A port must be inaccessible in a commercial sense so that a ship cannot enter without inordinate delay, not merely temporarily inaccessible",
+        "The unsafe port clause means unsafe for a period which would involve inordinate delay, not merely unsafe at the moment",
+        "A master's erroneous interpretation of a contract does not constitute an 'error of judgment' within the meaning of the bill of lading clause"
+    ],
+    "precedents": [
+        {
+            "name": "Thames and Mersey Marine Insurance Company v. Hamilton (1887) 12 App. Cas. 484",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "As regards the last point, I think the rule of ejusdem generis applies as laid down in Thames and Mersey Marine Insurance Company v. Hamilton (1), and I prefer to take the rule on a point of that sort from a case which did deal with bills of lading and shipping documents rather than from cases that dealt with real property and settlements."
+        },
+        {
+            "name": "[1908] 1 K. B. 185",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "(1) [1908] 1 K. B. 185."
+        }
+    ],
+    "counsel_precedents": []
+}

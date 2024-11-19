@@ -1,0 +1,134 @@
+{
+    "case_title": "Access bank plc v. Adewusi",
+    "area_of_law": [
+        "Civil Procedure",
+        "Banking Law"
+    ],
+    "subject_matter": [
+        "Garnishee Proceedings",
+        "Bank Account Disclosures",
+        "Fair Hearing"
+    ],
+    "summary": "This case involves an appeal against a ruling of the Lagos High Court which made absolute a garnishee order against Access Bank PLC. The respondents had obtained a garnishee order nisi requiring the bank to show cause why the order should not be made absolute regarding funds held in accounts of judgment debtors. The bank filed an affidavit claiming the judgment debtors had no active accounts, stating their accounts had been closed since 2009. However, the bank's evidence was found to be contradictory and evasive, presenting statements for different account numbers than those specified in the order nisi, and failing to provide comprehensive account histories. The High Court made the garnishee order absolute, leading to this appeal. The Court of Appeal upheld the lower court's decision, finding that the bank failed to properly discharge its duty to show cause by not making full and frank disclosures about the relevant accounts.",
+    "outcome": "The Court of Appeal dismissed the appeal and affirmed the lower court's garnishee order absolute against Access Bank PLC. The court found that the appellant bank failed in its duty to show cause why the garnishee order nisi should not have been made absolute.",
+    "ratios": [
+        "A garnishee bank has obligation to carry out the orders of the court and must supply the details of the accounts listed and nothing else.",
+        "The onus placed on a garnishee would only be discharged where it successfully establishes that the account referred to in the decree nisi does not exist in its system or if it exists, it is heavily in debt and not in credit, or that the number stated on the order nisi had since changed to another version.",
+        "Parties confronting the courts with facts must do so with certainty and some good measure of exactness. Parties must not expect the courts to embark on titration process to filter the facts.",
+        "A party who has been given the opportunity to make his case but fails to do so cannot come under the guise of fair hearing"
+    ],
+    "precedents": [
+        {
+            "name": "Hirschorn v. Evans (1938) 2 KB 801",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "This brings me to the statement made by Mackinnon L. J, in Hirschorn v. Evans (1938) 2 KB 801, where he said as follows on the duties of a bank served with garnishee order: 'If upon receiving that summons (For E15.7s), the bank had any account in their books in the name of lionel Evans, the judgment debtor, it would have been their duty not to allow Lionel Evans, to draw cheques upon that account so as to reduce the credit balance below the sum of E15.7s.'"
+        },
+        {
+            "name": "Zenith Bank Plc v. Kano & Ors. (2016) LPELR-40335 (CA)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Zenith Bank Plc v. Kano & Ors. (2016) LPELR-40335 (CA) 6-8, this court, per Sankey JCA explained the duty placed on a garnishee bank in the following words: '... the onus placed on a garnishee would only be discharged where it successfully establishes that the account referred to in the decree nisi does not exist in its system or if it exists, it is heavily in debt and not in credit, or that the number stated on the order nisi had since changed to another version.'"
+        },
+        {
+            "name": "Dale Power Systems Plc v. Witt & Busch Ltd & Anor. (2007) All FWLR (Pt. 394) 353",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Parties confronting the courts with facts must do so with certainty and some good measure of exactness. Parties must not expect the courts to embark on titration process to filter the facts. See: Dale Power Systems Plc v. Witt & Busch Ltd & Anor. (2007) All FWLR (Pt. 394) 353"
+        },
+        {
+            "name": "Nwokocha v. Attorney-General of Imo State (2016) LPELR40077 (SC)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Nwokocha v. Attorney-General of Imo State (2016) LPELR40077 (SC) page 11-12, the Supreme Court per Ogunbiyi JSC held that: 'The term fair hearing therefore has been defined variously by this court to mean trial conducted according to all legal rules formulated to ensure that justice is done to all parties to the case.'"
+        },
+        {
+            "name": "Tetrazzini Foods Ltd v. Abbacon Investment Ltd (2015) LPELR 25007",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Due to the casual manner and frequent verbalism with which parties fling the allegation of denial of fair hearing in judicial proceedings because of its fundamental and crucial effect, recently in the case of Tetrazzini Foods Ltd v. Abbacon Investment Ltd (2015) LPELR 25007, it was cautioned that: 'It has become a fashion for litigants to resort to their right to fair hearing - as if it is a magic wand to cure all their inadequacies.'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Standard Trust Bank Ltd v. Contract Resources (Nig.) Ltd (2001) FWLR (Pt. 72) 1922",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "C.B.N. v. Auto Import and Export (2013) 2 NWLR (Pt. 1337) 80",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Attorney-General of Bayelsa State v. Attorney-General of Rivers State (2006) 18 NWLR (Pt. 1012) 596",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Egharevba v. Osagie (2009) 18 NWLR (Pt. 1173) 299",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Military Administrator, Federal Housing Authority v. Aro (1991) 1 NWLR (Pt. 168) 405",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Akpan v. Bob (2010) All FWLR (Pt. 501) 896",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Mohammed v. Abdulkadir (2008) 4 NWLR (Pt. 1076) 111",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Osuoha v. State (2010) 16 NWLR (Pt. 1219) 364",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "New Resources Int'l Ltd & Anor. v. Oranusi (2010) LPELR – 4592 (CA)",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Dalko v. U.B.N. Plc (2004) 4 NWLR (Pt. 862) 123",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Christlieb v. Majekodunmi (2011) All FWLR (Pt. 592) 1802",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Oceanic Bank Plc v. Micheal Oladepo (2012) LPELR - 19670 (CA)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Union Bank of Nigeria Plc v. Boney Marcus Industries Ltd & Ors. (2005) All FWLR (Pt. 278) 1037",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Citizens International Bank Ltd v. SCOA (Nig.) Ltd (2006) All FWLR (Pt. 323) 1680",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "John Obi v. Udochukwu Ojukwu (2009) LPLER 8511 (CA)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Uzodinma v. Izunaso (No. 2) (2011) 17 NWLR (Pt. 1275)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Zenith Bank v. Igbokwe (2013) LPELR - 21975 (CA)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Okada Airlines Ltd. v. Federal Airport Authority of Nigeria (2014) LPELR 23342 (CA)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Saburi Adebayo v. Attorney-General of Ogun State (2008) All FWLR (Pt. 412) 1195",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Gitto Construzioni Generali Nigeria v. Etuk & Anor. (2013) LPELR 20817 (CA)",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

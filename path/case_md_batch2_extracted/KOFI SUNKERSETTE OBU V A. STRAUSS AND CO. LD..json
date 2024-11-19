@@ -1,0 +1,39 @@
+{
+    "case_title": "Kofi Sunkersette Obu v A. Strauss and Co. Ltd.",
+    "area_of_law": "Commercial Law",
+    "subject_matter": [
+        "Agency",
+        "Commission",
+        "Contract"
+    ],
+    "summary": "This case involved a dispute between Kofi Sunkersette Obu (appellant) and A. Strauss and Co. Ltd. (respondents) regarding commission payments for rubber trading in West Africa. The appellant served as the respondents' agent for purchasing and shipping rubber from West Africa to London. Under their agreement, the appellant received £50 monthly (later reduced to £20) for expenses, with an additional commission to be paid at the respondents' discretion. When the employment terminated in May 1945, the appellant counterclaimed for an account of all rubber shipped and commission payments. The courts dismissed the counterclaim, finding that while the agreement contemplated commission payments, the basis and rate were entirely at the respondents' discretion and could not be determined by the court.",
+    "outcome": "The appeal was dismissed with costs awarded to the respondents. The court held that it could not grant the appellant's claims for an account and commission payments as this would require making a new agreement and transferring discretion from the respondents to the court.",
+    "ratios": [
+        "The court cannot determine the basis and rate of commission when the agreement explicitly leaves such discretion to one party",
+        "The court cannot make a new agreement for parties or vary an existing agreement by transferring discretion vested in one party to the court"
+    ],
+    "precedents": [
+        {
+            "name": "Bryant v Flight",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The appellant relied on the authority of such cases as Bryant v. Flight (18) and a decision of the House of Lords in Way v. Latilla (19). Only the latter case dealt with remuneration by way of a share in business introduced, and in their Lordships' opinion the earlier cases are of no assistance to the appellant."
+        },
+        {
+            "name": "Way v Latilla",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "In Way v. Latilla (19) the agent claimed that there was an agreement to give him an interest in a concession obtained by him which by custom, or on a reasonable basis, the court was asked to define as one-third. The House of Lords rejected this claim on the ground that there was no concluded contract between the parties us to the amount of the share which the agent was to receive and it was impossible for the court to complete the contract for the parties. The House, however, held that whilst there was no concluded contract as to the amount of remuneration, it was plain that there existed between the parties a contract of employment under which the agent was engaged to do work for the plaintiff in circumstances which clearly indicated that the work was not to be gratuitous, and that the agent therefore was entitled to a reasonable remuneration on the implied contract to pay him quantum meruit, and the House fixed the amount to be paid. This case again, in their Lordships' view, does not help the appellant, and, indeed, is rather against him."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Bryant v Flight (5 M. & W. 114)",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Way v Latilla [1937] 3 All E.R. 759",
+            "cited_by": "Counsel to Appellant"
+        }
+    ]
+}

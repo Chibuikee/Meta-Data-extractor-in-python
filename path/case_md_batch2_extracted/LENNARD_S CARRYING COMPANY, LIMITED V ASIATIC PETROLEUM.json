@@ -1,0 +1,33 @@
+{
+    "case_title": "Lennard's carrying company limited v asiatic petroleum",
+    "area_of_law": [
+        "Maritime law",
+        "Company law"
+    ],
+    "subject_matter": [
+        "Corporate liability",
+        "Ship unseaworthiness",
+        "Merchant shipping act interpretation"
+    ],
+    "summary": "The case involved a tank steamer Edward Dawson, owned by Lennard's Carrying Company, which was chartered to transport benzine. Due to defective boilers, the ship encountered problems off the Dutch coast, leading to groundings and ultimately a fire that destroyed the cargo. The Asiatic Petroleum Company (cargo owners) sued for damages. The key issue was whether the shipping company could be protected under Section 502 of the Merchant Shipping Act, which limits owner liability for fire damage if it occurs without their 'actual fault or privity'. The court established that Mr. Lennard, as the directing mind of the company, had knowledge of the ship's unseaworthy condition, and his fault was attributable to the company itself.",
+    "outcome": "The appeal was dismissed with costs, holding the appellant company liable as the unseaworthiness existed with their actual fault or privity through Mr. Lennard, who represented the directing mind and will of the corporation.",
+    "ratios": [
+        "A corporation's active and directing will must be sought in the person who is the directing mind and will of the corporation, the very ego and centre of the personality of the corporation",
+        "The fault must not only be the fault of a servant to exonerate the owner, but must also be one which is not the fault of the owner or to which the owner is privy",
+        "When invoking section 502 to excuse oneself from the normal consequences of respondeat superior, the burden lies upon the party claiming the exemption"
+    ],
+    "precedents": [
+        {
+            "name": "Section 502 of the Merchant Shipping Act",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "The owner of a British sea-going ship, or any share therein, shall not be liable to make good to any extent whatever any loss or damage happening without his actual fault or privity in the following cases; namely,--(i.) Where any goods, merchandise, or other things whatsoever taken in or put on board his ship are lost or damaged by reason of fire on board the ship... My Lords, did what happened take place without the actual fault or privity of the owners of the ship who were the appellants?"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Note: The judgment mentions that 'the appellants have, at all events, the satisfaction of knowing that their case has been excellently argued by both the learned counsel who have appeared for them' but does not specify any precedents cited by counsel in their arguments.",
+            "cited_by": "Not specified"
+        }
+    ]
+}

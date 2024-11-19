@@ -1,0 +1,35 @@
+{
+    "case_title": "Galaxia maritime sa v mineralimportexport the eleftherios",
+    "area_of_law": "Commercial Law",
+    "subject_matter": [
+        "Mareva Injunctions",
+        "Maritime Law",
+        "Third Party Rights"
+    ],
+    "summary": "This case involved an appeal by third parties against a Mareva injunction in shipping proceedings. The plaintiffs, a Swiss company, sought to recover approximately $400,000 in demurrage from the Romanian defendants under a charterparty. The injunction prevented the defendants from disposing of assets, specifically affecting a cargo of 11,000 metric tons of coal aboard the vessel Eleftherios at Barry port. The third-party vessel owners appealed against the injunction as it interfered with their trading activities and crew arrangements. The Court of Appeal discharged the injunction, ruling that it constituted an abuse of the Mareva jurisdiction by unduly interfering with innocent third-party business rights, which could not be adequately compensated merely by an indemnity.",
+    "outcome": "The appeal was allowed and the Mareva injunction was discharged. Leave to appeal to the House of Lords was refused.",
+    "ratios": [
+        "A plaintiff seeking to secure an alleged debt or damages due from the defendant, by an order preventing the disposal of assets of the defendant, cannot possibly be entitled to obtain the advantage of such an order for himself at the expense of the business rights of an innocent third party, merely by proffering him an indemnity in whatever form.",
+        "Where the effect of service of the injunction on the third party substantially interferes with the third party's business, the rights of the third party must always prevail over the desire of the plaintiff to secure the ultimate recovery of debts or damages from the defendant with which the third party is in no way concerned."
+    ],
+    "precedents": [
+        {
+            "name": "Clipper Maritime Co Ltd v. Mineral Import Export [1981] 3 All ER 664, [1981] 1 WLR 1262",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "The judge was referred to Clipper Maritime Co Ltd v. Mineral Import Export [1981] 3 All ER 664, [1981] 1 WLR 1262. That was a case of a vessel under time charter and a Mareva injunction was granted. In that case Robert Goff J obtained from the plaintiffs an undertaking to indemnify the port authority against any loss which they might sustain as a result of the injunction, which had the effect of preventing the movement of the vessel. It does not appear that Neill J had his attention specifically drawn to the fact that that case involved a vessel on time charter. Furthermore it does not appear from the report that the owners of the vessel had made any application. Moreover, in so far as the order impeded the trading activities of the port authority it is very important to appreciate that the port authority was present, if not at the application initially, at least at the end of the proceedings, and was quite content with an undertaking being given."
+        },
+        {
+            "name": "Z Ltd v. A [1982] 1 All ER 556, [1982] 2 WLR 288",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Only yesterday this court, in a case which was called Z Ltd v. A [1982] 1 All ER 556, [1982] 2 WLR 288, drew attention to the need to pay particular regard to the extent to which the freedom of action of third parties would be affected by a Mareva injunction... In Z Ltd v. A [1982] 1 All ER 556, [1982] 2 WLR 228 this court laid down guidelines for the protection of third parties, and in particular of banks, on whom a Mareva injunction may be served in respect of assets of defendants. However, I then also drew attention to the danger that this important and useful jurisdiction must not be abused."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Clipper Maritime Co Ltd v. Mineralimportexport [1981] 3 All ER 664, [1981] 1 WLR 1262",
+            "cited_by": "Counsel for the plaintiffs"
+        }
+    ]
+}

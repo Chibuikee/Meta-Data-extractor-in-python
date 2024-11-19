@@ -1,0 +1,143 @@
+{
+    "case_title": "Adamu v The State",
+    "area_of_law": [
+        "Criminal Law"
+    ],
+    "subject_matter": [
+        "Armed Robbery",
+        "Criminal Procedure",
+        "Evidence Law"
+    ],
+    "summary": "The appellant and two others were charged before the High Court of the Federal Capital Territory on counts of conspiracy and armed robbery. The offenses occurred on September 8, 2005, at Anglican Church Guest House, Wuse Zone 5, Abuja, where they robbed multiple victims of money, jewelry, handsets, and wristwatches. The prosecution called three witnesses, including a security guard who was present during the robbery and police officers involved in the investigation. The appellant was arrested following information from a co-accused, and stolen items were recovered from him. Though he denied the charges and claimed his confessional statements were made under duress, the trial court convicted him and sentenced him to death. The Court of Appeal affirmed the conviction, leading to this appeal. A key procedural issue emerged as the appellant was not properly arraigned on the conspiracy count, though his arraignment for armed robbery was valid.",
+    "outcome": "The Supreme Court allowed the appeal in part. The conviction and sentence for conspiracy was set aside due to improper arraignment, but the conviction and death sentence for armed robbery was affirmed.",
+    "ratios": [
+        "The requirements of section 187(1) of the Criminal Procedure Code for proper arraignment are mandatory, as they ensure the accused person's right to fair hearing as enshrined in section 36(6) of the Constitution",
+        "The offence of conspiracy is a separate and distinct offence from the offence of armed robbery. The act of conspiracy may be based on the same facts or set of facts as the main offence of armed robbery but not in all cases",
+        "The evidence of a single witness, if credible and cogent, is sufficient to ground a conviction",
+        "There is no law which imposes an obligation on the prosecution to tender as evidence, the weapons used to commit an offence or to tender recovered stolen items in order to secure a conviction"
+    ],
+    "precedents": [
+        {
+            "name": "Kajubo v. State (1988) 1 NWLR (Pt. 73) 721",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The requirements are mandatory, as they ensure that the accused person's right to fair hearing, as enshrined in section 36(6) of the Constitution of the Federal Republic of Nigeria, 1999, as amended, is protected. Failure to comply with these requirements would render the trial a nullity for lack of fair hearing. See Kajubo v. State (1988) 1 NWLR (Pt. 73) 721 at 732, paragraphs E-F, (1988) 1 NSCC 475"
+        },
+        {
+            "name": "Eyorokoromo v. State (1979) 6-9 SC 3",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "See Kajubo v. State (1988) 1 NWLR (Pt. 73) 721 at 732, paragraphs E-F, (1988) 1 NSCC 475; Eyorokoromo v. State (1979) 6-9 SC 3, (1979) 2 FNLR 32; Josiah v. State (1985) 1 NWLR (Pt. 1) 125, (1985) 1 SC 406 at 416"
+        },
+        {
+            "name": "Balogun v. Attorney-General, Ogun State (2002) FWLR (Pt. 100) 1287",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "On the distinction between the two offences, it was held in Balogun v. Attorney-General, Ogun State (2002) FWLR (Pt. 100) 1287, (2002) 2 SC (Reprint) (Pt. 11) 89 at 96, per Uwaifo JSC as follows: 'Conviction for conspiracy does not become inappropriate simply because the substantive offence has not been proved. It is a known principle of law that conspiracy to commit an offence is a separate and distinct offence and is independent of the actual commission of the offence to which the conspiracy is related. The offence of conspiracy may be fully committed even though the substantive offence may be abandoned or aborted, or may have become impossible to commit.'"
+        },
+        {
+            "name": "Effiong v. State (1998) 5 NWLR (Pt. 562) 362",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is settled law that the evidence of a single witness, if believed by the court can establish a criminal case, even if it is a murder charge. See Effiong v. State (1998) 5 NWLR (Pt. 562) 362 SC, (1998) 5 SCNJ 158"
+        },
+        {
+            "name": "Ukpabi v. State (2004) All FWLR (Pt. 218) 814",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The law is settled that the question whether an accused person is properly identified as one of those who participated in the commission of the criminal act is a question of fact to be considered by the trial court on the evidence adduced for that purpose. See: Ukpabi v. State (2004) All FWLR (Pt. 218) 814, (2004) 11 NWLR (Pt. 884) 439"
+        },
+        {
+            "name": "Ochiba v. State (2011) 17 NWLR (Pt 1277) 663",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "However, if the evidence of a lone witness is believed, his identification of an accused person can sustain a conviction, even on a charge of murder. See Ochiba v. State (2011) 17 NWLR (Pt 1277) 663, (2012) All FWLR (Pt. 608) 849, (2011) 12 SC (Pt. IV) 79"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Kajubo v. State (1988) 1 NWLR (Pt. 73) 721",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ewe v. State (1992) 6 NWLR (Pt. 246) 147",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Rufai v. State (2001) FWLR (Pt. 65) 435",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Millar v. State (2005) 8 NWLR (Pt. 927) 236",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Oguonzee v. State (1998) 5 NWLR (Pt. 551) 521",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Archibong v. State (2004) 1 NWLR (Pt. 855) 488",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Federal Republic of Nigeria v. Usman (2012) All FWLR (Pt. 632) 1639",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Okoroji v. State (2001) FWLR (Pt. 77) 871",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Oshodin v. State (2002) FWLR (Pt. 90) 1336",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nwomukoro v. State (1995) 1 NWLR (Pt. 372) 432",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Alabi v. State (1993) 7 NWLR (Pt. 307) 511",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ubierho v. State (2005) All FWLR (Pt. 254) 804",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Gira v. State (1996) 4 NWLR (Pt. 443) 375",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Solola v. State (2005) All FWLR (Pt. 269) 1751",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Oladejo v. State (1987) 3 NWLR (Pt. 61) 419",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Akalezi v. State (1993) 2 NWLR (Pt. 273) 1",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Nwambe v. State (1995) 3 NWLR (Pt. 384) 385",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Onafowokan v. State (1987) 3 NWLR (Pt. 61) 538",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ogbodu v. State (1987) 2 NWLR (Pt. 54) 20",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Adaje v. State (1979) 6-9 SC 18",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Edamine v. State (1996) 3 NWLR (Pt. 438) 530",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

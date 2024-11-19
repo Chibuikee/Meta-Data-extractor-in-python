@@ -1,0 +1,25 @@
+{
+    "case_title": "Bank of Africa, Limited v The Colonial Government",
+    "area_of_law": "Banking and Financial Services Law",
+    "subject_matter": [
+        "Bank Note Circulation",
+        "Statutory Interpretation",
+        "Banking Regulations"
+    ],
+    "summary": "This case involved a dispute between the Bank of Africa and the Colonial Government regarding the interpretation of Act 6 of 1864 concerning bank note circulation reporting requirements. The bank, with its head office in Port Elizabeth and multiple branches, had been making separate returns for note circulation from its head office and branches. The key issue was whether branches should include in their returns notes that were in possession of other branches. The Colonial Government contended that each office issuing notes should include in its returns all notes issued by it and in possession of other offices. The Supreme Court initially ruled in favor of the Colonial Government, but on appeal, their Lordships reversed this decision, holding that when a bank note is received at a branch office, the effect is the same as if received at the head office, as the bank and its branches constitute one bank.",
+    "outcome": "The judgment of the Supreme Court was reversed in favor of Bank of Africa, with costs awarded against the respondents (Colonial Government).",
+    "ratios": [
+        "In principle the bank and its branches are one bank",
+        "When a bank-note is received at a branch office the effect is the same as if it were received at the head office",
+        "A bank-note in circulation ordinarily means a note which is passing from hand to hand as a negotiable instrument representing a certain value. When it is returned to the bank from which it was issued it ceases to circulate"
+    ],
+    "precedents": [
+        {
+            "name": "Prince v. Oriental Bank (3 App. Cas. 325)",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In principle the bank and its branches are one bank. The qualifications of this rule are stated in Prince v. Oriental Bank, and do not apply to this case. When a bank-note is received at a branch office the effect is the same as if it were received at the head office."
+        }
+    ],
+    "counsel_precedents": []
+}

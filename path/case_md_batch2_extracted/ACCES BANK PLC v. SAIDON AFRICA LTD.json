@@ -1,0 +1,110 @@
+{
+    "case_title": "Access bank plc v. Saidon africa ltd",
+    "area_of_law": [
+        "Banking Law",
+        "Contract Law",
+        "Civil Procedure"
+    ],
+    "subject_matter": [
+        "Bank Facility/Loan Agreement",
+        "Counterclaim",
+        "Evidence of Indebtedness",
+        "Burden of Proof"
+    ],
+    "summary": "This case involves an appeal by Access Bank PLC against a Federal High Court judgment that dismissed their counterclaim against Saidon Africa Ltd. The original dispute centered around loan/overdraft facilities granted by the bank to Saidon Africa. The bank counterclaimed for N864,926,386.24, alleging this was the amount owed as of December 2011 from the granted facilities. The bank also claimed N750,000 paid to settle another suit, 17% interest per annum, and legal fees. The trial court dismissed both the main claim and counterclaim for lack of credible evidence. The key issue on appeal was whether the trial court was right to dismiss the bank's counterclaim after finding that the respondent had taken loan facilities worth N1.4 billion that weren't fully repaid. The Court of Appeal upheld the lower court's decision, finding that the bank failed to provide sufficient documentary evidence of the alleged debt, particularly since their own bank statement (Exhibit J1) showed a zero balance.",
+    "outcome": "The Court of Appeal dismissed the appeal and upheld the lower court's judgment, finding that the appellant (Access Bank) failed to prove its counterclaim with credible evidence. The court ordered each party to bear their own costs.",
+    "ratios": [
+        "A counterclaim, for the purpose of proof, is a separate and distinct claim or action from the main action in which it is usually incorporated as required by the rules of many trial courts.",
+        "Parole or oral evidence alone is not in law sufficient proof of an alleged indebtedness of a customer to a bank where the indebtedness is said to arise from transactions in the customer's account with the bank.",
+        "The indebtedness must be demonstrated by and from the statement of the account showing how it was arrived at in the transactions by the customer and period of time covered by the transactions.",
+        "Oral evidence no matter how couched cannot displace documentary evidence."
+    ],
+    "precedents": [
+        {
+            "name": "Obi v. Biwater Shellabear (Nig.) Ltd (1997) 1 NWLR (Pt. 484) 722",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In a counterclaim therefore, the counter claimant takes the place of the plaintiff in the main action who bears the burden of proving the counterclaim as the party who asserts and desires the court to enter judgement in his favour based on the assertions. See Obi v. Biwater Shellabear (Nig.) Ltd (1997) 1 NWLR (Pt. 484) 722"
+        },
+        {
+            "name": "Jeric (Nig.) Ltd v. U.B.N. Plc (2000) 15 NWLR (Pt. 691) 447",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In a counterclaim therefore, the counter claimant takes the place of the plaintiff in the main action who bears the burden of proving the counterclaim as the party who asserts and desires the court to enter judgement in his favour based on the assertions. See... Jeric (Nig.) Ltd v. U.B.N. Plc (2000) 15 NWLR (Pt. 691) 447, (2000) 2 SC (Pt. II) 113, (2001) FWLR (Pt. 31) 2913"
+        },
+        {
+            "name": "Civil Design Construction (Nig.) Ltd v. S.C.O.A. (Nig.) Ltd (2007) All FWLR (Pt.363) 1",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The said document speaks for itself. Oral evidence no matter how couched cannot displace documentary evidence. See the case of Civil Design Construction (Nig.) Ltd v. S.C.O.A. (Nig.) Ltd (2007) All FWLR (Pt.363) 1, (2007) 2 SC 175, (2007) 6 NWLR (Pt. 1030) 300."
+        },
+        {
+            "name": "Saleh v. Bank of the North Ltd",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Parole or oral evidence alone is not in law, sufficient proof of an alleged indebtedness of a customer to a bank where the indebtedness is said to arise from transactions in the customer's account with the bank. The indebtedness must be demonstrated by and from the statement of the account showing how it was arrived at in the transactions by the customer and period of time covered by the transactions. See Saleh v. Bank of the North (supra) also reported in (2012) IBFLR 357."
+        },
+        {
+            "name": "Eigbe v. N.U.T (2006) 16 NWLR (Pt. 1005) 244",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In order to find out the real intention of parties to either deny or admit a claim, the court looks at and considers all the averments in the pleadings, one in relation to the other, i.e. together and not one averment or some only in isolation. See Eigbe v. N.U.T (2006) 16 NWLR (Pt. 1005) 244"
+        },
+        {
+            "name": "Olowu v. Amayo (2011) LPELR - 4755 (CA)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is also well settled that a decision or finding is said to be perverse when it was not made upon any credible and admissible evidence on record or, on the application wrong principles of law or consideration of totally extraneous matters and circumstances."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "UTB Nigeria Limited v. Ajabule (2006) 2 NWLR (965) 447",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "F.A.T.B. Limited v. Partnership Investment Company Limited (2003) 18 NWLR (Pt. 851) 35",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Neka B. B. B. Manufacturing Co. Ltd v. A.C.B. Ltd (2004) All FWLR (Pt. 198) 1175",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Akpan v. Umoh (1999) 7 SCNJ 154",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Cardoso v. Daniel (1986) 2 NWLR (Pt. 20) 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Gowon v. Ike-Okongwu (2003) FWLR (Pt. 147) 1027",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Mini Lodge Ltd v. Ngei (2009) 18 NWLR (Pt. 1173) 254",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Cappa and D'alberto Ltd v. Akintilo (2003) FWLR (Pt. 160) 1565",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Adewunmi v. Plastex (Nig.) Ltd (1986) 3 NWLR (Pt. 32) 767",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Saleh v. Bank of the North Ltd (2006) All FWLR (Pt. 310) 1600",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ishola v. Societe Generale Bank (Nigeria) Limited (1997) 2 NWLR (Pt. 488) 405",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Aeroflot v. U.B.A. (1986) 3 NWLR (Pt. 27) 188",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

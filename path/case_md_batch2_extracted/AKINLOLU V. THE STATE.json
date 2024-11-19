@@ -1,0 +1,200 @@
+{
+    "case_title": "Akinlolu v. The state",
+    "area_of_law": [
+        "Criminal Law",
+        "Constitutional Law"
+    ],
+    "subject_matter": [
+        "Murder",
+        "Conspiracy to Murder",
+        "Rape",
+        "Criminal Liability",
+        "Joint Criminal Enterprise"
+    ],
+    "summary": "The case involves an appeal against the judgment of the Court of Appeal, Akure Division, which dismissed the appellant's appeal against his conviction and death sentence by the Ondo State High Court. The appellant and two others were charged with conspiracy to commit murder and murder of Mrs. Silifatu Rahman on June 3, 2003. The prosecution's case was that the accused persons lured the deceased to a farm under the pretense of selling her kolanuts, where they proceeded to rape her. During the incident, the first accused stabbed the victim with a knife, and despite witnessing this violence, the appellant and third accused proceeded to rape the dying victim. The deceased ultimately died from her injuries, and her body was disposed of in a nearby stream. The appellant's defense was a complete denial, though his earlier police statement admitted participation in the rape. The trial court convicted the appellant, finding that although he may not have inflicted the fatal wounds, his participation in the joint enterprise and subsequent actions made him equally culpable for the murder.",
+    "outcome": "The Supreme Court dismissed the appeal and affirmed both the conviction and death sentence, holding that the appellant was properly convicted of conspiracy to murder and murder based on the doctrine of common intention and joint criminal enterprise.",
+    "ratios": [
+        "When two or more persons form a common intention to prosecute an unlawful purpose in conjunction with one another, and in the prosecution of such purpose an offence is committed of such a nature that its commission was a probable consequence of the prosecution of such purpose, each of them is deemed to have committed the offence.",
+        "Where more than one person are accused of joint commission of a crime, it is enough to prove that they all participated in the crime. What each did in furtherance of the commission of the crime is immaterial.",
+        "The mere fact of common intention manifesting in the execution of the common object is enough to render each of the accused person in the group guilty of the offence.",
+        "Where common intention is established, a fatal blow or gun shot though given by one of the party, is deemed in the eyes of the law to have been given by all those present and participating."
+    ],
+    "precedents": [
+        {
+            "name": "Richard Igago v. The State",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Generally, and this is already established by decided cases that in a prosecution on a charge for murder under our Criminal Code as in this instant case, the prosecution is required to prove beyond doubt, the following: (i) That the deceased had died; (ii) That the death of the deceased resulted from the act of the appellant; (iii) That the act of the appellant was intentional with the knowledge that death or grievous bodily harm was its probable consequence."
+        },
+        {
+            "name": "Godwin Igabele v. The State",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "However, these three conditions must co-exist and none must be missing or absent. But where one is absent or tainted with doubt, then the charge is said not to be proved by the prosecution against the accused standing trial."
+        },
+        {
+            "name": "Joseph Idowu v. State",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "To secure a conviction for murder pursuant to section 316 of the Criminal Code, the prosecution must prove that the death of the deceased was caused by means of an act done in the prosecution of an unlawful purpose and that the act is of such a nature, as to be likely to endanger human life."
+        },
+        {
+            "name": "Adesina Kayode v. The State",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "However, it has been held that in order to secure conviction on a count of conspiracy, the prosecution must establish the element of agreement to do something which is unlawful or to do something which is lawful but by unlawful means."
+        },
+        {
+            "name": "Balogun v. Attorney-General Ogun State",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Generally, conspiracy is said to be an agreement between two or more persons to do or carry out an unlawful act. It is a matter of inference deduced from certain criminal acts of the parties accused, done in pursuance of an apparent criminal purpose in common between them and which hardly are ever confined to one place."
+        },
+        {
+            "name": "The State v. Moshood Oladimeji",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "When two or more persons form a common intention to prosecute an unlawful purpose in conjunction with one another, and in the prosecution of such purpose an offence is committed of such a nature, that its commission was a probable consequence of the prosecution of such purpose, each of them is deemed to have committed the offence."
+        },
+        {
+            "name": "Oyediran v. Republic",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It was held that an arraignment consists of charging the accused or reading over the charge to him and taking his plea thereon. Therefore, a valid arraignment presupposes compliance with the enabling constitutional and procedural provisions."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Udosen v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "R v. Nwokocha",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "R. v. Owe",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "R. v. Samuel Abengowe",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Joseph Lori v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Akinkunmi v. The State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Mohammed v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "R v. Bainbridge",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Mbang v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Clark v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Shodiya v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ikemson v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Samuel Erekanure v. The State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Kajubo v. State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Eyorokoromo v. The State",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Omotola & Ors. v. The State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Gbadamosi v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Princewill v. The State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "State v. Olatunji",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ndukwe v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Okeke v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Onwumere v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ononuju v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ehot v. The State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "The State v. Usman",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Michael Peter v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Madu v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Olabode v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ariori v. Elemo",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Oyewole v. Akande & Anor.",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Aliyu v. State",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Kalango v. Governor, Bayelsa State & Ors.",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Alimi v. The State",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

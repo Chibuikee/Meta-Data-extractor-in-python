@@ -1,0 +1,29 @@
+{
+    "case_title": "Yamike Kweku v. Annor Adjaye",
+    "area_of_law": "Civil Procedure, Administrative Law",
+    "subject_matter": [
+        "Arbitration",
+        "Land Dispute",
+        "Court Jurisdiction"
+    ],
+    "summary": "This case involved an appeal from the Supreme Court of Gold Coast Colony concerning a land dispute between Yamike Kweku, Chief of Sinibu, and Annor Adjaye, the Omanhin of Beyin. The original dispute concerned title to Kobina-Sua and Akah lands in Appolonia. The matter was referred to arbitration under Order LII of the Supreme Court Ordinance. The key issue on appeal was whether an arbitration award, once filed in court, could be appealed on the same grounds previously raised against the award. The Privy Council held that once an arbitration award has survived challenges and been filed, it cannot be appealed again merely because it has the force of a judgment.",
+    "outcome": "The appeal was dismissed with costs. The Privy Council held that an arbitration award that has been filed cannot be challenged again on grounds previously raised, even though it has the force of a judgment.",
+    "ratios": [
+        "An award cannot be set aside merely for an illegality appearing on the face of it, where that illegality does not amount to perverseness or to misconduct of the arbitrator",
+        "Rule 14 does not enact that the award is or becomes a judgment. The nature of the award is not changed. It is still an award, but after running the gauntlet it is, if filed, given the force and effect for all purposes of a judgment"
+    ],
+    "precedents": [
+        {
+            "name": "Nusserwanjee Pestonjee v. Meer Mynoodeen (6 Moo. I. A. 134)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The effect of the omission of any specification of the time for the making of the award under a legislative provision somewhat similar to r. 3 of Order LII. has been considered and decided in the case of Nusserwanjee Pestonjee v. Meer Mynoodeen. There the applicable legislative provision was the Bombay Reg. VII. of 1827. By cl. 1 of its third section it was enacted, amongst other things, that the deed of reference 'must contain the time within which the award is to be given,' and it was held that as the deed of submission contained no provision as to when the award was to be made by the arbitrators, it was bad and unenforceable."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Nusserwanjee Pestonjee v. Meer Mynoodeen",
+            "cited_by": "Mr. Narasimham for the appellant"
+        }
+    ]
+}

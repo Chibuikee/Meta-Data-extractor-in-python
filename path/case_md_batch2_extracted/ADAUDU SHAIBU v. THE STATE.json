@@ -1,0 +1,130 @@
+{
+    "case_title": "Adaudu Shaibu v. The State",
+    "area_of_law": "Criminal Law",
+    "subject_matter": [
+        "Culpable Homicide",
+        "Death Sentence",
+        "Self-Defense",
+        "Dying Declaration"
+    ],
+    "summary": "The appellant was accused of causing the death of Ajari Mala Sule by stabbing him with a spear in the chest. At the trial court, he was charged with culpable homicide punishable with death and causing hurt. The prosecution called six witnesses, including the appellant's mother (PW6). In his statement to police (Exhibit 3), the appellant claimed self-defense, stating he acted to protect himself and his mother. However, PW6's testimony contradicted this claim, stating she was not beaten by the deceased. The appellant gave conflicting accounts in his police statement and court testimony. The trial court convicted him and sentenced him to death. The Court of Appeal affirmed the conviction, and the Supreme Court dismissed his final appeal, finding no merit in his arguments about dying declaration and medical evidence identification issues.",
+    "outcome": "The Supreme Court dismissed the appeal and affirmed both the conviction and death sentence imposed by the trial court and upheld by the Court of Appeal.",
+    "ratios": [
+        "Where a man was attacked with lethal weapon, and he died on the spot, cause of death can properly be inferred that the wound inflicted caused the death. Put in another form, where the cause of death is obvious, medical evidence ceases to be of any practical or legal necessity in homicide cases.",
+        "Where the totality of the evidence showed unmistakably that the body on whom a doctor performed a post mortem examination was that of the deceased, a separate witness, though desirable, is not a necessity.",
+        "The law is settled that the plea of self-defence does not avail the accused in the face of evidence of premeditation.",
+        "Contradiction that will be fatal must be substantial. Minor contradictions that do not affect the credibility of witnesses may not be fatal."
+    ],
+    "precedents": [
+        {
+            "name": "Enewoh v. State (1990) 4 NWLR (Pt. 145) 469",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The position, however, is that if there are facts from which it can be inferred that the corpse examined by the doctor was that of the deceased, the evidence of the person, dead or alive, said to have identified the corpse is not indispensable. Indeed, a conviction for murder can be made without the recovery of the dead body if there is positive evidence that the deceased has been killed. In effect, the need for anyone to identify the body of the deceased to a doctor is not a sine qua non in all murder cases. Besides, it is also trite law that medical evidence though desirable in establishing cause of death in a case of murder, is not essential provided that there are facts, which sufficiently show cause of death to the satisfaction of the Court."
+        },
+        {
+            "name": "Ben v. State (2006) 16 NWLR (Pt. 1006) 582",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "This Court held in Ben V. State (2006) 16 NWLR (Pt. 1006) 582 that medical evidence is not essential in establishing this issue where the deceased was attacked with a lethal weapon and died instantly. In that case, Ben V. State (supra), Akintan, JSC, stated as follows – 'Where a man was attacked with lethal weapon, and he died on the spot, cause of death can properly be inferred that the wound inflicted caused the death. Put in another form, where the cause of death is obvious, medical evidence ceases to be of any practical or legal necessity in homicide cases. Such a situation arises where death is instantaneous or nearly so.'"
+        },
+        {
+            "name": "Djukpan v. Orovuyovbe (1967) 1 All NLR 134",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "See also Djukpan V. Orovuyovbe (1967) 1 All NLR 134 and Ajuwon V. Adeoti (1990) 2 NWLR (Pt. 131) 271 SC, wherein Nnaemeka-Agu, JSC, advised counsel to adhere to what Lord Birkenhead, L.C., had said in North Staffordshire Railway Co. v. Edge (1920) A.C. 254"
+        },
+        {
+            "name": "Ajuwon v. Adeoti (1990) 2 NWLR (Pt. 131) 271",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "See also Djukpan V. Orovuyovbe (1967) 1 All NLR 134 and Ajuwon V. Adeoti (1990) 2 NWLR (Pt. 131) 271 SC, wherein Nnaemeka-Agu, JSC, advised counsel to adhere to what Lord Birkenhead, L.C., had said"
+        },
+        {
+            "name": "Uor v. Loko (1988) 2 NWLR (Pt.77) 430",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is settled that before a pronouncement on its correctness can be made by this Court, it must be shown that the views expressed by that Court are wrong. It is only on such consideration that this Court can examine whether its Judgment is right or wrong - see Uor V. Loko (1988) 2 NWLR (Pt.77) 430"
+        },
+        {
+            "name": "Akpabio v. State (1994) 7 NWLR (Pt. 359) 635",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "An appellate Court will not generally allow a fresh point to be taken before it if such a point was not raised and pronounced upon by the Court below unless of course, the question involves substantial points of law and no further evidence needs be adduced to determine the matter and such a course of action is necessary to prevent an obvious miscarriage of justice."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Sule v. The State (2012) 9 NWLR (Pt.771) 90",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Shehu v. The State (2010) 8 NWLR (Pt.1195) 112",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Edoho v. The State (2010) 14 NWLR (Pt.1214) 651",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Enewoh v. The State (1990) 7 SCNJ 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Okoro v. The State (1988) 5 NWLR (Pt.94) 255",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Opayemi v. The State (1985) 2 NWLR (Pt.5) 101",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ukaekweghinye v. The State (2005) 9 NWLR (Pt.930) 227",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ajayi & Anor v. Zaria N.A. (1963) All NLR 168",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Akinfe v. The State (1988) 3 NWLR (Pt.88) 729",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Director, SSS v. Agbakoba (1999) 3 NWLR (Pt. 595) 315",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Obiakor v. State (2002) FWLR (pt. 113) 299",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Akpan v. State (1992) 6 NWLR (Pt.248) 239",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Emwenya v. A.G Bendel (1993) 6 NWLR (Pt.297) 29",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Bassey v. The State (2012) 12 NWLR (Pt.1314) 209",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Adebayo v. Babalola (1995) 7 NWLR (Pt.408) 383",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Fawehinmi v. Akilu (1987) 4 NWLR (PT. 57) 797",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Amuneke v. State (1992) 6 NWLR (Pt. 217) 338",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Udo v. State (2006) 15 NWLR (Pt. 1001) 197",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

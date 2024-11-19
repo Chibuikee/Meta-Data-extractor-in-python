@@ -1,0 +1,138 @@
+{
+    "case_title": "Abayomi Bakare v. The State",
+    "area_of_law": "Criminal Law",
+    "subject_matter": [
+        "Armed Robbery",
+        "Criminal Conspiracy"
+    ],
+    "summary": "The case involves an appeal against the judgment of the Ogun State High Court where the appellant and three others were convicted for conspiracy to commit armed robbery and armed robbery. The alleged incident occurred on March 29, 2009, at Onibudo Phase II, where the accused persons were said to have robbed Cecilia Akinsanya of an Omatek Laptop, Ankara Fabrics, and N6,000. The prosecution's case relied on the victim's testimony (PW1) and confessional statements. The appellant made two statements: one denying involvement (Exhibit D) and another confessing to the crime (Exhibit L). The Court of Appeal found that the prosecution failed to properly establish the appellant's identity as one of the robbers, noting that the victim did not identify him during the incident, no identification parade was conducted, and there was insufficient corroboration of the retracted confession. The Court of Appeal consequently set aside the conviction and discharged the appellant.",
+    "outcome": "The appeal was allowed. The Court of Appeal set aside the conviction and death sentence imposed by the High Court, and the appellant was acquitted and discharged.",
+    "ratios": [
+        "A confessional statement of an accused person is not binding on a co-accused, except the statement was adopted by the co-accused",
+        "Where an accused person makes a confessional statement to the police as to his participation or culpability in the crime charged, he is not confessing for his co-accused",
+        "For the prosecution to secure a conviction for armed robbery, they must prove beyond reasonable doubt that there was a robbery, that it was an armed robbery, and that the accused was one of those who took part in the robbery",
+        "The fact that an accused person has retracted his confessional statement does not mean that the court cannot act on it to convict him, but the court should evaluate if there is some other evidence outside the confession to show that the confession is true"
+    ],
+    "precedents": [
+        {
+            "name": "Alakija v. Abdulai (1998) 6 NWLR (pt.552) p.1 at 24",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Those facts are therefore deemed established and therefore remains binding, valid and conclusive. See Alakija v. Abdulai (1998) 6 NWLR (pt.552) p.1 at 24 and Awote v. Owodunni (1987) NWLR (pt.57) p.366."
+        },
+        {
+            "name": "Archibong v. State (2006) 5 S.C. p.1",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "This is more desirable where the offence charged is armed robbery, as in this case, where the penalty is the highest known to our law; which is death. See Archibong v. State (2006) 5 S.C. p.1 and Tanko v. State (2006) 18 NWLR (pt.114) p.591."
+        },
+        {
+            "name": "Okosi v. The State (1989) 1 NWLR (pt.100) p.645",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "See Okosi v. The State (1989) 1 NWLR (pt.100) p.645 and Ojukwu v. State (2002) 4 NWLR (pt.756) p.80. Generally, an identification will be required or necessary where the victim did not know the accused prior to the incident and was confronted by the offender for a very short time"
+        },
+        {
+            "name": "Agbanelo v. UBN Ltd (2000) 7 NWLR (pt.666) p.534",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "That is why Karibi-Whyte, JSC in the case of Agbanelo v. UBN Ltd (2000) 7 NWLR (pt.666) p.534 at 537 said: 'It is elementary and essential ingredient of the judicial function that reasons are to be given for decision. It is more the case where appeals lie from the decision.'"
+        },
+        {
+            "name": "Alo v. State (2015) S.C.N.J. p.405",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "There is nothing to show that those statements were made in the presence of the Appellant and that he adopted same, either in words or conduct. See Alo v. State (2015) S.C.N.J. p.405 at 449 and State v. Onyeukwu (2004) 22 L.R.C.W. p.5245 at 5267."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Afolalu v. State (2010) 16 NWLR (pt.1220) p.584",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Olayinka v. The State (2007) 13 NWLR (pt.1040) p.561",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ikemson v. The State (1989) 3 NWLR (pt.110) p.455",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Chukwu v. State (1996) 7 NWLR (pt.463) p.686",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Alabi v. State (1993) 7 NWLR (pt.307) p.511",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ndukwe v. The State (2009) 7 NWLR (pt.1139) p.43",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nwaturuocha v. The State (2011) LPELR - 8119",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ele v. State (2006) LPELR 11649 (CA)",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Solola v. State (2005) 11 NWLR (pt.937) p.460",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "State v. Kura (1975) 2 S.C. (Reprint) p.76",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Rabiu v. The State (2010) 10 NWLR (pt.1201) p.127",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Shande v. The State (2005) 1 NWLR (pt.907) p.208",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "R. v. Sykes (1913) 1 C.A.R. p.233",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Amala v. The State (2004) 12 NWLR (pt.888) p.520",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Gabriel v. The State (2010) 6 NWLR (pt.1190) p.280",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Yakubu v. State (2014) LPELR - 24180 (CA)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Oforlette v. State (2000) FWLR (pt.12) p.2081",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Adie v. The State (1980) LPELR - 176 (SC)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Musa v. State (2012) 3 NWLR (pt.1286) p.59",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Abdu v. The State (2014) LPELR - 2256 (CA)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Hassan v. The State (2001) LPELR - 1358 (SC)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Kareem v. The F.R.N. (2002) LPELR - 1664 (SC)",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

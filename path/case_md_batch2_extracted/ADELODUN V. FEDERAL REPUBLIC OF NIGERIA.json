@@ -1,0 +1,128 @@
+{
+    "case_title": "Adelodun v. Federal Republic of Nigeria",
+    "area_of_law": [
+        "Criminal Law",
+        "Evidence Law"
+    ],
+    "subject_matter": [
+        "Conspiracy to Obtain Money by False Pretense",
+        "Obtaining Money by False Pretense",
+        "Forgery",
+        "Admissibility of Evidence",
+        "Evaluation of Evidence"
+    ],
+    "summary": "This appeal challenges the judgment of M. AbdulGafar J in case No. KWS/40C/2012, where the appellant was convicted of conspiracy to obtain money under false pretense, obtaining money under false pretense, and conspiracy to forge a document. The case involved the fraudulent transfer of N59,006,250 from the University of Ilorin's account to Bamestic Multi-ventures through forged documents. The appellant, along with co-conspirators, used a falsified letter (Exhibit 11) to deceive UBA Plc into transferring the funds. The appellant opened a bank account under false pretenses and withdrew the funds within days. The trial court found the appellant guilty based on evidence showing conspiracy and fraudulent intent. The appellant challenged the conviction on grounds including improper admission of evidence and material contradictions, but the Court of Appeal dismissed all grounds and upheld the conviction.",
+    "outcome": "The Court of Appeal dismissed the appeal and affirmed the trial court's conviction of the appellant for conspiracy to obtain money by false pretense, obtaining money by false pretense, and conspiracy to forge documents. The sentences imposed and order for compensation were also upheld.",
+    "ratios": [
+        "Where a document was shown to be used as an intermediate step in the scheme of fraud in which an accused person was involved, then if it was shown that such document was false and was presented or uttered by an accused person in order to gain advantage, an irresistible inference exists that either the accused forged the document with his own hand or procured someone to commit the forgery",
+        "The act of a co-conspirator done in furtherance of a criminal scheme is the act of the other co-conspirators",
+        "A charge of conspiracy is proved by either leading direct evidence in proof of the common design or it can be proved by inference derived from the commission of the substantive offence",
+        "Only material contradictions and not just minor discrepancies could tilt the scale of conviction"
+    ],
+    "precedents": [
+        {
+            "name": "George Abet Scott v. The King (1950) 13 WACA 25",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In answering this vital question, the lower court found the West African Court of Appeal decision in George Abet Scott v. The King (1950) 13 WACA 25, apposite to the case at hand, when it observed that: 'Where a document was shown to be used as an intermediate step in the scheme of fraud in which an accused person was involved, then if it was shown that such document was false and was presented or uttered by an accused person in order to gain advantage, an irresistible inference exists that either the accused forged the document with his own hand or procured someone to commit the forgery'"
+        },
+        {
+            "name": "Njovens v. The State (1973) 5 SC 17",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It having been established that exhibit 11 was forged, the appellant is caught by the legal position expressed in Njovens v. The State (supra), to the effect that the act of a co-conspirator done in furtherance of a criminal scheme is the act of the other co-conspirators, in other words, it having been established that 1st accused person conspired with the appellant to forge, and did forge exhibit 11, the simple deduction is that appellant is similarly taken as having forged the said document."
+        },
+        {
+            "name": "Alake v. The State (1991) 7 NWLR (Pt. 205) 515",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "In the words of Tobi JSC of blessed memory, in Alake v. The State (1991) 7 NWLR (Pt. 205) 515 at 591: 'It is generally believed that once there is the slightest doubt in the mind of the court, then the accused must as a matter of law, be discharged and acquitted. I think that is rather a wide statement of the legal position...I think the position should be this, once the ingredients of the particular offence the accused person is charged with are proved, that constitutes proof beyond reasonable doubt, otherwise not'"
+        },
+        {
+            "name": "Daboh v. The State (1977) 5 SC 197",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The trial court on the issue considered the entire circumstance of the transaction; how the 1st accused advised appellant to open an account with the UBA, how appellant withdrew the sums of N59,006,250.00 (fifty nine million, six thousand, two hundred and fifty naira) from the account within four days upon the instructions of the 1st accused using the 3rd accused, and relied upon the decision in the case of Daboh v. The State (supra), to infer and arrive at the conclusion that the 1st and 2nd accused persons agreed, schemed and contrived to induce the UBA"
+        },
+        {
+            "name": "Lawson v. The State (1975) 4 SC 115",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The general principle of law established, is that a charge of conspiracy is proved by either leading direct evidence in proof of the common design or it can be proved by inference derived from the commission of the substantive offence. See The State v. Salawu (2011) LPELR­ 8252 SC, (2012) All FWLR (Pt. 614) 1; Lawson v. The State (1975) 4 SC 115 at 123"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Williams v. The State (1992) NWLR (Pt. 261) 515",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Bakare v. The State (1987) 2 NWLR (Pt. 52) 579",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Afolalu v. State (2010) All FWLR (Pt. 538) 812",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Gbadamosi v. State (1992) 6 NWLR (Pt. 196) 182",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Abacha v. State (2002) FWLR (Pt. 118) 1224",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "R v. Ligali and Anor (1959) 4 FSC 7",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Shodiya v. The State (1992) 3 NWLR (Pt. 230) 447",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Imam v. Sheriff (2005) 4 NWLR (Pt. 914) 80",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Amu v. The State (1980) 2 NCR 297",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Smart v. State (1974) 9 NSCC 575",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ukpe v. The State (2001) WRN 84",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Agwuna v. Attorney-General of the Federation (1995) 5 NWLR (Pt. 396) 418",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Solomon Ogunshowobo & 2 Ors. v. I.G.P. (1958) WNLR 23",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Nigeria Air Force v. Kamaldeen (2007) All FWLR (Pt. 361) 1676",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Osondu v. F.R.N. (2000) 12 NWLR (Pt. 682) 483",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Amadi v. F.R.N. (2008) 18 NWLR (Pt. 1119) 259",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Onwudiwe v. F.R.N. (2006) All FWLR (Pt. 319) 774",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Oshin v. I.G.P. (1961) 1 SCNLR 49",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

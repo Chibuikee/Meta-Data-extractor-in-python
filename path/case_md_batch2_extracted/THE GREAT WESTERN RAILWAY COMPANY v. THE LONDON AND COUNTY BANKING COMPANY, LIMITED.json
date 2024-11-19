@@ -1,0 +1,70 @@
+{
+    "case_title": "The great western railway company v. the london and county banking company, limited",
+    "area_of_law": "Banking and commercial law",
+    "subject_matter": [
+        "Bills of exchange",
+        "Negotiable instruments",
+        "Banking transactions"
+    ],
+    "summary": "This case centered on the interpretation of sections 81 and 82 of the Bills of Exchange Act, 1882, particularly regarding crossed cheques marked 'not negotiable'. A fraudster named Huggins obtained a cheque from Great Western Railway Company through false pretenses and cashed it at London and County Banking Company. The key issue was whether the bank could claim protection under section 82 as having received payment for a customer, despite the cheque being marked 'not negotiable'. The House of Lords found that Huggins was not a customer of the bank within the meaning of section 82, and that the bank could not acquire better title to the cheque or its proceeds than Huggins himself had.",
+    "outcome": "The House of Lords reversed the judgments of Bigham J. and the Court of Appeal, entering judgment for the appellants (Great Western Railway Company) with costs.",
+    "ratios": [
+        "People who take a cheque which is upon its face 'not negotiable' and treat it as a negotiable security must recognise the fact that if they do so they take the risk of the person for whom they negotiate it having no title to it.",
+        "The distinction between the title to the cheque itself and the title to the money obtained or represented by it is absolutely illusory.",
+        "A person must be a proper customer of a bank with some sort of account relationship to gain protection under section 82 of the Bills of Exchange Act.",
+        "Every one who takes a cheque marked 'not negotiable' takes it at his own risk, and his title to the money got by its means is as defective as his title to the cheque itself."
+    ],
+    "precedents": [
+        {
+            "name": "Horwood v. Smith",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "My Lords, the first point raised by the learned counsel for the respondents was that Huggins in the circumstances which are stated in the case had a property in the cheque which was indeed voidable by the appellants who had been defrauded, but that the money having been received by the respondents in good faith and without notice of the fraud before the appellants had disaffirmed the transaction, it could not be recovered back from the respondents. Horwood v. Smith and the Sale of Goods Act, 1893, s. 24, were cited in support of this proposition."
+        },
+        {
+            "name": "Higgons v. Burton",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "I think that this is shewn by the cases of Higgons v. Burton and Cundy v. Lindsay. In the former case one Dix, pretending to be agent for one Fitzgibbon, obtained goods from the plaintiff and pledged them to the defendant. It was held that the plaintiff could recover the goods from the defendant before any notice of the fraud or disaffirmance of the transaction."
+        },
+        {
+            "name": "Cundy v. Lindsay",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "And in Cundy v. Lindsay the same principle was affirmed in this House."
+        },
+        {
+            "name": "Fisher v. Roberts",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Every one who takes a cheque marked 'not negotiable' takes it at his own risk, and his title to the money got by its means is as defective as his title to the cheque itself. Fisher v. Roberts is an authority to this effect, and s. 82 seems to me framed on the assumption that this view is correct."
+        },
+        {
+            "name": "Matthiessen v. London and County Bank",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Sect. 82 of the Act is a mere reproduction of the previous Act of 1876, and the construction put upon that Act in the case of Matthiessen v. London and County Bank was, in my opinion, correct."
+        },
+        {
+            "name": "Clarke v. London and County Banking Co.",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "In Clarke v. London and County Banking Co. the cheque was paid in for collection, and this was the ratio decidendi."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Horwood v. Smith",
+            "cited_by": "Counsel for respondents"
+        },
+        {
+            "name": "Sale of Goods Act, 1893, s. 24",
+            "cited_by": "Counsel for respondents"
+        }
+    ],
+    "legislation_cited": [
+        "Bills of Exchange Act, 1882, sections 81 and 82",
+        "Sale of Goods Act, 1893, section 24",
+        "24 & 25 Vict. c. 96, section 88"
+    ]
+}

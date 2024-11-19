@@ -1,0 +1,69 @@
+{
+    "case_title": "Baily v. British equitable assurance company limited",
+    "area_of_law": [
+        "Contract law",
+        "Company law",
+        "Insurance law"
+    ],
+    "subject_matter": [
+        "Policy holder rights",
+        "Company constitution alteration",
+        "Contractual obligations",
+        "Insurance profits distribution"
+    ],
+    "summary": "The case concerned whether British Equitable Assurance Company could alter its constitution to affect the rights of participating policy holders regarding profit distribution. The company, formed under an 1854 deed of settlement, issued policies in its Mutual Life Assurance Department where policy holders were entitled to participate in profits. The plaintiff, Baily, obtained a policy in 1886 based on prospectus statements promising that entire profits would be divided among policy holders without reserve fund deductions. In 1903, the company proposed altering its constitution to register with limited liability and modify profit distribution. The court had to determine whether the company could alter these rights given the original prospectus promises and policy terms.",
+    "outcome": "The court affirmed Kekewich J.'s decision that the company could not alter its articles to justify a breach of contract with policy holders regarding profit distribution rights.",
+    "ratios": [
+        "A company cannot by altering its articles justify a breach of contract"
+    ],
+    "precedents": [
+        {
+            "name": "Allen v. Gold Reefs of West Africa, [1900] 1 Ch. 656",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "The company was compelled to register, and it was registered under s. 209 of the Companies Act, 1862, and, consequently, under s. 50 of that Act it had power, independently of the power given by clause 56 of the deed, by special resolution to alter the regulations contained in the deed of settlement: Ramsay's Case. A company cannot deprive itself of this statutory right: Allen v. Gold Reefs of West Africa; Pepe v. City and Suburban Permanent Building Society."
+        },
+        {
+            "name": "Erskine v. Adeane (1873) L. R. 8 Ch. 756",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "[STIRLING L.J. referred to Erskine v. Adeane.] In that case the collateral agreement did not refer to anything contained in the lease and did not contradict its terms, and it was proved that the tenant had agreed to take the lease in reliance on the collateral agreement."
+        },
+        {
+            "name": "Punt v. Symons & Co., [1903] 2 Ch. 506",
+            "tag": "Set-aside",
+            "document_type": "Case",
+            "context": "It is true that in those cases the question arose as between the company and a shareholder, but the principle has been extended to outsiders: Punt v. Symons & Co."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Ramsay's Case (1876) 3 Ch. D. 388",
+            "cited_by": "Counsel for the company"
+        },
+        {
+            "name": "Allen v. Gold Reefs of West Africa [1900] 1 Ch. 656",
+            "cited_by": "Counsel for the company"
+        },
+        {
+            "name": "Pepe v. City and Suburban Permanent Building Society [1893] 2 Ch. 311",
+            "cited_by": "Counsel for the company"
+        },
+        {
+            "name": "Punt v. Symons & Co. [1903] 2 Ch. 506",
+            "cited_by": "Counsel for the company"
+        },
+        {
+            "name": "Erskine v. Adeane (1873) L. R. 8 Ch. 756",
+            "cited_by": "Counsel for the company"
+        },
+        {
+            "name": "Re English and Irish Church and University Assurance Society (1863) 1 H. & M. 85",
+            "cited_by": "Counsel for the company"
+        },
+        {
+            "name": "Kearns v. Leaf",
+            "cited_by": "Counsel for the plaintiff"
+        }
+    ]
+}

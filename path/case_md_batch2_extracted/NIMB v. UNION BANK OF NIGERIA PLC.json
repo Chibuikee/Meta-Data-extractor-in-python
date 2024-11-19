@@ -1,0 +1,109 @@
+{
+    "case_title": "NIMB v. Union Bank of Nigeria PLC",
+    "area_of_law": [
+        "Banking Law",
+        "Civil Procedure"
+    ],
+    "subject_matter": [
+        "Jurisdiction",
+        "Conflicting Court Orders",
+        "Abuse of Court Process",
+        "Security Interests",
+        "Recovery of Debt"
+    ],
+    "summary": "The case involves a jurisdictional conflict between the Lagos High Court and Federal High Court regarding frozen fish stock used as security for bank loans. NIMB obtained an order from Lagos High Court to take possession and sell fish stored in West African Marine Products Ltd's cold room to recover a debt of N101,598,144.08. Subsequently, Union Bank filed an action in Federal High Court regarding the same fish, claiming rights under a debenture agreement. The Federal High Court made orders that effectively conflicted with the Lagos High Court's previous order. The case primarily dealt with whether the Federal High Court had jurisdiction to make orders that potentially nullified or conflicted with existing Lagos High Court orders regarding the same subject matter, and whether this constituted an abuse of court process.",
+    "outcome": "The Supreme Court allowed the appeal, holding that the Federal High Court should not have made orders that effectively neutralized the Lagos High Court's existing orders. The Court set aside the Court of Appeal's judgment and awarded costs of N10,000 to the Respondent in the Supreme Court and N5,000 in the Court of Appeal.",
+    "ratios": [
+        "Where a Federal Court is prayed to make an order that is diametrically or in conflict with a subsisting order of a State High Court in the context of the same subject matter and where equally identical or seeming identical prayers are sought, it should refuse to entertain it",
+        "Courts of co-ordinate jurisdiction instead of endeavouring to shore up the jurisdiction of each other should not engage in a form of unsavoury competition",
+        "The institution of the two Courts is not meant that they should be perpetually at war but to stand shoulder to shoulder in order to realize the intention and wisdom of the Constitution"
+    ],
+    "precedents": [
+        {
+            "name": "7up Bottling Co. & Ors. v. Abiola & Sons Bottling Co. Ltd. (1996) 7 NWLR (Pt. 463) 714",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "I hold myself bound by the dictum of Opene J.C.A and therefore come to the irresistible conclusion that the action/of the 1st Respondent (Union Bank of Nigeria Plc.) as constituted can be entertained by no Court other than the Federal High Court."
+        },
+        {
+            "name": "Odunje v. Nigeria Airways Ltd. (1987) 2 NWLR (Pt. 55) 126",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "See Odunje v. Nigeria Airways Ltd. (1987) 2 NWLR (Pt. 55) 126. The question then to ask is whether the order of the Court below (Federal High Court) given on 14/9/98 would amount to an exercise of Appellate jurisdiction over High Court of Lagos State vis-a-vis its order of 31/7/98?"
+        },
+        {
+            "name": "Peters v. Ashamu (1995) 4 NWLR (Pt. 388) P.206",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In regard to the first one, I think it may be said that until it is properly resolved whether the order of the Oyo State High Court has force or not over the properties of Late Chief Ashamu in Lagos, so long as the order subsists, there is reason why the Lagos State High Court cannot be allowed to go on with the case in disregard of such order. As respects the other principle, the same line of argument will hold that the subsistence of the Oyo State High Court order will make the present action in the Lagos High Court look vexatious or an abuse of the process of the Court."
+        },
+        {
+            "name": "Akilu v. Fawehinmi (No. 2) (1989) 2 NWLR (Pt. 102) 122",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "One is that it is shown that the action cannot possibly succeed, or that for some reasons it ought not to be allowed to go on; see Akilu v. Fawehinmi (No. 2) (1989) 2 NWLR (Pt. 102) 122 at 165."
+        },
+        {
+            "name": "Okorodudu v. Okoromadu (1977) 3 SC 21",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The other is that the action is shown to be frivolous, vexations or an abuse of the process of the Court: see Okorodudu v. Okoromadu (1977) 3 SC 21 at 32-33"
+        },
+        {
+            "name": "Canadian Metal Co. Ltd. v. Canadian Broadcasting Company (No. 2) 1975 4s DLR",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "If the remedies that the Courts grant to correct wrongs can be ignored, then there will be nothing left for each person but to take the law into his own hands, loss of respect for the Courts quickly result in the destruction of our society"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Aladegbemi v. Fasanmade (1985) 3 NWLR (Pt.81) 129",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "I.B.W.A v. Kennedy Transport Nig. Ltd. (1993) 7 NWLR (Pt 304) 238",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nneji v. Aneke (1996) 2 NWLR, (Pt. 430) 269",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Union Bank of Nigeria v. Onagoruwa (1996) 3 NWLR (Pt. 439) 700",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Kigo Nig. Ltd. v. Holman Bros (Nig.) Ltd. (1980) 5-7 SC",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Hart v. T.S.K.J. Nig. Ltd. (1998) 12 NWLR (Pt. 578)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Andler v. Duke (1932) 3 DLR 210",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "The Zamora (1916) A.C 77",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "UBA v. Coker (1996) 4 NCLC (Pt. 4)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Baltimore & Co. v. Halchak (DCP 9) Supp. 244",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "James v. Grand Trunk Western Ry Co. 358 US 915",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Collins v. Collins 219 S.C 1",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

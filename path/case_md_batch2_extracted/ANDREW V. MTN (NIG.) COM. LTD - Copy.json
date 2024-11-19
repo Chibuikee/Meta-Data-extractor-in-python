@@ -1,0 +1,106 @@
+{
+    "case_title": "Andrew v. Mtn (nig.) com. ltd",
+    "area_of_law": [
+        "Telecommunications law",
+        "Consumer protection law",
+        "Law of damages"
+    ],
+    "subject_matter": [
+        "Disclosure of customer information",
+        "General damages",
+        "Police investigation"
+    ],
+    "summary": "The case involves a dispute between a subscriber and MTN Nigeria over the disclosure of information to aid police investigation. The appellant was a former MTN subscriber whose old line was allegedly being used by an impersonator to defraud friends and family. The appellant reported the matter to the police, who requested information from MTN to identify the person using the line. MTN's failure to provide this information led to the legal action. The trial court granted declaratory orders compelling MTN to release the information but denied the appellant's claim for general damages, stating that the appellant failed to prove entitlement to such damages. On appeal, the Court of Appeal found that general damages need not be specifically proved and awarded N5 million in general damages to the appellant.",
+    "outcome": "The Court of Appeal allowed the appeal, set aside the trial court's denial of general damages, and awarded N5,000,000 in general damages to the appellant, plus N100,000 in costs.",
+    "ratios": [
+        "General damages need not be specifically pleaded, not to talk of proof. It arises from the inference of law and need not be proved by evidence. It suffices if it is generally averred.",
+        "The award of general damages is presumed by law to be the direct and probable consequence or result of the act complained of.",
+        "General damages as claimed by the appellant for the loss and injury she incurred by the respondent not releasing the information required to enable the police investigate his complaint through his letter of request, exhibit 4, are claims made at large, it is quantified according to the opinion of the reasonable person."
+    ],
+    "precedents": [
+        {
+            "name": "Adekunle v. Rockview Hotel Ltd (2004) FWLR (Pt. 188) 1037",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "See Adekunle v. Rockview Hotel Ltd (2004) FWLR (Pt. 188) 1037, (2004) 1 NWLR (Pt. 853) at 161; Oluigbo v. Umeh (2004) All FWLR (Pt. 196) 823, (2004) 6 NWLR (Pt. 870) 621 at 647 paragraphs D - E; Gari v. Seirafina Nigeria Limited (2007) CA LPELR, 8397 CA, (2008) All FWLR (Pt. 399) 434; Incar v. Benson (1975) 3 SC 117; Odulaja v. Haddad (1973) 11 SC 375"
+        },
+        {
+            "name": "Osuji & Anor. v. Isiocha (1989) 3 NWLR (Pt. 111) 623",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "and in Osuji & Anor. v. Isiocha (1989) 3 NWLR (Pt. 111) 623 at 636; SCNJ (Pt. 11) 227 at page 236, his lordship, Uwais JSC (as he then was) made the following observation: '...the quantum of general damages need not be pleaded or proved, for it is the loss which flows naturally from the defendant's act and it is generally presumed by law. The manner therefore in which general damages is quantified, is by relying on what would be the opinion and judgment of a reasonable man.'"
+        },
+        {
+            "name": "U.B.N. Plc v. Ikwen (2000) 3 NWLR (Pt. 648) 223",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "See also U.B.N. Plc v. Ikwen (2000) 3 NWLR (Pt. 648) 223 at 236 - 237."
+        },
+        {
+            "name": "Odulaja v. Haddad",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is considered adequate loss or inconvenience which flows naturally from the defendant's act. It is presumed by law. It is not dependent upon calculation and figures from specific items that need to be proved. See Odulaja v. Haddad, Law v. Stirling Astaldi Ltd (1977) 11 - 12 SC 53; and Osuji v. Isiocha (1989) 3 NWLR (Pt. 111) 623."
+        },
+        {
+            "name": "Chinda v. Amadi (2002) 7 NWLR (Pt. 767) 505",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In Chinda v. Amadi (2002) 7 NWLR (Pt. 767) 505 at 524, (2003) FWLR (Pt. 145) 696, his lordship, Nsofor JCA summed it up thus: 'Now, general damages are awarded for general damage and special damages are awarded for special damage.'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Federal Mortgage Finance Ltd v. Ekpo (2005) All FWLR (Pt. 248) 1667",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ozoro v. Eneh (2005) All FWLR (Pt. 204) 929",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Lufthansa German Airlines v. Ballanyne (2013) 1 NWLR (Pt. 1336) 527",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "A.M.C. (Nig.) Ltd v. Volkswagen of (Nig.) Ltd (2010) 7 NWLR (Pt. 1192) 97",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Gamboruma v. Borno (1997) 3 NWLR (Pt. 495) 530",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "Ijebu-Ode L. G. v. Adedeji Balogun & Co. Ltd (1991) 1 NWLR (Pt. 166) 135",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "Momodu v. University Of Benin (1997) 7 NWLR (Pt. 512) 325",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "Orient Bank (Nig) Plc v. Bilante International Ltd (1997) 8 NWLR (Pt. 515) 37",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "Adodo v. Ismaila (1998) 11 NWLR (Pt. 573) 214",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "UBN Ltd v. Odusote Book Stores Ltd (1995) 9 NWLR (Pt. 421) 558",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "SPDC (Nig.) Ltd v. Tiebo VII (1996) 4 NWLR (Pt. 445) 657",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "Allied Bank v. Akubueze (1997) 6 NWLR (Pt. 509) 374",
+            "cited_by": "Referenced in Judgment"
+        },
+        {
+            "name": "Onwu v. Nka (1996) 7 NWLR (Pt. 458) 1",
+            "cited_by": "Referenced in Judgment"
+        }
+    ]
+}

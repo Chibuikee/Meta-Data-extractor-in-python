@@ -1,0 +1,94 @@
+{
+    "case_title": "Abdullahi v. Federal Republic of Nigeria",
+    "area_of_law": [
+        "Criminal Law",
+        "Constitutional Law",
+        "Criminal Procedure"
+    ],
+    "subject_matter": [
+        "Arraignment Procedure",
+        "Due Process",
+        "Terrorism",
+        "Criminal Trial Requirements"
+    ],
+    "summary": "This case concerns an appeal to the Supreme Court challenging the validity of the appellant's arraignment, conviction, and sentence by the Federal High Court Jos for terrorism-related offenses. The appellant, arrested with dangerous weapons while participating in acts of destruction, was convicted alongside one Isiaku Salisu on charges of conspiracy and terrorism. The main contention was whether there was proper arraignment according to section 215 of the Criminal Procedure Act and section 36(6) of the Constitution. The appellant argued that the charges weren't properly read and explained in a language he understood, and his plea wasn't properly recorded. The Supreme Court examined the trial record and found that the arraignment was substantially regular and valid, as the appellant was present in court, represented by counsel, the charges were read and explained, and he entered a plea of not guilty. The Court emphasized that while specific recording of certain procedural elements is desirable, their absence doesn't automatically invalidate an otherwise substantially regular arraignment.",
+    "outcome": "The Supreme Court dismissed the appeal, affirming the lower court's decision. The Court held that the appellant's arraignment was valid and in compliance with both statutory and constitutional requirements.",
+    "ratios": [
+        "The most fundamental aspect of arraignment is the constitutional requirement of section 36(6) of the Constitution that person(s) charged with criminal offence is entitled to promptly be informed in the language he understands, the details and nature of the offence he is accused of committing.",
+        "While it is good and desirable that remarks about the court's satisfaction with the explanation of charges be specifically contained in the record of proceedings, failure to record that does not amount to a defect in the arraignment that would render such arraignment null and void.",
+        "When an accused person is brought before a court, that court must be satisfied that the charge was duly read and explained to him in compliance with the provisions of section 215 of the Criminal Procedure Act and the constitutional provisions.",
+        "Courts in handling criminal matters should have at the bottom of their heart, the aim and desire to always do substantial justice and not to be carried away by sheer technicalities which will ultimately defeat the course of substantial justice."
+    ],
+    "precedents": [
+        {
+            "name": "Kajubo v. The State (1980) 1 NWLR (Pt. 73) 721",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "See Kajubo v. The State (1980)1 NWLR (Pt. 73) 721; Rufai v. State (2001) FWLR (Pt. 65) 435, (2001) 7 SCNJ 127 at 128. I must stress here that the requirements of the law as aforelisted must be complied with strictly in all criminal trials, as such compliance, will only show or provide a guarantee of the fair trial of an accused person and would safeguard his interest at such trial."
+        },
+        {
+            "name": "Ogoni v. The State (1999) 5 NWLR (Pt. 604) 548",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Failure to comply with the said requirements therefore, may render the trial defective; null and void. See Kajubo v. State; Ogoni v. The State (1999) 5 NWLR (Pt. 604)548; Tobby v. The State (2003) 4 SCNJ 362/363; Kanuzo v. The State (1993) 5NWLR (Pt. 294)385"
+        },
+        {
+            "name": "Kanuzo v. The State (1993) 5 NWLR (Pt. 294) 385",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Failure to comply with the said requirements therefore, may render the trial defective; null and void. See Kajubo v. State; Ogoni v. The State (1999) 5 NWLR (Pt. 604)548; Tobby v. The State (2003) 4 SCNJ 362/363; Kanuzo v. The State (1993) 5NWLR (Pt. 294)385"
+        },
+        {
+            "name": "Cyril Udeh v. The State (1999) 7 NWLR (Pt. 609)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In the case of Cyril Udeh v. The State (1999) 7 NWLR (Pt. 609), this court had the opportunity to consider a similar question in which it stated that it would be absurd to suggest that a charge must be read separately to each of several accused persons who were jointly charged together."
+        },
+        {
+            "name": "Ogunye v. The State (1999) 4 SCNJ 33",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The arraignment of the 4th and 5th appellants was both a judicial and official act. It was carried out in manner which was substantially regular... In as much as I fully subscribe to the view that it is good practice and indeed desirable, that a trial court specifically records that a charge was read over and explained to the accused person to its satisfaction before he pleaded on thereto, my understandings of the authorities is not that unless the court so expressly recorded ... such an arraignment automatically becomes invalid, and null and void..."
+        },
+        {
+            "name": "Adeniyi v. The State (2001) 5 SCNJ 380",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "There is always the presumption that, once it is shown that the charge was read and explained to the accused as in this instant case, it is to be presumed that everything was regularly done and that the trial judge was satisfied. See Adeniyi v. The State (2001) 5 SCNJ 380."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Okolie v. State (2012) All FWLR (Pt. 607) 770",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Yerima v. State (2010) 14 NWLR (Pt. 1213) 25",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Yusuf v. State (2011) 18 NWLR (Pt. 1279) 853",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Kayode v. State (2008) All FWLR (Pt. 402) 1014",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Lufadeju v. Johnson (2007) All FWLR (Pt. 371) 1532",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Lockman v. State (1972) 5 SC 22",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Edun v. I.G.P (1966) 1 All NLR 17",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ogunye v. State (1999) 5 NWLR (Pt. 604) 548",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "case_title": "Osadiaye v. The state",
+    "area_of_law": [
+        "Criminal law"
+    ],
+    "subject_matter": [
+        "Murder",
+        "Criminal liability",
+        "Causation"
+    ],
+    "summary": "The appellant was convicted of murdering Baby Eweka by allegedly administering 'madras' tablets that caused her death through respiratory depression. On the evening of November 26, 1973, the deceased and her cousin Magdaline Ohonba visited a house where they met several boys. The appellant gave the deceased three tablets and Magdaline one tablet. Subsequently, the girls engaged in sexual activities with the boys. The next morning, the deceased was found seriously ill and later died in the hospital. The trial judge convicted the appellant of murder, finding that he administered the drug to facilitate rape and that it caused the deceased's death. However, the Supreme Court overturned the conviction, finding no evidence linking the 'madras' tablets to the respiratory depression that caused death, and no evidence of rape.",
+    "outcome": "Appeal allowed. The Supreme Court set aside the conviction and sentence, ordering that the appellant be acquitted and discharged.",
+    "ratios": [
+        "To convict of murder, it must be proved beyond any reasonable doubt that the death of the deceased was caused by the tablets which the appellant gave her.",
+        "In the absence of clear and direct evidence to connect the cause of death (respiratory depression) with the appellant (the MS tablets administered), it was not safe to allow the conviction to stand."
+    ],
+    "precedents": [
+        {
+            "name": "R. v. Camplin",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Therefore do I form the view that the act of the accused comes under section 254(5) of the Criminal Code in that I find as a fact that he 'administered an overpowering thing' to the deceased for the purpose stated in section 254(4) of the Criminal Code namely 'for the purpose of facilitating the commission of an offence which is such that the offender may be arrested without warrant' vis rape as defined in section 298 of the Criminal Code and illustrated by the case of R. v. Camplin above mentioned."
+        }
+    ],
+    "counsel_precedents": []
+}

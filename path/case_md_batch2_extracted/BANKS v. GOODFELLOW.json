@@ -1,0 +1,93 @@
+{
+    "case_title": "Banks v. Goodfellow",
+    "area_of_law": "Testamentary Law",
+    "subject_matter": [
+        "Testamentary Capacity",
+        "Mental Capacity",
+        "Validity of Wills",
+        "Insane Delusions"
+    ],
+    "summary": "The case centered on determining the validity of a will made by John Banks, who suffered from known mental delusions. Banks made a will in favor of his niece Margaret Goodfellow, who later died. The key question was whether Banks had testamentary capacity when he executed the will despite suffering from delusions about being pursued by a deceased man named Featherstone Alexander and being molested by devils or evil spirits. The court had to determine whether partial unsoundness of mind, not affecting the general faculties and not operating on the testamentary disposition, would invalidate testamentary capacity. The case established that the mere presence of delusions does not automatically invalidate a will if the delusions did not influence the testamentary disposition and the testator maintained sufficient mental capacity to understand the nature of making a will.",
+    "outcome": "The court upheld the validity of the will, ruling that partial mental unsoundness or delusions that do not affect the testamentary disposition do not invalidate testamentary capacity if the testator maintains sufficient understanding of the act of making a will.",
+    "ratios": [
+        "To constitute testamentary capacity, a testator must understand the nature of the act and its effects, understand the extent of the property being disposed of, and comprehend and appreciate the claims to which they ought to give effect.",
+        "The mere presence of delusions does not invalidate a will unless such delusions influence the testamentary disposition or prevent the exercise of the natural faculties.",
+        "Partial unsoundness of mind, if it leaves the affections, moral sense, and general power of understanding unaffected, and is wholly unconnected with the testamentary disposition, should not take away testamentary capacity."
+    ],
+    "precedents": [
+        {
+            "name": "Combe's Case",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In Combe's Case it is said to have been agreed by the judges, 'that sane memory for the making of a will is not always where the party can in some things answer with sense, but he ought to have judgment to discern and to be of perfect memory, otherwise the will is void.'"
+        },
+        {
+            "name": "Marquis of Winchester's Case",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "'By the law, it is not sufficient that the testator be of memory, when he makes the will, to answer familiar and usual questions, but he ought to have a disposing memory, so as to be able to make a disposition of his estate with understanding and reason.'"
+        },
+        {
+            "name": "Greenwood v. Greenwood",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Lord Kenyon, in charging the jury, said: 'I take it a mind and memory competent to dispose of property, when it is a little explained, perhaps may stand thus:- having that degree of recollection about him that would enable him to look about the property he had to dispose of, and the persons to whom he wished to dispose of it. If he had a power of summoning up his mind, so as to know what his property was, and who those persons were that then were the objects of his bounty, then he was competent to make his will.'"
+        },
+        {
+            "name": "Dew v. Clark",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "In other cases, such as the well-known case of Dew v. Clark, the insane delusion had a direct bearing on the provisions of the will. In such cases, the delusion being once proved, and its connection with the will being manifest, there could be no difficulty in setting aside the will."
+        },
+        {
+            "name": "The Attorney General v. Parnther",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Again, other cases occurring prior to the case of Waring v. Waring, such as The Attorney General v. Parnther and Cartwright v. Cartwright, had reference to the effect to be given to a lucid interval at the time of making the will, rather than to the degree of mental unsoundness which would constitute testamentary incapacity."
+        },
+        {
+            "name": "Cartwright v. Cartwright",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The case was a remarkable one, from the fact that the will had been made by a person actually confined in a lunatic asylum, and who was undoubtedly insane both before and after the making of the will; nevertheless it was upheld. Sir William Wynne, the then Judge of the Prerogative Court of Canterbury, in giving judgment, uses language tending strongly to shew that, in his opinion, the rationality of the act done affords an effectual test of the mental capacity of the party doing it."
+        },
+        {
+            "name": "Waring v. Waring",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "We come now to the case of Waring v. Waring since followed by that of Smith v. Tebbitt in which the doctrine now contended for on behalf of the plaintiff was for the first time laid down. It may be shortly stated thus: To constitute testamentary capacity, soundness of mind is indispensably necessary. But the mind, though it has various faculties, is one and indivisible."
+        },
+        {
+            "name": "Smith v. Tebbitt",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "As has already been observed, neither in Waring v. Waring nor in Smith v. Tebbitt, was the doctrine thus laid down in any degree necessary to the decision. Both these were cases of general, not of partial, insanity; in both the delusions were multifarious, and of the wildest and most irrational character, abundantly indicating that the mind was diseased throughout."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Van Alst v. Hunter",
+            "cited_by": "As was truly said by Chancellor Kent, in Van Alst v. Hunter, 'It is one of the painful consequences of extreme old age that it ceases to excite interest, and is apt to be left solitary and neglected. The control which the law still gives to a man over the disposal of his property is one of the most efficient means which he has in protracted life to command the attentions due to his infirmities.'"
+        },
+        {
+            "name": "Harrison v. Rowan",
+            "cited_by": "In the case of Harrison v. Rowan, in the United States Circuit Court for the district of New Jersey, the law was thus laid down by the presiding judge regarding testator's capacity and sound disposing mind."
+        },
+        {
+            "name": "Den v. Vancleve",
+            "cited_by": "In the case of Den v. Vancleve the law was stated regarding sound and disposing mind and memory requirements."
+        },
+        {
+            "name": "Stevens v. Vancleve",
+            "cited_by": "In the subsequent case of Stevens v. Vancleve discussion of sound and disposing mind and memory."
+        },
+        {
+            "name": "Sloan v. Maxwell",
+            "cited_by": "This view of the law is fully adopted by the Court in the case of Sloan v. Maxwell"
+        },
+        {
+            "name": "Harwood v. Baker",
+            "cited_by": "In a case of Harwood v. Baker, before the Judicial Committee of the Privy Council, regarding testamentary capacity in cases of weakened mental state."
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "case_title": "Abekhe v. Alpha Merchant Bank Plc",
+    "area_of_law": [
+        "Employment Law",
+        "Banking Law",
+        "Tort Law"
+    ],
+    "subject_matter": [
+        "Wrongful Dismissal",
+        "Employment Termination",
+        "Libel",
+        "Regulatory Powers",
+        "Banking Supervision"
+    ],
+    "summary": "The case concerns an employee (Abekhe) who resigned from Alpha Merchant Bank PLC on September 20, 1993. After his resignation, the bank issued him a query on April 7, 1994, regarding allegations of unauthorized conduct while in their employment. When he didn't respond to the query (citing he was no longer an employee), the bank proceeded with disciplinary action and reported him to banking regulators. This led to his termination from his new employment at Pinnacle Commercial Bank. Abekhe sued for declarations regarding the invalidity of the disciplinary proceedings, damages for libel, and injunctive reliefs. The High Court granted some reliefs including N1 million in damages for libel, but denied others. On appeal, the court held that while the bank couldn't validly dismiss someone who had already resigned, the banking regulators acted within their statutory powers in sharing information with other banks.",
+    "outcome": "The Court of Appeal dismissed the appeal, finding that while the disciplinary proceedings after resignation were invalid, the regulatory authorities acted within their statutory powers. The award of N1 million in damages for libel was upheld.",
+    "ratios": [
+        "An employee has the right to resign from his employment/appointment whenever he desires and the resignation takes effect as indicated in the notice of resignation or as stipulated in the terms and conditions of the employment",
+        "The resignation would take effect even when the employer did not expressly accept it since there is no need for the employer to reply to the letter of resignation before it becomes effective",
+        "A dismissal of an employee presupposes the existence of an employment between an employer and the employee and it is only an employer that can dismiss an employee from an existing employment",
+        "Revocation of a banking licence by the governor of the central bank does not necessarily mean the death of the bank thereby making it incapable of suing or being sued",
+        "The mere fact that the appellant's employment was terminated by Pinnacle Bank is no credible evidence, ipso facto, that the bank breached the contract with the appellant in the absence of the terms and conditions of the contract"
+    ],
+    "precedents": [
+        {
+            "name": "Queen v. Ogodo (1961) 2 SC 366",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Portions of the judgement particularly at pages 1031-2, 1039 and 1043-4 of the record of appeal, were set out and it is submitted that the High Court could not approbate and reprobate at the same time on the issue of the allegations on the query issued by the 1st respondent to appellant after his employment had ceased with it. Queen v. Ogodo (1961) 2 SC 366; Baridam v. State (1994) 1 SCNJ 1, (1994) 1 NWLR (Pt. 320) 250 and Udengwu v. Uzuegbu (2003) FWLR (Pt. 179) 1173, (2003) 13 NWLR (Pt. 836) 136 on when a perverse decision can arise and the power of the court to interfere with it"
+        },
+        {
+            "name": "Benson v. Onitiri (1960) SCNJ 177",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The general rule is that every employee has the right to resign from his employment/appointment whenever he desires and the resignation takes effect as indicated in the notice of resignation or as may be stipulated in the terms and conditions of the employment. In law, the resignation would take effect even when the employer did not expressly accept it since there is no need for the employer to reply to the letter of resignation before it becomes effective. See Benson v. Onitiri (1960) SCNJ 177, (1956 - 60) 1 NSCC 52, (1960) 5 FSC 69."
+        },
+        {
+            "name": "C.C.B. (Nig.) PLC v. O'Silvawax International Ltd (1999) 7 NWLR (Pt. 609) 97",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In the case of C.C.B. (Nig.) PLC v. O'Silvawax International Ltd (1999) 7 NWLR (Pt. 609) 97 at page 103, it was held that: 'Revocation of a banking licence by the governor of the central bank does not necessarily mean the death of the bank thereby making it incapable of suing or being sued or barring it from becoming an appellant or respondent in an appeal process.'"
+        },
+        {
+            "name": "Ejowhomu v. Edok-Eter Mandilas Ltd (1986) 5 NWLR (Pt. 39) 1",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In the case of Ejowhomu v. Edok-Eter Mandilas Ltd (1986) 5 NWLR (Pt. 39) 1, it was held by apex court that: 'In Lagos City Council Caretake Committee & Anor. v. Benjamin O. Unachukwu & Anor. (1978) All NLR 92, (19781) 3 SC 199 at page 206. It has been stated by this court in numerous cases that where a victim of tort has been fully compensated under one head of damages for a particular injury, it is improper to award him damages in respect of the same injury under another head.'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Quinn v. Leathern (1901) AC 495",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Allen v. Flood (1898) AC 107",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Thomson D. C. & Co. v. Deakin (1952) Ch. 646",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Merkur Island Shipping Corpn. v. Laughton (1983) A.C. 570",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Sparkling Breweries Ltd v. United Bank of Nigeria Ltd (2001) FWLR (Pt. 71) 1682",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Maximum Insurance Co. Ltd v. Owoniyi (1994) 3 NWLR (Pt. 331) 178",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Pratt v. British Medical Association (1919) 1KB 244",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "S & D Construction Co. Ltd v. Ayoku (2003) 5 NWLR (Pt. 813) 278",
+            "cited_by": "Counsel to Respondents"
+        },
+        {
+            "name": "Baba v. Nigeria Civil Aviation Training Centre, Zaria (1991) 5 NWLR (Pt. 192) 388",
+            "cited_by": "Counsel to Respondents"
+        },
+        {
+            "name": "Yusuf v. Union Bank of Nigeria Ltd (1996) 6 NWLR (Pt. 457) 632",
+            "cited_by": "Counsel to Respondents"
+        },
+        {
+            "name": "Attorney-General, Anambra State v. Uba (2005) All FWLR (Pt. 277) 909",
+            "cited_by": "Counsel to Third Respondent"
+        },
+        {
+            "name": "Ekpenyong v. Nyon (1975) 2 SC 71",
+            "cited_by": "Counsel to Third Respondent"
+        },
+        {
+            "name": "Iloabachie v. Iloabachie (2005) All FWLR (Pt. 272) 223",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Din v. African Newspapers (1990) 3 NWLR (Pt. 139) 392",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Onyejike v. Anyasor (1992) 1 NWLR (Pt. 218) 437",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "UBA v. Oninyi (2010) 1 NWLR (1176) 640",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Akomolafe v. Nigeria Exchange Insurance Company Ltd (2000) 13 NWLR (Pt. 683) 181",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Guardian Newspaper Ltd v. Ajeh (2011) All FWLR (Pt. 584) 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Oduwole v. David-West (2010) FWLR (Pt. 532) 1643",
+            "cited_by": "Counsel to Respondents"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "case_title": "Freeman v. Dartford brewery co. ltd",
+    "area_of_law": "Property law",
+    "subject_matter": [
+        "Landlord and tenant law",
+        "Referee reports",
+        "Judicial procedure"
+    ],
+    "summary": "This case addresses procedural requirements for referee reports under the Landlord and Tenant Act 1927. Justice Du Parcq held that referee reports must be sufficiently detailed and structured to enable effective judicial review. The referee must clearly state findings of fact, reference supporting evidence, and explain inferences drawn. The case emphasizes that merely providing shorthand transcripts without proper analysis is insufficient. The court directed that the report be returned to the referee for proper structuring, including specific findings regarding compensation calculations and consideration of extraneous circumstances affecting goodwill.",
+    "outcome": "The court ordered the report to be returned to the referee for proper structuring with detailed findings of fact, supporting evidence, and clear reasoning.",
+    "ratios": [
+        "A referee's report must set out findings of fact with references to supporting evidence and stated inferences, rather than merely providing raw transcripts",
+        "The relation of the county court judge to the referee for inquiry and report is the same as that of a High Court judge to such a referee",
+        "A judge is at liberty to adopt, vary, or disregard a finding of the referee, or to hear fresh evidence on any point"
+    ],
+    "precedents": [
+        {
+            "name": "Simpson v Charrington & Co Ltd [1934] 1 KB 64",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Simpson v Charrington & Co Ltd, Scrutton LJ said, at p 76: 'It was argued before us that to some extent the county court judge was bound by the findings of the referee, at any rate on the findings of fact, which depend partly on the credibility of witnesses. In my opinion the relation of the county court judge to the referee for inquiry and report only is the same as that of a High Court judge to such a referee. A motion to vary the report is necessary if it is to be challenged. On such a motion each judge is at liberty to adopt, vary, or disregard a finding of the referee, or to hear fresh evidence on any point. This may make the procedure very expensive and dilatory and cause, as in the present case, the question whether there should be any and what fresh lease to be still undetermined 18 months after the old lease has expired. The judgment is to be of the tribunal, the county court judge [in this case it is the High Court judge], in a 'cause or matter.' A little later he said, at p 77: 'A finding as to goodwill, which turns partly on the correct construction of the statute, appears to be a mixed question of fact and law, and a proper subject for appeal.'"
+        },
+        {
+            "name": "Landlord and Tenant Act 1927",
+            "tag": "Cited",
+            "document_type": "Legislation",
+            "context": "That is not what is meant by the words 'stand referred for inquiry and report' within the meaning of the Landlord and Tenant Act 1927, s 21(2). The referee is not merely to make an award as would an arbitrator, or to give a verdict as would a jury."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Simpson v Charrington & Co Ltd [1935] AC 325",
+            "cited_by": "Referenced in case notes"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "case_title": "A.P.C v. Nduul",
+    "area_of_law": [
+        "Constitutional Law",
+        "Electoral Law",
+        "Civil Procedure"
+    ],
+    "subject_matter": [
+        "Political Party Primary Election",
+        "Fair Hearing",
+        "Service of Court Processes",
+        "Jurisdiction"
+    ],
+    "summary": "This case concerns an interlocutory appeal against a ruling of the Court of Appeal, Makurdi Division delivered on April 13, 2016. The original case involved a challenge by the 1st respondent (Nduul) against the nomination of the 2nd respondent by APC for the Kwande/Ushongo Federal Constituency election. After the trial court dismissed the case, the 1st respondent appealed. During the appeal, the 1st respondent filed a motion requesting the appeal be heard on their brief alone. The Court of Appeal granted this motion on April 13, 2016, just two days after it was filed. The appellant (APC) challenged this ruling, arguing they weren't properly served with the motion and their right to fair hearing was violated. The Supreme Court found that the Court of Appeal lacked jurisdiction to hear and grant the motion as it wasn't properly served and wasn't ripe for hearing, thereby violating the appellant's right to fair hearing.",
+    "outcome": "The Supreme Court allowed the appeal and set aside the Court of Appeal's ruling of April 13, 2016. The court found that the failure to properly serve the motion rendered the lower court's ruling null and void.",
+    "ratios": [
+        "Where service of process is required, failure to serve it is a fundamental vice and the person affected by the order but was not served with the process is entitled ex-debito justitiate to have the order set aside as a nullity",
+        "Service of a process in proceedings is fundamental to the assumption of jurisdiction. Failure to serve a process where service is required goes to the root of proper conceptions of recognized procedure of litigation",
+        "The law is elementary that a party cannot or has not the competence to waive lack of jurisdiction. Where a court lacks jurisdiction, the entire proceedings, however well conducted are a nullity",
+        "Jurisdiction is basic to the entire adjudication. It affects the power of the court to adjudicate on the matter"
+    ],
+    "precedents": [
+        {
+            "name": "Auto Import Export v. Adebayo (2002) 18 NWLR (Pt. 799) 554",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Where as in the present case, service of process is required, failure to serve it is a fundamental vice and the person affected by the order but was not served with the process, again as in the present case is entitled ex-debito justitiate to have the order set aside as a nullity. See Obimonure v. Erinosho & Anor. (1966) 1 All NLR 250; Mbadinuju v. Ezuka (1994)8 NWLR (Pt. 364) 535, (1994) 10 SCNJ 109 at 128; Skenconsult v. Ukey (1980) 1 SC at 26. Accordingly, service of a process in proceedings is fundamental to the assumption of jurisdiction. Failure to serve a process where service is required goes to the root of proper conceptions of recognized procedure of litigation. It is a fundamental vice which renders null and void an order made against the party who should have been served, as the idea that an order can validly be made against a party who has no notification of the action against him is one that is clearly undesirable and, indeed unacceptable in our judicial system."
+        },
+        {
+            "name": "Mobil Producing Nig. Unlimited v. Monokpo (2003) 18 NWLR (Pt. 852) 346",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The law is elementary that a party cannot or has not the competence to waive lack of jurisdiction of the court. Where a court lacks jurisdiction, the entire proceedings, however, well conducted are a nullity and a party cannot in law resuscitate or revive a nullity by waiver. Jurisdiction is basic to the entire adjudication. It affects the power of the court to adjudicate on the matter. Where a court lacks jurisdiction, no amount of indolent conduct on the part of any of the parties, particularly the defendant, can ripen into the defence of waiver. It is my view that the jurisdiction of a court, where there is none, cannot be enlarged either by estoppel or waiver. Jurisdiction, being the forerunner of the judicial process, cannot, by acquiescence, collusion, compromise, or as in this case, waiver, confer jurisdiction on a court that lacks it. Parties do not have the legal right to denote jurisdiction on a court that lacks it."
+        },
+        {
+            "name": "Uti v. Onoyiwe (1991) 1 SCNJ 25",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Moreover, jurisdiction is blood that gives life to the survival of an action in a court of law and without jurisdiction; the action will be like an animal that has been drained of its blood. It will cease to have life and any attempt to resuscitate it without infusing blood into it would be an abortive exercise."
+        },
+        {
+            "name": "Okoro v. Egbuoh (2006) All FWLR (Pt. 332) 1569",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Although jurisdiction is a word of large purport and significance in the judicial process, it is not a subject of speculation or gossip ... It is a matter of strict and hard law donated by constitution and statutes. It is a threshold issue, the blood that gives life to the survival of the action and occupying such an important place in the judicial process..."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Eke v. Ogbonda (2007) All FWLR (Pt. 351) 1456",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ben Anachebe v. Kingsley Ijeoma (2015) 240 LRCN 69",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Mobil Producing (Nig.) Unlimited v. Monokpo (2003) 18 NWLR (Pt. 852) 346",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Elugbe v. Omokfaje (2004) 18 NWLR (Pt. 905) 319",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "State v. Onagorowa (1992) 2 SCNJ (Pt. 1) 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "KTP Ltd v. G & H Nigeria Ltd (2005) 13 NWLR (Pt. 943) 680",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Ojeme v. Momodu (1983) 1 SCNLR 188",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Maigoro v. Garba (1999) 10 NWLR (Pt. 624) 555",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Akwiwu Motors Ltd v. Sangonuga (1984) 5 SC 184",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Ekunola v. C.B.N. (2013) 15 NWLR (Pt. 1377) 324",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Odom v. People's Democratic Party (2015) 6 NWLR (Pt. 1456) 527",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Veepee Industries Limited v. Cocoa Industries Ltd (2008) 13 NWLR (Pt. 1105) 486",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Ogbe v. Asade (2009) 18 NWLR (Pt. 1172) 106",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Oriorio v. Osain (2012) 16 NWLR (Pt. 1329) 560",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Adeogun v. Fasogbon (2011) 8 NWLR (Pt. 1250) 427",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Ajide v. Kelani (1985) 3 NWLR (Pt. 12) 249",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Government of Gongola State v. Tukur (1989) 4 NWLR (Pt. 117) 592",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Commissioner For Works Benue State v. Devcon Ltd (1988) 3 NWLR (Pt. 83) 407",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Orugbo v. Una (2002) 9-10 SC 61",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Adebayo v. Attorney-General, Ogun State (2008) 7 NWLR (Pt. 1085) 201",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Newswatch Communications Ltd v. Attah (2006) 12 NWLR (Pt. 993) 144",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "A.S.T.C. v. Quorum Consortium Ltd (2009) 9 NWLR (Pt. 1145) 1",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Universal Trust Bank Limited v. Dolmetsch Pharmacy (Nig.) Ltd (2007) 16 NWLR (Pt. 1061) 520",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Union Bank of Nigeria Plc. v. Astra Builders (W.A.) Ltd (2010) 5 NWLR (Pt. 1186) 1",
+            "cited_by": "Counsel to 1st Respondent"
+        }
+    ]
+}

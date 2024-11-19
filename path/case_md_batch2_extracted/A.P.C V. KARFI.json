@@ -1,0 +1,179 @@
+{
+    "case_title": "A.P.C v. Karfi",
+    "area_of_law": [
+        "Electoral Law",
+        "Constitutional Law"
+    ],
+    "subject_matter": [
+        "Primary Elections",
+        "Party Nominations",
+        "Electoral Guidelines",
+        "Political Party Internal Democracy",
+        "Jurisdiction"
+    ],
+    "summary": "The case concerns an appeal against the Court of Appeal's decision which upheld a Federal High Court ruling ordering fresh primaries for the Kura/Garun Malam State House Constituency of Kano State. The primary election conducted by APC on December 2, 2014, was declared inconclusive due to over-voting (603 votes cast versus 595 accredited delegates). Despite this, APC forwarded the 3rd appellant's name to INEC as their candidate. The 1st respondent challenged this at the Federal High Court, which ordered fresh primaries. The Court of Appeal upheld this decision and further ordered the 3rd appellant to vacate his seat. The Supreme Court found that APC had no valid candidate in the election due to the inconclusive primary and the party's failure to conduct fresh primaries as ordered.",
+    "outcome": "The Supreme Court dismissed the appeal and ordered the 3rd appellant to vacate his seat, directed INEC to withdraw his certificate of return and issue same to the runner-up in the general election, and ordered him to refund all salaries and allowances received within 90 days.",
+    "ratios": [
+        "An inconclusive primary election cannot produce a candidate for a general election",
+        "Where a political party fails to comply with the mandatory provisions of the Electoral Act on nomination of candidates before the general election, the court will intervene and declare such purported nomination invalid",
+        "The courts will not allow a political party to act arbitrarily or as it likes. Political parties must obey their own constitution",
+        "Any proven case of over-voting in an election should render such an election void",
+        "A candidate not validly nominated as required by law cannot be said to have qualified to be placed on the ballot in an election"
+    ],
+    "precedents": [
+        {
+            "name": "CPC v. Omugadu (2013) 18 NWLR (Pt. 1385) 79",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "This court has stated clearly in CPC v. Omugadu (2013) 18 NWLR (Pt. 1385) 79, a case which was relied upon by the court below that an inconclusive primary election cannot produce a candidate. In fact, this court emphatically held at page 126, paragraphs C - D that '... I wish to add that there can be no nomination of a candidate and acquisition of vested interest in an inconclusive party primary election.'"
+        },
+        {
+            "name": "Louis v. INEC (2010) LPELR-4442",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Any proven case of over-voting in an election should render such an election void. See Louis v. INEC (2010) LPELR - 4442"
+        },
+        {
+            "name": "Awuse v. Odili (2004) All FWLR (Pt. 212) 1611",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Any proven case of over-voting in an election should render such an election void. See Awuse v. Odili (2004) All FWLR (Pt. 212) 1611, (2004) 8 NWLR (Pt. 876) 481"
+        },
+        {
+            "name": "PDP v. INEC (2008) LPELR-8597",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Any proven case of over-voting in an election should render such an election void. See PDP v. INEC (2008) LPELR - 8597"
+        },
+        {
+            "name": "Awoniyi v. Regd. Trustees, AMORC (2000) FWLR (Pt. 25) 1592",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "A consequential order is therefore an order which gives effect to the judgment already given by the court. It is not granted as a fresh, unclaimed or unproven relief. See Awoniyi v. Regd. Trustees, AMORC (2000) FWLR (Pt. 25) 1592"
+        },
+        {
+            "name": "DPCC Ltd v. B.P.C. Ltd (2008) 1-2 SC 68",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "No law court, administering justice, will exercise its discretion in aid of a litigant who resorts to self-help in defiant disobedience of a subsisting court order. See DPCC Ltd v. B.P.C. Ltd (2008) 1 - 2 SC 68"
+        },
+        {
+            "name": "Daniel v. Ferguson (1891) 2 CH. 27",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In the English case: Daniel v. Ferguson (1891) 2 CH. 27, the Court of Appeal ordered the demolition of a building hurriedly erected after the defendant had received notice that an injunction was going to be sought against him by the plaintiff."
+        },
+        {
+            "name": "Buhari v. Independent National Electoral Commission (2009) All FWLR (Pt. 459) 419",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The laws are made to be obeyed. All persons and authorities including political parties must obey the laws of the land. See Buhari v. Independent National Electoral Commission (2009) All FWLR (Pt. 459) 419"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Eyesan v. Sanusi (1984) LPELR-1185 (SC)",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Ben Anachebe v. Kingsley Ijeoma (2014) LPELR-23181 (SC)",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Attorney-General Federation v. BiCourtney Ltd (2014) LPELR-22968 (CA)",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "F.A.T.B. v. Ezegbu (1992) NWLR (Pt. 264) 132",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Group Danone v. Voltic (Nig.) Ltd (2008) All FWLR (Pt. 417) 51",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Omokuwajo v. Federal Republic of Nigeria (2013) All FWLR (Pt. 684) 1",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Dalek Nig. Ltd v. OMPADEC (2007) All FWLR (Pt. 364) 204",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Achiakpa v. Nduka (2001) 4 SCNJ 73",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Vivian Clems Akpamgbo-Okadigbo v. Egbe Theo Chidi (2015) All FWLR (Pt. 781) 1400",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "PDP v. Sylva (2012) All FWLR (Pt. 637) 606",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Emeka v. Okadigbo (2012) All FWLR (Pt. 651) 1426",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "APGA v. Anyanwu (2014) All FWLR (Pt. 735) 266",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Uwazurike v. Nwachukwu (2013) All FWLR (Pt. 680) 1205",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Lado v. CPC (2012) All FWLR (Pt. 607) 598",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Dingyadi v. INEC (2011) All FWLR (Pt. 573) 1842",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Bamisile v. Osasuyi (2007) 19 NWLR (Pt. 1042) 225",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Auchi Poly v. Okuoghae (2005) 10 NWLR (Pt. 933) 279",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Togun v. Oputa (No. 1) (2001) 16 NWLR (Pt. 740) 594",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Suade v. Abdullahi (1989) 4 NWLR (Pt. 116) 387",
+            "cited_by": "Counsel to 3rd Respondent"
+        },
+        {
+            "name": "Akinrimade v. Lawal (1996) 2 NWLR (Pt. 429) 218",
+            "cited_by": "Court Reference"
+        },
+        {
+            "name": "Eze Uneji v. Attorney-General, Imo State (1995) 4 NWLR (Pt. 391) 552",
+            "cited_by": "Court Reference"
+        },
+        {
+            "name": "Olowu v. Abolore (1993) 5 NWLR (Pt. 293) 255",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Eze v. Governor of Abia State (2014) LPELR-23276 (SC)",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Obayabona v. Obazee (1972) 5 SC 247",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Inakoju v. Adeleke (2007) All FWLR (Pt. 353) 3",
+            "cited_by": "Counsel to Appellants"
+        },
+        {
+            "name": "Attorney-General Federation v. AIC Ltd (2000) 10 NWLR (Pt. 675) 293",
+            "cited_by": "Counsel to Appellants"
+        }
+    ]
+}

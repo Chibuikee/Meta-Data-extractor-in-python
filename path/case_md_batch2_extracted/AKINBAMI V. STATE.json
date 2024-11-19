@@ -1,0 +1,118 @@
+{
+    "case_title": "Akinbami v. state",
+    "area_of_law": [
+        "Criminal law",
+        "Evidence law"
+    ],
+    "subject_matter": [
+        "Conspiracy to commit robbery",
+        "Criminal evidence",
+        "Confessional statements",
+        "Police testimony credibility"
+    ],
+    "summary": "This case involves an appeal against a conviction for conspiracy to commit robbery. The appellant was originally charged along with two others on five counts of conspiracy to commit robbery and robbery. While four robbery counts were dismissed, the appellant was convicted of conspiracy and sentenced to 21 years imprisonment with hard labor. The prosecution's case relied primarily on one witness (a police officer) and a disputed confessional statement. The appellant claimed he was wrongfully arrested at a different date and location than alleged, and that his confession was obtained through coercion. The appeal centered on whether the prosecution proved conspiracy beyond reasonable doubt and whether the trial judge correctly relied on the contested confessional statement. The Court of Appeal found significant flaws in the prosecution's case, including inconsistencies in the police testimony, lack of corroborating evidence, and failure to properly evaluate the retracted confession.",
+    "outcome": "The appeal was allowed. The Court of Appeal set aside both the conviction and 21-year sentence, and the appellant was discharged and acquitted.",
+    "ratios": [
+        "Evidence in corroboration must be an independent testimony, direct or circumstantial which confirms in some material particular not only that an offence has been committed but that the accused person has committed it.",
+        "For the offence of conspiracy to be made out, there must be a consent of two or more persons, an agreement which is an advancement of an intention conceived in the mind of each person secretly (mens rea), and the secret intention must have been translated into an overt act or omission or mutual consultation and agreement (actus reus).",
+        "Where a witness statement to the police contradicts with the evidence in court, the court should regard him as an unreliable witness and discountenance both his statement to the police and his testimony in court."
+    ],
+    "precedents": [
+        {
+            "name": "Nwosu v. State (2004) All FWLR (Pt. 218) 916, (2004) 15 NWLR (Pt. 897) 466",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Conspiracy is a criminal offence. However it is not defined in the Criminal Code Act, 1916. Thus it is necessary to draw guidance from the Common Law. Under the Common Law doctrine, it is an agreement of two or more persons to do an act which it is an offence to agree to do. Nwosu v. State (2004) All FWLR (Pt. 218) 916, (2004) 15 NWLR (Pt. 897) 466"
+        },
+        {
+            "name": "Amachree v. Nigerian Army (2003) 3 NWLR (Pt. 807) 256",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Under the Common Law doctrine, it is an agreement of two or more persons to do an act which it is an offence to agree to do. Nwosu v. State (2004) All FWLR (Pt. 218) 916, (2004) 15 NWLR (Pt. 897) 466; Amachree v. Nigerian Army (2003) 3 NWLR (Pt. 807) 256."
+        },
+        {
+            "name": "Abacha v. F.R.N. (2006) 4 NWLR (Pt. 970) 239",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The ingredients of the offence of conspiracy under the Penal Code are as follows: (a) An agreement between two or more persons to do or cause to be done some illegal act, or some act which is not illegal by illegal means; (b) Where the agreement is other than an agreement to commit an offence, that some acts besides the agreement was done by one or more of the parties in the agreement; and (c) Specifically, that each of the accused persons individually participated in the conspiracy. Abacha v. F.R.N. (2006) 4 NWLR (Pt. 970) 239"
+        },
+        {
+            "name": "Olayinka v. State (2007) 9 NWLR (Pt. 1040) 561, (2007) All FWLR (Pt. 373) 163",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The law does not impose on the prosecution to call a host of witnesses to prove its case, all it needs to do is to call enough material witnesses to prove its case and in so doing, it has a discretion in the matter. It does not lie in the mouth of the defence to urge the prosecution to call a particular witness, Olayinka v. State (2007) 9 NWLR (Pt. 1040) 561, (2007) All FWLR (Pt. 373) 163."
+        },
+        {
+            "name": "Effiong v. State (1998) 5 NWLR (Pt. 562) 362",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Thus, the evidence of a single witness, if believed by the court, can establish a criminal case even if it is a murder charge. Effiong v. State (1998) 5 NWLR (Pt. 562) 362."
+        },
+        {
+            "name": "Nwambe v. State (1995) 3 NWLR (Pt. 384) 385",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "Evidence in corroboration must be an independent testimony, direct or circumstantial which confirms in some material particular not only that an offence has been committed but that the accused person has committed it. Corroboration need not consist of direct evidence that the accused person committed the offence nor need it amount to a confirmation of the whole account given by the witness, provided that it corroborates the evidence in some respect material to the charge. Nwambe v. State (1995) 3 NWLR (Pt. 384) 385"
+        },
+        {
+            "name": "Aje v. State (2006) 8 NWLR (Pt. 982) 345",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It is true that the conspirators need not know themselves and need not to have agreed to commit the offence at the same time. A conspiracy can be inferred from the facts of doing things, towards a common end, where there is no direct evidence in support of an agreement between the accused persons. Aje v. State (2006) 8 NWLR (Pt. 982) 345."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Yakubu v. State (2012) 12 NWLR (Pt. 1313) 131",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ogudo v. State (2011) 18 NWLR (Pt. 1278) 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ochiba v. State (2011) 17 NWLR (Pt. 1277) 663",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "State v. Gwangwan (2015) 13 NWLR (Pt. 1477) 600",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Lasisi v. State (2013) All FWLR (Pt. 694) 39, (2013) 9 NWLR (Pt 1358) 74",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Osuagwu v. State (2009) All FWLR (Pt. 460) 700, (2009) 1 NWLR (Pt. 1123) 523",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Waziri v. State (1997) 3 NWLR (Pt. 496)",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Idowu v. State (1998) 11 NWLR (Pt. 574) 354, (1998) 9-10 SC 1",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Emmanuel Ugwumba v. State (1993) 5 NWLR (Pt. 296) 660, (1998) 6 SCNJ (Pt. II) 217",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ore-Ofe Adesina (A.k.A. Alhaji) & Anor. v. The State (2012) All FWLR (Pt. 644) 1, (2012) LPELR 9722",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Suleiman Olawale Arogundade v. The State (2009) All FWLR (Pt. 469) 409, (2009) 2 SCNJ 44",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Mr. Ubong Obot v. The State (2014) LPELR 23130",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Basil Akalezi v. State (1993) 2 NWLR (Pt. 273) 1",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

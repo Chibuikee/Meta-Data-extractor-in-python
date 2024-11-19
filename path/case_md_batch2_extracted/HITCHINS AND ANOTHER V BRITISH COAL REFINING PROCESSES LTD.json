@@ -1,0 +1,62 @@
+{
+    "case_title": "Hitchins and another v British coal refining processes ltd",
+    "area_of_law": "Contract Law",
+    "subject_matter": [
+        "Consulting Engineers Agreement",
+        "Termination of Contract",
+        "Professional Negligence",
+        "Arbitration"
+    ],
+    "summary": "The case involved a dispute between British Coal Refining Processes Ltd and two consulting engineers (Hitchins and Lockhart-Jervis) over an agreement dated September 14, 1933. The company terminated the agreement in March 1934 due to the engineers' refusal to attend daily at a plant site where the Salerni coal refining process was being implemented. The matter went to arbitration, where the engineers claimed damages for unjustified termination while the company counterclaimed for negligence. The arbitrator found that the termination grounds were insufficient but also determined the engineers had been negligent in certain aspects. The arbitrator awarded £1,316 17s 0d to the engineers after deducting unspecified damages for negligence. The company moved to set aside the award citing error in law, but the court dismissed this motion.",
+    "outcome": "The court dismissed the motion to set aside the arbitration award with costs, upholding the arbitrator's decision.",
+    "ratios": [
+        "The question of whether misconduct justifies dismissal is one of fact and degree in all cases",
+        "The court cannot interfere with the decision of an arbitrator where a specific question of law has been submitted to him, and the parties are bound by his decision whether it be right or wrong in law"
+    ],
+    "precedents": [
+        {
+            "name": "F R Absalom Ltd v Great Western (London) Village Society Ltd",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In the case of F R Absalom Ltd v. Great Western (London) Village Society Ltd, there was a motion to set aside an award for error in law apparent on the face of it, and in that case, as in this; the disputes between the parties were formulated in pleadings delivered in the arbitration. In that case Lord Warrington (at p 598) considered that the court was at liberty to look at the pleadings solely for the purpose of ascertaining whether any specific question of law was in dispute, and Lord Wright, on the other hand, was of opinion (at p 613) that, since the pleadings were not referred to in the award, they could not in strictness be considered and the court could only look at the award itself and at any document incorporated by the arbitrator with his award."
+        },
+        {
+            "name": "Morgan v Savin",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "He relied for this argument on the case of Morgan v. Savin, and the decision of the Court of Common Pleas in Harmer v. Cornelius. But, as was pointed out by Channell J, in Baster v. London & County Printing Works, it is impossible to give an exhaustive definition of what is misconduct which justifies dismissal, because, as the learned judge said: 'The question is one of fact and degree in all cases.'"
+        },
+        {
+            "name": "Harmer v Cornelius",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "He relied for this argument on the case of Morgan v. Savin, and the decision of the Court of Common Pleas in Harmer v. Cornelius. But, as was pointed out by Channell J, in Baster v. London & County Printing Works, it is impossible to give an exhaustive definition of what is misconduct which justifies dismissal, because, as the learned judge said: 'The question is one of fact and degree in all cases.'"
+        },
+        {
+            "name": "Baster v London & County Printing Works",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "But, as was pointed out by Channell J, in Baster v. London & County Printing Works, it is impossible to give an exhaustive definition of what is misconduct which justifies dismissal, because, as the learned judge said: 'The question is one of fact and degree in all cases.'"
+        },
+        {
+            "name": "Re King & Duveen",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "If that question was (as the respondents contend) a question of law, then the well-established rule that the court cannot interfere with the decision of an arbitrator where a specific question of law has been submitted to him applies, and the parties are bound by his decision whether it be right or wrong in law: Re King & Duveen."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "F R Absalom Ltd v Great Western (London) Village Society Ltd",
+            "cited_by": "Both Counsel (Mr Croom-Johnson for respondents and Mr Pritt for applicants)"
+        },
+        {
+            "name": "Morgan v Savin",
+            "cited_by": "Counsel to Respondent (Mr Croom-Johnson)"
+        },
+        {
+            "name": "Harmer v Cornelius",
+            "cited_by": "Counsel to Respondent (Mr Croom-Johnson)"
+        }
+    ]
+}

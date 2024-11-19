@@ -1,0 +1,26 @@
+{
+    "case_title": "British equitable assurance company, limited v Bailly",
+    "area_of_law": "Contract law",
+    "subject_matter": [
+        "Insurance contracts",
+        "Company bylaws",
+        "Distribution of profits",
+        "Policy holder rights"
+    ],
+    "summary": "This case involved a dispute between an insurance company and its participating life policy holders. The plaintiff, representing policy holders, challenged the company's decision to modify its profit distribution method by creating a reserve fund instead of distributing all profits to policy holders. The key issue was whether the company's prospectus statements about profit distribution created a binding contract preventing such changes. The House of Lords ruled in favor of the company, finding that policy holders were bound by the company's right to modify its bylaws as per the deed of settlement.",
+    "outcome": "The House of Lords allowed the appeal and dismissed the action, reversing the judgments of Kekewich J. and the Court of Appeal. The company was permitted to modify its profit distribution method through bylaw changes.",
+    "ratios": [
+        "A company cannot by altering its articles justify a breach of contract, but the question is what was the contract between the parties.",
+        "Prospectus statements describing current practices do not constitute collateral contracts limiting a company's constitutional powers unless explicitly incorporated into the contract.",
+        "Powers of altering bylaws must be exercised bona fide, having regard to the purposes for which they are created, and to the rights of persons affected by them."
+    ],
+    "precedents": [
+        {
+            "name": "Companies Act 1862",
+            "tag": "Cited",
+            "document_type": "Legislation",
+            "context": "I have not troubled your Lordships by referring to changes in the constitution of the company consequent upon the Act of 1862, or to the proposal now on foot to substitute a memorandum and articles of association for the company's deed of settlement and its by-laws. The question would, I think, be precisely the same if the proposal were to alter the by-laws of the company under the provisions of the deed of settlement."
+        }
+    ],
+    "counsel_precedents": []
+}

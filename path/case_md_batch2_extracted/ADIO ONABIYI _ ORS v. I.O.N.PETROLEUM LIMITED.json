@@ -1,0 +1,105 @@
+{
+    "case_title": "Adio Onabiyi & ors v. I.O.N. Petroleum limited",
+    "area_of_law": [
+        "Civil Procedure",
+        "Land Law"
+    ],
+    "subject_matter": [
+        "Setting Aside Default Judgment",
+        "Service of Court Process",
+        "Jurisdiction"
+    ],
+    "summary": "This case concerns an appeal against a ruling of the High Court of Lagos State which set aside its earlier judgment entered against I.O.N. Petroleum Ltd (Respondent). The original case involved claims for declaration of statutory right of occupancy, damages, and perpetual injunction regarding land along Lagos/Abeokuta Expressway. The Respondent had not filed any processes, leading to a default judgment in favor of the Appellants. After execution was levied, the Respondent applied to set aside the judgment on grounds of non-service of court processes. The trial court, after taking oral evidence to resolve conflicts in affidavits, set aside its judgment. The main issue on appeal was whether the trial court was right in setting aside its judgment under Order 25 Rule 15 rather than Order 33 Rule 4 of the High Court Rules, and whether the conditions for setting aside the judgment were satisfied.",
+    "outcome": "The Court of Appeal dismissed the appeal and affirmed the lower court's ruling, holding that the trial court correctly set aside the default judgment as the originating processes were not served on the Respondent. The court awarded costs of N100,000 against the Appellants.",
+    "ratios": [
+        "A defect arising from a failure of service of originating processes is a fundamental vice which entitles a defendant in the proceedings to have the judgment set aside ex debito justitiae",
+        "Where a declaratory relief is sought, evidence must be adduced of entitlement to the declaration irrespective of any admission or default of pleadings",
+        "In an application to set aside a judgment obtained in default of pleading under the High Court Rules, it is not necessary to ask for leave for extension of time, but in an application to set aside a judgment in default of appearance after pleadings have been filed and the case has reached trial stage, an order for extension of time must be obtained if the application is made after six days from the judgment"
+    ],
+    "precedents": [
+        {
+            "name": "Williams v. Hope Rising Voluntary Funds Society (1982) 1-2 SC 145",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "An applicant for an order to set aside the judgment of a Court must meet and satisfy the following conditions in order for discretion to be exercised in his favour: 1. The reasons for the Applicant's failure to appear at the hearing or trial of the suit or case that resulted in judgment given in his absence; 2. Whether there has been an undue delay in making the application to set aside the judgment so as to prejudice the party in whose favour the judgment subsists; 3. Whether the party in whose favour the judgment subsists would be prejudiced or embarrassed upon an order for rehearing of the suit being made, so as to render such a course inequitable: 4. Whether the applicant's case is manifestly unsupportable; and 5. Whether applicant's conduct throughout the proceedings, that is, from the service of the writ upon him to the date of judgment has been such as to make his application worthy of sympathetic consideration."
+        },
+        {
+            "name": "Skenconsult Nig Ltd v. Ukey (1981) 1 SC 6",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The legal position remains that whenever proceedings are conducted where the Court processes are not served on the other party, the said party is entitled to have the proceedings set aside, ex debito justitiae"
+        },
+        {
+            "name": "Akinnuli v. Ayo-Odugbesan (1992) 8 NWLR (PT 258) 172",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The position of the law therefore is as follows: In an application to set aside a judgment obtained in default of pleading under the High Court of Lagos (Civil Procedure) Rules it is not necessary to ask for leave for extension of time. But in an application to set aside a judgment in default of appearance after pleadings have been filed and the case has reached a trial stage, an order for extension of time within which to apply to set aside the judgment must be obtained if the application is made after the expiration of six days from the date of the judgment."
+        },
+        {
+            "name": "Usikaro v. Itsekiri Land Trustees (1991) 2 NWLR (PT 172) 190",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Let no man walk out of our Courts disappointed in the administration of justice. He will prefer to lose a case on its merits than to allow his opponent win by default. There is no provision for a walkover in our adversary system. It is not a game of football or a tennis competition. It must be shown and seen that any party has a fair trial."
+        },
+        {
+            "name": "Motunwase v. Sorungbe (1988) 5 NWLR (PT 90) 90",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It is trite law that where a declaratory relief is sought, evidence must be adduced of entitlement to the declaration irrespective of any admission or default of pleadings."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Williams v. Hope Rising Voluntary Funds Society (1982) 1-2 SC 145",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Sanusi v. Ayoola (1992) 9 NWLR (PT 265) 275",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Shell Petroleum Development Co. Ltd v. Otoko (1990) 6 NWLR (PT 159) 639",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Koya v. UBA (1997) 1 NWLR (PT 481) 251",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Nigeria Customs Service v. Bazuaye (2006) 3 NWLR (PT 367) 303",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Leventis Technical v. Petrojessica (1999) 6 NWLR (PT 605) 45",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Iserie v. Catholic Bishop (1997) 3 NWLR (PT 495) 517",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Odutola v. Kayode (1994) 2 NWLR (PT 324) 1",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Madukolu v. Nkemdilim (1962) 1 ANLR 587",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Nwosu v. Imo State Environmental Sanitation Authority (1990) 2 NWLR (PT 135) 688",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ogolo v. Ogolo (2006) SC (PT 1) 61",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Aro v. Lagos Island Local Government Council (2002) 4 NWLR (PT 757) 387",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Efetiroroje v. Okpalefe II (1991) 5 NWLR (PT 193) 537",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

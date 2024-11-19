@@ -1,0 +1,99 @@
+{
+    "case_title": "Brawal shipping (Nigeria) limited v. Aphrodite (Ent.) Nigeria limited",
+    "area_of_law": [
+        "Civil Procedure",
+        "Commercial Law",
+        "Maritime Law"
+    ],
+    "subject_matter": [
+        "Jurisdiction",
+        "Abuse of Court Process",
+        "Ex-parte Orders",
+        "Maritime Claims"
+    ],
+    "summary": "The case involves an appeal against ex-parte orders granted by the lower court to Aphrodite (Ent.) Nigeria Limited regarding a shipping container dispute. The appellant challenged the orders on grounds of jurisdiction and abuse of court process, noting that similar proceedings had already been determined by the Federal High Court Benin. The Court of Appeal held that while the lower court had jurisdiction (as the goods had been discharged from the vessel), the existence of a prior subsisting judgment on the same matter between the same parties rendered the subsequent action an abuse of court process. The appeal was allowed, the ex-parte orders were set aside, and the entire suit was struck out.",
+    "outcome": "The appeal was allowed. The Court of Appeal set aside the ex-parte orders of the lower court, ordered the respondent to pay the proceeds of the cargo sale into the lower court for transmission to the appellant, struck out the entire suit, and awarded costs of N5,000 to the appellant.",
+    "ratios": [
+        "The admiralty jurisdiction of the Federal High Court cannot be invoked once the goods carried by a ship have been discharged on the harbor or delivered to the point of destination of the cargo. For admiralty to arise the cargo or goods must still be in the vessel.",
+        "A judgment remains valid and binding, even where the person affected by it believes that it is void, until it is set aside by a court of competent jurisdiction.",
+        "Multiplicity of actions on the same matter constitutes abuse of the process of the court where the action is between the same parties with respect to the same subject-matter."
+    ],
+    "precedents": [
+        {
+            "name": "Texaco Overseas Petroleum Un' Ltd. v. Pedmar Limited (2002) 13 NWLR (Pt. 785) 526",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The admiralty jurisdiction of the Federal High Court cannot be invoked once the goods carried by a ship have been discharged on the habour or delivered to the point of destination of the cargo. For admiralty to arise the cargo or goods must still be in the vessel."
+        },
+        {
+            "name": "Saraki v. Kotoye (1992) 9 NWLR (Pt. 264) 156",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "I should not be taken as saying that the improper exercise of a right of action to the prejudice of the administration of justice is permissible. I have quoted the above passage to illustrate the general principles that a proper exercise of a constitutional right of appeal as was done in the instant case which was not intended to harass, irritate, annoy or interfere with the course of justice, but aims at protecting the right in the litigation of the party exercising his constitutional right cannot in my respectful view be regarded as reckless or frivolous so as to constitute an abuse of the judicial process."
+        },
+        {
+            "name": "Okafor v. A.-G, Anambra State (1991) 6 NWLR (Pt. 200) 659",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "I venture to state quite concisely and clearly that an abuse of the process of the court is only possible by improper use of the issue of the judicial process or process already issued to the irritation and annoyance of the opponent It is the law that multiplicity of actions on the same matter may constitute an abuse of the process of the court. But this is so only where the action is between the same parties with respect to the same subject-matter."
+        },
+        {
+            "name": "Babatunde v. Olatunji (2000) 2 NWLR (Pt. 646) 557",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "I think the option open to a person against whom an order was made or a judgment given is plain. He should apply to the court to discharge the order or appeal against the judgment that it maybe set aside as the case may be. This is a good sense for as long as the order or judgment existed it must not be disobeyed. A judgment remains valid and binding, even where the person affected by it believes that it is void, until it is set aside by a court of competent jurisdiction."
+        },
+        {
+            "name": "Kotoye v. Central Bank of Nigeria (1989) 1 NWLR (Pt. 98) 419",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It is a trite law that interim order is granted in real cases of urgency. It is for a situation of a real emergency to preserve and protect the rights of the parties before the court from destruction by either of the parties."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Opekun v. Sadiq (2003) 5 NWLR (Pt.814) 475",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Minister for Works & Housing v. Tomas (Nig.) Ltd. (2002) 2 NWLR (Pt.752) 740",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Morgan v. W.A.A. & Engineering Company Limited (1971) 1 NMLR 219",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Kotoye v. Saraki (1992) 9 NWLR (Pt.264) 156",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ode v. Balogun (1999) 10 NWLR (Pt. 622) 214",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Central Bank of Nigeria v. Ahmed (2001) 11 NWLR (Pt. 724) 369",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Petrojessica Enterprises Limited v. Leventis Technical Co. Limited (1992) 5 NWLR (Pt. 244) 675",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Rossek v. A.C.B. Ltd. (1993) 8 NWLR (Pt. 312) 382",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Hadkinson v. Hadkinson (1952) 2 All ER 567",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Aladegbemi v. Fasanmade (1988) 3 NWLR (Pt. 81) 129",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ibe v. Onuorah (1996) 9 NWLR (Pt. 474) 624",
+            "cited_by": "Counsel to Appellant"
+        }
+    ]
+}

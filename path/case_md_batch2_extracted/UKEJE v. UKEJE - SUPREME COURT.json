@@ -1,0 +1,123 @@
+{
+    "case_title": "Ukeje v. Ukeje",
+    "area_of_law": [
+        "Constitutional Law",
+        "Customary Law",
+        "Family Law",
+        "Succession Law"
+    ],
+    "subject_matter": [
+        "Right to inheritance",
+        "Discrimination based on gender",
+        "Fundamental rights",
+        "Paternity dispute",
+        "Letters of Administration"
+    ],
+    "summary": "The case concerned whether Mrs. Lois Chituru Ukeje (respondent) was entitled to inherit from her late father's (Lazarus Ogbonnaga Ukeje) estate. The respondent filed an action claiming she was a daughter of the deceased and therefore entitled to share in his estate. The deceased's wife and son (appellants) had obtained letters of administration without including her. The trial court found that the respondent was indeed the deceased's daughter based on documentary evidence including her birth certificate, photographs, and other documents. The court also declared the Igbo customary law that disinherits female children from their father's estate as unconstitutional for violating Section 42(1) and (2) of the 1999 Constitution. Both the Court of Appeal and Supreme Court upheld these findings.",
+    "outcome": "The Supreme Court dismissed the appeal, affirming that the respondent was entitled to inherit from her father's estate. The court ruled that the Igbo customary law disinheriting female children is void as it conflicts with Section 42(1) and (2) of the Constitution.",
+    "ratios": [
+        "No matter the circumstances of the birth of a female child, such a child is entitled to an inheritance from her late father's estate.",
+        "The Igbo customary law which disentitles a female child from partaking in the sharing of her deceased father's estate is in breach of section 42(1) and (2) of the Constitution.",
+        "Once documentary evidence supports oral evidence, such oral evidence becomes more credible.",
+        "When fraud is being alleged in a suit it must be pleaded, particulars given and established in evidence by proof beyond reasonable doubt."
+    ],
+    "precedents": [
+        {
+            "name": "Chinwendu v. Mbamali (1980) 3-4 SC p.31",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is settled law that unless there are special circumstances shown, this court will not disturb the concurrent findings of fact made by the lower courts - see Chinwedu vs Mbamali (1980) 3 - 4 S.C 31 at 75"
+        },
+        {
+            "name": "Ogbu v. Wokoma (2005) 14 NWLR (pt. 944) 118",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The circumstance or exceptions to the above general principle include the following:- (a) If such findings of fact are made on inadmissible evidence; or (b) If such findings of fact cannot be related to any evidence before the court; or (c) Where such findings of fact are on matters not pleaded; or (d) Where, on the whole facts before the trial court and the Court of Appeal, the findings are manifestly perverse - see Ogbu vs Wokoma supra."
+        },
+        {
+            "name": "Kimdey & Ors v. Military Governor of Gongola State & Ors (1988) Vol.19 (Pt.1) NSCC P.827",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The position of the law is that once documentary evidence supports oral evidence, such oral evidence becomes more credible. The reasoning is premised on the fact and the law that documentary evidence serves as a hanger from which to assess oral testimony. See Kimdey & Ors v. Military Governor of Gongola State & Ors 1988 Vol.19 (Pt.1) NSCC P.827"
+        },
+        {
+            "name": "Omoregbe v. Lawani 1980 5-4 SC P.117",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The position of the law is that once documentary evidence supports oral evidence, such oral evidence becomes more credible. The reasoning is premised on the fact and the law that documentary evidence serves as a hanger from which to assess oral testimony. See Kimdey & Ors v. Military Governor of Gongola State & Ors 1988 Vol.19 (Pt.1) NSCC P.827 Omoregbe v. Lawani 1980 5-4 SC P.117."
+        },
+        {
+            "name": "R. V. Benkay Nig Ltd. V. Cadbury Nig PLC (2012) 3 SC (pt.iii) p.169",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "This court would be quick to reverse concurrent findings of fact if there was miscarriage of justice or a violation of some principle of law or procedure or the finding is found to be perverse. See R. V. Benkay Nig Ltd. V. Cadbury Nig PLC (2012) 3 SC (pt.iii) p.169"
+        },
+        {
+            "name": "ACN v. Lamido & 4 Ors. (2012) SC (pt.ii) p.163",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "This court would be quick to reverse concurrent findings of fact if there was miscarriage of justice or a violation of some principle of law or procedure or the finding is found to be perverse. See R. V. Benkay Nig Ltd. V. Cadbury Nig PLC (2012) 3 SC (pt.iii) p.169 ACN v. Lamido & 4 Ors. (2012) SC (pt.ii) p.163"
+        },
+        {
+            "name": "Famuroti v. Agbeke (1991) 5 NWLR pt.189 p.1",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The long settled position of the law is that when fraud is being alleged in a suit it must be pleaded, particulars given and established in evidence by proof beyond reasonable doubt. See section 138 (1) of the Evidence Act. Famuroti v. Agbeke (1991) 5 NWLR pt.189 p.1"
+        },
+        {
+            "name": "Igbinosa v. Aiyobangbiegbe (1969) 1 ANLR p.99",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The long settled position of the law is that when fraud is being alleged in a suit it must be pleaded, particulars given and established in evidence by proof beyond reasonable doubt. See section 138 (1) of the Evidence Act. Famuroti v. Agbeke (1991) 5 NWLR pt.189 p.1, Igbinosa v. Aiyobangbiegbe (1969) 1 ANLR p.99."
+        },
+        {
+            "name": "George v. Dominion Flour Mills (1989) 1 All NLR 71",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "See the case of George v. Dominion Flour Mills (1989) 1 All NLR 71 at 102 wherein it was held that an allegation of fraud in any suit must be pleaded with utmost particularity."
+        },
+        {
+            "name": "Onamade v. A.C.B. Ltd (1997) 1 NWLR (pt.480) p.123",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The same principle was also adopted and emphasized in Onamade v. A. C. B. Ltd (1997) 1 NWLR (pt.480) p.123."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Bamgboye v. Olarenwaju (1991) 22 NSCC (Pt.1) p.501",
+            "cited_by": "Counsel to Appellant",
+            "context": "Learned counsel for the appellants' relied on Bamgboye v. Olarenwaju (1991) 22 NSCC (Pt.1) P.501 to show that the reasoning of both courts below are wrong in that fraud ought to have been pleaded before exhibits M and M1 can be considered as forgeries."
+        },
+        {
+            "name": "Sanusi v. Ameyogun (1992) 4 NWLR Pt.237 P.527",
+            "cited_by": "Counsel to Respondent",
+            "context": "Learned counsel for the respondent observed that the learned trial judge properly evaluated the evidence before concluding that the respondent is a daughter of L.O. Ukeje (deceased). He submitted that the guidelines laid down in Sanusi v. Ayemogun were followed by the learned trial judge"
+        },
+        {
+            "name": "Kim v. State (1992) 4 NWLR Pt 233 p.17",
+            "cited_by": "Court Citation",
+            "context": "It is well settled that it is the duty of the trial court which saw and heard witnesses to evaluate the evidence and pronounce on their credibility and ascribe probative value. See Kim v. State (1992) 4 NWLR Pt 233 p.17"
+        },
+        {
+            "name": "Mrs. Olajide Okelola v. Adebisi Adeleke (2004) 13 NWLR (Pt 890) 307",
+            "cited_by": "Court Citation",
+            "context": "See Mrs. Olajide Okelola v. Adebisi Adeleke (2004) 13 NWLR (Pt 890) 307"
+        },
+        {
+            "name": "Cardozo v. Daniels (1986) 2 NWLR (Pt 20)1",
+            "cited_by": "Court Citation",
+            "context": "See Mrs. Olajide Okelola v. Adebisi Adeleke (2004) 13 NWLR (Pt 890) 307, Cardozo v. Daniels (1986) 2 NWLR (Pt 20)1."
+        },
+        {
+            "name": "Union Bank Plc v. Astra Builders (WA) Ltd (2010) 5 NWLR (Pt 1185)1",
+            "cited_by": "Court Citation",
+            "context": "It is not enough for a party to make an allegation before a court, he must lead credible evidence to prove same. See Union Bank Plc v. Astra Builders (WA) Ltd (2010) 5 NWLR (Pt 1185)1"
+        },
+        {
+            "name": "Imana V Robinson (1979) 3-4 SC. 1",
+            "cited_by": "Court Citation",
+            "context": "It is not enough for a party to make an allegation before a court, he must lead credible evidence to prove same. See Union Bank Plc v. Astra Builders (WA) Ltd (2010) 5 NWLR (Pt 1185)1; Imana V Robinson (1979) 3-4 SC. 1."
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 import json
 import os
+from pathlib import Path
 
 import win32com.client
 
@@ -42,6 +43,8 @@ async def process_documents(input_dir, output_dir):
             # print(f"All documents{doc_path}")
 
             if file.endswith(".docx") or file.endswith(".doc"):
+                # does not check a file for it's extension but checks a folder for files with a particular extension
+                # if Path("/Pongo/").glob("*.docx") or Path("/Pongo/").glob("*.doc"):
                 try:
                     # print(f"Script running for: {file}")
 

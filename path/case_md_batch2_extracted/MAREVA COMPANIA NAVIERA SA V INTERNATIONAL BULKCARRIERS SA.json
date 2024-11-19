@@ -1,0 +1,54 @@
+{
+    "case_title": "Mareva compania naviera sa v international bulkcarriers sa",
+    "area_of_law": "Commercial Law",
+    "subject_matter": [
+        "Injunctive Relief",
+        "Maritime Law",
+        "Charter Parties"
+    ],
+    "summary": "The case involved shipowners (Mareva) who chartered their vessel to International Bulkcarriers on a time charter basis. The charterers defaulted on payment despite receiving £174,000 from a sub-charter to the President of India. The shipowners sought an injunction to prevent the charterers from disposing of funds held in a London bank before obtaining judgment. The case established the court's jurisdiction to grant injunctions to prevent defendants from disposing of assets before judgment, now known as a 'Mareva injunction'.",
+    "outcome": "The Court of Appeal granted and continued the injunction until judgment or further order, preventing the charterers from disposing of the funds in the London bank.",
+    "ratios": [
+        "The court has jurisdiction to grant an injunction to protect a creditor's right to be paid a debt, even before obtaining judgment, if there is a danger the debtor may dispose of assets to defeat the claim",
+        "Where it appears that a debt is due and owing, and there is danger of the debtor disposing of assets to defeat it before judgment, the court has jurisdiction in a proper case to grant an interlocutory injunction to prevent disposal of those assets"
+    ],
+    "precedents": [
+        {
+            "name": "Nippon Yusen Kaisha v Karageorgis",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "So they have applied for an injunction to restrain the disposal of those moneys which are now in the bank. They rely on the recent case of Nippon Yusen Kaisha v Karageorgis. Donaldson J felt some doubt about that decision because we were not referred to Lister & Co v Stubbs."
+        },
+        {
+            "name": "Lister & Co v Stubbs",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "There are observations in that case to the effect that the court has no jurisdiction to protect a creditor before he gets judgment. Cotton LJ said (45 Ch D 1 at 13,[1886–90] All ER Rep 797 at 799): 'I know of no case where, because it was highly probable that if the action were brought to a hearing the plaintiff could establish that a debt was due to him from the defendant, the defendant has been ordered to give security until that has been established by the judgment or decree.' And Lindley LJ said (45 Ch D 1 at 15,[18890] All ER Rep 797 at 800): '… we should be doing what I conceive to be very great mischief if we were to stretch a sound principle to the extent to which the Appellants ask us to stretch it …'"
+        },
+        {
+            "name": "Beddow v Beddow",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Beddow v Beddow ((1878) 9 Ch D 89 at 93) Jessel MR gave a very wide interpretation to that section. He said: 'I have unlimited power to grant an injunction in any case where it would be right or just to do so …'"
+        },
+        {
+            "name": "North London Railway Co v Great Northern Railway Co",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The court will not grant an injunction to protect a person who has no legal or equitable right whatever. That appears from North London Railway Co v Great Northern Railway Co. But, subject to that qualification, the statute gives a wide general power to the courts."
+        },
+        {
+            "name": "Supreme Court of Judicature (Consolidation) Act 1925",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "Now counsel for the charterers has been very helpful. He has drawn our attention not only to Lister & Co v Stubbs but also to s 45 of the Supreme Court of Judicature (Consolidation) Act 1925, which repeats s 25(8) of the Judicature Act 1873. It says: 'A mandamus or an injunction may be granted or a receiver appointed by an interlocutory Order of the Court in all cases in which it shall appear to the Court to be just or convenient …'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Lister & Co v Stubbs",
+            "cited_by": "Counsel to Charterers",
+            "context": "Now counsel for the charterers has been very helpful. He has drawn our attention not only to Lister & Co v Stubbs but also to s 45 of the Supreme Court of Judicature (Consolidation) Act 1925"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "case_title": "Mumford hotels ltd v wheler and another",
+    "area_of_law": "Property Law",
+    "subject_matter": [
+        "Insurance Obligations",
+        "Lease Agreements",
+        "Property Damage"
+    ],
+    "summary": "Mumford Hotels Ltd brought claims against the defendants regarding insurance obligations under a lease agreement. The company sought damages for inadequate insurance, declarations regarding the use of insurance money for hotel restoration, and damages for delay. The first claim alleged the lessor failed to adequately insure the property. The court held that a lessor fulfills their insurance obligation by taking and following proper advice from an insurance company. The second claim concerned whether there was an implied obligation to use insurance money for reinstatement when the lease had no express covenant requiring this. The key considerations included the lessee paying insurance premiums, the lessor's express covenant to insure, and the requirement for adequate insurance coverage.",
+    "outcome": "The first claim failed as the lessor had fulfilled their obligation by taking and following proper insurance advice. The judgment appears incomplete regarding the second claim's outcome.",
+    "ratios": [
+        "A lessor, being under an obligation to effect an adequate insurance fulfills his obligation if he takes proper advice, that is to say from the insurance company and follows it",
+        "Where a landlord insures, the tenant has no equity to compel him to pay out the money"
+    ],
+    "precedents": [
+        {
+            "name": "Lees v Whiteley",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Lees v. Whiteley was a case between mortgagee and mortgagor, where there was a covenant by the mortgagor to insure, but none to reinstate. Kindersley V.-C. said: 'the present is not the case of the mortgage of premises on which there was a policy existing at the time of the mortgage, nor is there here a covenant that the policy money shall be applied in restoring the premises; but it is merely an assignment by bill of sale of machinery, containing a covenant to insure; and it would be impossible to hold, as was done in the case of Garden v. Ingram, that the benefit of the policy passed by the assignment, as the policy at the time did not exist. It appears to me that that case does not govern the present, and that if the plaintiff's contention can be sustained, it must stand on the footing that by reason of the covenant to insure there is an implied contract with the mortgagee that the policy moneys should be applied in liquidation of the mortgage debt. The question then comes to this: Can I imply such a covenant from the language of the bill of sale? and on examination of the terms of that instrument I am of opinion that I cannot.'"
+        },
+        {
+            "name": "Leeds v Cheetham",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Leeds v. Cheetham shows that where a landlord insures, the tenant has no equity to compel him to pay out the money. The case was decided upon demurrer, and the sidenote reads as follows: 'A tenant has no equity to compel his landlord to expend money received from an insurance office, on the demised premises being burnt down, in rebuilding the premises, or to restrain the landlord from suing for the rent until the premises are rebuilt.' Sir John Leach V.-C. said: 'With respect to the equity which the plaintiff alleges to arise from the defendant's receipt of the insurance money, there is no satisfactory principle to support it. The defendant having so contracted with the plaintiff as to render himself liable to rebuild the outer work of the factory in case of accident by fire, has very prudently protected himself by insurance from the loss he would otherwise have sustained by such an accident.'"
+        },
+        {
+            "name": "Lofft v Dennis",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "This case was followed in Lofft v. Dennis, a common law case, where Lord Campbell C.J. in an interlocutory observation during the argument, replying to the suggestion of counsel that a tenant had a right to relief in the circumstances, said: 'Surely not unless the landlord had covenanted to insure. It might as well be contended that the tenant was entitled to relief if the landlord got a prize in a lottery.'"
+        },
+        {
+            "name": "Barnes v City of London Real Property Co",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "In Barnes v. City of London Real Property Co"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Garden v Ingram",
+            "cited_by": "Referenced in Lees v Whiteley judgment"
+        }
+    ]
+}

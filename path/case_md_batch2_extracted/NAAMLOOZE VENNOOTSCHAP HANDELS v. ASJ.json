@@ -1,0 +1,56 @@
+{
+    "case_title": "Naamlooze vennootschap handels v. Asj",
+    "area_of_law": [
+        "Contract law",
+        "Maritime law",
+        "Commercial law"
+    ],
+    "subject_matter": [
+        "Time charter disputes",
+        "Arbitration",
+        "Limitation of actions",
+        "Overpayment claims"
+    ],
+    "summary": "The case involved a Dutch company (appellants) claiming against Norwegian shipowners (respondents) regarding overpayments of charter hire for two vessels over 19 years. The overpayments were based on incorrect dead-weight carrying capacity calculations. The arbitrator found the vessels were indeed short of stated capacity and that payments were made under mutual mistake. However, the case primarily focused on whether the Statute of Limitations (Limitation Act 1623) applied to arbitration proceedings and when the arbitration commenced. The arbitrator, trial judge, and Court of Appeal all ruled against the appellants, finding that the Limitation Act applied and the arbitration commenced on October 20, 1932, making the claims time-barred.",
+    "outcome": "The House of Lords dismissed the appeal, confirming that the Limitation Act 1623 was applicable in commercial arbitrations and that the arbitration commenced on October 20, 1932.",
+    "ratios": [
+        "In mercantile references it is an implied term of the contract that the arbitrator must decide the dispute according to the existing law of contract, and every defence which would have been open in a court of law can be equally proponed for the arbitrator's decision unless the parties have agreed to exclude that defence",
+        "The principles of equity must be applied in a modern arbitration just as they would now be applied in a court of law"
+    ],
+    "precedents": [
+        {
+            "name": "Hovenden v. Annesley (Lord)",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "There is, however, no doubt that long before the Judicature Act 1873, where a court of equity had to adjudicate on the validity of a debt in a suit to administer an estate, or in any like suit, it held itself bound to apply the Statutes of Limitations in precisely the same way as if there were an action at law to recover the debt. There have been different reasons given for this practice (see Hovenden v. Annesley (Lord), at p 631, Knox v. Gye, at pp 674, 684, and see the cases referred to in Hanbury's Modern Equity, p 76 n.)"
+        },
+        {
+            "name": "Knox v. Gye",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "There have been different reasons given for this practice (see Hovenden v. Annesley (Lord), at p 631, Knox v. Gye, at pp 674, 684, and see the cases referred to in Hanbury's Modern Equity, p 76 n.)"
+        },
+        {
+            "name": "Board of Trade v. Cayzer, Irvine & Co",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "The hesitation or the doubts expressed by Scrutton LJ, in Board of Trade v. Cayzer, Irvine & Co, appear to be mainly directed against the laying down of an absolute and general rule applicable in all kinds of arbitration. At least, that is how I understand them, and, if I may say so with all respect, to that extent I agree with them. The remarks of Viscount Cave LC, in the same case, when the matter came before this House, certainly tend to show that, in his view, in commercial arbitrations an arbitrator is bound to give effect to all legal defences, including a defence under any Statute of Limitation."
+        },
+        {
+            "name": "Ram Dutt Ramkissendass v. E D Sassoon & Co",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "On a careful consideration of all the cases, I am content to say that I agree with what was said by Lord Salvesen, delivering the judgment of the Board in Ram Dutt Ramkissendass v. E D Sassoon & Co. In that case the Indian Limitation Act 1908 (the relevant period being three years), was taken for practical purposes to be the same as the Limitation Act 1623, and Lord Salvesen observed, at p 62: 'Although the Limitation Act does not in terms apply to arbitrations, they [their Lordships of the Judicial Committee] think that in mercantile references of the kind in question it is an implied term of the contract that the arbitrator must decide the dispute according to the existing law of contract, and that every defence which would have been open in a court of law can be equally proponed for the arbitrator's decision unless the parties have agreed—which is not suggested here—to exclude that defence.'"
+        }
+    ],
+    "counsel_precedents": [],
+    "legislation_cited": [
+        "Limitation Act 1623",
+        "Civil Procedure Act 1833",
+        "Mercantile Law Amendment Act 1856",
+        "Arbitration Act 1934",
+        "Judicature Act 1873",
+        "Arbitration Act 1925",
+        "Indian Limitation Act 1908"
+    ]
+}

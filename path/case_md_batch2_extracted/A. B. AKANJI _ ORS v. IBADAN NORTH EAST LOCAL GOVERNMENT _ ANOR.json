@@ -1,0 +1,132 @@
+{
+    "case_title": "A. B. Akanji & ors v. Ibadan north east local government & anor",
+    "area_of_law": [
+        "Administrative Law",
+        "Property Law"
+    ],
+    "subject_matter": [
+        "Jurisdiction",
+        "Legal Practice",
+        "Property Rights",
+        "Market Allocation",
+        "Local Government Powers"
+    ],
+    "summary": "This case involves an appeal against a ruling by Justice Akinteye of the Oyo State High Court that dismissed the appellants' application to strike out the amended statement of defense of the first respondent. The original case concerned the forcible ejection of traders from Mammy Market, Iwo Road, Ibadan, and destruction of their shops by the local government. The appellants sought declarations about the illegality of their ejection without proper notice and requested restoration of their market plots. However, the case took a jurisdictional turn when it was discovered that the original court processes were signed by a law firm (Oluwole Aluko & Co) rather than an individual legal practitioner. The Court of Appeal, following Supreme Court precedents like Okafor v. Nweke, held that this rendered the entire proceedings null and void from inception, as only individuals registered as legal practitioners can sign court processes, not law firms. Despite subsequent amendments to the court processes, the fundamental jurisdictional defect could not be cured.",
+    "outcome": "The Court of Appeal upheld the preliminary objection and struck out the appeal for lack of jurisdiction, ruling that the original processes were void ab initio and could not be cured by amendment.",
+    "ratios": [
+        "Signing of originating process in any proceeding by a non legal practitioner such as a law firm will render the process null and void and deprive the Court of jurisdiction to entertain the case",
+        "Once a process is void, it is void for all purposes, any action based on the void process comes to nothing and is also a nullity",
+        "Where there is no jurisdiction, all steps taken in the case come to nothing, no matter how brilliantly the case was presented",
+        "The fatal effect of signing of an originating process by a law firm is that the entire suit was incompetent ab initio. It was dead at the point of filing"
+    ],
+    "precedents": [
+        {
+            "name": "Okafor v. Nweke (2007) 3 SC (PT.2) 55",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The Supreme Court finally dropped the hammer in 2007 in the case of OKAFOR V NWEKE (2007) 10 NWLR (PT. 1043) 521. All Court processes prepared and signed in the name of a law firm were declared incompetent, null and void. The outcome was devastating. Cases concluded years back and pending on appeal fell under the hammer. Many were thrown out for lack of jurisdiction."
+        },
+        {
+            "name": "Madukolu v. Nkemdilim (1962) 2 SCNLR 341",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "Whether or not a Court has jurisdiction goes to the root of the matter and where there is no jurisdiction, all steps taken in the case come to nothing, no matter how brilliantly the case was presented. See MADUKOLU VS. NKEMDILIM (1962) 2 SCNLR 341."
+        },
+        {
+            "name": "Registered Trustees, The Apostolic Church v. R. Akindele (1967) NMLR 263",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "See also the following cases: REGISTERED TRUSTEES, THE APOSTOLIC CHURCH V. R. AKINDELE (1967) NMLR 263"
+        },
+        {
+            "name": "SLB Consortium Ltd v. NNPC (2011) 4 SC (PT.1) 86",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "Jurisdiction is the pillar upon which the entire case before a Court stands. Filing an action in a Court of law presupposes that the Court has jurisdiction. But once the Defendant shows that the Court has no jurisdiction, the foundation of the case is not only shaken but is entirely broken. In effect, there is no case before the Court for adjudication and therefore the parties cannot be heard on the merits of the case."
+        },
+        {
+            "name": "F.B.N. v. Maiwada (2013) 5 NWLR (PT. 1348) 444",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The decision in Okafor v Nweke was based on substantive law, an Act of the National Assembly i.e. the Legal Practitioners Act. It is not based on Rules of Court. According to Oguntade, JSC at page 534 of the judgment in Okafor v. Nweke: It would have been quite another matter if what is in issue is non compliance with Court Rules. Let me say it bluntly that where the provisions of an Act like Legal Practitioners Act is at play, as herein, provisions of Rule of Court which are subject to the law must take side line."
+        },
+        {
+            "name": "UAC v. Mcfoy (1962) AC 152",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "In the prevailing circumstances all the proceedings which rested on the inchoate originating summons are deemed not to have taken place in law. One cannot put something on nothing and expect it to stand. This is as stated decades ago in UAC vs. Mcfoy (1962) AC 152 at 160."
+        },
+        {
+            "name": "Ministry of Works & Transport, Adamawa State v. Alhaji Isiyaku Yakubu & Anor. (2013) VOL.1 MJSC (PT. II)",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The fatal effect of signing of an originating process by a law firm is that the entire suit was incompetent ab initio. It was dead at the point of filing. This highlights the painful realities that confront a litigant when counsel fails to sign processes as stipulated by law. The originating process, as in this case, is fundamentally defective and incompetent. It is inchoate, legally non-existent and can therefore not be cured by way of an amendment."
+        },
+        {
+            "name": "Utih v. Onoyivwe (1991) 1 SC (PT.1) 61",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Jurisdiction is blood that gives life to the survival of an action it will be like an animal that has been drained of its blood. It will cease to have life and any attempt to resuscitate it without infusing blood into it would be an abortive exercise."
+        },
+        {
+            "name": "Alawiye v. Ogunsanya (2012) LPELR-19661(SC)",
+            "tag": "Cited",
+            "document_type": "Case"
+        },
+        {
+            "name": "Hamzat v. Sanni & Ors (2015) LPELR-24302(SC)",
+            "tag": "Cited",
+            "document_type": "Case"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Unity Bank Plc v. Denlag Ltd. (2012) NWLR Part 1332 Page 293",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nwosu v. Imo State Environmental Sanitation (1990) 2 NWLR Part 135 Page 588",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Oguma Associates Co. Nig. Ltd. v. IBWALTA (1988) 3 SC Page 20",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Wimpey Nig. Ltd. v. Kelani Balogun (1986) 2 NWLR Part 28 Page 324",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Aro v. Fabolude (1983) s2 SC Page 75",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Cardozo v. Daniel (1986) 2 SC Page 491",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Newswatch Communications v. Attah (2006) All FWLR (Pt. 318) P. 580",
+            "cited_by": "Court Reference"
+        },
+        {
+            "name": "Bob-Manuel v. Briggs (1995) 7 NWLR (Pt. 409) p. 537",
+            "cited_by": "Court Reference"
+        },
+        {
+            "name": "Shettima & Anor v. Goni & Ors (2011) 18 NWLR (Pt. 1279) p.413",
+            "cited_by": "Court Reference"
+        },
+        {
+            "name": "Dingyadi v. INEC (No. 1) (2010) 18 NWLR (Pt. 1224) 1",
+            "cited_by": "Court Reference"
+        },
+        {
+            "name": "Elabanjo v. Dawodu (2006) 6-7 SC 24",
+            "cited_by": "Counsel to 1st Respondent"
+        },
+        {
+            "name": "Katto v. C.B.N (1991) 11-12 (PT. 1) SC 176",
+            "cited_by": "Counsel to 1st Respondent"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "case_title": "Jones v. Oceanic steam navigation company limited",
+    "area_of_law": [
+        "Contract law",
+        "Maritime law",
+        "Private international law"
+    ],
+    "subject_matter": [
+        "Passenger injury claims",
+        "Contractual liability",
+        "Choice of law",
+        "Notice requirements",
+        "Limitation of liability clauses"
+    ],
+    "summary": "The case involved a British passenger who suffered injuries on the steamship Majestic due to a negligently secured porthole glass. The injury occurred during a voyage from New York to Southampton, with the contract made in Detroit. The key legal issues centered on whether English or American law governed the contract, and whether certain contractual conditions exempted the defendants from liability. While negligence was established and damages provisionally assessed at £1,073.10s, the court ultimately ruled for the defendants because the plaintiff failed to comply with a contractual condition requiring notice of claim within three days of landing.",
+    "outcome": "Judgment for the defendants due to the plaintiff's failure to comply with the notice requirement in the contract's ninth condition.",
+    "ratios": [
+        "Where a contract is made in one country to be performed wholly or partly in another country, the court will look at all circumstances to ascertain by which country's law the parties intended the contract to be governed",
+        "The principle of ejusdem generis applies to interpretation of exemption clauses unless there is clear indication to exclude its application",
+        "A purser does not have express or implied authority to alter contract terms or waive contractual conditions"
+    ],
+    "precedents": [
+        {
+            "name": "In re Missouri Steamship Co",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It was laid down in In re Missouri Steamship Co. (1) that where a contract is made in one country to be performed wholly or partly in another country the Court will look at all the circumstances to ascertain by the law of which country the parties may be presumed to have intended the contract to be governed, and will enforce it accordingly unless it should contain stipulations contrary to morality or expressly forbidden by positive law. In that case the contract was made between an American citizen and a British company of shipowners for the carriage of cattle from Boston to England in a British ship, and it contained a stipulation that was valid according to English law but was void by the law of Massachusetts on the same grounds as those on which the condition under consideration in the present case is void according to the lex loci contractus."
+        },
+        {
+            "name": "Hamlyn & Co. v. Talisker Distillery",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The principle that in case of a conflict of laws the presumed intention of the contracting parties is the governing factor in the question what law is to be applied was affirmed by the House of Lords in Hamlyn & Co. v. Talisker Distillery."
+        },
+        {
+            "name": "Ryan v. Oceanic Steam Navigation Co",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "In Ryan v. Oceanic Steam Navigation Co. Vaughan Williams and Kennedy L.JJ. used language which might be taken as indicating that they thought the condition should receive the wide interpretation contended for. But in that case the negligence was in the navigation of the vessel, and navigation is one of the matters specifically mentioned in the condition. The question, therefore, of the application of the rule of ejusdem generis did not arise."
+        },
+        {
+            "name": "Larsen v. Sylvester & Co",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "There is not in the terms of the contract under consideration any indication of an intention to exclude that rule such as there was in Larsen v. Sylvester & Co."
+        },
+        {
+            "name": "Grant v. Norway",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It was not in my opinion within the express or implied authority of the purser to alter the terms of the contract or to waive any of its conditions: see Grant v. Norway"
+        },
+        {
+            "name": "Pearson v. Goschen",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It was not in my opinion within the express or implied authority of the purser to alter the terms of the contract or to waive any of its conditions: see Grant v. Norway; Pearson v. Goschen"
+        },
+        {
+            "name": "Barnett, Hoares & Co. v. South London Tramways Co",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It was not in my opinion within the express or implied authority of the purser to alter the terms of the contract or to waive any of its conditions: see Grant v. Norway; Pearson v. Goschen, or to make any such representation, and there is therefore no waiver or estoppel binding the defendants: see Barnett, Hoares & Co. v. South London Tramways Co."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "The Kensington",
+            "cited_by": "Counsel to Plaintiff",
+            "context": "The Kensington was cited. I entertain no doubt that according to the law in force in Detroit, where the contract was made, and also in New York, where the voyage began, such a condition is treated as void, either as being contrary to public policy or as lacking the ingredient of voluntary assent."
+        },
+        {
+            "name": "In re Richardsons and Samuel & Co",
+            "cited_by": "Counsel to Plaintiff",
+            "context": "It was argued for the plaintiff, on the other hand, that the rule of ejusdem generis applied to the words 'causes of any kind,' and that only such negligence or default was comprised in the condition as related to the matters specified or matters ejusdem generis therewith, and the cases of In re Richardsons and Samuel & Co. were cited."
+        },
+        {
+            "name": "Thorman v. Dowgate Steamship Co",
+            "cited_by": "Counsel to Plaintiff",
+            "context": "It was argued for the plaintiff, on the other hand, that the rule of ejusdem generis applied to the words 'causes of any kind,' and that only such negligence or default was comprised in the condition as related to the matters specified or matters ejusdem generis therewith, and the cases of In re Richardsons and Samuel & Co. and Thorman v. Dowgate Steamship Co. were cited."
+        },
+        {
+            "name": "Missouri, etc., Ry. Co. v. Harriman",
+            "cited_by": "Counsel to Plaintiff",
+            "context": "But it was contended on behalf of the plaintiff, first, that the contract is governed by American law, according to which such a condition is not valid unless it is reasonable, Missouri, etc., Ry. Co. v. Harriman and Gooch v. Oregon Short Line Railroad Co. being cited"
+        },
+        {
+            "name": "Gooch v. Oregon Short Line Railroad Co",
+            "cited_by": "Counsel to Plaintiff",
+            "context": "But it was contended on behalf of the plaintiff, first, that the contract is governed by American law, according to which such a condition is not valid unless it is reasonable, Missouri, etc., Ry. Co. v. Harriman and Gooch v. Oregon Short Line Railroad Co. being cited"
+        },
+        {
+            "name": "The Henry S. Grove",
+            "cited_by": "Counsel to Plaintiff",
+            "context": "secondly, that the condition had in substance been satisfied, because certain reports had been made to the defendants by the surgeon and others giving full particulars of the accident: see The Henry S. Grove"
+        }
+    ]
+}

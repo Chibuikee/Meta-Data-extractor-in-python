@@ -1,0 +1,119 @@
+{
+    "case_title": "Adeniran Adeyemi v. Raimi Olaore Baale",
+    "area_of_law": "Property Law",
+    "subject_matter": [
+        "Land Dispute",
+        "Trespass",
+        "Jurisdiction"
+    ],
+    "summary": "The case involves a land dispute where the Appellant claimed ownership of land at Olunde Olojuoro road, Ibadan, through his father's purchase from the Opayemi Family in 1976. He sought damages for trespass and destruction of property by the Respondents, who claimed the land belonged to their Olaore Ige Family. The Appellant obtained an ex-parte injunction but failed to prosecute, leading to the case being struck out. After relisting, the trial court dismissed the Appellant's claims and partially granted the Respondents' counter-claim. The appeal centered on various grounds, including the trial judge's refusal to visit the locus in quo and jurisdictional issues. The Court of Appeal found that both the original writ of summons and counter-claim were signed by law firms rather than individual legal practitioners, rendering them void under the Legal Practitioners Act. Consequently, the entire proceedings were declared a nullity for lack of jurisdiction.",
+    "outcome": "The Court of Appeal allowed the appeal and set aside the judgment of Oyo State High Court for lack of jurisdiction, as both the originating process and counter-claim were incompetent, having been signed by law firms rather than individual legal practitioners.",
+    "ratios": [
+        "For a Court to be competent to assume jurisdiction three conditions must be satisfied: The Court must be properly constituted as regards number and qualification of members of the bench; The subject matter of the case must be within the jurisdiction of the Court; The case must come before the Court initiated by due process of law and upon fulfillment of all conditions precedent to the exercise of jurisdiction.",
+        "A court process can only be signed by a legal practitioner and whenever a Court process is signed by a law firm, it renders the process incompetent and is bound to be struck down. If the process is an originating process, it deprives the Court of jurisdiction to entertain the matter."
+    ],
+    "precedents": [
+        {
+            "name": "Oloba v. Akereja (1988) 3 NWLR (PT. 84) 508",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The issue of jurisdiction is very fundamental as it goes to the competence of the Court or Tribunal. If a Court or Tribunal is not competent to entertain a matter or claim or suit, it is a waste of valuable time for the Court to embark on the hearing and determination of the suit, matter or claim. It is therefore an exhibition of wisdom to have the issue of jurisdiction or competence determined before embarking on the hearing and determination of the substantive matter. The issue of jurisdiction being a fundamental issue, it can be raised at any stage of the proceedings in the Court of first instance or in the Appeal Courts. This issue can be raised by any of the parties or by the Court itself suo motu."
+        },
+        {
+            "name": "Odiase v. Agho (1972) 1 ALL FWLR (PT.1) 170",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "When there are sufficient facts ex facie on the record establishing a want of competence or jurisdiction in the Court it is the duty of the Judge or Justices to raise the issue suo motu if the parties fail to draw the Court's attention to it, see Odiase v. Agho (supra)."
+        },
+        {
+            "name": "Madukolu v. Nkemdilim (1962) 2 SCNLR 341",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is the locus classicus for the trite principle that for a Court to be competent to assume jurisdiction three conditions must be satisfied: 1. The Court must be properly constituted as regards number and qualification of members of the bench. 2. The subject matter of the case must be within the jurisdiction of the Court. 3. The case must come before the Court initiated by due process of law and upon fulfillment of all conditions precedent to the exercise of jurisdiction."
+        },
+        {
+            "name": "Registered Trustees, The Apostolic Church v. R. Akindele (1967) NMLR 263",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It is now well established by Statute and a plethora of authorities that a court process can only be signed by a legal practitioner and that whenever a Court process is signed by a law firm, it renders the process incompetent and is bound to be struck down."
+        },
+        {
+            "name": "Oketade v. Adewunmi (2010) ALL FWLR (PT. 526) 511",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "There is a big legal distinction between the name of a firm of legal practitioners and a legal practitioner simpliciter. While the name of Olujimi and Akeredolu is a firm with some corporate existence, the name of a legal practitioner is a name qua Solicitor and Advocate of the Supreme Court of Nigeria which has no corporate connotation. As both carry different legal entities in our jurisdiction of parties, one cannot be a substitute for the other because they are not synonyms. It is clear that Olujimi and Akeredolu is not a name of a legal practitioner and that violates Sections 2 (1) and 24 of the Legal Practitioners Act."
+        },
+        {
+            "name": "Macfoy v. UAC (1962) AC 150",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The time tested principle of law as expounded in MACFOY V. UAC (1962) AC 150 @ 160 is that one cannot put something on nothing, it will collapse. Once the Writ and Statement of Claim are held void, the proceedings founded thereon must be nullified."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Okafor v. Nweke (2007) 10 NWLR (PT. 1043) 521",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "S.L.B. Consortium Ltd v. NNPC (2001) 9 NWLR (PT. 1252) 317",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "F.B.N. PLC v. Maiwada (2013) 5 NWLR (PT.1348) 444",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Macfoy v. U.A.C. Ltd (1962) AL 152",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Madukolu v. Nkemdilim (1962) SCNLR 341",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Obadan v. State (2002) FWLR (PT. 113) 299",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Opobiyi v. Muniru (2011) 12 SC (PT. 111) 83",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Aloba v. Akereja (1988) 3 NWLR (PT. 84) 508",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Odiase v. Agbo (1972) 1 ALL FWLR (PT.1) 170",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "SLB Construction Ltd v. NNPC (2011) 4 SC (PT. 1) 86",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Braithwaite v. Skye Bank PLC (2012) 12 SC (PT. 1) 1",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Dangana & Anor v. Usman & Ors (2012) 2 SC (PT. 111) 103",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "NURTW & Anor v. RTEAN & Ors (2012) 1 SC (PT. 11) 116",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "FBN v. Maiwada (2013) ALL FWLR (PT. 661) 1433",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Registered Trustees of UAMC v. Enemuo (2015) ALL FWLR (PT. 810) 1026",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Hamzat v. Sanni (2015) ALL FWLR (PT.776) 436",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

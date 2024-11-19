@@ -1,0 +1,86 @@
+{
+    "case_title": "Williams v Williams",
+    "area_of_law": [
+        "Family Law",
+        "Matrimonial Causes"
+    ],
+    "subject_matter": [
+        "Child Custody",
+        "Divorce",
+        "Welfare of Children"
+    ],
+    "summary": "This case concerns a custody dispute over Kafilat Abimbola Williams, the only daughter among three children of divorced parents. While the father had custody of the two sons who were studying in England, the mother had been caring for the daughter since their separation in 1975. The trial court granted custody of the daughter to the mother, but the Court of Appeal reversed this decision. The Supreme Court ultimately ordered joint custody, with the mother retaining care and control while the father would be responsible for education expenses. The court emphasized that the paramount consideration in custody matters is the welfare of the child, rather than the rights or preferences of either parent.",
+    "outcome": "The Supreme Court allowed the appeal and ordered joint custody of Kafilat Abimbola Williams, with the mother exercising care and control while the father takes charge of the child's education and related expenses.",
+    "ratios": [
+        "The welfare of the child is the first and paramount consideration in custody matters, not the claims of either parent",
+        "The custody order is not a penal order on either parent but imposes a responsibility not to be lightly taken",
+        "For a child of tender years, education outside the proper environment (country of origin) is bound to give a distorted view of life and cannot be in the best interest of the child",
+        "An order for joint custody is appropriate where both parents are qualified and likely to cooperate in the child's interest"
+    ],
+    "precedents": [
+        {
+            "name": "University of Lagos and Anor. v. M. I. Aigoro (1985) 1 N.W.L.R. (Pt. 1) 143",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It has been well settled by several authorities that if judicial discretion has been exercised not in bad faith, frivolously, or vexatiously but judiciously and judicially a higher tribunal should not disturb it because it would have exercised that discretion differently."
+        },
+        {
+            "name": "Olaniyan v. University of Lagos (1985) 2 N.W.L.R. (Pt. 9) 599",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It has been well settled by several authorities that if judicial discretion has been exercised not in bad faith, frivolously, or vexatiously but judiciously and judicially a higher tribunal should not disturb it."
+        },
+        {
+            "name": "Kodilinye v. Odu (1935) 2 W.A.C.A. 336",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is however well settled principle that a Plaintiff can only succeed on the strength of his own case, and not on the weakness of the case of the opponent."
+        },
+        {
+            "name": "Enebeke v. Enebeke (1964) 1 All NLR 102",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The Court of Appeal by granting custody to the Respondent on the evidence before him was substituting his discretion for that of the trial Court. This Court of appeal cannot do so."
+        },
+        {
+            "name": "Re L (infants) (1962) 3 All ER. 1",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "By paramount consideration, I mean pre-eminent and superior consideration. In Re L (infants) (1962) 3 All ER. 1, it was held that 'paramount' does not mean exclusive. So regard should be had to considerations other than the predominant factor."
+        },
+        {
+            "name": "Jammal Engineering Co. Ltd. v. Mist (Nigeria) Ltd. (1972) 1 All NLR (Pt. 1) 322",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "I agree that an exercise of discretion founded on irrelevant considerations, or on matters not before the Court as the trial Judge did in this case, will be set aside on appeal."
+        },
+        {
+            "name": "Re O (infants) (1971) 2 All E.R. 744",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is apposite to refer to the views of Davies L.J. in Re O (infants) (1971) 2 All E.R. 744 at 748. The learned Justice of the Court of Appeal in England said, and I agree with him, that, 'In my considered opinion the law now is that if an appellate court is satisfied the decision of the court below is wrong it is its duty to say so and to act accordingly ... Every Court has a duty to do its best to arrive at a proper and just decision. And if an appellate court is satisfied that the decision of the court below is improper, unjust or wrong then the decision must be set aside.'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "In re O'Hara (1900) 2 I.R. 232",
+            "cited_by": "Counsel to Appellant",
+            "context": "It has been held that if a parent could provide a home and the necessities of life to a child, he or she should not be deprived of custody unless guilty of misconduct."
+        },
+        {
+            "name": "Laxton v. Laxton and Eaglan (1966) 2 All ER 977",
+            "cited_by": "Trial Judge",
+            "context": "The desire of the petitioner that the girl be allowed to enjoy the more comfortable and sophisticated environment of her brothers is quite understandable but if one were to accede to that wish, one would be running the risk involved in breaking the tie which must have existed between the respondent and her daughter."
+        },
+        {
+            "name": "W v. W (1971) 117 Sol. J. 367 CA",
+            "cited_by": "Court of Appeal",
+            "context": "Although sometimes when evidence given by the parties on the issue of custody is insufficient, a new trial may be ordered."
+        },
+        {
+            "name": "H v. H & C (1969) 1 All ER 262",
+            "cited_by": "Court of Appeal",
+            "context": "The absence of the respondent in this case made it impossible to judge either her character which could be decisive in such matters or to know that she has been exercising good care and attention on the girl in question."
+        }
+    ]
+}

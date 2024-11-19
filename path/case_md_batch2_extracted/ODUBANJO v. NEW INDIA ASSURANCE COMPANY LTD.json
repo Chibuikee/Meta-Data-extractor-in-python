@@ -1,0 +1,41 @@
+{
+    "case_title": "Odubanjo v. New India Assurance Company Ltd",
+    "area_of_law": "Insurance Law, Tort Law",
+    "subject_matter": [
+        "Third Party Insurance",
+        "Motor Vehicle Insurance",
+        "Negligence Claims"
+    ],
+    "summary": "This case involved a novel action where the plaintiff sought damages directly from an insurance company (New India Assurance Company Ltd) rather than the tortfeasor who caused damage to their vehicle. The plaintiff claimed £2,011.18s.8d for damages to their car (No. LK 7733) allegedly caused by an insured vehicle (No. LK 9988). The claim failed to identify either the insured person or the negligent driver. The defendant insurance company filed a motion to strike out the suit for failing to disclose a reasonable cause of action. The court determined that an action in tort for negligent driving is an 'actio personalis' that must be brought against the wrongdoer, as only they and the plaintiff are aware of the collision circumstances.",
+    "outcome": "The court struck out the action as being without substance, with costs of 20 guineas awarded to the defendant company. The plaintiff was permitted to proceed afresh after properly structuring their case.",
+    "ratios": [
+        "At common law a person injured by reason of another person's wrong-doing has no right of action against insurers who have undertaken to indemnify the wrongdoer; his only cause of action is against the other person who has committed the wrong, whether the wrong falls to be regarded as a tort or as a breach of contract",
+        "An action in tort for negligent drive is an 'actio personalis' which must be brought against the wrong-doer for only he and the plaintiff are aware of the circumstances in which the collision occurred"
+    ],
+    "precedents": [
+        {
+            "name": "Third Parties (Rights against Insurers) Act, 1930",
+            "tag": "Cited",
+            "document_type": "Legislation",
+            "context": "At common law a person injured by reason of another person's wrong-doing has no right of action against insurers who have undertaken to indemnify the wrongdoer; his only cause of action is against the other person who has committed the wrong, whether the wrong falls to be regarded as a tort or as a breach of contract. The first invasion of this principle occurred when the Third Parties (Rights against Insurers) Act, 1930, received the Royal Assent on 10th July 1930. This Act enables a third party, who has a claim against an assured, to establish a direct right of action against the assured's insurers if the assured becomes insolvent; if this condition is fulfilled, the third party is afforded such remedies as the assured had against his insurers."
+        },
+        {
+            "name": "Halsbury's Laws of England Vol. 22 para. 762 (3rd Edition)",
+            "tag": "Cited",
+            "document_type": "Book",
+            "context": "A passage from the 3rd Edition of Halsbury's Laws of England Vol. 22 para. 762 to which my attention was drawn by Mr. K. Sofola for the defendant is relevant on this point. It reads as follows:- 'At common law a person injured by reason of another person's wrong-doing has no right of action against insurers who have undertaken to indemnify the wrongdoer...'"
+        },
+        {
+            "name": "Motor Vehicles (Third Party Insurance) Act Cap 126",
+            "tag": "Cited",
+            "document_type": "Legislation",
+            "context": "There is no need for me to set out the provisions of the Motor Vehicles (Third Party Insurance) Act Cap 126 but suffice it to say that s.10 is the equivalent to the provision contained above. Section 11 is the equivalent of the provision in the English Act of 1930 dealing with the rights that accrue on proof of the insolvency etc. of the insured."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Halsbury's Laws of England Vol. 22 para. 762",
+            "cited_by": "Mr. K. Sofola for the defendant"
+        }
+    ]
+}

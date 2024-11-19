@@ -1,0 +1,73 @@
+{
+    "case_title": "Halifax building society and another v. Keighley and another",
+    "area_of_law": [
+        "Property Law",
+        "Insurance Law",
+        "Mortgage Law"
+    ],
+    "subject_matter": [
+        "Mortgagee's rights over insurance proceeds",
+        "Fire insurance policies",
+        "Multiple insurance coverage",
+        "Application of insurance money"
+    ],
+    "summary": "The case concerned a mortgage deed from 1919 where Halifax Building Society (mortgagee) had the power to effect fire insurance on the mortgaged property. The society maintained two insurance policies with Alliance Assurance Company, while the mortgagors (Keighleys) separately insured with Car and General Insurance Corporation. After a fire in 1930, due to a ratable proportion clause in the Alliance policies, their payout was reduced by £525 14s. 7d. The mortgagee sought to recover this amount from the mortgagors who had received it from their separate insurer. The court examined whether the mortgagee had any right to these insurance proceeds under various legal grounds including the Law of Property Act 1925 and the Conveyancing Act 1881.",
+    "outcome": "The court ruled in favor of the defendants (Keighleys), dismissing the plaintiffs' claim with costs. The court found no statutory or contractual basis for the mortgagee to claim the insurance money received by the mortgagors from their separate insurance policy.",
+    "ratios": [
+        "Apart from special contract or the provisions of some statute, a mortgagee has no interest in the moneys payable under a policy of insurance effected by a mortgagor on the mortgaged premises",
+        "The existence of insurance is obviously to some extent for the benefit of the mortgagee, although there was no obligation on the mortgagor to apply the insurance moneys in any particular way",
+        "Were I to imply such a covenant from the language of the bill of sale I should be making a new contract between the parties"
+    ],
+    "precedents": [
+        {
+            "name": "Lees v. Whiteley",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It was held in the case of Lees v. Whiteley that the plaintiff, an assignee under a bill of sale of certain chattels, had no claim to the benefit of a policy against fire effected by the mortgagor. The deed contained a covenant to insure, but no provision for the application of the policy moneys in case of fire. The plaintiff was claiming there that he was entitled to have the money received by the mortgagor applied to the reduction or liquidation of the mortgage debt. Kindersley V.-C. said it was an assignment by bill of sale of machinery containing a covenant to insure, and that there were no terms as to the benefit of the policy passing by the assignment, and the learned Vice-Chancellor proceeds in this way: 'If the plaintiff's contention can be sustained, it must stand on the footing that by reason of the covenant to insure there is an implied contract with the mortgagee that the policy moneys should be applied in liquidation of the mortgage debt. The question then comes to this: Can I imply such a covenant from the language of the bill of sale? and on examination of the terms of that instrument I am of opinion that I cannot. Were I to do so I should be making a new contract between the parties.'"
+        },
+        {
+            "name": "Sinnott v. Bowden",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "That decision was expressly approved by Parker J. (as he then was) in Sinnott v. Bowden. He there says: 'It is, I think, clear that, apart from special contract or the provisions of some statute, a mortgagee has no interest in the moneys payable under a policy of insurance effected by a mortgagor on the mortgaged premises'"
+        },
+        {
+            "name": "In re J. E. Doherty",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "I have been referred to an authority to the same effect, an authority which does not bind me, but which I should treat with respect, which in fact agrees with the view I have independently formed. That is the Irish case of In re J. E. Doherty."
+        },
+        {
+            "name": "Law of Property Act, 1925",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "The statutory rights of the parties, if any, must therefore depend upon s. 108, sub-s. 4, of the Law of Property Act, 1925. That sub-section is in these terms: 'Without prejudice to any obligation to the contrary imposed by law, or by special contract, a mortgagee may require that all money received on an insurance of mortgaged property against loss or damage by fire or otherwise effected under this Act, or any enactment replaced by this Act, or on an insurance for the maintenance of which the mortgagor is liable under the mortgage deed, be applied in or towards the discharge of the mortgage money.'"
+        },
+        {
+            "name": "Conveyancing Act, 1881",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "So far as the claim on s. 23, sub-s. 4, of the Conveyancing Act, 1881, is concerned, I think that, if that section now applies, the plaintiffs are right in their claim. The section is in these terms: 'without prejudice to any obligation to the contrary imposed by law, or by special contract, a mortgagee may require that all money received on an insurance be applied in or towards discharge of the money due under his mortgage.'"
+        },
+        {
+            "name": "Interpretation Act, 1889",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "More apt words are to be found in another enactment referred to in s. 207 - namely, the Interpretation Act, 1889, s. 38, sub-s. 2 (c), which refers to 'any right, privilege, obligation, or liability acquired, accrued, or incurred under any enactment so repealed'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Poole v. Adams",
+            "cited_by": "Referenced in judgment"
+        },
+        {
+            "name": "Rayner v. Preston",
+            "cited_by": "Referenced in judgment"
+        },
+        {
+            "name": "In re J. E. Doherty",
+            "cited_by": "Cited by Mr. Belsham (Counsel for Plaintiffs)"
+        }
+    ]
+}

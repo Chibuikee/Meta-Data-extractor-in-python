@@ -1,0 +1,50 @@
+{
+    "case_title": "The king v. Lovegrove",
+    "area_of_law": "Criminal Law",
+    "subject_matter": [
+        "Evidence Admissibility",
+        "Criminal Procedure"
+    ],
+    "summary": "The case concerns the admissibility of evidence in a criminal trial where the appellant was charged with performing an illegal operation. The key issue was whether evidence from Mrs. Type, who testified about a similar operation performed on her by the appellant in 1919, was admissible. The defense claimed the appellant never performed any operation on Mrs. Purcell and denied the first interview with Mr. Purcell. The Court held that Mrs. Type's evidence was admissible as it was relevant to proving the truth of Purcell's account of the first interview and subsequent events, even though it revealed a previous crime.",
+    "outcome": "Appeal dismissed. The Court upheld the admissibility of Mrs. Type's evidence.",
+    "ratios": [
+        "The mere fact that the evidence adduced tends to show the commission of other crimes does not render it inadmissible if it be relevant to an issue before the jury",
+        "Evidence is admissible if it tends to prove that the prisoner has committed the act charged"
+    ],
+    "precedents": [
+        {
+            "name": "Makin's Case",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is contended by counsel for the appellant that Mrs. Type's evidence was inadmissible on the principle laid down in Makin's Case. In Makin's Case the Lord Chancellor said: 'The mere fact that the evidence adduced tends to show the commission of other crimes does not render it inadmissible if it be relevant to an issue before the jury.' We do not desire either to extend or to restrict the principle laid down in Makin's Case and in other similar cases."
+        },
+        {
+            "name": "Rex v. Bond",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "It is contended by counsel for the appellant that Mrs. Type's evidence was inadmissible on the principle laid down in Makin's Case, Rex v. Bond and other cases. In the present case we are not intending to deal with the broad general principle that has been laid down in those cases, and nothing that is said in this judgment is intended to extend that principle."
+        },
+        {
+            "name": "Rex v. Shellaker",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "This Court has said, notably in Rex v. Shellaker where the principle as stated by Channell J. in Reg. v. Ollis was quoted, that the question in each case is whether on the facts the evidence is admissible according to the established principles of law. There may be cases where, as was said in Rex v. Shellaker, 'though in strictness the evidence is admissible, the judge may be of opinion that it is of so little real value, and yet indirectly so prejudicial to the prisoner, or that it is so remote, that it ought not to be given.'"
+        },
+        {
+            "name": "Reg. v. Ollis",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "This Court has said, notably in Rex v. Shellaker where the principle as stated by Channell J. in Reg. v. Ollis was quoted, that the question in each case is whether on the facts the evidence is admissible according to the established principles of law."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Makin's Case",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Rex v. Bond",
+            "cited_by": "Counsel to Appellant"
+        }
+    ]
+}

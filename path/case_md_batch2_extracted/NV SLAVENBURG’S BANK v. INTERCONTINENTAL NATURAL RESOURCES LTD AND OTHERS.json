@@ -1,0 +1,115 @@
+{
+    "case_title": "NV Slavenburg's bank v. Intercontinental Natural Resources Ltd and others",
+    "area_of_law": [
+        "Company Law",
+        "Commercial Law"
+    ],
+    "subject_matter": [
+        "Registration of Company Charges",
+        "Bills of Sale",
+        "Foreign Company Registration",
+        "Interpleader Issues"
+    ],
+    "summary": "The case concerned preliminary points of law in an interpleader issue between NV Slavenburg's Bank (Netherlands) and Intercontinental Natural Resources (Bermuda). The key questions were whether certain charges created in favor of the bank were void against liquidators under Section 95 of the Companies Act 1948, and whether the documents were void as unregistered bills of sale. The company entered into three agreements with the bank: a general credit agreement, a general agreement of assignment, and assignment of stocks as security. The company went into liquidation in Bermuda. The court held that the charges were void against the liquidators as they were not registered under Section 95, but rejected the alternative argument that the documents were void under the Bills of Sale Acts, as these Acts do not apply to corporations.",
+    "outcome": "The court ruled in favor of the defendants (liquidators) on the Section 95 issues, holding that the charges were void for non-registration. However, the defendants failed on their alternative argument under the Bills of Sale Acts.",
+    "ratios": [
+        "The word 'liquidator' in Section 95 of the Companies Act 1948, when applied to a foreign company by Section 106, means either an English liquidator or the foreign equivalent",
+        "Section 106 of the Companies Act 1948 applies to all overseas companies, not just those incorporated in Scotland and Northern Ireland",
+        "Once Section 106's conditions are satisfied, it triggers Section 95 in relation to charges at the moment of their creation, regardless of whether the conditions cease to be satisfied later",
+        "The Bills of Sale Acts apply to individuals only and not to corporations at all"
+    ],
+    "precedents": [
+        {
+            "name": "Read v. Joannon",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In Read v. Joannon the question arose in relation to an ordinary company debenture. It had been held in the City of London Court that the debenture was void as against an execution creditor, under the 1878 Act, notwithstanding s 17 of the 1882 Act... Lord Coleridge CJ said: 'The question is, whether a debenture of an incorporated company requires registration as a bill of sale. I am of opinion—and I think it right to say that my opinion does not stand alone, but is supported by a judge of much greater authority than myself, whom I have had the opportunity of consulting—that such debentures are not bills of sale and are not struck at by either of these Acts of Parliament—that they were never within the Act of 1878, and are expressly exempted from the operation of the Act of 1882.'"
+        },
+        {
+            "name": "Re Standard Manufacturing Co",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The court held that the debentures were expressly excepted by s 17 from the 1882 Act. But they went on to consider the position under the 1878 Act. The court held that company debentures are not within the 1878 Act. There are three strands to be found in the reasoning. In the first place company debentures are not within the mischief of the Act. The Act was designed to prevent frauds on creditors by secret bills of sale. Company debentures could hardly be described as 'secret documents' since there already existed provision for their registration under the Companies Clauses Consolidation Act 1845 and the Companies Act 1862."
+        },
+        {
+            "name": "Great Northern Railway Co v. Coal Co-operative Society",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "The case concerned debentures issued by a society registered under the Industrial and Provident Societies Act 1876. By virtue of its registration the society became a body corporate with perpetual succession, a common seal and limited liability. But it was not a limited company within the Companies Act 1862, so that it was not obliged to keep a register of mortgages or charges under s 43 of that Act or under any other Act. Vaughan Williams J held that the debentures were void against the liquidator for non-registration."
+        },
+        {
+            "name": "Clark v. Balm, Hill & Co",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The case concerned a series of debentures issued by a company incorporated in Guernsey but charged on property in England. The question was whether the debentures were void for want of registration. The company was not obliged by the law of Guernsey to keep a register of charges. Phillimore J held, nevertheless, in favour of the debenture holders."
+        },
+        {
+            "name": "National Provincial and Union Bank of England v. Charnley",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is clear both from the language of s 95 and from what was said in National Provincial and Union Bank of England v. Charnley that it is delivery of particulars of the charge, together with the instrument (if any) by which it is created or evidenced that saves the charge, and not its registration."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Shears v. Jacob",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Deffell v. White",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Re Cunningham & Co Ltd",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Attenborough's Case",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Edmonds v. Blaina Furnaces Co Ltd",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Levy v. Abercorris Slate and Slab Co",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Jenkinson v. Brandley Mining Co",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Brocklehurst v. Railway Printing and Publishing Co",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Re Asphaltic Wood Pavement Co Ltd",
+            "cited_by": "Counsel for Bank"
+        },
+        {
+            "name": "Welsted & Co Ltd v. Swansea Bank Ltd",
+            "cited_by": "Counsel for Bank"
+        },
+        {
+            "name": "Re Royal Marine Hotel Co, Kingstown (Ltd)",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Re C L Nye Ltd",
+            "cited_by": "Counsel for Defendants"
+        },
+        {
+            "name": "Re Row Dal Construction Pty Ltd",
+            "cited_by": "Counsel for Bank"
+        },
+        {
+            "name": "Mercantile Bank of India Ltd v. Chartered Bank of India, Australia and China",
+            "cited_by": "Counsel for Bank"
+        },
+        {
+            "name": "Lloyds Bank v. Bank of America National Trust and Savings Association",
+            "cited_by": "Counsel for Bank"
+        }
+    ]
+}

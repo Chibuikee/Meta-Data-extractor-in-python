@@ -1,0 +1,87 @@
+{
+    "case_title": "Barclays bank ltd v w j simms son and cooke (southern) ltd and another",
+    "area_of_law": [
+        "Banking Law",
+        "Contract Law",
+        "Restitution Law"
+    ],
+    "subject_matter": [
+        "Recovery of Money Paid Under Mistake",
+        "Banking Obligations",
+        "Countermanded Cheques",
+        "Restitutionary Claims"
+    ],
+    "summary": "The case addressed whether a bank could recover money from a payee after paying a cheque despite the customer's stop payment instruction. Barclays Bank paid a £24,000 cheque to National Westminster Bank (receiving for W J Simms) despite the drawer's stop payment instruction. The payment was made due to a bank official overlooking the stop instruction. The court held that money paid under a mistake of fact is generally recoverable unless: the payer intended the payee to have the money regardless of the facts, the payment was made for good consideration, or the payee changed their position in good faith. Since the bank acted without mandate due to the countermanded payment, the payment didn't discharge the drawer's obligation, and the payee gave no consideration. The money was therefore recoverable.",
+    "outcome": "Judgment was entered for Barclays against the company for £26,451.38 (£24,000 plus £2,451.38 interest). The action against the receiver was dismissed.",
+    "ratios": [
+        "If a person pays money to another under a mistake of fact which causes him to make the payment, he is prima facie entitled to recover it as money paid under a mistake of fact",
+        "The claim may fail if: (a) the payer intends that the payee shall have the money at all events, whether the fact be true or false, or is deemed in law so to intend; (b) the payment is made for good consideration; (c) the payee has changed his position in good faith, or is deemed in law to have done so",
+        "Where a bank pays without mandate due to overlooking a countermand instruction, the payment does not discharge the customer's obligation on the cheque, and the money is prima facie recoverable from the payee"
+    ],
+    "precedents": [
+        {
+            "name": "Kelly v Solari",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "I think that where money is paid to another under the influence of a mistake, that is, upon the supposition that a specific fact is true, which would entitle the other to the money, but which fact is untrue, and the money would not have been paid if it had been known to the payer that the fact was untrue, an action will lie to recover it back and it is against conscience to retain it"
+        },
+        {
+            "name": "Colonial Bank v Exchange Bank of Yarmouth, Nova Scotia",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The plaintiff bank did not suffer under a mistake which led them to believe that they were under any liability to the defendants to pay the money to them; indeed nobody, in the whole chain of parties, believed that they were under any such liability"
+        },
+        {
+            "name": "Kleinwort, Sons & Co v Dunlop Rubber Co",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is indisputable that, if money is paid under a mistake of fact and is redemanded from the person who received it before his position has been altered to his disadvantage, the money must be repaid in whatever character it was received"
+        },
+        {
+            "name": "Kerrison v Glyn, Mills, Currie & Co",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "I cannot doubt but that on general principles, [the appellant] would be entitled to recover back money paid in ignorance of these vital matters as money paid in mistake of fact"
+        },
+        {
+            "name": "R E Jones Ltd v Waring & Gillow Ltd",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The plaintiffs were told by Bodenham that he represented a firm called International Motors which was about to be formed into a company, that the firm had control of a car called the 'Roma' car which he described as an existing car, and that the defendants were financing the firm and were the principals behind him and behind International Motors in the matter"
+        },
+        {
+            "name": "Imperial Bank of Canada v Bank of Hamilton",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The cheque for the larger amount was a simple forgery; and Bauer, the drawer and forger, was not entitled to any notice of its dishonour by non-payment. There were no indorsers to whom notice of dishonour had to be given. The law as to the necessity of giving notice of dishonour has therefore no application"
+        },
+        {
+            "name": "Bills of Exchange Act 1882",
+            "tag": "Applied",
+            "document_type": "Legislation",
+            "context": "Notice of dishonour is dispensed with ... (c) As regards the drawer ... where the drawer has countermanded payment"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Morgan v Ashcroft",
+            "cited_by": "Counsel to Defendants"
+        },
+        {
+            "name": "Chambers v Miller",
+            "cited_by": "Counsel to Defendants"
+        },
+        {
+            "name": "Cocks v Masterman",
+            "cited_by": "Counsel to Defendants"
+        },
+        {
+            "name": "Price v Neal",
+            "cited_by": "Referenced in Court's Analysis of Defendants' Arguments"
+        },
+        {
+            "name": "London and River Plate Bank v Bank of Liverpool",
+            "cited_by": "Referenced in Court's Analysis of Defendants' Arguments"
+        }
+    ]
+}

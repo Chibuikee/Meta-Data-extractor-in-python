@@ -1,0 +1,76 @@
+{
+    "case_title": "Bank Mellat v Helliniki Techniki SA",
+    "area_of_law": [
+        "Arbitration Law",
+        "Civil Procedure Law",
+        "International Commercial Law"
+    ],
+    "subject_matter": [
+        "Security for costs in international arbitration",
+        "ICC arbitration rules",
+        "Court's discretion under Arbitration Act 1950"
+    ],
+    "summary": "The case concerned an appeal from Bank Mellat against Bingham J's decision refusing to order security for costs in an international arbitration. The arbitration arose from a 1974 contract between Bank Omran (later merged into Bank Mellat), Helliniki Techniki SA (HT), and a Danish company regarding a development project near Tehran. The contract provided for ICC arbitration in London under Iranian law. Bank Mellat sought security for costs of $118,850, primarily comprising their $95,000 ICC deposit, citing HT's foreign residence and alleged financial instability. The Court of Appeal dismissed the appeal, holding that English courts should be slow to order security for costs in international arbitrations unless there are specific connections to England beyond it being the chosen arbitration forum. The court found the application inconsistent with ICC rules' scheme and spirit, though not literally inconsistent.",
+    "outcome": "The Court of Appeal unanimously dismissed Bank Mellat's appeal, upholding the refusal to order security for costs.",
+    "ratios": [
+        "English courts should be slow in applying jurisdiction to order security for costs in international arbitration unless there is some more specific connection with England than merely being the agreed place of arbitration",
+        "The curial law governing arbitrations is that of the forum of the arbitration in the absence of any contractual provision to the contrary",
+        "While parties cannot exclude the statutory jurisdiction of English courts under Section 12(6) of the Arbitration Act 1950, they may agree not to apply for security for costs"
+    ],
+    "precedents": [
+        {
+            "name": "James Miller & Partners Ltd v Whitworth Street Estates (Manchester) Ltd [1970] 1 All ER 796,[1970] AC 583",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The fundamental principle in this connection is that under our rules of private international law, in the absence of any contractual provision to the contrary, the procedural (or curial) law governing arbitrations is that of the forum of the arbitration, whether this be England, Scotland or some foreign country, since this is the system of law with which the agreement to arbitrate in the particular forum will have its closest connections: see James Miller & Partners Ltd v. Whitworth Street Estates (Manchester) Ltd."
+        },
+        {
+            "name": "Mavani v Ralli Bros Ltd [1973] 1 All ER 555,[1973] 1 WLR 468",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Thus, although the parties to an English arbitration cannot exclude the statutory jurisdiction of the court, they may agree in advance that neither will apply for an order for security for costs against the other. In such cases no security will be ordered, because it would clearly be unjust to do so: see Mavani v. Ralli Bros Ltd."
+        },
+        {
+            "name": "Hudson Strumpffabrik GmbH v Bentley Engineering Co Ltd [1962] 3 All ER 460,[1962] 2 QB 587",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Thus, if the respondent is English and the claimant is foreign, and there is no agreement that any particular rules are to apply, then an order for security is likely to be the norm, in the same way as in actions: cf Hudson Strumpffabrik GmbH v. Bentley Engineering Co Ltd."
+        },
+        {
+            "name": "Sir Lindsay Parkinson & Co Ltd v Triplan Ltd [1973] 2 All ER 273,[1973] QB 609",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The court's jurisdiction under this section is discretionary, in the same way as under RSC Ord 23, and its exercise will depend on all the circumstances of the particular case: see Sir Lindsay Parkinson & Co Ltd v. Triplan Ltd."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "F A Mann 'Lex Facit Arbitrum' (Liber Amicorum for M Domke)",
+            "cited_by": "Court referencing academic writing"
+        },
+        {
+            "name": "New York Convention on Recognition and Enforcement of Foreign Arbitral Awards 1958",
+            "cited_by": "Both counsels regarding international enforcement framework"
+        },
+        {
+            "name": "Geneva Convention on Execution of Foreign Arbitral Awards 1927",
+            "cited_by": "Both counsels regarding historical arbitration enforcement"
+        },
+        {
+            "name": "Arbitration Act 1934",
+            "cited_by": "Bank Mellat's counsel regarding security for costs jurisdiction"
+        },
+        {
+            "name": "Arbitration Act 1950 Section 12(6)",
+            "cited_by": "Both counsels regarding court's powers in arbitration"
+        },
+        {
+            "name": "Companies Act 1948 Section 447",
+            "cited_by": "Bank Mellat's counsel regarding security for costs against companies"
+        },
+        {
+            "name": "RSC Order 23",
+            "cited_by": "Both counsels regarding security for costs jurisdiction"
+        }
+    ]
+}

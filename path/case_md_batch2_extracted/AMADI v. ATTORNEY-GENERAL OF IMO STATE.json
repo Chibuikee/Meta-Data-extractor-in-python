@@ -1,0 +1,95 @@
+{
+    "case_title": "Amadi v. Attorney-general of Imo state",
+    "area_of_law": "Criminal Law",
+    "subject_matter": [
+        "Armed Robbery",
+        "Criminal Procedure",
+        "Evidence"
+    ],
+    "summary": "The appellant and two others were tried for armed robbery under section 1(b) of the Robbery and Firearms Act. The prosecution's case relied primarily on eyewitness testimony from PW1 (the victim), supported by PW2 and PW3. The appellant pleaded not guilty and raised an alibi defense during trial. The trial court convicted and sentenced the appellant to death. The Court of Appeal affirmed both the conviction and sentence. The appellant's further appeal to the Supreme Court challenged the competency of the charge, the credibility of PW1's testimony, and argued that the prosecution failed to prove its case beyond reasonable doubt. The Supreme Court dismissed the appeal, holding that the eyewitness testimony was credible and sufficient to sustain the conviction.",
+    "outcome": "Appeal dismissed. The Supreme Court affirmed both the conviction and sentence of the trial court.",
+    "ratios": [
+        "Issues for determination of appeal are not formulated from the clouds or nowhere. Issues for determination are formulated from and on the basis of the grounds of appeal filed.",
+        "A court of law cannot act on facts extraneous to the proceedings, which though may be relevant.",
+        "When there appears to be some inconsistency between the oral evidence of the witness and his previous statement in writing, the witness is required to explain the inconsistency in his evidence.",
+        "Proofs of evidence are not themselves judicial or legal evidence. When any portion of the proofs or the previous statement of a witness is tendered in evidence, the purpose is merely being cross-examined, and not that it is evidence of the truth of the matters asserted in them."
+    ],
+    "precedents": [
+        {
+            "name": "Okpala v. Ibeme (1989) NWLR (Pt. 102) 208",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is now settled beyond question that any issue raised and argument advanced on an issue not arising from a ground of appeal is incompetent. See Okpala v. Ibeme (1989) NWLR (Pt. 102) 208; Osinupebi v. Saibu (1982) 7 SC 104 at pages 110 - 111."
+        },
+        {
+            "name": "Iheanacho v. Ejiogu (1995) 4 NWLR (Pt. 389) 324",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "Issues for determination of appeal are not, in appellate courts, formulated from the clouds or nowhere. See Iheanacho v. Ejiogu (1995) 4 NWLR (Pt. 389) 324; Port Harcourt City Local Government Council v. Ekeoha (2008) All FWLR (Pt. 422) 1174 at page 1192."
+        },
+        {
+            "name": "Modupe v. State (1988) 4 NWLR (Pt.57) 131",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "An issue formulated must therefore not only relate to the grounds, it must fall within the existing ground(s) of appeal challenging the correctness of the judgment appealed. See Modupe v. State (1988) 4 NWLR (Pt.57) 131"
+        },
+        {
+            "name": "Ogoala v. State (1991) 2 SCNJ 61",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Where the two courts below have made concurrent findings of fact, which has not been shown to be perverse in any respect, such findings must endure. This court is loathe to interfere in such situation; particularly when the findings are supported by evidence in the printed record and the findings are not perverse. See Ogoala v. State (1991) 2 SCNJ 61, (1991) 2 NWLR (Pt. 175) 509"
+        },
+        {
+            "name": "Agwu v. State (1965) NMLR 18",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The law is that when there appears to be some inconsistency between the oral evidence of the witness and his previous statement in writing, the witness is required to explain the inconsistency in his evidence. See Agwu v. State (1965) NMLR 18 at 20."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "S.L.B Consortium Ltd v. Nigerian National Petroleum Corporation (2011) All FWLR (Pt. 583) 1902",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nwanna v. UBA Plc (2003) 16 NWLR (Pt. 846) 218",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "State v. Azeez (2008) 14 NWLR (Pt. 1108) 451",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Hamza v. Kure (2010) All FWLR (Pt. 539) 1070",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nepa v. Ososanya (2004) All FWLR (Pt. 196) 908",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Agbomeji v. Bakare (1998) 9 NWLR (Pt. 564) 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Galadima v. State (2012) 18 NWLR (Pt. 1333) 610",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Udobere v. State (2006) 6 SC 1",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nigerian Air Force v. Obiosa (2003) FWLR (Pt. 148) 1224",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "State v. Olatunji (2003) FWLR (Pt. 155) 695",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Adekunle v. State (1989) 5 NWLR (Pt. 123) 505",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

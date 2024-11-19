@@ -1,0 +1,131 @@
+{
+    "case_title": "Ado v. The state",
+    "area_of_law": [
+        "Criminal Law",
+        "Constitutional Law",
+        "Evidence Law"
+    ],
+    "subject_matter": [
+        "Criminal Procedure",
+        "Circumstantial Evidence",
+        "Right to Fair Hearing",
+        "Admissibility of Evidence",
+        "Witness Testimony"
+    ],
+    "summary": "The case involves an appeal against concurrent judgments of the High Court and Court of Appeal which convicted the appellant for conspiracy, robbery, and culpable homicide. The main issues were the propriety of allowing the prosecution to call additional witnesses after the defense had closed its case, and whether the circumstantial evidence presented was sufficient to sustain a conviction. The prosecution was initially forced to close its case prematurely but later obtained leave to call additional witnesses (PW3-PW7). These witnesses provided crucial evidence linking the appellant to the crime scene through items found there (shoes, cap, and stick) and footprints leading to his house. The appellant challenged both the procedural aspect of allowing additional witnesses and the quality of circumstantial evidence used to convict him. The Supreme Court upheld the lower courts' decisions, finding that the procedure was proper since the appellant's counsel did not oppose the application to call additional witnesses, and the circumstantial evidence presented formed an unbroken chain of circumstances that conclusively pointed to the appellant's guilt.",
+    "outcome": "The Supreme Court dismissed the appeal and affirmed both the conviction and sentence imposed by the trial court and upheld by the Court of Appeal.",
+    "ratios": [
+        "A trial court has the power under section 237(1) of the Criminal Procedure Code to summon witnesses at any stage of proceedings provided doing so does not overreach any of the parties to the proceedings",
+        "Where circumstantial evidence is strong and gives rise to irresistible, cogent and compelling inference of guilt of the accused, leaving no room for any other rational conclusion, a conviction thereon may be sustained",
+        "A party who has an opportunity of being heard but failed to utilize it cannot be heard to complain of lack of fair hearing thereafter",
+        "Cases cannot be authorities for what they did not decide. A decided case furnishes a basis for the determination of a later case only if the facts or issues in the subsequent case are similar to those in the earlier case"
+    ],
+    "precedents": [
+        {
+            "name": "N.D.I.C. v. Central Bank of Nigeria (2002) FWLR (Pt. 99) 1021, (2002) 7 NWLR (Pt. 766) 272, (2002) 3 SC 1",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The issue of jurisdiction is certainly a threshold one. It is either that a court has it and legitimately proceeds or in unlawfully proceeding, without the necessary jurisdiction, wastes not only the litigants but its own precious time. It is trite that proceedings of courts that lack jurisdiction, no matter how well same were conducted, are nullities. Jurisdiction remains the lifeline of all trials and that is why a challenge to the court's jurisdiction, in order to save time and costs, are raised even viva voce and for the first time in this court."
+        },
+        {
+            "name": "Saude v. Abdullahi (1989) 4 NWLR (Pt. 116) 387",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The issue of jurisdiction is certainly a threshold one. It is either that a court has it and legitimately proceeds or in unlawfully proceeding, without the necessary jurisdiction, wastes not only the litigants but its own precious time."
+        },
+        {
+            "name": "Shola v. State (2005) 11 NWLR (Pt. 937) 460",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Learned respondent's counsel has however done the needful by conceding, at the end of arguments in respect of its objection that, in criminal appeals where sentence of death has been passed, as in the instant case, this court does not readily jettison the appellant's right of appeal as conferred by the Constitution."
+        },
+        {
+            "name": "Chuba Chukwuogor & Ors. v. Chukwuma Chukwuogor & Ors. (2006) 7 NWLR (Pt. 979) 302",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Indeed, the appellant having not appealed against that order of the trial court is deemed to have accepted same as binding."
+        },
+        {
+            "name": "Victor J. Rossek v. African Continental Bank Ltd & Ors. (1993) 8 NWLR (Pt. 312) 382",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Indeed, the appellant having not appealed against that order of the trial court is deemed to have accepted same as binding."
+        },
+        {
+            "name": "Suleiman v. Commissioner of Police, Plateau State (2008) All FWLR (Pt. 425) 1627",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "Under the doctrine, decisions of superior courts are binding on inferior courts. Thus, in the hierarchical system of courts we operate in this country, the decision of the Supreme Court is binding on all the other courts."
+        },
+        {
+            "name": "Harvot v. Police 20 NLR 53",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "From the case of Harvot v. Police 20 NLR 53, this court cited with approval in Denloye v. Medical and Dental Practitioners Disciplinary Committee (1968) 1 All NLR 306, (1968) NSCC 260 leading and not limited to Onuoha v. State (supra), this court's decision is to the effect that, as a general principle of law and practice in our adversarial system, after the close of a case, no further evidence ought ordinarily be given by any of the parties."
+        },
+        {
+            "name": "R v. Sala Sati (1938) 4 WACA 10",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "This court has held, in a seemingly endless body of its decisions, that circumstantial evidence is as good and sometimes even better than any other type of evidence; that the evidence comprises of a number of complete and unbroken chain of circumstances which if established to the satisfaction of the court entitles the court to act on same in convicting the accused."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "West v. Police (1952) 20 NLR 71",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ogbodu v. State (1987) 2 NWLR (Pt. 54) 20",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "C.O.P. v. Prediegha (1975) NNLR 270",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Onuoha v. State (1989) 2 NWLR (Pt. 101) 23",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Kajubo v. State (1988) 1 NWLR (Pt. 73) 721",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Mbang v. State (2012) 6 SCNJ 395",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ubani Igri v. State (2012) All FWLR (Pt. 653) 1826",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Ubani v. State (2003) 18 NWLR (Pt. 851) 224",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Okoro v. State (2012) All FWLR (Pt. 621) 1471",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Adesina v. State (2012) All FWLR (Pt. 644) 1",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Musa v. State (2009) All FWLR (Pt. 492) 1020",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Archibong v. State (2006) All FWLR (Pt. 323) 1747",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Olayinka v. State (2007) All FWLR (Pt. 373) 163",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Jua v. State (2010) All FWLR (Pt. 521) 1427",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}

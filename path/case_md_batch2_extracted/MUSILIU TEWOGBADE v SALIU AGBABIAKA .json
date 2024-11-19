@@ -1,0 +1,71 @@
+{
+    "case_title": "Musiliu Tewogbade v Saliu Agbabiaka",
+    "area_of_law": "Property Law",
+    "subject_matter": [
+        "Land Trespass",
+        "Damages",
+        "Injunctive Relief"
+    ],
+    "summary": "The case involves a land dispute where the plaintiff sought damages for trespass and a perpetual injunction against the defendant regarding a plot of land at Ago Road, Isolo, Mushin. The case experienced several procedural complications, including the striking out and reinstatement of the defendant's statement of defense, issues with compliance of court orders regarding document discovery, and the death of the original plaintiff leading to substitution by his minor children. The trial judge denied the defendant the right to cross-examine witnesses and rejected attempts to amend the statement of defense. On appeal, the court found that denying cross-examination violated the right to fair hearing and that the trial judge erred in several procedural matters.",
+    "outcome": "The appeal was allowed, the lower court's judgment was set aside, and the case was remitted back to the Chief Judge of Lagos State for re-assignment to another judge for re-trial, with costs of N5,000 awarded to the appellant.",
+    "ratios": [
+        "Flagrant disobedience of court's orders is a sure way to anarchy",
+        "To deny such a party the right to cross-examine is to deny him the right to fair hearing guaranteed by Section 33(1) of the Constitution",
+        "Where evidence is admitted in the course of trial on facts not pleaded such evidence goes to no issue in the absence of an amendment of the pleadings and it should be ignored",
+        "A guardian ad litem or next of friend is not a party to the case"
+    ],
+    "precedents": [
+        {
+            "name": "Abisi v. Ekwealor (1993) 6 NWLR (Pt. 302) 643",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It has long been decided that issues raised for determination should not be more than the grounds of appeal formulated. And issues for determination should not be formed in the abstract but rather on concrete terms flowing from and related to the grounds of appeal files see Abisi v. Ekwealor (1993)6 NWLR (Pt..302) 643."
+        },
+        {
+            "name": "Jones v. Richards (1885) 15 Q.B.D. 439",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Discovery is not limited to giving the plaintiff a knowledge of what he does not already know, but it includes the getting of an admission of anything which he has to prove on any issue which is raised between him and the defendant. But interrogatories are not, like pleadings, confined to the material facts on which the parties intend to rely, they generally are directed to the evidence by which the party interrogating desires to establish such facts at the trial see Jones v. Richards (1885) 15 Q.B.D. 439."
+        },
+        {
+            "name": "Adigun v. A-G. Oyo State (1987) 1 NWLR (Pt. 53) 678",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "After all a hearing can only be said to be fair when all the parties to a dispute are given a hearing or an opportunity of a hearing. If one party is refused or denied a hearing or an opportunity to be heard such hearing cannot qualify as a fair hearing which is a fundamental constitutional right guaranteed by Section 33 (1) of the Constitution – the breach of which usually results in the nullification of the entire proceedings see (1) Adigun v. A-g. Oyo State (1987)1 NWLR (Pt. 53) 678"
+        },
+        {
+            "name": "Oluwesan v. Ogundepo (1996) 2 NWLR (Pt. 33) 628",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "If one party is refused or denied a hearing or an opportunity to be heard such hearing cannot qualify as a fair hearing which is a fundamental constitutional right guaranteed by Section 33 (1) of the Constitution – the breach of which usually results in the nullification of the entire proceedings see (1) Adigun v. A-g. Oyo State (1987)1 NWLR (Pt. 53) 678 and (2) Oluwesan v. Ogundepo (1996) 2 NWLR (Pt. 33) 628."
+        },
+        {
+            "name": "Oguntimehin v. Gubere (1964) 1 ALL N.L.R. 176",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Indeed no injustice would result to the respondent if the amendment was allowed. What the appellant said the amendment was aimed at was what the respondent had desired. The amendment ought to have been granted see Oguntimehin v. Gubere (1964) 1 ALL N.L.R. 176."
+        },
+        {
+            "name": "Usenfowokan v. Idowu (1969) 1 NMLR 77",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In superior courts of records where pleadings are always ordered; where evidence is admitted in the course of trial on facts not pleaded such evidence goes to no issue in the absence of an amendment of the pleadings and it should be ignored. Even if such piece of evidence, not rooted in the pleadings, is elicited under cross-examination, it still goes to no issue see Usenfowokan v. Idowu(1969) 1 NMLR 7.7."
+        },
+        {
+            "name": "Akpamaku v. Igbifoy & Ors (1970) 1 ALL N.L.R. 211",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It must however be said that a guardian ad litem or next of friend is not a party to the case see Akpamaku v. Igbifoy & Ors (1970) 1 ALL N.L.R. 211."
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Section 192 of the Evidence Act Cap. 112 Laws of the Federation 1990",
+            "cited_by": "Defendant's Counsel"
+        },
+        {
+            "name": "Section 33(1) of the Constitution",
+            "cited_by": "Defendant's Counsel"
+        }
+    ]
+}

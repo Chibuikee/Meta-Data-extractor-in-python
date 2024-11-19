@@ -1,0 +1,69 @@
+{
+    "case_title": "Upjohn v. Hitchens",
+    "area_of_law": "Contract Law",
+    "subject_matter": [
+        "Insurance Contracts",
+        "Covenant Interpretation",
+        "Fire Insurance",
+        "War Risk Coverage"
+    ],
+    "summary": "The case concerned the interpretation of a covenant in a lease requiring tenants to insure premises against fire damage. The specific issue was whether the covenant required insurance against fire damage caused by enemy aircraft during wartime. The covenant required insurance with the Imperial Insurance Company (later incorporated into Alliance Company) or another approved London/Westminster office. The tenant had obtained a standard fire policy that excluded damage from invasion, foreign enemy, or military power. The lessor argued this breached the covenant as it didn't cover all fire damage. The majority of the Court (Warrington and Scrutton L.JJ., with Pickford L.J. dissenting) held that the covenant only required the standard form of fire insurance policy commonly issued by insurance companies, which historically excluded war risks.",
+    "outcome": "Appeal dismissed. The Court held that the tenants had not breached their covenant by taking out a standard fire insurance policy that excluded war risks.",
+    "ratios": [
+        "When a covenant requires insurance against 'loss and damage by fire', it means such loss and damage as is covered by the policy ordinarily issued by the designated office",
+        "Evidence of insurance company practices is admissible to show what kind of document was contemplated by the parties and what can be obtained when a person covenants to effect a contract with a third party who is under no obligation to grant it",
+        "Where a covenant requires insurance with a specific company, the obligation is satisfied by obtaining that company's standard policy with usual exclusions"
+    ],
+    "precedents": [
+        {
+            "name": "Drinkwater v. London Assurance Corporation (1767)",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The ordinary policy of the Imperial Insurance Company, and now of the Alliance Company, contains condition 4, which, as we know from the decision in Drinkwater v. London Assurance Corporation, has been in policies for considerably more than a century. It was inserted and has been kept in, no one paying any attention to it or having much occasion to consider it till recently."
+        },
+        {
+            "name": "Yuill & Co. v. Scott Robson",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "Some reliance was placed by the plaintiff's counsel on the decision in Yuill & Co. v. Scott Robson, but that case appears to me to have no application. At Lloyd's there is a form of policy f.p.a. and another known as an 'all risks policy.' The policy f.p.a. insures against total loss only. In every 'all risks policy' there has been inserted for years the f.c. & s. clause, so that the policy does not insure against risks due to the acts of hostile Governments."
+        },
+        {
+            "name": "Gibson v. Small",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "The covenant says nothing about usual policy. Roche J. has in effect interpolated those words, but, as Pollock C.B. said in Gibson v. Small, the Court cannot insert or imply a condition not warranted by the plain meaning of the language used by the parties in the particular document."
+        },
+        {
+            "name": "Enlayde, Ltd. v. Roberts",
+            "tag": "Cited",
+            "document_type": "Case",
+            "context": "Further, in Enlayde, Ld. v. Roberts Sargant J., in construing a similar covenant, said: 'In my judgment, this evidence was not admissible and there is nothing to show that the parties were contracting in such a way as to use those words 'loss or damage by fire' in any other than their strict and primary sense, or with any reference at all to any custom obtaining amongst all or any insurance offices.'"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Gibson v. Small",
+            "cited_by": "Counsel to Plaintiff"
+        },
+        {
+            "name": "Yuill & Co. v. Scott Robson",
+            "cited_by": "Counsel to Plaintiff"
+        },
+        {
+            "name": "Enlayde, Ltd. v. Roberts",
+            "cited_by": "Counsel to Plaintiff"
+        },
+        {
+            "name": "Biddell Brothers v. E. Clemens Horst Co.",
+            "cited_by": "Counsel to Plaintiff"
+        },
+        {
+            "name": "Groom, Ltd. v. Barber",
+            "cited_by": "Counsel to Plaintiff"
+        },
+        {
+            "name": "Biddell Brothers v. E. Clemens Horst Co.",
+            "cited_by": "Counsel to Defendants"
+        }
+    ]
+}

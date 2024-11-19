@@ -1,0 +1,148 @@
+{
+    "case_title": "Abbas Muhammad v. The State",
+    "area_of_law": "Criminal Law",
+    "subject_matter": [
+        "Culpable Homicide",
+        "Self Defense",
+        "Provocation"
+    ],
+    "summary": "The case involves Abbas Muhammad, a football coach, who was charged with culpable homicide punishable with death for causing the death of Nura Muhammad by stabbing him with a knife on his face and back. The incident occurred at Brigade football field in Kano. The appellant claimed he acted in self-defense and under provocation after the deceased allegedly abused him verbally and attacked him with a shovel. According to witnesses, during a fight between them, when the deceased's shovel fell and he bent to pick it up, the appellant stabbed him in the back. The deceased was taken for medical treatment but later died from his injuries. Medical evidence showed the cause of death was bleeding into the spinal cord from injuries sustained. The trial court convicted the appellant and sentenced him to death. His appeals to both the Court of Appeal and Supreme Court were unsuccessful, as both courts found that neither the defense of provocation nor self-defense was established.",
+    "outcome": "The Supreme Court dismissed the appeal and affirmed the conviction and death sentence imposed by the trial court and upheld by the Court of Appeal.",
+    "ratios": [
+        "For words to constitute provocation, the exact words used must be known and must be such as to incense a reasonable man of the accused person's standing to anger leading to loss of self-control",
+        "The right of private defence does not extend to inflicting more harm than necessary for the purpose of defence",
+        "Where cause of death is obvious, medical evidence ceases to be of practical or legal necessity in homicide cases",
+        "Self-defence must be proportional to the harm intended to be prevented, otherwise the use of the right will not be justified",
+        "A person cannot avail himself of the plea of self-defence when he becomes an unjustified aggressor after the initial threat has passed"
+    ],
+    "precedents": [
+        {
+            "name": "Mohammed v. State (1991) 5 NWLR (Pt. 192) 438 at 453 SC",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "A fresh point is a matter that was not canvassed at the trial nor in the Court of Appeal, and it is settled law that it is too late to raise such matter here unless new evidence emerged that was not available at trial and no human ingenuity could have foreseen it"
+        },
+        {
+            "name": "Director, SSS v. Agbakoba (1999) 3 NWLR (Pt 595) 314 SC",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is also settled that a point raised for the first time in this Court can only be argued with the leave of the Court because this Court as an appellate Court only has jurisdiction to correct the errors of the Court below and to know in what respect it can exercise its supervisory jurisdiction to correct any errors of the Court below"
+        },
+        {
+            "name": "Adi v. R 15 WACA 6",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "The last point- - was that the decision was contrary to the weight of evidence. This is not a proper ground of appeal in criminal cases in which the point is not the preponderance of evidence on one side, which outweighs the evidence on the other side. The proper ground should have been that the 'verdict is unwarranted, unreasonable and cannot be supported having regard to the evidence.'"
+        },
+        {
+            "name": "Ogunbadejo v. Owoyemi (1995) 1 NWLR (Pt.271) 517",
+            "tag": "Distinguished",
+            "document_type": "Case",
+            "context": "I do not accept the argument that because the law was not cited or relied upon in the Court below to support the view of that Court on this issue and no leave has been given here, it cannot be relied upon by this Court, I believe that such line of argument is the product of conclusion between an issue and an argument or an authority in support thereof"
+        },
+        {
+            "name": "Oseni v. State (2012) LPELR-7833(SC)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "There was no objection to the admissibility of the Appellants confessional statement. It is rather too late to raise such an issue on appeal. 'It {is} regrettable that Appellant's counsel at the trial stage did not object to the admissibility of [this] confessional statement, yet he went on to blame the trial Court in not treating Appellant's confessional statement with utmost caution.'"
+        },
+        {
+            "name": "Adekoya v. State (2012) LPELR-7815 (SC)",
+            "tag": "Followed",
+            "document_type": "Case",
+            "context": "The Prosecution must prove its case beyond reasonable doubt, regardless of the plea of the accused or where he admitted the commission of the crime in his statement to the Police"
+        },
+        {
+            "name": "Egboghonome v. State (1993) 7 NWLR (Pt 306) 383",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "It is settled that mere retraction of a voluntary confessional statement by an accused person does not render it inadmissible or worthless and untrue in considering his guilt"
+        },
+        {
+            "name": "Ben v. State (2006) 16 NWLR (Pt. 1006) 582",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "In cases, where a man was attacked with lethal weapon, and he died on the spot, cause of death can properly be inferred that the wound inflicted caused the death. Put in another form, where the cause of death is obvious, medical evidence ceases to be of any practical or legal necessity in homicide cases. Such a situation arises where death is instantaneous or nearly so"
+        },
+        {
+            "name": "Shalla v. State (2007) 18 NWLR (Pt. 1066) 240 SC",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Words alone can constitute provocation depending on the actual words used and their effect or what they mean to a reasonable person having a similar background with the Appellant, and in the case at hand, where the exact insultive words are neither known nor disclosed and moreover not even heard from the mouth of the deceased, it will not be possible to determine whether the defence of provocation is open or available to [him]"
+        },
+        {
+            "name": "Owhoruke v. COP (2015) LPELR-24820 (SC)",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "There is no set standard of retaliation expected from a reasonable man; it all depends on the Appellant's station in life. A reasonable man is a reasonable man of the accused person's standing in life and to a large extent, his cultural background"
+        },
+        {
+            "name": "Kwaghshir v. The State (1995) 3 NWLR (Pt.386) 651 SC",
+            "tag": "Applied",
+            "document_type": "Case",
+            "context": "Four cardinal conditions must exist before taking of life of a person is justified - Accused must be free from fault in bringing about the encounter; there must be present an impending peril to life or of great bodily harm either real or so apparent as to create honest belief of an existing necessity; there must be no safe or reasonable mode of escape by retreat; and there must have been a necessity for taking the life of the person"
+        }
+    ],
+    "counsel_precedents": [
+        {
+            "name": "Unity Bank v. Bouari (2008) 2 SCNJ 116",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Veepee Ind Ltd v. Cocoa Ind Ltd (2008) 4 SCNJ 482",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Uwaekweghinya v. State (2005) FWLR (Pt. 159) 1911/1930 SC",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Nnamdi Osuagwu v. The State (2013) 1 SCNJ 33/56-57",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Chukwu v. State (2012) 12 SCNJ (Pt 1) 208",
+            "cited_by": "Counsel to Appellant and Respondent"
+        },
+        {
+            "name": "Edoho v. State (2010) 14 NWLR (Pt. 1214) 551",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Uwagboe v. State (2008) 4 SC 67",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Kaza v. State (2008) 2 SCNJ 373",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Omoregie v. State (2008) 18 NWLR (Pt. 1119) 464",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Sule v. State (2009) 6 SCNJ 65",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Omoregie v. State (2008) 12 SC (Pt. III) 80",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Ben v. The State (2006) 7 SCNJ 215",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Gambo Musa v. State (2009) 7 SCNJ 329",
+            "cited_by": "Counsel to Appellant"
+        },
+        {
+            "name": "Joseph Idowu v. State (2000) 7 SC (Pt. 11) 50",
+            "cited_by": "Counsel to Respondent"
+        },
+        {
+            "name": "Dibie v. The State (2007) 3 SCNJ 160",
+            "cited_by": "Counsel to Respondent"
+        }
+    ]
+}
