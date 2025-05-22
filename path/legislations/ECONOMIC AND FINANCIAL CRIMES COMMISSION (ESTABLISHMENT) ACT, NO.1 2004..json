@@ -1,0 +1,60 @@
+[
+    {
+        "full_title": "Economic and Financial Crimes Commission (Establishment) Act, No. 1 of 2004",
+        "legislation_type": "Act",
+        "legal_domains": {
+            "primary_domain": "Criminal Law",
+            "secondary_domains": [
+                "Economic Law",
+                "Financial Regulation"
+            ],
+            "specific_legal_concepts": [
+                "Money Laundering",
+                "Advance Fee Fraud",
+                "Counterfeit Currency",
+                "Asset Forfeiture",
+                "Terrorism Financing"
+            ]
+        },
+        "status": {
+            "current_state": "Valid",
+            "repeal_details": {
+                "repealed_by": null,
+                "repeal_date": null,
+                "partial_repeal_notes": null
+            }
+        },
+        "additional_metadata": {
+            "enactment_date": "2004-06-04",
+            "jurisdiction": "Federal Republic of Nigeria",
+            "official_code": "Chapter E1, Laws of the Federation of Nigeria, L.F.N. 2004"
+        }
+    },
+    {
+        "full_title": "Criminal Code Act",
+        "legislation_type": "Act",
+        "legal_domains": {
+            "primary_domain": "Criminal Law",
+            "secondary_domains": [
+                "Penal Law",
+                "Judicial Procedures"
+            ],
+            "specific_legal_concepts": [
+                "Criminal Responsibility",
+                "Punishments",
+                "Treason",
+                "Sedition",
+                "Unlawful Societies"
+            ]
+        },
+        "status": {
+            "current_state": "Valid",
+            "repeal_details": null
+        },
+        "additional_metadata": {
+            "enactment_date": "1916-06-01",
+            "jurisdiction": "Federal Republic of Nigeria",
+            "official_code": "CHAPTER C38 LAWS OF THE FEDERATION OF NIGERIA, L.F.N. 2004"
+        }
+    }
+]

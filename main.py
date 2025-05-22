@@ -71,7 +71,13 @@ async def process_documents(input_dir, output_dir):
 # input_directory = "path/documentsToProcess/Processed_for_entity_extraction_Russell"
 # input_directory = "path/documentsToProcess/B - FULL"
 # input_directory = "path/documentsToProcess/C - MINUS _CASE SUMMARY"
-input_directory = "path/documentsToProcess/Processed_for_entity_extraction_Russell"
+# input_directory = "path/documentsToProcess/COMPLETE-F"
+# input_directory = "path/documentsToProcess/WITHOUT CASE SUMMARY-F"
+# input_directory = "path/documentsToProcess/COMPLETE D"
+# input_directory = "path/documentsToProcess/COMPLETE E"
+# input_directory = "path/documentsToProcess/WITHOUT CASE SUMMARY D"
+# input_directory = "path/documentsToProcess/WITHOUT CASE SUMMARY E"
+input_directory = "path/documentsToProcess/G"
 output_directory = "path/to"
 import asyncio
 

@@ -69,9 +69,26 @@ name = "Emmanuel"
 # print("my name is Emmanuel")
 # print("my name is Emmanuel")
 
+# import redis
+import redis
+
+client = redis.Redis(host="localhost", port=6379, db=0)
+print(client.ping())  # Should return True if connected
+
+
+# async def test_redis():
+#     client = redis.from_url("redis://localhost:6379")
+#     await client.ping()
+#     print("Connected to Redis!")
+
+
+# test_redis()
+# import asyncio
+
+# asyncio.run(test_redis())
 
 import json
-import os
+import os``
 from pathlib import Path
 
 
@@ -141,4 +158,17 @@ input_folder = "path/case_md_batch2"
 output_folder = "path/case_md_batch2_extracted"
 
 
-process_files(input_folder, output_folder)
+# process_files(input_folder, output_folder)
+go = [1, 3, 6, 9]
+foo = iter(go)
+# print(next(foo))
+
+
+def gi(hi, a):
+    aa = hi + a
+    yield aa
+
+
+asa = gi(5, 10)
+le = [i for i in asa]
+# print(le)
